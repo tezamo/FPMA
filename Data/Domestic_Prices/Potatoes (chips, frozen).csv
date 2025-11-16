@@ -1,0 +1,10 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+"Potatoes (chips, frozen)",United Kingdom,National Average,RETAIL,2025-01-01,3.15,900 gms -1.5kg,85fc5165-34bb-4cfb-8596-489204d08824
+"Potatoes (chips, frozen)",United Kingdom,National Average,RETAIL,2025-02-01,3.29,900 gms -1.5kg,85fc5165-34bb-4cfb-8596-489204d08824
+"Potatoes (chips, frozen)",United Kingdom,National Average,RETAIL,2025-03-01,3.54,900 gms -1.5kg,85fc5165-34bb-4cfb-8596-489204d08824
+"Potatoes (chips, frozen)",United Kingdom,National Average,RETAIL,2025-04-01,3.48,900 gms -1.5kg,85fc5165-34bb-4cfb-8596-489204d08824
+"Potatoes (chips, frozen)",United Kingdom,National Average,RETAIL,2025-05-01,3.61,900 gms -1.5kg,85fc5165-34bb-4cfb-8596-489204d08824
+"Potatoes (chips, frozen)",United Kingdom,National Average,RETAIL,2025-06-01,3.66,900 gms -1.5kg,85fc5165-34bb-4cfb-8596-489204d08824
+"Potatoes (chips, frozen)",United Kingdom,National Average,RETAIL,2025-07-01,3.65,900 gms -1.5kg,85fc5165-34bb-4cfb-8596-489204d08824
+"Potatoes (chips, frozen)",United Kingdom,National Average,RETAIL,2025-08-01,3.66,900 gms -1.5kg,85fc5165-34bb-4cfb-8596-489204d08824
+"Potatoes (chips, frozen)",United Kingdom,National Average,RETAIL,2025-09-01,3.61,900 gms -1.5kg,85fc5165-34bb-4cfb-8596-489204d08824

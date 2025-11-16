@@ -1,0 +1,959 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Bread (Khoboz),Iraq,Anbar,RETAIL,2012-01-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Erbil,RETAIL,2012-01-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2012-01-01,0.11,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Anbar,RETAIL,2012-02-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Erbil,RETAIL,2012-02-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2012-02-01,0.11,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Anbar,RETAIL,2012-03-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Erbil,RETAIL,2012-03-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2012-03-01,0.11,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Anbar,RETAIL,2012-04-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Erbil,RETAIL,2012-04-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2012-04-01,0.11,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Anbar,RETAIL,2012-05-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Erbil,RETAIL,2012-05-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2012-05-01,0.11,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Anbar,RETAIL,2012-06-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Erbil,RETAIL,2012-06-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2012-06-01,0.11,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Anbar,RETAIL,2012-07-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Erbil,RETAIL,2012-07-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2012-07-01,0.1,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Anbar,RETAIL,2012-08-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Erbil,RETAIL,2012-08-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2012-08-01,0.11,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Anbar,RETAIL,2012-09-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Erbil,RETAIL,2012-09-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2012-09-01,0.11,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Anbar,RETAIL,2012-10-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2012-10-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2012-10-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2012-10-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2012-10-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2012-10-01,0.11,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2012-10-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2012-11-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2012-11-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2012-11-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2012-11-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2012-11-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2012-11-01,0.11,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2012-11-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2012-12-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2012-12-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2012-12-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2012-12-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2012-12-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2012-12-01,0.11,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2012-12-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2013-01-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2013-01-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2013-01-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2013-01-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2013-01-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2013-01-01,0.11,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2013-01-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2013-02-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2013-02-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2013-02-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2013-02-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2013-02-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2013-02-01,0.11,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2013-02-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2013-03-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2013-03-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2013-03-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2013-03-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2013-03-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2013-03-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2013-03-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2013-04-01,0.1,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2013-04-01,0.11,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2013-04-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2013-04-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2013-04-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2013-04-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2013-04-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2013-06-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2013-06-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2013-06-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2013-06-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2013-06-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2013-06-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2013-06-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2013-07-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2013-07-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2013-07-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2013-07-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2013-07-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2013-07-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2013-07-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2013-08-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2013-08-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2013-08-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2013-08-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2013-08-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2013-08-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2013-08-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2013-09-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2013-09-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2013-09-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2013-09-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2013-09-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2013-09-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2013-09-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2013-10-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2013-10-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2013-10-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2013-10-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2013-10-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2013-10-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2013-10-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2013-11-01,0.12,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2013-11-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2013-11-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2013-11-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2013-11-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2013-11-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2013-11-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2014-01-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2014-01-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2014-01-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2014-01-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2014-01-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2014-01-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2014-02-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2014-02-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2014-02-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2014-02-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2014-02-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2014-02-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2014-03-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2014-03-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2014-03-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2014-03-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2014-03-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2014-03-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2014-04-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2014-04-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2014-04-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2014-04-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2014-04-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2014-04-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2014-05-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2014-05-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2014-05-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2014-05-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2014-05-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2014-05-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2014-06-01,0.1,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2014-06-01,0.11,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2014-06-01,0.14,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2014-06-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2014-06-01,0.11,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2014-06-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,National Average,RETAIL,2014-07-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2014-08-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2014-08-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2015-06-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2015-06-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2015-06-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2015-06-01,0.13,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2015-06-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2015-06-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Basrah,RETAIL,2015-07-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2015-07-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2015-07-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2015-07-01,0.16,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2015-08-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2015-08-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2015-08-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2015-08-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2015-08-01,0.16,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2015-09-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2015-09-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2015-09-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2015-09-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2015-09-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2015-09-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2015-10-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2015-10-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2015-10-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2015-10-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2015-10-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2015-10-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2015-11-01,0.16,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2015-11-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2015-11-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2015-11-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2015-11-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2015-11-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2015-12-01,0.16,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2015-12-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2015-12-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2015-12-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2015-12-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2015-12-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2016-01-01,0.16,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2016-01-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2016-01-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2016-01-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2016-01-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2016-01-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2016-02-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2016-02-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2016-02-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2016-02-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2016-02-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2016-02-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2016-03-01,0.16,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2016-03-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2016-03-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2016-03-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2016-03-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2016-03-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2016-04-01,0.16,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2016-04-01,0.17,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2016-04-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2016-04-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2016-04-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2016-04-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2016-05-01,0.16,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2016-05-01,0.17,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2016-05-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2016-05-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2016-05-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2016-05-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2016-06-01,0.16,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2016-06-01,0.17,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2016-06-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2016-06-01,0.13,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2016-06-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2016-06-01,0.17,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2016-07-01,0.16,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2016-07-01,0.17,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2016-07-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2016-07-01,0.21,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2016-07-01,0.16,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2016-07-01,0.17,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2016-08-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2016-08-01,0.17,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2016-08-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2016-08-01,0.21,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2016-08-01,0.16,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2016-08-01,0.15,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2016-09-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2016-09-01,0.17,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2016-09-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2016-09-01,0.21,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2016-09-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2016-09-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2016-10-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2016-10-01,0.17,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2016-10-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2016-10-01,0.21,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2016-10-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2016-10-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2016-11-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2016-11-01,0.17,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2016-11-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2016-11-01,0.21,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2016-11-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2016-11-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2016-12-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2016-12-01,0.17,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2016-12-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2016-12-01,0.21,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2016-12-01,0.16,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2016-12-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2017-01-01,170.0,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2017-01-01,200.0,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2017-01-01,187.5,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2017-01-01,250.0,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2017-01-01,178.28,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2017-01-01,125.0,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2017-02-01,170.0,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2017-02-01,75.0,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2017-02-01,250.0,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2017-02-01,179.64,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2017-02-01,125.0,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2017-03-01,170.0,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2017-03-01,200.0,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2017-03-01,250.0,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2017-03-01,250.0,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2017-03-01,174.38,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2017-03-01,125.0,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2017-04-01,170.0,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2017-04-01,200.0,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2017-04-01,112.5,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2017-04-01,250.0,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2017-04-01,222.03,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2017-04-01,125.0,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2017-05-01,175.0,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2017-05-01,200.0,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2017-05-01,100.0,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2017-05-01,250.0,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2017-05-01,221.56,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2017-05-01,125.0,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2017-06-01,143.75,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2017-06-01,200.0,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2017-06-01,250.0,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2017-06-01,167.67,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2017-06-01,125.0,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2017-07-01,200.0,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2017-07-01,200.0,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2017-07-01,250.0,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2017-07-01,100.0,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2017-07-01,231.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2017-07-01,125.0,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2017-08-01,200.0,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2017-08-01,125.0,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2017-08-01,200.0,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2017-08-01,250.0,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2017-08-01,250.0,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2017-08-01,283.33,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2017-08-01,125.0,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2017-09-01,225.0,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2017-09-01,125.0,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2017-09-01,200.0,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2017-09-01,250.0,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2017-09-01,250.0,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2017-09-01,239.23,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2017-09-01,125.0,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2017-10-01,125.0,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2017-10-01,200.0,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2017-10-01,250.0,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2017-10-01,250.0,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2017-10-01,246.86,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2017-10-01,125.0,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2017-11-01,125.0,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2017-11-01,200.0,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2017-11-01,250.0,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2017-11-01,250.0,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2017-11-01,174.79,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2017-11-01,125.0,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2017-12-01,125.0,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2017-12-01,200.0,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2017-12-01,250.0,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2017-12-01,250.0,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2017-12-01,247.44,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2017-12-01,125.0,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2018-01-01,0.11,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2018-01-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2018-01-01,0.21,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2018-01-01,0.21,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2018-01-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2018-02-01,0.11,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2018-02-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2018-02-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2018-02-01,0.19,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2018-02-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2018-03-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2018-03-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2018-03-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2018-04-01,0.11,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2018-04-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2018-04-01,0.13,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2018-04-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2018-05-01,0.11,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2018-05-01,0.11,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2018-05-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2018-05-01,0.18,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2018-05-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2018-06-01,0.11,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2018-06-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2018-06-01,0.2,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2018-06-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2018-07-01,0.21,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2018-07-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2018-07-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2018-07-01,0.2,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2018-07-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2018-08-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2018-08-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2018-08-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2018-08-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2018-09-01,0.13,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2018-09-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2018-09-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2018-09-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2018-09-01,0.19,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2018-09-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2018-10-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2018-10-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2018-10-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2018-10-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2018-10-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2018-10-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2018-11-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2018-11-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2018-11-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2018-11-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2018-11-01,0.19,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2018-11-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2018-12-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Basrah,RETAIL,2018-12-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2018-12-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2018-12-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2018-12-01,0.1,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2019-01-01,0.13,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2019-01-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2019-01-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2019-01-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2019-01-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2019-01-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2019-02-01,0.13,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2019-02-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2019-02-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2019-02-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2019-02-01,0.15,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2019-02-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2019-02-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2019-03-01,0.13,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2019-03-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2019-03-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2019-03-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2019-03-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2019-03-01,0.13,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2019-03-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2019-04-01,0.13,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2019-04-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2019-04-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2019-04-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2019-04-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2019-04-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2019-05-01,0.13,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2019-05-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2019-05-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2019-05-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2019-05-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2019-05-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2019-06-01,0.13,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2019-06-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2019-06-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2019-06-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2019-06-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2019-06-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2019-07-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2019-07-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2019-07-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2019-07-01,0.16,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2019-07-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2019-08-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2019-08-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2019-08-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2019-08-01,0.26,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2019-08-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2019-09-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2019-09-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2019-09-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2019-09-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2019-09-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2019-09-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2019-10-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2019-10-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2019-10-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2019-10-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2019-10-01,0.16,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2019-10-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2019-11-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2019-11-01,0.12,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2019-11-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2019-11-01,0.11,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2019-11-01,0.13,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2019-11-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2019-12-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2019-12-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2019-12-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2019-12-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2019-12-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2019-12-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2020-01-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2020-01-01,0.15,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2020-01-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2020-01-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2020-01-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2020-01-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2020-02-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2020-02-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2020-02-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2020-02-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,National Average,RETAIL,2020-02-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2020-02-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2020-03-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2020-03-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2020-03-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2020-03-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2020-03-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2020-03-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2020-03-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2020-04-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2020-04-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2020-04-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2020-04-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2020-04-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2020-04-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2020-04-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2020-05-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2020-05-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2020-05-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2020-05-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2020-05-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2020-05-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2020-05-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2020-06-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2020-06-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2020-06-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2020-06-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2020-06-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2020-06-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2020-06-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2020-07-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2020-07-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2020-07-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2020-07-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2020-07-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2020-07-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2020-07-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2020-08-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2020-08-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2020-08-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2020-08-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2020-08-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2020-08-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2020-08-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2020-09-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2020-09-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2020-09-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2020-09-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2020-09-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2020-09-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2020-09-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2020-10-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2020-10-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2020-10-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2020-10-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2020-10-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2020-10-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2020-10-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2020-11-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2020-11-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2020-11-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2020-11-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2020-11-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2020-11-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2020-11-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2020-12-01,0.17,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2020-12-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2020-12-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2020-12-01,0.21,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2020-12-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2020-12-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2020-12-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2021-01-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2021-01-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2021-01-01,0.12,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2021-01-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2021-01-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2021-01-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2021-01-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2021-02-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2021-02-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2021-02-01,0.12,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2021-02-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2021-02-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2021-02-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2021-02-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2021-03-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2021-03-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2021-03-01,0.12,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2021-03-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2021-03-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2021-03-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2021-03-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2021-04-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2021-04-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2021-04-01,0.12,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2021-04-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2021-04-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2021-04-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2021-04-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2021-05-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2021-05-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2021-05-01,0.12,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2021-05-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2021-05-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2021-05-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2021-05-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2021-06-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2021-06-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2021-06-01,0.12,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2021-06-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2021-06-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2021-06-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2021-06-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2021-07-01,0.13,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2021-07-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2021-07-01,0.12,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2021-07-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2021-07-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2021-07-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2021-07-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2021-08-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2021-08-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2021-08-01,0.12,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2021-08-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2021-08-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2021-08-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2021-08-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2021-09-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2021-09-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2021-09-01,0.12,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2021-09-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2021-09-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2021-09-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2021-09-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2021-10-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2021-10-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2021-10-01,0.13,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2021-10-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2021-10-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2021-10-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2021-10-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2021-11-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2021-11-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2021-11-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2021-11-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2021-11-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2021-11-01,0.13,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2021-11-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2021-12-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2021-12-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2021-12-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2021-12-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2021-12-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2021-12-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2021-12-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2022-01-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2022-01-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2022-01-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2022-01-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2022-01-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2022-01-01,0.13,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2022-01-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2022-02-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2022-02-01,0.14,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2022-02-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2022-02-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2022-02-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2022-02-01,0.12,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2022-02-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2022-03-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2022-03-01,0.16,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2022-03-01,0.17,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2022-03-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2022-03-01,0.16,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2022-03-01,0.13,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2022-03-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2022-04-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2022-04-01,0.16,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2022-04-01,0.16,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2022-04-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2022-04-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2022-04-01,0.13,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2022-04-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2022-05-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2022-05-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2022-05-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2022-05-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2022-05-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2022-05-01,0.13,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2022-05-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2022-06-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2022-06-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2022-06-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2022-06-01,0.18,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2022-06-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2022-06-01,0.13,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2022-06-01,0.1,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2022-07-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2022-07-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2022-07-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2022-07-01,0.18,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2022-07-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2022-07-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2022-07-01,0.1,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2022-08-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2022-08-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2022-08-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2022-08-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2022-08-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2022-08-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2022-08-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2022-09-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2022-09-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2022-09-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2022-09-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2022-09-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2022-09-01,0.13,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2022-09-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2022-10-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2022-10-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2022-10-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2022-10-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2022-10-01,0.17,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2022-10-01,0.13,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2022-10-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2022-11-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2022-11-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2022-11-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2022-11-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2022-11-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2022-11-01,0.13,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2022-11-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2022-12-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2022-12-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2022-12-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2022-12-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2022-12-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2022-12-01,0.13,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2022-12-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2023-01-01,0.14,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2023-01-01,0.17,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2023-01-01,0.14,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2023-01-01,0.17,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2023-01-01,0.14,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2023-01-01,0.13,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2023-01-01,0.09,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2023-02-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2023-02-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2023-02-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2023-02-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2023-02-01,0.15,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2023-02-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2023-02-01,0.1,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2023-03-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2023-03-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2023-03-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2023-03-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2023-03-01,0.15,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2023-03-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2023-03-01,0.1,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2023-04-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2023-04-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2023-04-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2023-04-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2023-04-01,0.15,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2023-04-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2023-04-01,0.1,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2023-05-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2023-05-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2023-05-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2023-05-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2023-05-01,0.15,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2023-05-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2023-05-01,0.1,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2023-06-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2023-06-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2023-06-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2023-06-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2023-06-01,0.15,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2023-06-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2023-06-01,0.1,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2023-07-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2023-07-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2023-07-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2023-07-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2023-07-01,0.15,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2023-07-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2023-07-01,0.1,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2023-08-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2023-08-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2023-08-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2023-08-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2023-08-01,0.15,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2023-08-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2023-08-01,0.1,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2023-09-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2023-09-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2023-09-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2023-09-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2023-09-01,0.15,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2023-09-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2023-09-01,0.12,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2023-10-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2023-10-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2023-10-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2023-10-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2023-10-01,0.15,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2023-10-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2023-10-01,0.13,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2023-11-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2023-11-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2023-11-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2023-11-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2023-11-01,0.15,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2023-11-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2023-11-01,0.13,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2023-12-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2023-12-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2023-12-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2023-12-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2023-12-01,0.15,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2023-12-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2023-12-01,0.13,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2024-01-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2024-01-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2024-01-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2024-01-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2024-01-01,0.15,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2024-01-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2024-01-01,0.13,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2024-02-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2024-02-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2024-02-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2024-02-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2024-02-01,0.15,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2024-02-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2024-02-01,0.13,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2024-03-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2024-03-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2024-03-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2024-03-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2024-03-01,0.18,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2024-03-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2024-03-01,0.13,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2024-04-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2024-04-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2024-04-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2024-04-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2024-04-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2024-04-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2024-04-01,0.13,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2024-05-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2024-05-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2024-05-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2024-05-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2024-05-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2024-05-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2024-05-01,0.1,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2024-06-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2024-06-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2024-06-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2024-06-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2024-06-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2024-06-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2024-06-01,0.12,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2024-07-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2024-07-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2024-07-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2024-07-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2024-07-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2024-07-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2024-07-01,0.12,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2024-08-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2024-08-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2024-08-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2024-08-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2024-08-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2024-08-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2024-08-01,0.12,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2024-09-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2024-09-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2024-09-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2024-09-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2024-09-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2024-09-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2024-09-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2024-10-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2024-10-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2024-10-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2024-10-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2024-10-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2024-10-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2024-10-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2024-11-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2024-11-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2024-11-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2024-11-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2024-11-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2024-11-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2024-11-01,0.12,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2024-12-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2024-12-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2024-12-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2024-12-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2024-12-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2024-12-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2024-12-01,0.12,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2025-01-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2025-01-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2025-01-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2025-01-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2025-01-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2025-01-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2025-01-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2025-02-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2025-02-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2025-02-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2025-02-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2025-02-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2025-02-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2025-02-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2025-03-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2025-03-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2025-03-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2025-03-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2025-03-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2025-03-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2025-03-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2025-04-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2025-04-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2025-04-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2025-04-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2025-04-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2025-04-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2025-04-01,0.12,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2025-05-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2025-05-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2025-05-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2025-05-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2025-05-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2025-05-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2025-05-01,0.12,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2025-06-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2025-06-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2025-06-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2025-06-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2025-06-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2025-06-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2025-06-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2025-07-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2025-07-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2025-07-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2025-07-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2025-07-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2025-07-01,0.14,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2025-07-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2025-08-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2025-08-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2025-08-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2025-08-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2025-08-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2025-08-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2025-08-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2025-09-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2025-09-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2025-09-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2025-09-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2025-09-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2025-09-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2025-09-01,0.11,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15
+Bread (Khoboz),Iraq,Anbar,RETAIL,2025-10-01,0.15,1 unit,391018ee-d9c5-4233-a9cd-93671c38ae02
+Bread (Khoboz),Iraq,Baghdad,RETAIL,2025-10-01,0.19,1 unit,2132475a-d7d4-432d-b9f1-720c3be34ea4
+Bread (Khoboz),Iraq,Basrah,RETAIL,2025-10-01,0.15,1 unit,2ac3f182-dafa-4189-8487-e565d7df4030
+Bread (Khoboz),Iraq,Dohuk,RETAIL,2025-10-01,0.19,1 unit,230dc383-4a18-44f2-9f95-efdc1d0ab4cc
+Bread (Khoboz),Iraq,Erbil,RETAIL,2025-10-01,0.19,1 unit,051d2742-64d6-4504-bb9f-c4a1b4f34134
+Bread (Khoboz),Iraq,National Average,RETAIL,2025-10-01,0.15,1 unit,aaa94f46-ff9c-40f4-abc0-11c4eced9d4f
+Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,2025-10-01,0.12,1 unit,2ff67a63-9c10-421f-8850-a411eaf0bd15

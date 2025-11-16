@@ -1,0 +1,257 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Rice (polished),Kazakhstan,Aktau,RETAIL,2022-01-01,1.07,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2022-01-01,0.79,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2022-01-01,1.12,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2022-01-01,0.78,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2022-01-01,0.86,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2022-01-01,0.76,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2022-02-01,1.07,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2022-02-01,0.79,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2022-02-01,1.15,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2022-02-01,0.78,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2022-02-01,0.86,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2022-02-01,0.76,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2022-03-01,0.94,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2022-03-01,0.7,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2022-03-01,1.03,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2022-03-01,0.68,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2022-03-01,0.78,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2022-03-01,0.73,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2022-04-01,1.07,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2022-04-01,0.81,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2022-04-01,1.17,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2022-04-01,0.76,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2022-04-01,0.88,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2022-04-01,0.81,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2022-05-01,1.14,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2022-05-01,0.85,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2022-05-01,1.25,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2022-05-01,0.8,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2022-05-01,0.94,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2022-05-01,0.88,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2022-06-01,1.15,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2022-06-01,0.83,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2022-06-01,1.24,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2022-06-01,0.78,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2022-06-01,0.94,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2022-06-01,0.89,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2022-07-01,1.11,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2022-07-01,0.8,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2022-07-01,1.21,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2022-07-01,0.74,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2022-07-01,0.91,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2022-07-01,0.91,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2022-08-01,1.19,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2022-08-01,0.8,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2022-08-01,1.3,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2022-08-01,0.8,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2022-08-01,0.94,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2022-08-01,0.92,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2022-09-01,1.27,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2022-09-01,0.81,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2022-09-01,0.81,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2022-09-01,0.98,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2022-09-01,0.92,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2022-10-01,1.32,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2022-10-01,0.81,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2022-10-01,1.38,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2022-10-01,0.83,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2022-10-01,1.0,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2022-10-01,0.93,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2022-11-01,1.37,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2022-11-01,0.92,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2022-11-01,1.46,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2022-11-01,0.86,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2022-11-01,1.05,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2022-11-01,0.98,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2022-12-01,1.36,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2022-12-01,0.91,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2022-12-01,1.51,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2022-12-01,0.89,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2022-12-01,1.07,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2022-12-01,0.97,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2023-01-01,1.45,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2023-01-01,0.93,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2023-01-01,1.53,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2023-01-01,0.9,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2023-01-01,1.11,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2023-01-01,1.09,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2023-02-01,1.51,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2023-02-01,1.03,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2023-02-01,1.58,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2023-02-01,1.0,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2023-02-01,1.19,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2023-02-01,1.23,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2023-03-01,1.55,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2023-03-01,1.12,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2023-03-01,1.65,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2023-03-01,1.1,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2023-03-01,1.23,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2023-03-01,1.24,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2023-04-01,1.54,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2023-04-01,1.12,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2023-04-01,1.64,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2023-04-01,1.1,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2023-04-01,1.23,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2023-04-01,1.24,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2023-05-01,1.7,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2023-05-01,1.18,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2023-05-01,1.61,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2023-05-01,1.16,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2023-05-01,1.3,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2023-05-01,1.31,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2023-06-01,1.75,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2023-06-01,1.25,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2023-06-01,1.61,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2023-06-01,1.21,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2023-06-01,1.35,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2023-06-01,1.3,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2023-07-01,1.83,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2023-07-01,1.29,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2023-07-01,1.79,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2023-07-01,1.24,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2023-07-01,1.38,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2023-07-01,1.31,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2023-08-01,1.89,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2023-08-01,1.29,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2023-08-01,1.87,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2023-08-01,1.31,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2023-08-01,1.39,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2023-08-01,1.27,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2023-09-01,1.86,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2023-09-01,1.28,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2023-09-01,1.77,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2023-09-01,1.3,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2023-09-01,1.39,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2023-09-01,1.38,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2023-10-01,1.9,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2023-10-01,1.25,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2023-10-01,1.72,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2023-10-01,1.27,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2023-10-01,1.37,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2023-10-01,1.36,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2023-11-01,2.01,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2023-11-01,1.29,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2023-11-01,1.79,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2023-11-01,1.33,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2023-11-01,1.43,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2023-11-01,1.39,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2023-12-01,2.04,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2023-12-01,1.3,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2023-12-01,1.79,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2023-12-01,1.35,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2023-12-01,1.46,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2023-12-01,1.41,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2024-01-01,2.03,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2024-01-01,1.33,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2024-01-01,1.82,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2024-01-01,1.36,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2024-01-01,1.5,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2024-01-01,1.37,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2024-02-01,2.01,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2024-02-01,1.34,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2024-02-01,1.79,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2024-02-01,1.37,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2024-02-01,1.51,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2024-02-01,1.37,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2024-03-01,1.99,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2024-03-01,1.37,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2024-03-01,1.82,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2024-03-01,1.41,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2024-03-01,1.52,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2024-03-01,1.37,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2024-04-01,2.08,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2024-04-01,1.38,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2024-04-01,1.84,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2024-04-01,1.44,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2024-04-01,1.53,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Aktau,RETAIL,2024-05-01,2.17,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2024-05-01,1.4,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2024-05-01,1.85,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2024-05-01,1.46,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2024-05-01,1.56,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2024-05-01,1.36,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2024-06-01,2.1,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2024-06-01,1.35,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2024-06-01,1.8,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2024-06-01,1.41,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2024-06-01,1.51,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2024-06-01,1.32,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2024-07-01,2.01,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2024-07-01,1.3,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2024-07-01,1.72,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2024-07-01,1.35,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2024-07-01,1.44,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2024-07-01,1.28,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2024-08-01,1.97,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2024-08-01,1.29,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2024-08-01,1.69,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2024-08-01,1.33,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2024-08-01,1.43,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2024-08-01,1.27,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2024-09-01,1.95,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2024-09-01,1.26,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2024-09-01,1.68,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2024-09-01,1.32,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2024-09-01,1.42,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2024-09-01,1.27,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2024-10-01,1.92,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2024-10-01,1.26,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2024-10-01,1.66,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2024-10-01,1.31,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2024-10-01,1.4,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2024-10-01,1.25,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2024-11-01,1.8,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2024-11-01,1.18,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2024-11-01,1.63,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2024-11-01,1.25,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2024-11-01,1.34,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2024-11-01,1.22,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2024-12-01,1.72,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2024-12-01,1.09,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2024-12-01,1.49,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2024-12-01,1.19,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2024-12-01,1.26,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2024-12-01,1.13,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2025-01-01,1.7,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2025-01-01,1.07,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2025-01-01,1.44,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2025-01-01,1.16,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2025-01-01,1.24,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2025-01-01,1.12,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2025-02-01,1.76,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2025-02-01,1.11,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2025-02-01,1.5,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2025-02-01,1.19,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2025-02-01,1.26,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2025-02-01,1.06,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2025-03-01,1.75,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Almaty,RETAIL,2025-03-01,1.13,Kg,e2ea08f7-a595-451c-bfa1-677fecfba33c
+Rice (polished),Kazakhstan,Astana,RETAIL,2025-03-01,1.51,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,Kostanay,RETAIL,2025-03-01,1.21,Kg,6fd2f52d-43c9-403e-a572-19a4c2a9b261
+Rice (polished),Kazakhstan,National Average,RETAIL,2025-03-01,1.28,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2025-03-01,1.07,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2025-04-01,1.69,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Astana,RETAIL,2025-04-01,1.46,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,National Average,RETAIL,2025-04-01,1.24,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2025-04-01,1.04,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2025-05-01,1.7,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Astana,RETAIL,2025-05-01,1.47,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,National Average,RETAIL,2025-05-01,1.24,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2025-05-01,1.05,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2025-06-01,1.67,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Astana,RETAIL,2025-06-01,1.48,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,National Average,RETAIL,2025-06-01,1.22,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2025-06-01,1.02,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2025-07-01,1.65,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Astana,RETAIL,2025-07-01,1.41,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,National Average,RETAIL,2025-07-01,1.18,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2025-07-01,0.96,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2025-08-01,1.59,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Astana,RETAIL,2025-08-01,1.4,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,National Average,RETAIL,2025-08-01,1.17,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2025-08-01,1.03,Kg,d6583998-a23b-4943-a113-ed9eabf02671
+Rice (polished),Kazakhstan,Aktau,RETAIL,2025-09-01,1.63,Kg,35d9e78e-5dae-441b-9767-3160a3aa1e77
+Rice (polished),Kazakhstan,Astana,RETAIL,2025-09-01,1.4,Kg,f139e919-c907-4cc0-adf9-ae07413830ea
+Rice (polished),Kazakhstan,National Average,RETAIL,2025-09-01,1.16,Kg,346eddc4-1fc5-4267-a99c-47f9a9023a24
+Rice (polished),Kazakhstan,Shymkent,RETAIL,2025-09-01,1.03,Kg,d6583998-a23b-4943-a113-ed9eabf02671

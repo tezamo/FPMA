@@ -1,0 +1,565 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2000-01-01,220.84,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2000-02-01,221.17,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2000-03-01,202.57,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2000-04-01,190.95,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2000-05-01,176.6,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2000-06-01,176.67,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2000-07-01,170.37,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2000-08-01,170.03,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2000-09-01,162.32,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2000-10-01,172.53,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2000-11-01,169.94,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2000-12-01,169.57,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2001-01-01,169.37,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2001-02-01,170.09,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2001-03-01,159.43,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2001-04-01,147.82,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2001-05-01,148.5,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2001-06-01,153.6,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2001-07-01,155.11,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2001-08-01,155.13,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2001-09-01,160.28,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2001-10-01,157.23,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2001-11-01,160.91,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2001-12-01,165.44,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2002-01-01,178.39,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2002-02-01,182.84,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2002-03-01,176.24,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2002-04-01,178.12,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2002-05-01,187.82,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2002-06-01,189.71,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2002-07-01,184.11,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2002-08-01,176.82,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2002-09-01,173.03,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2002-10-01,172.18,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2002-11-01,173.56,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2002-12-01,173.38,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2003-01-01,185.87,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2003-02-01,186.19,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2003-03-01,183.01,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2003-04-01,182.73,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2003-05-01,186.34,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2003-06-01,191.12,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2003-07-01,185.49,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2003-08-01,179.56,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2003-09-01,182.59,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2003-10-01,181.71,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2003-11-01,179.22,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2003-12-01,184.64,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2004-01-01,199.04,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2004-02-01,210.69,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2004-03-01,221.58,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2004-04-01,223.64,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2004-05-01,214.88,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2004-06-01,214.83,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2004-07-01,217.35,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2004-08-01,223.1,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2004-09-01,218.68,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2004-10-01,226.88,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2004-11-01,243.28,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2004-12-01,261.62,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2005-01-01,271.09,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2005-02-01,274.28,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2005-03-01,276.25,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2005-04-01,269.77,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2005-05-01,278.15,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2005-06-01,269.73,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2005-07-01,261.0,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2005-08-01,268.61,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2005-09-01,269.96,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2005-10-01,270.54,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2005-11-01,262.96,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2005-12-01,265.06,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2006-01-01,276.91,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2006-02-01,284.23,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2006-03-01,287.16,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2006-04-01,287.26,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2006-05-01,290.98,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2006-06-01,294.24,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2006-07-01,297.05,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2006-08-01,294.64,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2006-09-01,291.16,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2006-10-01,281.36,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2006-11-01,277.57,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2006-12-01,285.48,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2007-01-01,292.16,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2007-02-01,294.19,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2007-03-01,296.44,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2007-04-01,293.82,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2007-05-01,297.92,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2007-06-01,307.42,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2007-07-01,308.82,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2007-08-01,303.66,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2007-09-01,300.13,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2007-10-01,307.96,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2007-11-01,323.93,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2007-12-01,325.74,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2008-01-01,351.13,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2008-02-01,419.01,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2008-03-01,539.96,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2008-04-01,800.4,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2008-05-01,753.81,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2008-06-01,635.21,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2008-07-01,625.58,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2008-08-01,596.82,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2008-09-01,627.49,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2008-10-01,529.03,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2008-11-01,488.18,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2008-12-01,480.7,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2009-01-01,519.16,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2009-02-01,517.98,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2009-03-01,506.33,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2009-04-01,467.75,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2009-05-01,481.46,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2009-06-01,508.86,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2009-07-01,514.15,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2009-08-01,478.69,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2009-09-01,472.17,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2009-10-01,448.28,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2009-11-01,487.11,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2009-12-01,534.46,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2010-01-01,517.48,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2010-02-01,483.02,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2010-03-01,445.73,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2010-04-01,400.83,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2010-05-01,396.29,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2010-06-01,392.9,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2010-07-01,388.66,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2010-08-01,408.86,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2010-09-01,427.72,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2010-10-01,434.98,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2010-11-01,474.68,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2010-12-01,486.74,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2011-01-01,468.44,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2011-02-01,479.68,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2011-03-01,440.74,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2011-04-01,434.22,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2011-05-01,431.87,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2011-06-01,465.82,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2011-07-01,491.98,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2011-08-01,516.47,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2011-09-01,548.12,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2011-10-01,556.03,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2011-11-01,570.2,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2011-12-01,532.52,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2012-01-01,488.97,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2012-02-01,494.08,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2012-03-01,500.94,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2012-04-01,517.9,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2012-05-01,566.1,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2012-06-01,568.97,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2012-07-01,537.07,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2012-08-01,539.2,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2012-09-01,539.54,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2012-10-01,535.6,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2012-11-01,535.73,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2012-12-01,530.79,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2013-01-01,546.82,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2013-02-01,547.17,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2013-03-01,525.04,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2013-04-01,527.47,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2013-05-01,515.44,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2013-06-01,495.65,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2013-07-01,480.32,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2013-08-01,441.88,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2013-09-01,408.23,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2013-10-01,398.56,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2013-11-01,400.08,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2013-12-01,399.7,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2014-01-01,398.67,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2014-02-01,409.51,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2014-03-01,368.09,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2014-04-01,349.83,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2014-05-01,343.52,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2014-06-01,359.36,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2014-07-01,380.88,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2014-08-01,397.55,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2014-09-01,392.39,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2014-10-01,386.35,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2014-11-01,375.59,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2014-12-01,376.43,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2015-01-01,378.5,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2015-02-01,376.07,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2015-03-01,366.64,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2015-04-01,356.82,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2015-05-01,344.12,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2015-06-01,335.39,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2015-07-01,352.57,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2015-08-01,334.76,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2015-09-01,318.51,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2015-10-01,335.61,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2015-11-01,332.21,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2015-12-01,322.43,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2016-01-01,332.0,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2016-02-01,341.71,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2016-03-01,341.94,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2016-04-01,351.11,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2016-05-01,384.42,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2016-06-01,393.91,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2016-07-01,397.66,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2016-08-01,377.2,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2016-09-01,347.88,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2016-10-01,329.81,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2016-11-01,318.26,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2016-12-01,331.19,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2017-01-01,336.14,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2017-02-01,329.38,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2017-03-01,326.75,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2017-04-01,336.54,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2017-05-01,369.13,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2017-06-01,409.95,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2017-07-01,376.08,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2017-08-01,349.18,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2017-09-01,355.02,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2017-10-01,347.53,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2017-11-01,353.29,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2017-12-01,357.72,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2018-01-01,385.94,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2018-02-01,380.68,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2018-03-01,378.57,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2018-04-01,403.04,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2018-05-01,403.69,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2018-06-01,380.72,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2018-07-01,353.21,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2018-08-01,357.17,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2018-09-01,360.18,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2018-10-01,360.96,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2018-10-01,0.41,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2018-10-01,0.4,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2018-10-01,0.41,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2018-11-01,356.38,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2018-11-01,0.41,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2018-11-01,0.41,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2018-11-01,0.41,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2018-12-01,359.15,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2018-12-01,0.38,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2018-12-01,0.38,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2018-12-01,0.38,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2019-01-01,365.23,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2019-01-01,0.35,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2019-01-01,0.35,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2019-01-01,0.34,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2019-02-01,364.64,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2019-02-01,0.33,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2019-02-01,0.32,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2019-02-01,0.33,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2019-03-01,357.79,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2019-03-01,0.33,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2019-03-01,0.34,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2019-03-01,0.34,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2019-04-01,367.54,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2019-04-01,0.34,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2019-04-01,0.34,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2019-04-01,0.34,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2019-05-01,366.43,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2019-05-01,0.34,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2019-05-01,0.34,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2019-05-01,0.34,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2019-06-01,374.13,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2019-06-01,0.31,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2019-06-01,0.31,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2019-06-01,0.31,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2019-07-01,366.96,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2019-07-01,0.31,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2019-07-01,0.31,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2019-07-01,0.32,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2019-08-01,382.34,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2019-08-01,0.32,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2019-08-01,0.31,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2019-08-01,0.32,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2019-09-01,377.78,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2019-09-01,0.31,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2019-09-01,0.3,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2019-09-01,0.31,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2019-10-01,375.48,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2019-10-01,0.32,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2019-10-01,0.31,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2019-10-01,0.33,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2019-11-01,373.2,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2019-11-01,0.34,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2019-11-01,0.33,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2019-11-01,0.33,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2019-12-01,381.42,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2019-12-01,0.34,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2019-12-01,0.33,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2019-12-01,0.33,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2020-01-01,401.37,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2020-01-01,0.35,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2020-01-01,0.34,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2020-01-01,0.33,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2020-02-01,401.46,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2020-02-01,0.35,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2020-02-01,0.34,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2020-02-01,0.34,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2020-03-01,446.19,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2020-03-01,0.39,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2020-03-01,0.39,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2020-03-01,0.39,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2020-04-01,506.9,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2020-04-01,0.43,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2020-04-01,0.43,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2020-05-01,458.46,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2020-05-01,0.45,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2020-05-01,0.44,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2020-05-01,0.44,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2020-06-01,478.41,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2020-06-01,0.43,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2020-06-01,0.43,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2020-06-01,0.42,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2020-07-01,440.94,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2020-07-01,0.42,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2020-07-01,0.41,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2020-07-01,0.42,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2020-08-01,462.52,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2020-08-01,0.47,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2020-08-01,0.46,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2020-08-01,0.46,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2020-09-01,455.5,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2020-09-01,0.47,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2020-09-01,0.45,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2020-09-01,0.45,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2020-10-01,428.05,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2020-10-01,0.47,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2020-10-01,0.45,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2020-10-01,0.46,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2020-11-01,443.0,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2020-11-01,0.5,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2020-11-01,0.47,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2020-11-01,0.47,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2020-12-01,474.92,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2020-12-01,0.54,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2020-12-01,0.49,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2020-12-01,0.48,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2021-01-01,496.57,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2021-01-01,0.54,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2021-01-01,0.51,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2021-01-01,0.49,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2021-02-01,508.27,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2021-02-01,0.53,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2021-02-01,0.51,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2021-02-01,0.48,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2021-03-01,479.43,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2021-03-01,0.52,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2021-03-01,0.49,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2021-03-01,0.48,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2021-04-01,447.28,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2021-04-01,0.48,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2021-04-01,0.46,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2021-04-01,0.45,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2021-05-01,441.31,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2021-05-01,0.49,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2021-05-01,0.47,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2021-05-01,0.46,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2021-06-01,413.3,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2021-06-01,0.45,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2021-06-01,0.43,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2021-06-01,0.42,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2021-07-01,375.7,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2021-07-01,0.37,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2021-07-01,0.4,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2021-07-01,0.38,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2021-08-01,357.81,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2021-08-01,0.36,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2021-08-01,0.38,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2021-08-01,0.37,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2021-09-01,355.16,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2021-09-01,0.38,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2021-09-01,0.39,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2021-09-01,0.39,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2021-10-01,359.23,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2021-10-01,0.42,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2021-10-01,0.42,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2021-10-01,0.41,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2021-11-01,354.01,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2021-11-01,0.41,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2021-11-01,0.42,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2021-11-01,0.4,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2021-12-01,359.32,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2021-12-01,0.38,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2021-12-01,0.4,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2021-12-01,0.38,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2022-01-01,380.56,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2022-01-01,0.39,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2022-01-01,0.39,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2022-01-01,0.38,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2022-02-01,381.73,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2022-02-01,0.39,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2022-02-01,0.4,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2022-02-01,0.39,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2022-03-01,379.0,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2022-03-01,0.39,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2022-03-01,0.4,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2022-03-01,0.39,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2022-04-01,384.56,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2022-04-01,0.39,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2022-04-01,0.4,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2022-04-01,0.39,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2022-05-01,424.06,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2022-05-01,0.4,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2022-05-01,0.4,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2022-05-01,0.4,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2022-06-01,401.8,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2022-06-01,0.4,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2022-06-01,0.4,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2022-06-01,0.4,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2022-07-01,378.28,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2022-07-01,0.39,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2022-07-01,0.39,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2022-07-01,0.38,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2022-08-01,387.41,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2022-08-01,0.39,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2022-08-01,0.39,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2022-08-01,0.38,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2022-09-01,396.81,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2022-09-01,0.4,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2022-09-01,0.39,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2022-09-01,0.39,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2022-10-01,388.98,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2022-10-01,0.42,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2022-10-01,0.41,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2022-10-01,0.43,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2022-11-01,395.35,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2022-11-01,0.44,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2022-11-01,0.44,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2022-11-01,0.44,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2022-12-01,421.5,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2022-12-01,0.44,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2022-12-01,0.43,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2022-12-01,0.44,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2023-01-01,464.52,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2023-01-01,0.44,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2023-01-01,0.44,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2023-01-01,0.44,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2023-02-01,438.6,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2023-02-01,0.44,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2023-02-01,0.44,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2023-02-01,0.44,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2023-03-01,431.34,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2023-03-01,0.43,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2023-03-01,0.43,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2023-03-01,0.43,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2023-04-01,449.24,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2023-04-01,0.45,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2023-04-01,0.45,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2023-04-01,0.45,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2023-05-01,462.3,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2023-05-01,0.47,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2023-05-01,0.47,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2023-05-01,0.47,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2023-06-01,465.03,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2023-06-01,0.48,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2023-06-01,0.47,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2023-06-01,0.47,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2023-07-01,496.77,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2023-07-01,0.49,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2023-07-01,0.49,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2023-07-01,0.5,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2023-08-01,585.16,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2023-08-01,0.6,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2023-08-01,0.6,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2023-08-01,0.61,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2023-09-01,572.54,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2023-09-01,0.58,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2023-09-01,0.59,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2023-09-01,0.58,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2023-10-01,544.0,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2023-10-01,0.63,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2023-10-01,0.62,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2023-10-01,0.63,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2023-11-01,543.18,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2023-11-01,0.65,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2023-11-01,0.65,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2023-11-01,0.64,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2023-12-01,593.48,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2023-12-01,0.64,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2023-12-01,0.65,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2023-12-01,0.64,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2024-01-01,611.72,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2024-01-01,0.64,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2024-01-01,0.64,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2024-01-01,0.63,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2024-02-01,575.39,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2024-02-01,0.54,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2024-02-01,0.55,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2024-02-01,0.55,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2024-03-01,568.46,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2024-03-01,0.54,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2024-03-01,0.57,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2024-03-01,0.55,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2024-04-01,545.64,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2024-04-01,0.55,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2024-04-01,0.56,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2024-04-01,0.55,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2024-05-01,584.46,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2024-05-01,0.57,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2024-05-01,0.57,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2024-05-01,0.57,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2024-06-01,581.37,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2024-06-01,0.52,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2024-06-01,0.53,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2024-06-01,0.53,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2024-07-01,541.32,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2024-07-01,0.52,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2024-07-01,0.53,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2024-07-01,0.52,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2024-08-01,541.52,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2024-08-01,0.57,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2024-08-01,0.58,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2024-08-01,0.58,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2024-09-01,526.32,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2024-09-01,0.57,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2024-09-01,0.57,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2024-09-01,0.55,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2024-10-01,463.93,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2024-10-01,0.56,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2024-10-01,0.56,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2024-10-01,0.54,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2024-11-01,461.67,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2024-11-01,0.55,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2024-11-01,0.55,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2024-11-01,0.53,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2024-12-01,473.11,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2024-12-01,0.51,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2024-12-01,0.51,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2024-12-01,0.48,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2025-01-01,433.33,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2025-01-01,0.5,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2025-01-01,0.5,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2025-01-01,0.39,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2025-02-01,391.89,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2025-02-01,0.49,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2025-02-01,0.49,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2025-02-01,0.37,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2025-03-01,375.34,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2025-03-01,0.46,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2025-03-01,0.45,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2025-03-01,0.38,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2025-04-01,368.6,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2025-04-01,0.45,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2025-04-01,0.45,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2025-04-01,0.38,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2025-05-01,378.67,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2025-05-01,0.43,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2025-05-01,0.43,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2025-05-01,0.39,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2025-06-01,361.0,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2025-06-01,0.39,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2025-06-01,0.39,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2025-06-01,0.36,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2025-07-01,344.33,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2025-07-01,0.38,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2025-07-01,0.39,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2025-07-01,0.36,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2025-08-01,326.31,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2025-08-01,0.37,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2025-08-01,0.39,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2025-08-01,0.37,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2025-09-01,326.4,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2025-09-01,0.36,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2025-09-01,0.37,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2025-09-01,0.35,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11
+Rice (5% broken),Thailand,Bangkok,WHOLESALE,2025-10-01,308.78,tonne,068d4d66-92c8-4fcc-9e65-164e7ad78886
+Rice (5% broken),Viet Nam,An Giang,WHOLESALE,2025-10-01,0.36,Kg,16230771-cea4-43a2-b438-22a14026c9e2
+Rice (5% broken),Viet Nam,Bac Lieu,WHOLESALE,2025-10-01,0.36,Kg,756c8234-c859-404c-9752-20bd51745801
+Rice (5% broken),Viet Nam,Dong Thap,WHOLESALE,2025-10-01,0.35,Kg,cc5b62fc-0f69-40d3-bbf3-c9a9807ecb11

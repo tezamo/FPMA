@@ -1,0 +1,1134 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2008-01-01,0.25,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2008-02-01,0.25,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2008-03-01,0.29,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2008-04-01,0.36,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2008-05-01,0.35,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2008-06-01,0.27,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2008-07-01,0.3,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2008-08-01,0.23,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2008-09-01,0.28,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2008-10-01,0.23,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2008-11-01,0.24,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2008-12-01,0.2,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2009-01-01,0.21,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2009-02-01,0.23,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2009-03-01,0.27,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2009-04-01,0.26,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2009-05-01,0.35,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2009-06-01,0.34,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2009-07-01,0.33,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2009-08-01,0.31,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2009-09-01,0.32,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2009-10-01,0.35,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2009-11-01,0.34,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2009-12-01,0.3,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2010-01-01,0.49,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2010-02-01,0.49,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2010-03-01,0.4,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2010-04-01,0.4,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2010-05-01,0.4,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2010-06-01,0.39,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2010-06-01,0.41,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2010-07-01,0.38,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2010-07-01,0.4,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2010-08-01,0.4,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2010-08-01,0.5,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2010-09-01,0.41,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2010-09-01,0.57,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2010-10-01,0.48,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2010-10-01,0.6,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2010-11-01,0.6,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2010-11-01,0.66,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2010-12-01,0.63,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2010-12-01,0.62,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2011-01-01,0.55,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2011-02-01,0.53,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2011-03-01,0.45,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2011-03-01,0.57,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2011-04-01,0.49,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2011-04-01,0.59,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2011-05-01,0.53,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2011-05-01,0.61,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2011-06-01,0.53,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2011-06-01,0.53,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2011-07-01,0.53,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2011-07-01,0.65,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2011-08-01,0.54,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2011-08-01,0.69,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2011-09-01,0.51,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2011-09-01,0.65,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2011-10-01,0.5,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2011-10-01,0.7,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2011-11-01,0.48,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2011-11-01,0.72,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2011-12-01,0.43,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2011-12-01,0.65,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2012-01-01,0.34,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2012-01-01,0.58,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2012-02-01,0.39,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2012-02-01,0.58,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2012-03-01,0.58,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2012-04-01,0.37,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2012-04-01,0.72,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2012-05-01,0.36,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2012-05-01,0.66,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2012-06-01,0.35,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2012-06-01,0.64,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2012-07-01,0.36,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2012-07-01,0.62,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2012-08-01,0.36,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2012-08-01,0.43,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2012-09-01,0.37,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2012-09-01,0.71,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2012-10-01,0.42,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2012-10-01,0.72,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2012-11-01,0.42,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2012-11-01,0.73,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2012-12-01,0.41,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2012-12-01,0.52,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2013-01-01,0.34,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2013-01-01,0.41,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2013-02-01,0.41,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2013-02-01,0.52,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2013-03-01,0.4,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2013-03-01,0.38,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2013-04-01,0.43,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2013-04-01,0.38,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2013-05-01,0.43,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2013-05-01,0.36,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2013-06-01,0.41,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2013-06-01,0.36,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2013-07-01,0.4,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2013-07-01,0.38,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2013-08-01,0.44,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2013-09-01,0.44,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2013-10-01,0.5,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2013-10-01,0.46,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2013-11-01,0.5,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2013-11-01,0.43,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2013-12-01,0.5,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2013-12-01,0.43,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2014-01-01,0.51,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2014-01-01,0.43,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2014-02-01,0.51,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2014-02-01,0.43,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2014-03-01,0.52,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2014-03-01,0.44,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2014-04-01,0.52,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2014-04-01,0.44,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2014-05-01,0.52,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2014-05-01,0.44,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2014-06-01,0.51,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2014-06-01,0.44,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2014-07-01,0.51,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2014-07-01,0.48,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2014-08-01,0.51,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2014-08-01,0.48,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2014-09-01,0.49,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2014-09-01,0.48,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2014-10-01,0.48,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2014-10-01,0.43,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2014-11-01,0.47,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2014-11-01,0.41,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2014-12-01,0.47,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2014-12-01,0.43,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2015-01-01,0.87,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2015-01-01,0.94,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2015-01-01,0.85,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2015-01-01,0.81,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2015-01-01,0.83,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2015-01-01,0.43,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2015-02-01,0.93,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2015-02-01,0.92,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2015-02-01,0.75,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2015-02-01,0.82,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2015-02-01,0.82,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2015-02-01,0.47,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2015-03-01,0.96,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2015-03-01,0.92,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2015-03-01,0.8,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2015-03-01,0.83,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2015-03-01,0.84,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2015-03-01,0.48,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2015-04-01,0.77,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2015-04-01,0.89,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2015-04-01,0.84,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2015-04-01,0.84,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2015-04-01,0.83,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2015-04-01,0.53,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2015-05-01,0.83,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2015-05-01,0.89,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2015-05-01,0.8,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2015-05-01,0.86,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2015-05-01,0.81,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2015-05-01,0.37,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2015-06-01,0.82,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2015-06-01,0.84,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2015-06-01,0.67,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2015-06-01,0.83,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2015-06-01,0.75,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2015-06-01,0.41,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2015-07-01,0.81,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2015-07-01,0.79,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2015-07-01,0.65,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2015-07-01,0.8,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2015-07-01,0.72,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2015-07-01,0.38,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2015-08-01,0.89,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2015-08-01,0.89,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2015-08-01,0.79,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2015-08-01,0.76,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2015-08-01,0.76,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2015-08-01,0.97,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2015-09-01,0.89,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2015-09-01,0.86,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2015-09-01,0.76,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2015-09-01,0.78,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2015-09-01,0.78,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2015-09-01,0.78,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2015-10-01,0.88,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2015-10-01,0.9,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2015-10-01,0.79,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2015-10-01,0.81,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2015-10-01,0.82,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2015-10-01,0.55,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2015-11-01,0.88,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2015-11-01,0.98,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2015-11-01,0.88,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2015-11-01,0.86,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2015-11-01,0.87,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2015-11-01,0.54,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2015-12-01,0.87,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2015-12-01,0.99,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2015-12-01,0.91,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2015-12-01,0.85,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2015-12-01,0.89,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2015-12-01,0.35,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2016-01-01,1.05,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2016-01-01,1.0,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2016-01-01,0.92,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2016-01-01,0.84,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2016-01-01,0.9,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2016-01-01,0.46,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2016-02-01,1.04,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2016-02-01,0.96,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2016-02-01,0.92,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2016-02-01,0.83,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2016-02-01,0.9,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2016-02-01,0.56,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2016-03-01,1.04,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2016-03-01,0.94,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2016-03-01,0.91,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2016-03-01,0.91,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2016-03-01,0.91,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2016-03-01,0.48,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2016-04-01,0.93,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2016-04-01,0.87,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2016-04-01,0.83,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2016-04-01,0.87,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2016-04-01,0.85,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2016-04-01,0.49,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2016-05-01,0.85,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2016-05-01,0.82,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2016-05-01,0.74,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2016-05-01,0.8,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2016-05-01,0.77,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2016-05-01,0.48,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2016-06-01,0.85,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2016-06-01,0.8,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2016-06-01,0.83,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2016-06-01,0.75,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2016-06-01,0.75,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2016-06-01,0.59,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2016-07-01,0.97,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2016-07-01,0.82,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2016-07-01,0.78,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2016-07-01,0.76,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2016-07-01,0.78,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2016-07-01,0.59,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2016-08-01,0.91,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2016-08-01,0.8,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2016-08-01,0.83,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2016-08-01,0.83,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2016-08-01,0.54,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2016-09-01,0.9,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2016-09-01,0.76,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2016-09-01,0.83,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2016-09-01,0.83,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2016-09-01,0.52,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2016-10-01,0.94,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2016-10-01,0.91,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2016-10-01,0.74,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2016-10-01,0.88,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2016-10-01,0.87,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2016-10-01,0.5,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2016-11-01,0.98,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2016-11-01,0.92,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2016-11-01,0.9,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2016-11-01,0.93,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2016-11-01,0.93,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2016-11-01,0.49,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2016-12-01,1.05,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2016-12-01,1.03,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2016-12-01,0.92,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2016-12-01,0.93,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2016-12-01,0.99,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2017-01-01,1.06,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2017-01-01,0.97,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2017-01-01,0.95,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2017-01-01,0.92,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2017-01-01,0.99,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2017-01-01,0.62,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2017-02-01,1.24,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2017-02-01,1.19,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2017-02-01,1.1,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2017-02-01,1.04,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2017-02-01,1.25,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2017-02-01,0.58,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2017-03-01,0.98,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2017-03-01,1.05,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2017-03-01,1.13,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2017-03-01,1.07,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2017-03-01,1.09,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2017-03-01,0.5,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2017-04-01,1.02,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2017-04-01,1.06,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2017-04-01,1.12,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2017-04-01,1.08,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2017-04-01,1.11,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2017-04-01,0.52,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2017-05-01,1.12,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2017-05-01,1.1,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2017-05-01,1.07,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2017-05-01,1.13,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2017-05-01,1.1,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2017-05-01,0.5,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2017-06-01,1.05,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2017-06-01,1.05,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2017-06-01,0.97,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2017-06-01,0.97,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2017-06-01,1.0,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2017-06-01,0.54,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2017-07-01,1.03,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2017-07-01,1.04,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2017-07-01,0.93,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2017-07-01,0.9,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2017-07-01,0.99,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2017-07-01,0.56,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2017-08-01,1.05,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2017-08-01,1.01,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2017-08-01,0.96,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2017-08-01,0.94,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2017-08-01,1.01,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2017-08-01,0.52,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2017-09-01,1.09,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2017-09-01,1.04,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2017-09-01,0.99,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2017-09-01,1.03,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2017-09-01,1.04,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2017-09-01,0.46,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2017-10-01,1.16,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2017-10-01,1.08,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2017-10-01,1.05,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2017-10-01,1.1,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2017-10-01,1.11,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2017-10-01,0.46,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2017-11-01,1.18,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2017-11-01,1.09,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2017-11-01,1.13,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2017-11-01,1.01,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2017-11-01,1.12,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2017-11-01,0.46,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2017-12-01,1.13,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2017-12-01,1.1,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2017-12-01,0.98,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2017-12-01,1.0,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2017-12-01,1.07,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2017-12-01,0.46,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2018-01-01,0.96,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Gitega,RETAIL,2018-01-01,0.94,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2018-01-01,0.92,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2018-01-01,0.99,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2018-01-01,0.54,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2018-02-01,1.06,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2018-02-01,0.98,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2018-02-01,0.92,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2018-02-01,0.82,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2018-02-01,0.95,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2018-02-01,0.55,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2018-03-01,1.03,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2018-03-01,0.91,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2018-03-01,0.83,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2018-03-01,0.75,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2018-03-01,0.93,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2018-04-01,0.93,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2018-04-01,0.81,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2018-04-01,0.89,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2018-04-01,0.75,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2018-04-01,0.9,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2018-05-01,0.89,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2018-05-01,0.88,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2018-05-01,0.85,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2018-05-01,0.76,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2018-05-01,0.87,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2018-06-01,0.88,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2018-06-01,0.84,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2018-06-01,0.76,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2018-06-01,0.78,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2018-06-01,0.82,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2018-07-01,0.87,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2018-07-01,0.83,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2018-07-01,0.77,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2018-07-01,0.8,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2018-07-01,0.81,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2018-07-01,0.53,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2018-08-01,0.86,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2018-08-01,0.83,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2018-08-01,0.78,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2018-08-01,0.79,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2018-08-01,0.81,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2018-09-01,0.87,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2018-09-01,0.85,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2018-09-01,0.75,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2018-09-01,0.8,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2018-09-01,0.82,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2018-10-01,0.9,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2018-10-01,0.87,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2018-10-01,0.76,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2018-10-01,0.85,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2018-10-01,0.84,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2018-11-01,0.9,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2018-11-01,0.87,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2018-11-01,0.79,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2018-11-01,0.85,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2018-11-01,0.86,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2018-12-01,0.98,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2018-12-01,0.92,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2018-12-01,0.84,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2018-12-01,0.85,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2018-12-01,0.9,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2019-01-01,0.91,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2019-01-01,0.87,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2019-01-01,0.84,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2019-01-01,0.83,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2019-01-01,0.88,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2019-02-01,0.86,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2019-02-01,0.88,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2019-02-01,0.84,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2019-02-01,0.82,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2019-02-01,0.86,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2019-03-01,0.96,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2019-03-01,0.9,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2019-03-01,0.85,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2019-03-01,0.83,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2019-03-01,0.9,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2019-05-01,0.89,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2019-05-01,0.88,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2019-05-01,0.77,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2019-05-01,0.79,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2019-05-01,0.85,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2019-06-01,0.82,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2019-06-01,0.84,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2019-06-01,0.69,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2019-06-01,0.75,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2019-06-01,0.78,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2019-07-01,0.92,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2019-07-01,0.9,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2019-07-01,0.81,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2019-07-01,0.77,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2019-07-01,0.84,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2019-08-01,0.88,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2019-08-01,0.83,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2019-08-01,0.72,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2019-08-01,0.75,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2019-08-01,0.79,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2019-10-01,0.97,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2019-10-01,0.92,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2019-10-01,0.79,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2019-10-01,0.8,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2019-10-01,0.87,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2019-12-01,1.01,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2019-12-01,0.96,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2019-12-01,0.81,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2019-12-01,0.82,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2019-12-01,0.91,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2020-01-01,0.98,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2020-01-01,0.96,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2020-01-01,0.83,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2020-01-01,0.81,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2020-01-01,0.92,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2020-02-01,1.0,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2020-02-01,0.98,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2020-02-01,0.92,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2020-02-01,0.87,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2020-02-01,0.97,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2020-03-01,1.0,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2020-03-01,0.96,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2020-03-01,0.94,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2020-03-01,0.94,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2020-03-01,0.99,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2020-04-01,0.41,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2020-04-01,0.44,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2020-04-01,0.37,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2020-04-01,0.66,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2020-04-01,0.33,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2020-04-01,0.35,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2020-05-01,0.42,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2020-05-01,0.39,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2020-05-01,0.43,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2020-05-01,0.61,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2020-05-01,0.43,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2020-05-01,0.35,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2020-06-01,0.92,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2020-06-01,0.83,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2020-06-01,0.74,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2020-06-01,0.75,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2020-06-01,0.8,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2020-06-01,0.42,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2020-06-01,0.45,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2020-06-01,0.4,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2020-06-01,0.65,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2020-06-01,0.33,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2020-06-01,0.37,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2020-07-01,0.9,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2020-07-01,0.85,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2020-07-01,0.75,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2020-07-01,0.78,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2020-07-01,0.81,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2020-07-01,0.43,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2020-07-01,0.45,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2020-07-01,0.45,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2020-07-01,0.62,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2020-07-01,0.38,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2020-08-01,0.91,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2020-08-01,0.83,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2020-08-01,0.76,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2020-08-01,0.8,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2020-08-01,0.83,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2020-08-01,0.43,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2020-08-01,0.47,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2020-08-01,0.43,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2020-08-01,0.59,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2020-08-01,0.38,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2020-09-01,0.93,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2020-09-01,0.87,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2020-09-01,0.79,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2020-09-01,0.84,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2020-09-01,0.86,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2020-09-01,0.44,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2020-09-01,0.48,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2020-09-01,0.46,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2020-09-01,0.62,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2020-09-01,0.34,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2020-09-01,0.39,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2020-10-01,0.96,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2020-10-01,0.95,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2020-10-01,0.79,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2020-10-01,0.86,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2020-10-01,0.88,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2020-10-01,0.45,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2020-10-01,0.49,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2020-10-01,0.49,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2020-10-01,0.64,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2020-10-01,0.35,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2020-10-01,0.4,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2020-11-01,0.94,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2020-11-01,0.91,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2020-11-01,0.84,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2020-11-01,0.85,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2020-11-01,0.91,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2020-11-01,0.44,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2020-11-01,0.49,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2020-11-01,0.47,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2020-11-01,0.64,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2020-11-01,0.36,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2020-11-01,0.4,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2020-12-01,0.94,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2020-12-01,0.91,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2020-12-01,0.81,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2020-12-01,0.82,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2020-12-01,0.9,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2020-12-01,0.44,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2020-12-01,0.48,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2020-12-01,0.46,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2020-12-01,0.61,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2020-12-01,0.26,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2020-12-01,0.39,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2021-01-01,0.9,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2021-01-01,0.87,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2021-01-01,0.8,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2021-01-01,0.81,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2021-01-01,0.88,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2021-01-01,0.44,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2021-01-01,0.48,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2021-01-01,0.48,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2021-01-01,0.62,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2021-01-01,0.23,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2021-01-01,0.39,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2021-02-01,0.91,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2021-02-01,0.85,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2021-02-01,0.79,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2021-02-01,0.85,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2021-02-01,0.87,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2021-02-01,0.42,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2021-02-01,0.46,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2021-02-01,0.45,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2021-02-01,0.58,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2021-02-01,0.28,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2021-02-01,0.4,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2021-03-01,0.89,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2021-03-01,0.84,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2021-03-01,0.82,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2021-03-01,0.86,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2021-03-01,0.88,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2021-03-01,0.41,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2021-03-01,0.45,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myoma,RETAIL,2021-03-01,0.57,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2021-03-01,0.43,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2021-04-01,0.9,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2021-04-01,0.84,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2021-04-01,0.79,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2021-04-01,0.84,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2021-04-01,0.87,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2021-04-01,0.43,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2021-04-01,0.46,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2021-04-01,0.47,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2021-04-01,0.58,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2021-04-01,0.43,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2021-05-01,0.86,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2021-05-01,0.75,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2021-05-01,0.79,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2021-05-01,0.86,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2021-05-01,0.87,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2021-05-01,0.4,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2021-05-01,0.41,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myoma,RETAIL,2021-05-01,0.52,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2021-05-01,0.39,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Kirundo,RETAIL,2021-06-01,0.84,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2021-06-01,0.38,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2021-06-01,0.39,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myoma,RETAIL,2021-06-01,0.5,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2021-06-01,0.37,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2021-07-01,0.42,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2021-07-01,0.39,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myoma,RETAIL,2021-07-01,0.5,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2021-07-01,0.39,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2021-08-01,0.4,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2021-08-01,0.39,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myoma,RETAIL,2021-08-01,0.5,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2021-08-01,0.39,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2021-09-01,0.99,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2021-09-01,0.78,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,National Average,RETAIL,2021-09-01,0.91,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2021-09-01,0.38,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2021-09-01,0.37,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myoma,RETAIL,2021-09-01,0.47,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2021-09-01,0.38,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2021-10-01,1.03,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2021-10-01,0.98,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2021-10-01,0.83,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2021-10-01,0.87,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2021-10-01,0.9,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2021-10-01,0.36,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2021-10-01,0.36,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myoma,RETAIL,2021-10-01,0.47,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2021-10-01,0.35,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2021-11-01,0.4,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2021-11-01,0.39,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myoma,RETAIL,2021-11-01,0.5,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2021-11-01,0.37,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2021-12-01,0.4,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2021-12-01,0.39,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2021-12-01,0.51,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2021-12-01,0.5,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2021-12-01,0.37,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2022-01-01,1.27,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2022-01-01,1.16,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2022-01-01,1.04,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2022-01-01,0.98,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2022-01-01,1.1,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2022-01-01,0.4,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2022-01-01,0.38,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2022-01-01,0.43,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2022-01-01,0.5,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2022-01-01,0.36,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2022-02-01,1.36,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2022-02-01,1.27,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2022-02-01,1.13,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2022-02-01,1.13,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2022-02-01,1.21,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2022-02-01,0.4,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2022-02-01,0.4,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2022-02-01,0.4,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2022-02-01,0.54,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2022-02-01,0.37,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2022-03-01,1.34,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2022-03-01,1.23,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2022-03-01,1.17,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2022-03-01,1.15,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2022-03-01,1.21,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2022-03-01,0.44,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2022-03-01,0.4,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2022-03-01,0.47,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2022-03-01,0.54,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2022-03-01,0.37,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2022-04-01,1.3,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2022-04-01,1.29,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2022-04-01,1.23,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2022-04-01,1.17,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2022-04-01,1.24,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2022-04-01,0.43,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2022-04-01,0.37,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2022-04-01,0.45,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2022-04-01,0.51,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2022-04-01,0.33,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2022-04-01,0.38,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2022-05-01,1.31,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2022-05-01,1.26,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2022-05-01,1.07,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2022-05-01,1.12,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2022-05-01,1.19,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2022-05-01,0.43,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2022-05-01,0.37,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2022-05-01,0.42,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2022-05-01,0.51,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2022-05-01,0.34,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2022-06-01,1.36,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2022-06-01,1.38,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2022-06-01,0.98,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2022-06-01,1.1,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2022-06-01,1.18,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2022-06-01,0.44,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2022-06-01,0.37,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2022-06-01,0.44,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2022-06-01,0.52,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2022-07-01,1.25,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2022-07-01,1.25,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2022-07-01,1.04,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2022-07-01,1.13,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2022-07-01,1.17,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2022-07-01,0.44,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2022-07-01,0.37,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2022-07-01,0.46,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2022-07-01,0.51,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2022-07-01,0.35,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2022-08-01,1.41,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2022-08-01,1.29,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2022-08-01,1.18,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2022-08-01,1.2,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2022-08-01,1.25,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2022-08-01,0.46,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2022-08-01,0.39,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myoma,RETAIL,2022-08-01,0.51,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2022-08-01,0.32,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2022-09-01,1.43,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2022-09-01,1.36,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2022-09-01,1.18,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2022-09-01,1.25,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2022-09-01,1.3,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2022-09-01,0.45,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2022-09-01,0.5,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2022-09-01,0.49,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2022-09-01,0.6,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2022-09-01,0.36,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2022-09-01,0.6,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2022-10-01,1.47,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2022-10-01,1.39,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2022-10-01,1.29,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2022-10-01,1.25,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2022-10-01,1.36,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2022-10-01,0.49,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2022-10-01,0.5,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2022-10-01,0.46,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2022-10-01,0.67,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2022-10-01,0.38,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2022-10-01,0.62,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2022-10-01,0.45,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2022-11-01,1.66,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2022-11-01,1.57,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2022-11-01,1.43,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2022-11-01,1.42,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2022-11-01,1.52,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Kanthar,RETAIL,2022-11-01,0.45,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2022-11-01,0.45,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2022-11-01,0.68,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2022-11-01,0.43,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2022-11-01,0.62,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2022-11-01,0.55,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2022-12-01,1.75,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2022-12-01,1.66,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2022-12-01,1.43,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2022-12-01,1.42,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2022-12-01,1.55,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2022-12-01,0.52,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2022-12-01,0.46,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2022-12-01,0.45,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2022-12-01,0.66,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2022-12-01,0.45,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2022-12-01,0.68,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2022-12-01,0.45,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2023-01-01,1.68,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2023-01-01,1.63,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,National Average,RETAIL,2023-01-01,1.59,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Kanthar,RETAIL,2023-01-01,0.54,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2023-01-01,0.53,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2023-01-01,0.65,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2023-01-01,0.43,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2023-01-01,0.78,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2023-01-01,0.45,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2023-02-01,1.64,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2023-02-01,1.6,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2023-02-01,1.52,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2023-02-01,1.53,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2023-02-01,1.57,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Kanthar,RETAIL,2023-02-01,0.56,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2023-02-01,0.61,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2023-02-01,0.66,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2023-02-01,0.52,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2023-02-01,0.67,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2023-02-01,0.49,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2023-03-01,1.73,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2023-03-01,1.74,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2023-03-01,1.64,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2023-03-01,1.68,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2023-03-01,1.72,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Kanthar,RETAIL,2023-03-01,0.56,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myoma,RETAIL,2023-03-01,0.78,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2023-03-01,0.74,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2023-03-01,0.78,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2023-03-01,0.54,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2023-04-01,1.66,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2023-04-01,1.72,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2023-04-01,1.63,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2023-04-01,1.68,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2023-04-01,1.71,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Kanthar,RETAIL,2023-04-01,0.67,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2023-04-01,0.63,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2023-04-01,0.81,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2023-04-01,0.88,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2023-04-01,0.9,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2023-04-01,0.58,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2023-05-01,1.27,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2023-05-01,1.2,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2023-05-01,1.08,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2023-05-01,1.19,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2023-05-01,1.2,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2023-05-01,0.79,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2023-05-01,0.67,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2023-05-01,0.65,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2023-05-01,0.9,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2023-05-01,0.92,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2023-05-01,0.67,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2023-06-01,1.25,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2023-06-01,1.2,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2023-06-01,1.07,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2023-06-01,1.08,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2023-06-01,1.1,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2023-06-01,0.75,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2023-06-01,0.75,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2023-06-01,0.77,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2023-06-01,1.13,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2023-06-01,1.1,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2023-06-01,0.93,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2023-06-01,0.68,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2023-07-01,1.23,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2023-07-01,1.17,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2023-07-01,1.05,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2023-07-01,1.01,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2023-07-01,1.1,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2023-07-01,0.75,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2023-07-01,0.9,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2023-07-01,0.92,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2023-07-01,1.12,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2023-07-01,0.67,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2023-07-01,0.92,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2023-07-01,0.67,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2023-08-01,1.23,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2023-08-01,1.22,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2023-08-01,1.08,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2023-08-01,1.06,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2023-08-01,1.15,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2023-08-01,0.75,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2023-08-01,1.01,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myoma,RETAIL,2023-08-01,1.12,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2023-08-01,0.67,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2023-08-01,0.97,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2023-08-01,0.81,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2023-09-01,1.28,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2023-09-01,1.26,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2023-09-01,1.1,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2023-09-01,1.18,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2023-09-01,1.19,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2023-09-01,0.84,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2023-09-01,1.01,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2023-09-01,0.97,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2023-09-01,1.45,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2023-09-01,1.07,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2023-09-01,0.85,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2023-10-01,1.35,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2023-10-01,1.3,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2023-10-01,1.15,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2023-10-01,1.2,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2023-10-01,1.23,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2023-10-01,0.84,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2023-10-01,1.01,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2023-10-01,1.01,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2023-10-01,1.4,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2023-10-01,0.64,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2023-10-01,1.14,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2023-10-01,0.83,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2023-11-01,1.34,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2023-11-01,1.29,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2023-11-01,1.15,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2023-11-01,1.15,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2023-11-01,1.25,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2023-11-01,0.85,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2023-11-01,1.02,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2023-11-01,1.21,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2023-11-01,1.41,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2023-11-01,0.82,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2023-11-01,1.15,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2023-11-01,0.88,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2023-12-01,1.41,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2023-12-01,1.26,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2023-12-01,1.16,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2023-12-01,1.1,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2023-12-01,1.25,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2023-12-01,0.84,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2023-12-01,0.97,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2023-12-01,1.01,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2023-12-01,1.42,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2023-12-01,0.86,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2023-12-01,1.21,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2023-12-01,0.89,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2024-01-01,1.39,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2024-01-01,1.31,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2024-01-01,1.23,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2024-01-01,1.15,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2024-01-01,1.27,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2024-01-01,0.84,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2024-01-01,0.97,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2024-01-01,1.16,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2024-01-01,1.42,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2024-01-01,1.21,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2024-01-01,0.74,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2024-02-01,1.39,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2024-02-01,1.3,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2024-02-01,1.18,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2024-02-01,1.19,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2024-02-01,1.27,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Demoso Myoma,RETAIL,2024-02-01,0.82,Kg,358e6b97-c67c-4cc4-8c86-f019c9dc772d
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2024-02-01,0.84,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2024-02-01,0.96,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2024-02-01,0.9,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2024-02-01,1.42,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2024-02-01,1.12,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2024-02-01,0.9,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2024-03-01,1.38,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2024-03-01,1.28,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2024-03-01,1.19,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2024-03-01,1.18,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2024-03-01,1.28,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Demoso Myoma,RETAIL,2024-03-01,0.82,Kg,358e6b97-c67c-4cc4-8c86-f019c9dc772d
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2024-03-01,0.84,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2024-03-01,1.0,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2024-03-01,1.12,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2024-03-01,1.45,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2024-03-01,0.81,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2024-03-01,1.12,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2024-03-01,0.92,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2024-04-01,1.36,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2024-04-01,1.28,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2024-04-01,1.13,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2024-04-01,1.18,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2024-04-01,1.24,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Demoso Myoma,RETAIL,2024-04-01,0.88,Kg,358e6b97-c67c-4cc4-8c86-f019c9dc772d
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2024-04-01,0.84,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2024-04-01,1.06,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2024-04-01,1.01,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2024-04-01,1.46,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2024-04-01,1.12,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2024-04-01,0.94,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2024-05-01,1.28,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2024-05-01,1.21,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2024-05-01,1.02,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2024-05-01,1.07,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2024-05-01,1.13,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Demoso Myoma,RETAIL,2024-05-01,0.87,Kg,358e6b97-c67c-4cc4-8c86-f019c9dc772d
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2024-05-01,0.9,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2024-05-01,1.05,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2024-05-01,0.97,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2024-05-01,1.45,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2024-05-01,0.86,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2024-05-01,1.06,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2024-05-01,1.01,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2024-06-01,1.22,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2024-06-01,1.15,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2024-06-01,1.03,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2024-06-01,1.07,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2024-06-01,1.1,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Demoso Myoma,RETAIL,2024-06-01,0.82,Kg,358e6b97-c67c-4cc4-8c86-f019c9dc772d
+Rice (low quality),Myanmar,Kanthar,RETAIL,2024-06-01,0.99,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2024-06-01,0.93,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2024-06-01,1.54,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2024-06-01,0.96,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2024-07-01,1.23,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2024-07-01,1.16,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2024-07-01,1.05,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2024-07-01,1.09,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2024-07-01,1.12,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Demoso Myoma,RETAIL,2024-07-01,0.89,Kg,358e6b97-c67c-4cc4-8c86-f019c9dc772d
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2024-07-01,1.52,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2024-07-01,1.05,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2024-07-01,0.98,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2024-07-01,1.64,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2024-07-01,1.07,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2024-08-01,1.3,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2024-08-01,1.23,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2024-08-01,1.14,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2024-08-01,1.11,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2024-08-01,1.18,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Demoso Myoma,RETAIL,2024-08-01,0.92,Kg,358e6b97-c67c-4cc4-8c86-f019c9dc772d
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2024-08-01,1.96,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2024-08-01,1.07,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2024-08-01,1.01,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2024-08-01,2.24,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2024-08-01,1.12,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2024-09-01,1.37,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2024-09-01,1.33,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2024-09-01,1.19,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2024-09-01,1.18,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2024-09-01,1.26,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Demoso Myoma,RETAIL,2024-09-01,0.89,Kg,358e6b97-c67c-4cc4-8c86-f019c9dc772d
+Rice (low quality),Myanmar,Kanthar,RETAIL,2024-09-01,1.07,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2024-09-01,1.01,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2024-09-01,2.24,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2024-09-01,1.0,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2024-09-01,1.23,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2024-10-01,1.4,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2024-10-01,1.38,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2024-10-01,1.21,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2024-10-01,1.17,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2024-10-01,1.29,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Demoso Myoma,RETAIL,2024-10-01,1.15,Kg,358e6b97-c67c-4cc4-8c86-f019c9dc772d
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2024-10-01,2.09,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2024-10-01,1.07,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2024-10-01,1.01,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2024-10-01,2.41,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2024-10-01,1.0,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2024-10-01,1.37,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2024-11-01,1.46,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2024-11-01,1.43,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2024-11-01,1.29,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2024-11-01,1.22,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2024-11-01,1.35,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Demoso Myoma,RETAIL,2024-11-01,1.12,Kg,358e6b97-c67c-4cc4-8c86-f019c9dc772d
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2024-11-01,1.56,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2024-11-01,1.07,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2024-11-01,1.01,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2024-11-01,2.35,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2024-11-01,0.95,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2024-11-01,1.48,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2024-12-01,1.54,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2024-12-01,1.46,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2024-12-01,1.33,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2024-12-01,1.28,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2024-12-01,1.41,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Demoso Myoma,RETAIL,2024-12-01,1.03,Kg,358e6b97-c67c-4cc4-8c86-f019c9dc772d
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2024-12-01,1.74,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2024-12-01,1.04,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2024-12-01,1.01,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2024-12-01,2.24,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2024-12-01,0.86,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2024-12-01,1.84,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2025-01-01,1.56,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2025-01-01,1.46,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2025-01-01,1.34,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2025-01-01,1.33,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2025-01-01,1.44,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2025-02-01,1.69,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2025-02-01,1.6,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2025-02-01,1.53,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2025-02-01,1.56,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2025-02-01,1.61,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Demoso Myoma,RETAIL,2025-02-01,1.01,Kg,358e6b97-c67c-4cc4-8c86-f019c9dc772d
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2025-02-01,1.63,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2025-02-01,1.04,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2025-02-01,0.91,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2025-02-01,2.22,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2025-02-01,0.81,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2025-02-01,1.52,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Myanmar,Zay Cho,RETAIL,2025-02-01,1.01,Kg,2e153537-50ae-49b2-b3e5-fb0d9dc38c94
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2025-03-01,1.79,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2025-03-01,1.68,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2025-03-01,1.74,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2025-03-01,1.75,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2025-03-01,1.78,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Hakha Myoma Market,RETAIL,2025-03-01,1.68,Kg,0303a809-3cf0-4eec-90bf-99cdc74717bf
+Rice (low quality),Myanmar,Kanthar,RETAIL,2025-03-01,1.04,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2025-03-01,0.9,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2025-03-01,2.24,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2025-03-01,0.91,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2025-03-01,1.84,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2025-04-01,1.81,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2025-04-01,1.7,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2025-04-01,1.81,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2025-04-01,1.68,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2025-04-01,1.77,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Kanthar,RETAIL,2025-04-01,1.03,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2025-04-01,0.98,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2025-04-01,2.26,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Rathedaung Main,RETAIL,2025-04-01,0.89,Kg,3a31773a-9224-4395-a2a1-a9e5ae15ed95
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2025-04-01,1.85,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2025-05-01,1.76,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2025-05-01,1.71,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2025-05-01,1.67,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2025-05-01,1.6,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2025-05-01,1.7,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Kanthar,RETAIL,2025-05-01,1.02,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2025-05-01,0.95,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2025-05-01,1.96,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2025-05-01,1.85,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2025-06-01,1.73,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2025-06-01,1.69,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2025-06-01,1.52,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2025-06-01,1.48,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2025-06-01,1.61,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Kanthar,RETAIL,2025-06-01,1.04,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2025-06-01,0.96,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2025-06-01,2.13,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2025-06-01,1.84,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2025-07-01,1.76,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2025-07-01,1.69,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2025-07-01,1.59,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2025-07-01,1.49,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2025-07-01,1.6,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Kanthar,RETAIL,2025-07-01,1.06,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2025-07-01,0.96,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2025-07-01,2.13,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2025-07-01,1.84,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2025-08-01,1.8,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2025-08-01,1.72,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2025-08-01,1.68,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2025-08-01,1.57,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2025-08-01,1.67,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Kanthar,RETAIL,2025-08-01,1.07,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2025-08-01,1.01,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2025-08-01,2.18,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2025-08-01,1.59,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2025-09-01,1.96,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2025-09-01,1.81,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2025-09-01,1.74,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2025-09-01,1.75,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2025-09-01,1.8,Kg,a6db3823-3375-4151-b849-06db15ad9573
+Rice (low quality),Myanmar,Demoso Myoma,RETAIL,2025-09-01,1.19,Kg,358e6b97-c67c-4cc4-8c86-f019c9dc772d
+Rice (low quality),Myanmar,Kanthar,RETAIL,2025-09-01,1.07,Kg,ab0d1850-4c25-4746-a0bc-f17f9d073fe4
+Rice (low quality),Myanmar,Myitkyina Myoma Market,RETAIL,2025-09-01,0.94,Kg,a43c0070-0f2f-4ecc-8bad-ae7d0d3bf36e
+Rice (low quality),Myanmar,Myoma,RETAIL,2025-09-01,2.24,Kg,064e7b55-ca7b-4dcb-84ff-3f6299474903
+Rice (low quality),Myanmar,Taunggyi,RETAIL,2025-09-01,1.57,Kg,e373df93-1f72-4d17-9791-5f4469a03328
+Rice (low quality),Burundi,Bujumbura Mairie,RETAIL,2025-10-01,2.13,Kg,ad2f6d5e-1e96-4e05-82d6-617ab1ede643
+Rice (low quality),Burundi,Bujumbura Rural,RETAIL,2025-10-01,1.88,Kg,070f68a5-e0a7-42d5-9394-9fd414b57749
+Rice (low quality),Burundi,Gitega,RETAIL,2025-10-01,1.93,Kg,40ef4cba-8946-4b10-bd92-267e48009e71
+Rice (low quality),Burundi,Kirundo,RETAIL,2025-10-01,1.92,Kg,c2c09e59-f028-4e8f-9197-eda91b935609
+Rice (low quality),Burundi,National Average,RETAIL,2025-10-01,1.96,Kg,a6db3823-3375-4151-b849-06db15ad9573

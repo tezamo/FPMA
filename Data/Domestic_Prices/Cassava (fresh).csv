@@ -1,0 +1,572 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Cassava (fresh),Tonga,National Average,RETAIL,2010-03-01,0.46,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2010-04-01,0.41,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2010-05-01,0.34,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2010-06-01,0.29,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2010-07-01,0.3,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2010-08-01,0.28,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2010-09-01,0.3,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2010-10-01,0.31,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2010-11-01,0.29,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2010-12-01,0.3,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2011-01-01,0.32,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2011-02-01,0.3,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2011-03-01,0.29,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2011-04-01,0.27,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2011-05-01,0.27,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2011-06-01,0.27,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2011-07-01,0.44,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2011-07-01,0.27,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2011-08-01,0.27,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2011-09-01,0.37,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2011-10-01,0.43,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2011-10-01,0.26,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2011-11-01,0.44,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2011-11-01,0.24,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Tonga,National Average,RETAIL,2011-12-01,0.3,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2012-01-01,0.43,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2012-01-01,0.27,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2012-02-01,0.43,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2012-02-01,0.27,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2012-03-01,0.46,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2012-03-01,0.27,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2012-04-01,0.53,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2012-04-01,0.25,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2012-05-01,0.52,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2012-05-01,0.27,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2012-06-01,0.49,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2012-06-01,0.28,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2012-07-01,0.47,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2012-07-01,0.33,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2012-08-01,0.48,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2012-08-01,0.34,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2012-09-01,0.5,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2012-09-01,0.35,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2012-10-01,0.54,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2012-10-01,0.34,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2012-11-01,0.54,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2012-11-01,0.34,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2012-12-01,0.55,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2012-12-01,0.33,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2013-01-01,0.54,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2013-01-01,0.33,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2013-02-01,0.59,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2013-02-01,0.35,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2013-03-01,0.47,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2013-03-01,0.36,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2013-04-01,0.53,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2013-04-01,0.37,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2013-05-01,0.52,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2013-05-01,0.33,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2013-06-01,0.54,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2013-06-01,0.36,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2013-07-01,0.48,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2013-07-01,0.34,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2013-08-01,0.48,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2013-08-01,0.34,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2013-09-01,0.43,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2013-09-01,0.39,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2013-10-01,0.44,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2013-10-01,0.41,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2013-11-01,0.38,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2013-11-01,0.37,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2013-12-01,0.37,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2013-12-01,0.43,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2014-01-01,0.41,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2014-01-01,0.46,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2014-02-01,0.46,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2014-02-01,0.36,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2014-03-01,0.42,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2014-03-01,0.34,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2014-04-01,0.39,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2014-04-01,0.34,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2014-05-01,0.39,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2014-05-01,0.31,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2014-06-01,0.49,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2014-06-01,0.31,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2014-07-01,0.43,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2014-07-01,0.33,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2014-08-01,0.38,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2014-08-01,0.3,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2014-09-01,0.33,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2014-09-01,0.29,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2014-10-01,0.46,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2014-10-01,0.27,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2014-11-01,0.45,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2014-11-01,0.26,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2014-12-01,0.45,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2014-12-01,0.28,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2015-01-01,0.5,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2015-01-01,0.28,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2015-02-01,0.41,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2015-02-01,0.25,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2015-03-01,0.3,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2015-03-01,0.25,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2015-04-01,0.33,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2015-04-01,0.27,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2015-05-01,0.4,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2015-05-01,0.3,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2015-06-01,0.34,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2015-06-01,0.31,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2015-07-01,0.37,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2015-07-01,0.28,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2015-08-01,0.31,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2015-08-01,0.3,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2015-09-01,0.38,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2015-09-01,0.3,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2015-10-01,0.32,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2015-10-01,0.35,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2015-11-01,0.31,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2015-11-01,0.35,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2015-12-01,0.42,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2015-12-01,0.41,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2016-01-01,0.42,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2016-01-01,0.38,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2016-02-01,0.48,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2016-02-01,0.33,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2016-03-01,0.49,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2016-03-01,0.37,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2016-04-01,0.49,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2016-04-01,0.42,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2016-05-01,0.5,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2016-05-01,0.33,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2016-06-01,0.46,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2016-06-01,0.32,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2016-07-01,0.42,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2016-07-01,0.31,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2016-08-01,0.38,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2016-08-01,0.29,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2016-09-01,0.47,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2016-09-01,0.32,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2016-10-01,0.36,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2016-10-01,0.29,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2016-11-01,0.37,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2016-11-01,0.26,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2016-12-01,0.4,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2016-12-01,0.26,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2017-01-01,0.32,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2017-01-01,0.27,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2017-02-01,0.37,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2017-02-01,0.22,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2017-03-01,0.38,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2017-03-01,0.21,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2017-04-01,0.37,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2017-04-01,0.21,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2017-05-01,0.34,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2017-05-01,0.25,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2017-06-01,0.34,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2017-06-01,0.25,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2017-07-01,0.51,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2017-07-01,0.24,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2017-08-01,0.37,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2017-08-01,0.25,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2017-09-01,0.35,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2017-09-01,0.23,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2017-10-01,0.35,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2017-10-01,0.22,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2017-11-01,0.34,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2017-11-01,0.23,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2017-12-01,0.32,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2017-12-01,0.23,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2018-01-01,0.4,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2018-01-01,0.22,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2018-02-01,0.36,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2018-02-01,0.28,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2018-03-01,0.36,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2018-03-01,0.26,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2018-04-01,0.34,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2018-04-01,0.33,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2018-05-01,0.32,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2018-05-01,0.35,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2018-06-01,0.39,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2018-06-01,0.31,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2018-07-01,0.31,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2018-07-01,0.48,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2018-08-01,0.35,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2018-08-01,0.49,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2018-09-01,0.39,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2018-09-01,0.35,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2018-10-01,0.35,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2018-10-01,0.53,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2018-11-01,0.29,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2018-11-01,0.67,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2018-12-01,0.35,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2018-12-01,0.61,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2019-01-01,0.29,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2019-01-01,0.64,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2019-02-01,0.25,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2019-02-01,0.71,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2019-03-01,0.33,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2019-03-01,0.81,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2019-04-01,0.34,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2019-04-01,0.54,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2019-05-01,0.32,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2019-05-01,0.49,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2019-06-01,0.32,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2019-06-01,0.56,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2019-07-01,0.32,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2019-07-01,0.48,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2019-08-01,0.31,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2019-08-01,0.45,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2019-09-01,0.3,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2019-09-01,0.44,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2019-10-01,0.31,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2019-10-01,0.46,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2019-11-01,0.36,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2019-11-01,0.4,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2019-12-01,0.34,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2019-12-01,0.42,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2020-01-01,0.34,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2020-01-01,0.43,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2020-02-01,0.33,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2020-02-01,0.38,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2020-03-01,0.33,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2020-03-01,0.36,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2020-04-01,0.35,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2020-04-01,0.36,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2020-05-01,0.36,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2020-05-01,0.35,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2020-06-01,0.38,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2020-06-01,0.42,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2020-07-01,0.39,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2020-07-01,0.49,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2020-08-01,0.37,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2020-08-01,0.42,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2020-09-01,0.37,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2020-09-01,0.46,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2020-10-01,0.38,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2020-10-01,0.44,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2020-11-01,0.44,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2020-11-01,0.43,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2020-12-01,0.46,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2020-12-01,0.46,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2021-01-01,0.58,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2021-01-01,0.44,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2021-02-01,0.57,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2021-02-01,0.42,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2021-03-01,0.46,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2021-03-01,0.43,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2021-04-01,0.52,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2021-04-01,0.35,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2021-05-01,0.57,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2021-05-01,0.37,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2021-06-01,0.57,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2021-06-01,0.39,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2021-07-01,0.48,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2021-07-01,0.37,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2021-08-01,0.47,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2021-08-01,0.35,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2021-09-01,0.48,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2021-09-01,0.35,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2021-10-01,0.47,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2021-10-01,0.36,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2021-11-01,0.46,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2021-11-01,0.35,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2021-12-01,0.47,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2021-12-01,0.43,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2022-01-01,0.44,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2022-01-01,0.34,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2022-02-01,0.51,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2022-02-01,0.38,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2022-03-01,0.47,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2022-03-01,0.37,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2022-04-01,0.43,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2022-04-01,0.37,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2022-05-01,0.42,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2022-05-01,0.36,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2022-06-01,0.48,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2022-06-01,0.41,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2022-07-01,0.48,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Tonga,National Average,RETAIL,2022-07-01,0.4,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2022-08-01,0.45,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2022-08-01,1.12,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2022-08-01,0.37,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2022-08-01,0.87,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Tonga,National Average,RETAIL,2022-08-01,0.37,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2022-09-01,0.44,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2022-09-01,0.91,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2022-09-01,0.37,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2022-09-01,0.87,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Tonga,National Average,RETAIL,2022-09-01,0.37,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2022-10-01,0.41,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2022-10-01,0.85,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2022-10-01,0.37,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2022-10-01,0.95,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Tonga,National Average,RETAIL,2022-10-01,0.38,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2022-11-01,0.4,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2022-11-01,0.76,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2022-11-01,0.33,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2022-11-01,0.97,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Tonga,National Average,RETAIL,2022-11-01,0.36,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2022-12-01,0.41,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2022-12-01,0.76,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2022-12-01,0.29,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2022-12-01,0.98,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Tonga,National Average,RETAIL,2022-12-01,0.34,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2023-01-01,0.42,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2023-01-01,0.92,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2023-01-01,0.24,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2023-01-01,1.06,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Saclepea,RETAIL,2023-01-01,6.31,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2023-01-01,0.34,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2023-02-01,0.49,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2023-02-01,0.75,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2023-02-01,0.3,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2023-02-01,1.04,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2023-02-01,10.89,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2023-02-01,6.82,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2023-02-01,0.32,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2023-03-01,0.44,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2023-03-01,1.2,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2023-03-01,0.39,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2023-03-01,1.01,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2023-03-01,16.45,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2023-03-01,6.89,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2023-03-01,0.41,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2023-04-01,0.44,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2023-04-01,1.05,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2023-04-01,0.4,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2023-04-01,0.89,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2023-04-01,18.72,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2023-04-01,4.35,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2023-04-01,0.32,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2023-05-01,0.4,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2023-05-01,1.14,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2023-05-01,0.4,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2023-05-01,0.81,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2023-05-01,22.19,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2023-05-01,4.25,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2023-05-01,0.35,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2023-06-01,0.44,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2023-06-01,1.08,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2023-06-01,0.4,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2023-06-01,0.79,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2023-06-01,7.11,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Tonga,National Average,RETAIL,2023-06-01,0.33,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2023-07-01,0.45,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2023-07-01,1.22,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2023-07-01,0.39,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2023-07-01,0.78,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2023-07-01,18.17,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2023-07-01,3.06,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2023-07-01,0.41,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2023-08-01,0.47,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2023-08-01,1.02,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2023-08-01,0.35,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2023-08-01,0.77,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2023-08-01,27.91,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2023-08-01,3.38,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2023-08-01,0.42,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2023-09-01,0.43,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2023-09-01,1.02,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2023-09-01,0.35,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2023-09-01,0.77,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2023-09-01,11.81,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2023-09-01,3.13,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2023-09-01,0.46,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2023-10-01,0.44,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2023-10-01,1.02,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2023-10-01,0.35,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2023-10-01,0.77,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2023-10-01,15.63,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2023-10-01,3.1,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2023-10-01,0.48,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2023-11-01,0.41,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2023-11-01,1.03,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2023-11-01,0.35,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2023-11-01,0.78,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2023-11-01,18.38,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2023-11-01,3.11,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2023-11-01,0.47,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2023-12-01,0.48,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2023-12-01,1.2,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2023-12-01,0.32,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2023-12-01,0.73,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2023-12-01,15.68,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2023-12-01,2.74,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2023-12-01,0.69,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2024-01-01,0.48,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2024-01-01,1.2,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2024-01-01,0.44,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2024-01-01,0.73,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Tonga,National Average,RETAIL,2024-01-01,0.65,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2024-02-01,0.47,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2024-02-01,1.2,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2024-02-01,0.44,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2024-02-01,0.73,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Tonga,National Average,RETAIL,2024-02-01,0.56,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2024-03-01,0.5,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2024-03-01,1.2,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2024-03-01,0.44,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2024-03-01,0.73,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2024-03-01,8.38,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2024-03-01,2.77,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2024-03-01,0.52,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2024-04-01,0.48,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2024-04-01,1.2,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2024-04-01,0.32,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2024-04-01,0.73,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2024-04-01,8.21,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2024-04-01,2.7,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2024-04-01,0.51,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2024-05-01,0.45,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2024-05-01,1.2,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2024-05-01,0.32,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2024-05-01,0.73,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2024-05-01,8.53,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2024-05-01,2.67,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2024-05-01,0.72,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2024-06-01,0.48,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2024-06-01,1.2,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2024-06-01,0.32,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2024-06-01,0.73,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2024-06-01,8.24,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2024-06-01,2.66,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2024-06-01,0.76,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2024-07-01,0.53,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2024-07-01,1.21,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2024-07-01,0.32,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2024-07-01,0.74,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2024-07-01,8.11,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2024-07-01,2.64,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2024-07-01,0.68,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2024-08-01,0.54,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2024-08-01,1.19,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2024-08-01,0.32,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2024-08-01,0.73,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2024-08-01,7.54,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2024-08-01,2.64,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2024-08-01,0.69,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2024-09-01,0.67,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2024-09-01,1.19,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2024-09-01,0.32,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2024-09-01,0.73,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2024-09-01,7.06,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2024-09-01,2.63,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2024-09-01,0.75,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2024-10-01,0.59,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2024-10-01,1.19,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2024-10-01,0.32,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2024-10-01,0.73,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2024-10-01,7.75,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2024-10-01,2.7,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2024-10-01,0.83,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2024-11-01,0.57,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2024-11-01,1.19,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2024-11-01,0.32,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2024-11-01,0.73,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2024-11-01,9.48,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2024-11-01,2.84,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2024-11-01,0.64,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,National Average,RETAIL,2024-12-01,0.46,Kg,d4c1b828-d85d-425f-a862-9203589ff1e9
+Cassava (fresh),Guinea,Conakry,RETAIL,2024-12-01,1.19,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2024-12-01,0.32,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2024-12-01,0.73,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2024-12-01,8.91,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2024-12-01,2.89,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Tonga,National Average,RETAIL,2024-12-01,0.71,Kg,7677f6c3-1cf1-4cfa-95b3-aff67ce41e86
+Cassava (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-01-01,0.5,Kg,ba6db68c-1c16-490e-a5bd-36aef3e4646e
+Cassava (fresh),Côte d'Ivoire,Centre,RETAIL,2025-01-01,0.51,Kg,2f40f102-15bd-4c51-9b5d-3125037cdac8
+Cassava (fresh),Côte d'Ivoire,Est,RETAIL,2025-01-01,0.5,Kg,08d2bf9c-3c0c-4534-9ef6-abe992bc9d94
+Cassava (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-01-01,0.5,Kg,d4ea88dd-6787-49e2-8daf-efe6188fd3c5
+Cassava (fresh),Côte d'Ivoire,Nord,RETAIL,2025-01-01,0.5,Kg,168dca1d-b158-4567-b872-b4a3568e4de2
+Cassava (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-01-01,0.5,Kg,371c9e02-6500-49ee-9c19-cb83e46b9f9a
+Cassava (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-01-01,0.5,Kg,5f6f9073-c6f5-4fe8-b5fd-237554497aa5
+Cassava (fresh),Guinea,Conakry,RETAIL,2025-01-01,1.19,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2025-01-01,0.32,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2025-01-01,0.72,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2025-01-01,8.94,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2025-01-01,3.07,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-02-01,0.5,Kg,ba6db68c-1c16-490e-a5bd-36aef3e4646e
+Cassava (fresh),Côte d'Ivoire,Centre,RETAIL,2025-02-01,0.27,Kg,2f40f102-15bd-4c51-9b5d-3125037cdac8
+Cassava (fresh),Côte d'Ivoire,Est,RETAIL,2025-02-01,0.24,Kg,08d2bf9c-3c0c-4534-9ef6-abe992bc9d94
+Cassava (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-02-01,0.49,Kg,d4ea88dd-6787-49e2-8daf-efe6188fd3c5
+Cassava (fresh),Côte d'Ivoire,Nord,RETAIL,2025-02-01,0.33,Kg,168dca1d-b158-4567-b872-b4a3568e4de2
+Cassava (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-02-01,0.33,Kg,371c9e02-6500-49ee-9c19-cb83e46b9f9a
+Cassava (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-02-01,0.38,Kg,5f6f9073-c6f5-4fe8-b5fd-237554497aa5
+Cassava (fresh),Guinea,Conakry,RETAIL,2025-02-01,1.19,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2025-02-01,0.32,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2025-02-01,0.72,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2025-02-01,7.85,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2025-02-01,3.56,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-03-01,0.63,Kg,ba6db68c-1c16-490e-a5bd-36aef3e4646e
+Cassava (fresh),Côte d'Ivoire,Centre,RETAIL,2025-03-01,0.25,Kg,2f40f102-15bd-4c51-9b5d-3125037cdac8
+Cassava (fresh),Côte d'Ivoire,Est,RETAIL,2025-03-01,0.22,Kg,08d2bf9c-3c0c-4534-9ef6-abe992bc9d94
+Cassava (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-03-01,0.52,Kg,d4ea88dd-6787-49e2-8daf-efe6188fd3c5
+Cassava (fresh),Côte d'Ivoire,Nord,RETAIL,2025-03-01,0.56,Kg,168dca1d-b158-4567-b872-b4a3568e4de2
+Cassava (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-03-01,0.38,Kg,371c9e02-6500-49ee-9c19-cb83e46b9f9a
+Cassava (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-03-01,0.36,Kg,5f6f9073-c6f5-4fe8-b5fd-237554497aa5
+Cassava (fresh),Guinea,Conakry,RETAIL,2025-03-01,1.19,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2025-03-01,0.32,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2025-03-01,0.72,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Monrovia,RETAIL,2025-03-01,7.28,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2025-03-01,4.13,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-04-01,0.4,Kg,ba6db68c-1c16-490e-a5bd-36aef3e4646e
+Cassava (fresh),Côte d'Ivoire,Centre,RETAIL,2025-04-01,0.26,Kg,2f40f102-15bd-4c51-9b5d-3125037cdac8
+Cassava (fresh),Côte d'Ivoire,Est,RETAIL,2025-04-01,0.26,Kg,08d2bf9c-3c0c-4534-9ef6-abe992bc9d94
+Cassava (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-04-01,0.49,Kg,d4ea88dd-6787-49e2-8daf-efe6188fd3c5
+Cassava (fresh),Côte d'Ivoire,Nord,RETAIL,2025-04-01,0.38,Kg,168dca1d-b158-4567-b872-b4a3568e4de2
+Cassava (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-04-01,0.41,Kg,371c9e02-6500-49ee-9c19-cb83e46b9f9a
+Cassava (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-04-01,0.59,Kg,5f6f9073-c6f5-4fe8-b5fd-237554497aa5
+Cassava (fresh),Guinea,Conakry,RETAIL,2025-04-01,1.01,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2025-04-01,0.35,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2025-04-01,1.04,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Buchanan,RETAIL,2025-04-01,6.91,25 kg,62dd5a8e-1800-4379-a70a-6a94981a9249
+Cassava (fresh),Liberia,Monrovia,RETAIL,2025-04-01,6.75,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2025-04-01,3.67,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-05-01,0.65,Kg,ba6db68c-1c16-490e-a5bd-36aef3e4646e
+Cassava (fresh),Côte d'Ivoire,Centre,RETAIL,2025-05-01,0.26,Kg,2f40f102-15bd-4c51-9b5d-3125037cdac8
+Cassava (fresh),Côte d'Ivoire,Est,RETAIL,2025-05-01,0.23,Kg,08d2bf9c-3c0c-4534-9ef6-abe992bc9d94
+Cassava (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-05-01,0.54,Kg,d4ea88dd-6787-49e2-8daf-efe6188fd3c5
+Cassava (fresh),Côte d'Ivoire,Nord,RETAIL,2025-05-01,0.58,Kg,168dca1d-b158-4567-b872-b4a3568e4de2
+Cassava (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-05-01,0.4,Kg,371c9e02-6500-49ee-9c19-cb83e46b9f9a
+Cassava (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-05-01,0.38,Kg,5f6f9073-c6f5-4fe8-b5fd-237554497aa5
+Cassava (fresh),Guinea,Conakry,RETAIL,2025-05-01,0.8,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2025-05-01,0.35,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2025-05-01,1.04,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Buchanan,RETAIL,2025-05-01,6.59,25 kg,62dd5a8e-1800-4379-a70a-6a94981a9249
+Cassava (fresh),Liberia,Monrovia,RETAIL,2025-05-01,7.58,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2025-05-01,3.57,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-06-01,0.72,Kg,ba6db68c-1c16-490e-a5bd-36aef3e4646e
+Cassava (fresh),Côte d'Ivoire,Centre,RETAIL,2025-06-01,0.32,Kg,2f40f102-15bd-4c51-9b5d-3125037cdac8
+Cassava (fresh),Côte d'Ivoire,Est,RETAIL,2025-06-01,0.21,Kg,08d2bf9c-3c0c-4534-9ef6-abe992bc9d94
+Cassava (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-06-01,0.4,Kg,d4ea88dd-6787-49e2-8daf-efe6188fd3c5
+Cassava (fresh),Côte d'Ivoire,Nord,RETAIL,2025-06-01,0.51,Kg,168dca1d-b158-4567-b872-b4a3568e4de2
+Cassava (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-06-01,0.36,Kg,371c9e02-6500-49ee-9c19-cb83e46b9f9a
+Cassava (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-06-01,0.37,Kg,5f6f9073-c6f5-4fe8-b5fd-237554497aa5
+Cassava (fresh),Guinea,Conakry,RETAIL,2025-06-01,0.94,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2025-06-01,0.42,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2025-06-01,1.22,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Buchanan,RETAIL,2025-06-01,6.7,25 kg,62dd5a8e-1800-4379-a70a-6a94981a9249
+Cassava (fresh),Liberia,Monrovia,RETAIL,2025-06-01,7.33,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2025-06-01,3.63,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-07-01,0.73,Kg,ba6db68c-1c16-490e-a5bd-36aef3e4646e
+Cassava (fresh),Côte d'Ivoire,Centre,RETAIL,2025-07-01,0.3,Kg,2f40f102-15bd-4c51-9b5d-3125037cdac8
+Cassava (fresh),Côte d'Ivoire,Est,RETAIL,2025-07-01,0.2,Kg,08d2bf9c-3c0c-4534-9ef6-abe992bc9d94
+Cassava (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-07-01,0.38,Kg,d4ea88dd-6787-49e2-8daf-efe6188fd3c5
+Cassava (fresh),Côte d'Ivoire,Nord,RETAIL,2025-07-01,0.52,Kg,168dca1d-b158-4567-b872-b4a3568e4de2
+Cassava (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-07-01,0.41,Kg,371c9e02-6500-49ee-9c19-cb83e46b9f9a
+Cassava (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-07-01,0.36,Kg,5f6f9073-c6f5-4fe8-b5fd-237554497aa5
+Cassava (fresh),Guinea,Conakry,RETAIL,2025-07-01,0.92,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2025-07-01,0.41,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2025-07-01,1.2,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Liberia,Buchanan,RETAIL,2025-07-01,6.71,25 kg,62dd5a8e-1800-4379-a70a-6a94981a9249
+Cassava (fresh),Liberia,Monrovia,RETAIL,2025-07-01,7.21,25 kg,dc424bc0-3c9c-4158-be42-eca1d182037d
+Cassava (fresh),Liberia,Saclepea,RETAIL,2025-07-01,3.76,25 kg,ea77e58e-b1a4-43bc-ab56-dffbc221d8dd
+Cassava (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-08-01,0.74,Kg,ba6db68c-1c16-490e-a5bd-36aef3e4646e
+Cassava (fresh),Côte d'Ivoire,Centre,RETAIL,2025-08-01,0.36,Kg,2f40f102-15bd-4c51-9b5d-3125037cdac8
+Cassava (fresh),Côte d'Ivoire,Est,RETAIL,2025-08-01,0.2,Kg,08d2bf9c-3c0c-4534-9ef6-abe992bc9d94
+Cassava (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-08-01,0.43,Kg,d4ea88dd-6787-49e2-8daf-efe6188fd3c5
+Cassava (fresh),Côte d'Ivoire,Nord,RETAIL,2025-08-01,0.47,Kg,168dca1d-b158-4567-b872-b4a3568e4de2
+Cassava (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-08-01,0.46,Kg,371c9e02-6500-49ee-9c19-cb83e46b9f9a
+Cassava (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-08-01,0.36,Kg,5f6f9073-c6f5-4fe8-b5fd-237554497aa5
+Cassava (fresh),Guinea,Conakry,RETAIL,2025-08-01,0.9,Kg,35d25e45-956e-4af9-bc9a-87feb00f858e
+Cassava (fresh),Guinea,Faranah,RETAIL,2025-08-01,0.4,Kg,e8c85a37-3263-4f66-b139-f85dd1d1b87a
+Cassava (fresh),Guinea,N'Zérékoré,RETAIL,2025-08-01,1.18,Kg,1db83239-affa-47cb-a69e-57def3b5db2a
+Cassava (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-09-01,0.76,Kg,ba6db68c-1c16-490e-a5bd-36aef3e4646e
+Cassava (fresh),Côte d'Ivoire,Centre,RETAIL,2025-09-01,0.32,Kg,2f40f102-15bd-4c51-9b5d-3125037cdac8
+Cassava (fresh),Côte d'Ivoire,Est,RETAIL,2025-09-01,0.2,Kg,08d2bf9c-3c0c-4534-9ef6-abe992bc9d94
+Cassava (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-09-01,0.4,Kg,d4ea88dd-6787-49e2-8daf-efe6188fd3c5
+Cassava (fresh),Côte d'Ivoire,Nord,RETAIL,2025-09-01,0.37,Kg,168dca1d-b158-4567-b872-b4a3568e4de2
+Cassava (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-09-01,0.42,Kg,371c9e02-6500-49ee-9c19-cb83e46b9f9a
+Cassava (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-09-01,0.39,Kg,5f6f9073-c6f5-4fe8-b5fd-237554497aa5

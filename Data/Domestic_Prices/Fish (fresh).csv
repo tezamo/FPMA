@@ -1,0 +1,363 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2011-07-01,2.79,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2011-10-01,2.67,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2011-11-01,2.86,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2012-01-01,2.99,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2012-02-01,2.99,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2012-03-01,2.62,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2012-04-01,2.77,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2012-05-01,2.83,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2012-06-01,2.98,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2012-07-01,2.87,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2012-08-01,2.9,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2012-09-01,2.97,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2012-10-01,3.12,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2012-11-01,3.12,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2012-12-01,3.6,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2013-01-01,3.51,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2013-02-01,3.42,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2013-03-01,3.25,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2013-04-01,3.21,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2013-05-01,3.15,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2013-06-01,2.99,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2013-07-01,3.2,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2013-08-01,3.25,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2013-09-01,3.21,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2013-10-01,3.49,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2013-11-01,3.44,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2013-12-01,3.55,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2014-01-01,3.54,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2014-02-01,3.39,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2014-03-01,3.24,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2014-04-01,3.47,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2014-05-01,3.33,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2014-06-01,3.0,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2014-07-01,3.25,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2014-08-01,3.26,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2014-09-01,3.48,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2014-10-01,3.34,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2014-11-01,3.75,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2014-12-01,3.29,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2015-01-01,3.68,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2015-02-01,2.7,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2015-03-01,2.75,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2015-04-01,2.85,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2015-05-01,2.86,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2015-06-01,3.22,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2015-07-01,2.93,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2015-08-01,2.89,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2015-09-01,2.96,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2015-10-01,3.01,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2015-11-01,2.99,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2015-12-01,2.95,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2016-01-01,2.52,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2016-02-01,2.76,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2016-03-01,2.68,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2016-04-01,2.75,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2016-05-01,2.72,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2016-06-01,2.71,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2016-07-01,2.42,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2016-08-01,2.51,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2016-09-01,2.42,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2016-10-01,2.37,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2016-11-01,2.7,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2016-12-01,2.41,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2017-01-01,2.53,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2017-02-01,2.6,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2017-03-01,2.38,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2017-04-01,2.52,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2017-05-01,2.75,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2017-06-01,2.83,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2017-07-01,2.99,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2017-07-01,2.61,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2017-08-01,2.63,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2017-08-01,2.2,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2017-09-01,3.03,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2017-09-01,2.19,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2017-10-01,2.74,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2017-10-01,2.2,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2017-11-01,3.01,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2017-11-01,2.07,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2017-12-01,3.03,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2017-12-01,2.04,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2018-01-01,3.02,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2018-01-01,2.02,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2018-02-01,3.39,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2018-02-01,2.1,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2018-03-01,3.28,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2018-03-01,1.97,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2018-04-01,3.25,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2018-04-01,2.02,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2018-05-01,2.51,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2018-05-01,1.99,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2018-06-01,2.94,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2018-06-01,2.06,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2018-07-01,3.14,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2018-07-01,2.14,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2018-08-01,2.92,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2018-08-01,1.88,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2018-09-01,2.72,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2018-09-01,1.95,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2018-10-01,2.81,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2018-10-01,2.06,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2018-11-01,2.48,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2018-11-01,2.04,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2018-12-01,2.62,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2018-12-01,1.86,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2019-01-01,2.42,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2019-01-01,1.9,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2019-02-01,2.44,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2019-02-01,1.81,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2019-03-01,2.43,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2019-03-01,1.76,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2019-04-01,2.31,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2019-04-01,1.79,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2019-05-01,2.57,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2019-05-01,1.9,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2019-06-01,2.51,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2019-06-01,1.77,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2019-07-01,2.4,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2019-07-01,1.74,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2019-08-01,2.23,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2019-08-01,2.11,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2019-09-01,2.32,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2019-10-01,2.19,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2019-10-01,2.04,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2019-11-01,2.3,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2019-11-01,2.19,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2019-12-01,2.37,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2019-12-01,1.93,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2020-01-01,2.48,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2020-01-01,1.82,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2020-02-01,2.48,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2020-02-01,1.91,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2020-03-01,2.58,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2020-03-01,1.8,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2020-04-01,2.45,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2020-04-01,1.83,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2020-05-01,2.36,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2020-05-01,1.96,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2020-06-01,2.47,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2020-06-01,2.08,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2020-07-01,2.35,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2020-07-01,2.05,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2020-08-01,2.57,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2020-08-01,1.92,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2020-09-01,2.75,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2020-09-01,2.0,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2020-10-01,2.78,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2020-10-01,2.07,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2020-11-01,2.94,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2020-11-01,1.9,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2020-12-01,2.88,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2020-12-01,1.85,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2021-01-01,2.94,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2021-01-01,1.86,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2021-02-01,2.92,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2021-02-01,1.77,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2021-03-01,2.95,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2021-03-01,1.86,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2021-04-01,2.9,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2021-04-01,2.06,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2021-05-01,2.8,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2021-05-01,2.18,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2021-06-01,2.56,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2021-06-01,2.25,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2021-07-01,2.88,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2021-07-01,2.32,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2021-08-01,2.88,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2021-08-01,2.42,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2021-09-01,2.64,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2021-09-01,2.64,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2021-10-01,3.01,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2021-10-01,2.52,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2021-11-01,2.85,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2021-11-01,2.65,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2021-12-01,2.71,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2021-12-01,2.76,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2022-01-01,2.9,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2022-01-01,2.64,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2022-02-01,2.97,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2022-02-01,2.62,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2022-03-01,2.99,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2022-03-01,2.83,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2022-04-01,2.99,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2022-04-01,2.77,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2022-05-01,2.62,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2022-05-01,2.78,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2022-05-01,6.04,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2022-06-01,2.82,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2022-06-01,2.82,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2022-06-01,5.84,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2022-07-01,2.42,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2022-07-01,2.93,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2022-07-01,5.71,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2022-08-01,2.69,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2022-08-01,3.02,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2022-08-01,4.68,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2022-09-01,2.65,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2022-09-01,3.08,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2022-09-01,4.51,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2022-10-01,2.74,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2022-10-01,3.23,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2022-10-01,4.27,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2022-11-01,2.49,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2022-11-01,3.06,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2022-11-01,4.37,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2022-12-01,2.66,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2022-12-01,3.34,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2022-12-01,4.58,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2023-01-01,2.71,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2023-01-01,3.2,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2023-01-01,4.55,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2023-02-01,2.8,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2023-02-01,3.36,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2023-02-01,4.8,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2023-03-01,2.85,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2023-03-01,3.28,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2023-03-01,4.99,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2023-04-01,2.65,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2023-04-01,3.37,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2023-04-01,5.03,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2023-05-01,2.59,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2023-05-01,3.19,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2023-05-01,4.74,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2023-06-01,2.89,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2023-06-01,3.25,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2023-06-01,4.01,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2023-07-01,3.2,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2023-07-01,3.21,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2023-07-01,4.03,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2023-08-01,2.87,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2023-08-01,3.37,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2023-08-01,4.18,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2023-09-01,2.86,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2023-09-01,3.37,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2023-09-01,4.4,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2023-10-01,2.53,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2023-10-01,3.36,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2023-10-01,4.44,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2023-11-01,2.83,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2023-11-01,3.43,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2023-11-01,4.32,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2023-12-01,2.97,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2023-12-01,3.41,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2023-12-01,4.25,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2024-01-01,2.97,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2024-01-01,3.49,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2024-01-01,4.89,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2024-02-01,2.79,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2024-02-01,3.59,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2024-02-01,5.28,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2024-03-01,2.89,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2024-03-01,3.51,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2024-03-01,5.02,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2024-04-01,2.85,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2024-04-01,3.41,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2024-04-01,4.79,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2024-05-01,2.92,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2024-05-01,3.2,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2024-05-01,4.68,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2024-06-01,2.96,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2024-06-01,3.41,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2024-06-01,4.66,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2024-07-01,2.99,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2024-07-01,3.52,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2024-07-01,4.7,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2024-08-01,3.04,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2024-08-01,3.48,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2024-08-01,4.76,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2024-09-01,2.85,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2024-09-01,3.47,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2024-09-01,5.59,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2024-10-01,2.9,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2024-10-01,3.43,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2024-10-01,5.93,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2024-11-01,2.72,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2024-11-01,3.44,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2024-11-01,5.97,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,Abidjan,RETAIL,2024-12-01,2.82,Kg,b11f074f-8142-406a-850b-64bc8ab0ddb0
+Fish (fresh),Côte d'Ivoire,National Average,RETAIL,2024-12-01,2.63,Kg,f1eb191f-e2e7-4990-80cc-4201af414476
+Fish (fresh),Guinea,National Average,RETAIL,2024-12-01,3.63,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2024-12-01,6.37,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-01-01,2.8,Kg,b11f074f-8142-406a-850b-64bc8ab0ddb0
+Fish (fresh),Côte d'Ivoire,Centre,RETAIL,2025-01-01,2.83,Kg,42d7d3cd-1e57-417c-92ba-d8972e7937fd
+Fish (fresh),Côte d'Ivoire,Est,RETAIL,2025-01-01,2.82,Kg,3bb1b5c5-faf2-425c-9df9-bac8889d809c
+Fish (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-01-01,2.81,Kg,5cc0ed82-a63b-4e3e-ac8f-a55c68541317
+Fish (fresh),Côte d'Ivoire,Nord,RETAIL,2025-01-01,2.82,Kg,9f5fc8b0-b83b-4f93-ac49-39043299c0db
+Fish (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-01-01,2.81,Kg,eaba7db6-e3b6-4806-96af-c2d6754f7239
+Fish (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-01-01,2.81,Kg,0cec0e3c-288b-4ad9-9295-8c8e42d7598e
+Fish (fresh),Guinea,National Average,RETAIL,2025-01-01,3.45,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2025-01-01,6.27,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-02-01,2.82,Kg,b11f074f-8142-406a-850b-64bc8ab0ddb0
+Fish (fresh),Côte d'Ivoire,Centre,RETAIL,2025-02-01,2.0,Kg,42d7d3cd-1e57-417c-92ba-d8972e7937fd
+Fish (fresh),Côte d'Ivoire,Est,RETAIL,2025-02-01,2.37,Kg,3bb1b5c5-faf2-425c-9df9-bac8889d809c
+Fish (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-02-01,3.05,Kg,5cc0ed82-a63b-4e3e-ac8f-a55c68541317
+Fish (fresh),Côte d'Ivoire,Nord,RETAIL,2025-02-01,2.48,Kg,9f5fc8b0-b83b-4f93-ac49-39043299c0db
+Fish (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-02-01,2.19,Kg,eaba7db6-e3b6-4806-96af-c2d6754f7239
+Fish (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-02-01,2.63,Kg,0cec0e3c-288b-4ad9-9295-8c8e42d7598e
+Fish (fresh),Guinea,National Average,RETAIL,2025-02-01,3.37,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2025-02-01,6.6,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-03-01,2.78,Kg,b11f074f-8142-406a-850b-64bc8ab0ddb0
+Fish (fresh),Côte d'Ivoire,Centre,RETAIL,2025-03-01,2.17,Kg,42d7d3cd-1e57-417c-92ba-d8972e7937fd
+Fish (fresh),Côte d'Ivoire,Est,RETAIL,2025-03-01,2.5,Kg,3bb1b5c5-faf2-425c-9df9-bac8889d809c
+Fish (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-03-01,3.12,Kg,5cc0ed82-a63b-4e3e-ac8f-a55c68541317
+Fish (fresh),Côte d'Ivoire,Nord,RETAIL,2025-03-01,2.62,Kg,9f5fc8b0-b83b-4f93-ac49-39043299c0db
+Fish (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-03-01,2.31,Kg,eaba7db6-e3b6-4806-96af-c2d6754f7239
+Fish (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-03-01,2.44,Kg,0cec0e3c-288b-4ad9-9295-8c8e42d7598e
+Fish (fresh),Guinea,National Average,RETAIL,2025-03-01,3.37,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2025-03-01,6.35,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-04-01,2.55,Kg,b11f074f-8142-406a-850b-64bc8ab0ddb0
+Fish (fresh),Côte d'Ivoire,Centre,RETAIL,2025-04-01,2.61,Kg,42d7d3cd-1e57-417c-92ba-d8972e7937fd
+Fish (fresh),Côte d'Ivoire,Est,RETAIL,2025-04-01,2.23,Kg,3bb1b5c5-faf2-425c-9df9-bac8889d809c
+Fish (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-04-01,2.38,Kg,5cc0ed82-a63b-4e3e-ac8f-a55c68541317
+Fish (fresh),Côte d'Ivoire,Nord,RETAIL,2025-04-01,2.32,Kg,9f5fc8b0-b83b-4f93-ac49-39043299c0db
+Fish (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-04-01,2.68,Kg,eaba7db6-e3b6-4806-96af-c2d6754f7239
+Fish (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-04-01,2.35,Kg,0cec0e3c-288b-4ad9-9295-8c8e42d7598e
+Fish (fresh),Guinea,National Average,RETAIL,2025-04-01,3.43,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2025-04-01,6.74,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-05-01,2.91,Kg,b11f074f-8142-406a-850b-64bc8ab0ddb0
+Fish (fresh),Côte d'Ivoire,Centre,RETAIL,2025-05-01,2.26,Kg,42d7d3cd-1e57-417c-92ba-d8972e7937fd
+Fish (fresh),Côte d'Ivoire,Est,RETAIL,2025-05-01,2.6,Kg,3bb1b5c5-faf2-425c-9df9-bac8889d809c
+Fish (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-05-01,3.26,Kg,5cc0ed82-a63b-4e3e-ac8f-a55c68541317
+Fish (fresh),Côte d'Ivoire,Nord,RETAIL,2025-05-01,2.73,Kg,9f5fc8b0-b83b-4f93-ac49-39043299c0db
+Fish (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-05-01,2.42,Kg,eaba7db6-e3b6-4806-96af-c2d6754f7239
+Fish (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-05-01,2.54,Kg,0cec0e3c-288b-4ad9-9295-8c8e42d7598e
+Fish (fresh),Guinea,National Average,RETAIL,2025-05-01,3.49,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2025-05-01,6.18,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-06-01,2.92,Kg,b11f074f-8142-406a-850b-64bc8ab0ddb0
+Fish (fresh),Côte d'Ivoire,Centre,RETAIL,2025-06-01,2.34,Kg,42d7d3cd-1e57-417c-92ba-d8972e7937fd
+Fish (fresh),Côte d'Ivoire,Est,RETAIL,2025-06-01,2.49,Kg,3bb1b5c5-faf2-425c-9df9-bac8889d809c
+Fish (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-06-01,2.32,Kg,5cc0ed82-a63b-4e3e-ac8f-a55c68541317
+Fish (fresh),Côte d'Ivoire,Nord,RETAIL,2025-06-01,2.62,Kg,9f5fc8b0-b83b-4f93-ac49-39043299c0db
+Fish (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-06-01,2.44,Kg,eaba7db6-e3b6-4806-96af-c2d6754f7239
+Fish (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-06-01,2.65,Kg,0cec0e3c-288b-4ad9-9295-8c8e42d7598e
+Fish (fresh),Guinea,National Average,RETAIL,2025-06-01,3.38,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2025-06-01,6.37,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-07-01,2.71,Kg,b11f074f-8142-406a-850b-64bc8ab0ddb0
+Fish (fresh),Côte d'Ivoire,Centre,RETAIL,2025-07-01,2.24,Kg,42d7d3cd-1e57-417c-92ba-d8972e7937fd
+Fish (fresh),Côte d'Ivoire,Est,RETAIL,2025-07-01,2.7,Kg,3bb1b5c5-faf2-425c-9df9-bac8889d809c
+Fish (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-07-01,2.29,Kg,5cc0ed82-a63b-4e3e-ac8f-a55c68541317
+Fish (fresh),Côte d'Ivoire,Nord,RETAIL,2025-07-01,2.6,Kg,9f5fc8b0-b83b-4f93-ac49-39043299c0db
+Fish (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-07-01,2.33,Kg,eaba7db6-e3b6-4806-96af-c2d6754f7239
+Fish (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-07-01,2.73,Kg,0cec0e3c-288b-4ad9-9295-8c8e42d7598e
+Fish (fresh),Guinea,National Average,RETAIL,2025-07-01,3.56,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2025-07-01,6.25,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-08-01,2.82,Kg,b11f074f-8142-406a-850b-64bc8ab0ddb0
+Fish (fresh),Côte d'Ivoire,Centre,RETAIL,2025-08-01,2.35,Kg,42d7d3cd-1e57-417c-92ba-d8972e7937fd
+Fish (fresh),Côte d'Ivoire,Est,RETAIL,2025-08-01,2.82,Kg,3bb1b5c5-faf2-425c-9df9-bac8889d809c
+Fish (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-08-01,2.44,Kg,5cc0ed82-a63b-4e3e-ac8f-a55c68541317
+Fish (fresh),Côte d'Ivoire,Nord,RETAIL,2025-08-01,2.57,Kg,9f5fc8b0-b83b-4f93-ac49-39043299c0db
+Fish (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-08-01,2.6,Kg,eaba7db6-e3b6-4806-96af-c2d6754f7239
+Fish (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-08-01,2.65,Kg,0cec0e3c-288b-4ad9-9295-8c8e42d7598e
+Fish (fresh),Guinea,National Average,RETAIL,2025-08-01,3.54,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2025-08-01,6.28,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c
+Fish (fresh),Côte d'Ivoire,Abidjan,RETAIL,2025-09-01,3.04,Kg,b11f074f-8142-406a-850b-64bc8ab0ddb0
+Fish (fresh),Côte d'Ivoire,Centre,RETAIL,2025-09-01,2.19,Kg,42d7d3cd-1e57-417c-92ba-d8972e7937fd
+Fish (fresh),Côte d'Ivoire,Est,RETAIL,2025-09-01,2.75,Kg,3bb1b5c5-faf2-425c-9df9-bac8889d809c
+Fish (fresh),Côte d'Ivoire,Lagunes,RETAIL,2025-09-01,3.32,Kg,5cc0ed82-a63b-4e3e-ac8f-a55c68541317
+Fish (fresh),Côte d'Ivoire,Nord,RETAIL,2025-09-01,2.47,Kg,9f5fc8b0-b83b-4f93-ac49-39043299c0db
+Fish (fresh),Côte d'Ivoire,Ouest,RETAIL,2025-09-01,2.56,Kg,eaba7db6-e3b6-4806-96af-c2d6754f7239
+Fish (fresh),Côte d'Ivoire,Sud-Ouest,RETAIL,2025-09-01,2.7,Kg,0cec0e3c-288b-4ad9-9295-8c8e42d7598e
+Fish (fresh),Guinea,National Average,RETAIL,2025-09-01,3.51,Kg,8fa5b03f-14e2-4446-96e7-adf288336728
+Fish (fresh),Türkiye,National Average,RETAIL,2025-09-01,7.39,Kg,9f1a7092-9d5f-4bad-8485-b3fc8c66582c

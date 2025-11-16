@@ -1,0 +1,319 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2021-03-01,4.57,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2021-03-01,5.76,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2021-03-01,5.24,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2021-03-01,5.09,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2021-03-01,4.68,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2021-03-01,5.07,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2021-04-01,5.72,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2021-04-01,6.48,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2021-04-01,6.04,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2021-04-01,6.06,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2021-04-01,5.77,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2021-04-01,5.96,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2021-05-01,5.64,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2021-05-01,5.3,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2021-05-01,5.66,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2021-05-01,5.76,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2021-05-01,5.64,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2021-05-01,5.52,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2021-06-01,6.28,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2021-06-01,5.91,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2021-06-01,5.99,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2021-06-01,6.42,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2021-06-01,6.2,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2021-06-01,6.18,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2021-07-01,7.59,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2021-07-01,6.44,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2021-07-01,7.39,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2021-07-01,7.75,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2021-07-01,7.99,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2021-07-01,7.61,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2021-08-01,8.27,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2021-08-01,6.25,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2021-08-01,7.42,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2021-08-01,8.15,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2021-08-01,8.6,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2021-08-01,7.78,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2021-09-01,8.04,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2021-09-01,5.86,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2021-09-01,6.73,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2021-09-01,7.59,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2021-09-01,7.92,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2021-09-01,7.11,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2021-10-01,8.36,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2021-10-01,7.88,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2021-10-01,7.75,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2021-10-01,8.41,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2021-10-01,8.68,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2021-10-01,8.08,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2021-11-01,9.02,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2021-11-01,9.62,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2021-11-01,9.55,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2021-11-01,9.59,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2021-11-01,9.41,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2021-11-01,9.45,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2021-12-01,10.58,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2021-12-01,9.69,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2021-12-01,10.75,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2021-12-01,11.0,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2021-12-01,10.95,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2021-12-01,10.55,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2022-01-01,11.73,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2022-01-01,10.54,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2022-01-01,11.54,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2022-01-01,12.07,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2022-01-01,11.96,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2022-01-01,11.82,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2022-02-01,9.54,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2022-02-01,7.8,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2022-02-01,9.38,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2022-02-01,9.95,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2022-02-01,9.98,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2022-02-01,9.17,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2022-03-01,10.72,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2022-03-01,10.21,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2022-03-01,10.25,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2022-03-01,11.56,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2022-03-01,11.4,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2022-03-01,11.48,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2022-04-01,12.84,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2022-04-01,11.73,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2022-04-01,12.96,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2022-04-01,13.57,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2022-04-01,13.27,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2022-04-01,12.96,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2022-05-01,13.94,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2022-05-01,14.72,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2022-05-01,15.51,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2022-05-01,15.58,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2022-05-01,15.32,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2022-05-01,14.85,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2022-06-01,15.33,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2022-06-01,13.89,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2022-06-01,15.95,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2022-06-01,16.12,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2022-06-01,15.66,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2022-06-01,15.37,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2022-07-01,15.64,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2022-07-01,13.67,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2022-07-01,16.73,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2022-07-01,16.36,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2022-07-01,16.08,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2022-07-01,15.67,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2022-08-01,16.92,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2022-08-01,15.86,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2022-08-01,18.08,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2022-08-01,17.92,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2022-08-01,17.93,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2022-08-01,17.09,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2022-09-01,19.46,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2022-09-01,19.93,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2022-09-01,21.39,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2022-09-01,20.98,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2022-09-01,20.66,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2022-09-01,20.15,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2022-10-01,19.84,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2022-10-01,23.39,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2022-10-01,22.07,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2022-10-01,22.31,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2022-10-01,22.17,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2022-10-01,22.54,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2022-11-01,20.35,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2022-11-01,23.08,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2022-11-01,22.66,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2022-11-01,22.06,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2022-11-01,21.35,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2022-11-01,22.35,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2022-12-01,22.12,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2022-12-01,24.62,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2022-12-01,24.72,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2022-12-01,23.8,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2022-12-01,22.94,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2022-12-01,24.09,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2023-01-01,24.17,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2023-01-01,29.52,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2023-01-01,27.82,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2023-01-01,26.6,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2023-01-01,24.92,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2023-01-01,25.64,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2023-02-01,3.41,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2023-02-01,4.62,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2023-02-01,3.9,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2023-02-01,3.86,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2023-02-01,3.78,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2023-02-01,3.81,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2023-03-01,5.09,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2023-03-01,5.86,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2023-03-01,5.73,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2023-03-01,5.45,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2023-03-01,5.18,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2023-03-01,5.5,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2023-04-01,5.35,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2023-04-01,6.5,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2023-04-01,5.6,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2023-04-01,5.64,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2023-04-01,5.28,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2023-04-01,5.47,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2023-05-01,4.45,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2023-05-01,5.55,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2023-05-01,5.42,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2023-05-01,5.04,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2023-05-01,4.24,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2023-05-01,4.49,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2023-06-01,5.7,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2023-06-01,6.59,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2023-06-01,6.8,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2023-06-01,6.29,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2023-06-01,6.03,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2023-06-01,6.19,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2023-07-01,5.45,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2023-07-01,6.43,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2023-07-01,6.47,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2023-07-01,6.11,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2023-07-01,5.76,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2023-07-01,6.03,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2023-08-01,5.38,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2023-08-01,6.36,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2023-08-01,6.39,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2023-08-01,6.05,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2023-08-01,5.61,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2023-08-01,5.92,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2023-09-01,5.5,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2023-09-01,6.24,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2023-09-01,6.61,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2023-09-01,6.13,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2023-09-01,5.85,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2023-09-01,6.02,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2023-10-01,5.33,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2023-10-01,6.19,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2023-10-01,6.43,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2023-10-01,6.17,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2023-10-01,6.29,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2023-10-01,6.37,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2023-11-01,5.64,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2023-11-01,6.03,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2023-11-01,6.41,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2023-11-01,6.11,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2023-11-01,5.98,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2023-11-01,6.1,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2023-12-01,5.55,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2023-12-01,6.07,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2023-12-01,6.23,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2023-12-01,6.07,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2023-12-01,5.79,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2023-12-01,6.11,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2024-01-01,5.45,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2024-01-01,6.03,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2024-01-01,5.93,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2024-01-01,6.03,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2024-01-01,5.91,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2024-01-01,5.9,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2024-02-01,8.0,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2024-02-01,8.59,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2024-02-01,8.25,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2024-02-01,8.82,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2024-02-01,8.55,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2024-02-01,9.02,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2024-03-01,0.94,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2024-03-01,1.02,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2024-03-01,0.93,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2024-03-01,1.02,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2024-03-01,1.03,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2024-03-01,1.04,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2024-04-01,0.93,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2024-04-01,1.04,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2024-04-01,0.98,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2024-04-01,1.03,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2024-04-01,1.01,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2024-04-01,1.05,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2024-05-01,0.92,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2024-05-01,1.04,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2024-05-01,0.94,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2024-05-01,1.03,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2024-05-01,1.01,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2024-05-01,1.07,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2024-06-01,0.92,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2024-06-01,1.04,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2024-06-01,0.96,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2024-06-01,1.03,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2024-06-01,1.03,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2024-06-01,1.03,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2024-07-01,0.92,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2024-07-01,1.05,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2024-07-01,0.96,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2024-07-01,1.03,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2024-07-01,1.07,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2024-07-01,1.05,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2024-08-01,0.91,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2024-08-01,1.04,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2024-08-01,0.99,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2024-08-01,1.05,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2024-08-01,1.04,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2024-08-01,1.09,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2024-09-01,0.92,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2024-09-01,1.05,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2024-09-01,0.94,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2024-09-01,1.0,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2024-09-01,1.01,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2024-09-01,0.98,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2024-10-01,0.96,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2024-10-01,1.04,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2024-10-01,1.18,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2024-10-01,1.07,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2024-10-01,1.01,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2024-10-01,1.04,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2024-11-01,0.96,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2024-11-01,1.04,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2024-11-01,1.14,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2024-11-01,1.06,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2024-11-01,1.03,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2024-11-01,1.04,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2024-12-01,0.93,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2024-12-01,1.03,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2024-12-01,1.13,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2024-12-01,1.05,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2024-12-01,1.01,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2024-12-01,1.08,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2025-01-01,0.98,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2025-01-01,1.04,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2025-01-01,1.06,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2025-01-01,1.05,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2025-01-01,1.01,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2025-01-01,1.12,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2025-02-01,0.97,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2025-02-01,1.05,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2025-02-01,0.98,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2025-02-01,1.04,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2025-02-01,1.02,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2025-02-01,1.07,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2025-03-01,0.97,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2025-03-01,1.05,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2025-03-01,0.96,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2025-03-01,1.03,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2025-03-01,1.01,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2025-03-01,1.05,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2025-04-01,0.97,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2025-04-01,1.05,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2025-04-01,0.96,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2025-04-01,1.03,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2025-04-01,1.01,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2025-04-01,1.05,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2025-05-01,0.98,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2025-05-01,1.03,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2025-05-01,1.0,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2025-05-01,1.03,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2025-05-01,1.02,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2025-05-01,1.02,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2025-06-01,1.0,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2025-06-01,1.07,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2025-06-01,1.03,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2025-06-01,1.06,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2025-06-01,1.03,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2025-06-01,1.05,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630
+Bulgur (Brown),Lebanon,Akkar,RETAIL,2025-07-01,0.97,900 gms,959952d5-cc95-41bc-a9b3-a165c664c042
+Bulgur (Brown),Lebanon,Beirut,RETAIL,2025-07-01,1.04,900 gms,8334e678-0600-4e91-8662-5ed7811b7adc
+Bulgur (Brown),Lebanon,El Nabatieh,RETAIL,2025-07-01,0.94,900 gms,e9b40663-c462-4119-9fd4-914ca02d4957
+Bulgur (Brown),Lebanon,National Average,RETAIL,2025-07-01,1.01,900 gms,5de42220-e674-411b-b49f-d583d2d2ceae
+Bulgur (Brown),Lebanon,North,RETAIL,2025-07-01,1.05,900 gms,f099f274-ab2a-4007-b1b4-b5acdd3790e7
+Bulgur (Brown),Lebanon,South,RETAIL,2025-07-01,0.97,900 gms,55ff533f-9689-4c98-8e76-dcc06555b630

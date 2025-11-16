@@ -1,0 +1,637 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Vegetable Oil,South Sudan,Bor,RETAIL,2013-04-01,2.9,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2013-04-01,2.59,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2013-04-01,4.09,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Bor,RETAIL,2013-05-01,3.05,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2013-05-01,2.54,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2013-05-01,4.06,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Bor,RETAIL,2013-06-01,2.84,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2013-06-01,2.37,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2013-06-01,3.79,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Bor,RETAIL,2013-07-01,2.34,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2013-07-01,1.99,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2013-07-01,3.15,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Bor,RETAIL,2013-08-01,2.67,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2013-08-01,2.22,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2013-08-01,3.56,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Bor,RETAIL,2013-09-01,2.27,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2013-09-01,2.84,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2013-09-01,4.82,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Bor,RETAIL,2013-10-01,2.63,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2013-10-01,2.4,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2013-10-01,3.31,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Bor,RETAIL,2013-11-01,2.68,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2013-11-01,2.23,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2013-11-01,3.46,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Bor,RETAIL,2013-12-01,2.57,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2013-12-01,2.73,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2013-12-01,3.21,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2014-01-01,2.53,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2014-02-01,2.39,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2014-03-01,2.51,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2014-04-01,2.58,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2014-05-01,1.89,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2014-06-01,1.8,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2014-07-01,1.71,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Bor,RETAIL,2014-08-01,2.15,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2014-08-01,1.72,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2014-08-01,2.47,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2014-08-01,1.88,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2014-09-01,2.13,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2014-09-01,2.24,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2014-09-01,2.56,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2014-09-01,1.71,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2014-10-01,1.88,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2014-10-01,1.88,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2014-10-01,2.21,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2014-10-01,1.51,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2014-11-01,1.75,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2014-11-01,2.04,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2014-11-01,2.05,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2014-11-01,1.75,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2014-12-01,2.24,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2014-12-01,1.96,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2014-12-01,2.55,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2014-12-01,1.73,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2015-01-01,1.56,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2015-01-01,1.87,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2015-01-01,2.33,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2015-01-01,1.56,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2015-02-01,2.05,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2015-02-01,1.9,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2015-02-01,1.46,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2015-02-01,2.05,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2015-03-01,1.67,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2015-03-01,1.87,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2015-03-01,1.34,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2015-03-01,2.01,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2015-04-01,2.03,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2015-04-01,2.25,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2015-04-01,1.91,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2015-04-01,1.58,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2015-04-01,1.69,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2015-05-01,1.37,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2015-05-01,2.56,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2015-05-01,1.56,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2015-05-01,2.49,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2015-06-01,1.69,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2015-06-01,1.65,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2015-06-01,1.24,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2015-06-01,2.7,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2015-07-01,1.61,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2015-07-01,2.06,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2015-07-01,1.34,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2015-07-01,2.15,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2015-08-01,1.5,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2015-08-01,2.05,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2015-08-01,1.94,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2015-08-01,2.12,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2015-09-01,1.25,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2015-09-01,1.87,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2015-09-01,1.56,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2015-09-01,1.25,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2015-10-01,1.07,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2015-10-01,1.47,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2015-10-01,1.42,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2015-10-01,1.74,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2015-11-01,1.31,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2015-11-01,1.64,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2015-11-01,2.08,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2015-11-01,1.75,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2015-11-01,2.28,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2015-12-01,1.56,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2015-12-01,1.84,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2015-12-01,1.77,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2015-12-01,1.74,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2015-12-01,2.07,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2016-01-01,1.47,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2016-01-01,2.17,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2016-01-01,1.56,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2016-01-01,2.32,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2016-01-01,1.0,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2016-02-01,1.61,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2016-02-01,2.1,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2016-02-01,1.26,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2016-02-01,1.13,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2016-03-01,1.41,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2016-03-01,1.82,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2016-03-01,1.05,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2016-03-01,1.17,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2016-03-01,1.35,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2016-04-01,1.89,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2016-04-01,1.82,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2016-04-01,1.01,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2016-04-01,1.18,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2016-04-01,1.57,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2016-05-01,1.68,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2016-05-01,1.7,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2016-05-01,1.3,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2016-05-01,1.33,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2016-05-01,2.79,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2016-06-01,1.33,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2016-06-01,1.33,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2016-06-01,1.11,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2016-06-01,1.76,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2016-07-01,1.42,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2016-07-01,1.54,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2016-07-01,0.68,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2016-07-01,1.71,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2016-07-01,1.01,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2016-08-01,1.59,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2016-08-01,1.33,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2016-08-01,1.03,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2016-08-01,1.61,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2016-08-01,0.93,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2016-09-01,1.58,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2016-09-01,1.58,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2016-09-01,0.66,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2016-09-01,1.54,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2016-09-01,1.17,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2016-10-01,1.58,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2016-10-01,1.78,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2016-10-01,0.66,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2016-10-01,2.08,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2016-10-01,1.6,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2016-11-01,1.43,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2016-11-01,1.94,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2016-11-01,0.81,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2016-11-01,1.92,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2016-11-01,1.53,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2016-12-01,1.35,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2016-12-01,2.04,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2016-12-01,1.0,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2016-12-01,1.92,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2016-12-01,1.59,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2017-01-01,1.63,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2017-01-01,1.97,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2017-01-01,1.97,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2017-01-01,1.68,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2017-02-01,1.59,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2017-02-01,2.32,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2017-02-01,1.59,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2017-02-01,1.62,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2017-02-01,1.77,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2017-03-01,1.58,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2017-03-01,2.27,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2017-03-01,1.58,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2017-03-01,1.58,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2017-03-01,1.58,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2017-04-01,1.46,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2017-04-01,2.07,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2017-04-01,1.33,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2017-04-01,1.78,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2017-04-01,2.39,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2017-05-01,2.03,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2017-05-01,1.49,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Torit,RETAIL,2017-05-01,1.67,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2017-05-01,1.2,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2017-06-01,1.96,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2017-06-01,1.31,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2017-06-01,1.53,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2017-06-01,1.59,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2017-06-01,1.96,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2017-07-01,1.93,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2017-07-01,1.29,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2017-07-01,1.51,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2017-07-01,1.55,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2017-07-01,2.02,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2017-08-01,1.56,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2017-08-01,1.11,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2017-08-01,1.24,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2017-08-01,1.31,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2017-08-01,1.64,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2017-09-01,1.23,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2017-09-01,1.66,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2017-10-01,1.35,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2017-10-01,1.24,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2017-10-01,1.41,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2017-10-01,1.33,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2017-10-01,1.92,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2017-11-01,1.47,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2017-11-01,1.15,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Torit,RETAIL,2017-11-01,1.16,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2017-11-01,1.69,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2017-12-01,1.58,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2017-12-01,1.1,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Torit,RETAIL,2017-12-01,1.21,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2017-12-01,1.71,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2018-01-01,1.49,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2018-01-01,1.25,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2018-01-01,1.49,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2018-01-01,1.15,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2018-02-01,1.7,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Bor,RETAIL,2018-03-01,1.68,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2018-03-01,1.26,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2018-03-01,2.07,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2018-03-01,1.26,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2018-03-01,1.46,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2018-04-01,1.64,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2018-04-01,1.16,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2018-04-01,1.9,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2018-04-01,1.37,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2018-04-01,1.5,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2018-05-01,1.27,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Bor,RETAIL,2018-06-01,1.63,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2018-06-01,1.31,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2018-06-01,1.42,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2018-06-01,1.19,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2018-06-01,1.63,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2018-07-01,2.07,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2018-07-01,1.7,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2018-07-01,2.09,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2018-07-01,1.62,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2018-07-01,1.84,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2018-08-01,1.69,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2018-08-01,1.77,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2018-08-01,1.48,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2018-08-01,1.65,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2018-08-01,1.13,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2018-09-01,1.57,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2018-09-01,1.74,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2018-09-01,1.43,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2018-09-01,1.71,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2018-10-01,1.8,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2018-10-01,0.95,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2018-10-01,1.31,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2018-10-01,1.53,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2018-11-01,1.71,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Bor,RETAIL,2018-12-01,1.61,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2018-12-01,1.18,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2018-12-01,1.06,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2018-12-01,1.25,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2018-12-01,2.11,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2019-01-01,1.52,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2019-01-01,1.01,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2019-01-01,1.85,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2019-01-01,1.3,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2019-01-01,1.85,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2019-02-01,1.39,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2019-02-01,1.01,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2019-02-01,1.13,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2019-02-01,1.2,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2019-02-01,1.97,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2019-03-01,1.48,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2019-03-01,1.11,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2019-03-01,1.85,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2019-03-01,1.2,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2019-03-01,1.85,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2019-04-01,1.46,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2019-04-01,1.09,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2019-04-01,4.01,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2019-04-01,1.17,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2019-04-01,1.7,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2019-05-01,1.46,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2019-05-01,1.15,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2019-05-01,4.08,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2019-05-01,1.15,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2019-05-01,1.67,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2019-06-01,1.4,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2019-06-01,1.05,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2019-06-01,1.26,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2019-06-01,1.12,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2019-06-01,1.57,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2019-07-01,1.37,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2019-07-01,1.03,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2019-07-01,1.37,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2019-07-01,1.1,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2019-07-01,1.54,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2019-08-01,1.34,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2019-08-01,1.01,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2019-08-01,1.41,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2019-08-01,1.07,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2019-08-01,1.51,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2019-09-01,1.28,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2019-09-01,0.96,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2019-09-01,1.16,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2019-09-01,1.02,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2019-09-01,1.28,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2019-10-01,1.27,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2019-10-01,0.95,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2019-10-01,1.03,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2019-10-01,1.19,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2019-10-01,1.27,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2019-11-01,0.95,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2019-11-01,1.07,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2019-11-01,1.9,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2019-12-01,0.95,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2019-12-01,1.07,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2019-12-01,1.51,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2020-01-01,1.57,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2020-01-01,0.94,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2020-01-01,1.88,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2020-01-01,1.8,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2020-01-01,1.51,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2020-02-01,1.64,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2020-02-01,1.01,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2020-02-01,1.97,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2020-02-01,1.74,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2020-02-01,1.58,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2020-03-01,1.78,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2020-03-01,1.48,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2020-03-01,1.78,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2020-03-01,1.71,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2020-03-01,1.72,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2020-04-01,1.79,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2020-04-01,1.52,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2020-04-01,1.74,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2020-04-01,1.74,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2020-04-01,1.94,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2020-05-01,1.45,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2020-05-01,1.7,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2020-05-01,1.44,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2020-06-01,1.56,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2020-06-01,1.33,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2020-06-01,1.56,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2020-06-01,1.25,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2020-06-01,1.23,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2020-07-01,1.42,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2020-07-01,1.22,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2020-07-01,1.7,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2020-07-01,1.42,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2020-07-01,1.13,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2020-08-01,1.45,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2020-08-01,1.23,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2020-08-01,1.57,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2020-08-01,1.33,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2020-08-01,1.27,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2020-09-01,1.53,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2020-09-01,1.09,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Torit,RETAIL,2020-09-01,1.38,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2020-09-01,1.81,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2020-10-01,1.33,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2020-10-01,0.95,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2020-10-01,0.87,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2020-10-01,1.63,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2020-10-01,1.71,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2020-11-01,1.72,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2020-11-01,1.53,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2020-11-01,0.81,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2020-11-01,1.38,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2020-11-01,1.51,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2020-12-01,1.68,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2020-12-01,2.1,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Torit,RETAIL,2020-12-01,1.34,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2021-01-01,1.67,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2021-01-01,1.8,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2021-01-01,2.0,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2021-01-01,1.67,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2021-01-01,1.89,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2021-02-01,1.86,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2021-02-01,1.62,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2021-02-01,1.62,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2021-02-01,1.62,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2021-03-01,1.72,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2021-03-01,1.72,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2021-03-01,1.62,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2021-03-01,1.69,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2021-03-01,1.89,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2021-04-01,2.09,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2021-04-01,2.61,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2021-04-01,1.74,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2021-04-01,2.2,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2021-04-01,2.3,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2021-05-01,2.61,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2021-05-01,3.26,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2021-05-01,2.59,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2021-05-01,2.39,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2021-05-01,4.64,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2021-06-01,4.03,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2021-06-01,5.15,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2021-06-01,3.13,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2021-06-01,3.74,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2021-06-01,7.08,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2021-07-01,2.77,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2021-07-01,3.77,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2021-07-01,2.93,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2021-07-01,3.08,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2021-07-01,4.58,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2021-08-01,2.3,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2021-08-01,2.45,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2021-08-01,2.94,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2021-08-01,2.13,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2021-08-01,4.87,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2021-09-01,2.45,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2021-09-01,2.45,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2021-09-01,2.95,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2021-09-01,2.01,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2021-09-01,4.93,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2021-10-01,2.48,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2021-10-01,2.48,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2021-10-01,2.6,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2021-10-01,1.98,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2021-10-01,4.46,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2021-11-01,2.43,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2021-11-01,2.43,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2021-11-01,2.54,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2021-11-01,2.18,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2021-11-01,4.85,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2021-12-01,2.38,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2021-12-01,2.38,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2021-12-01,2.38,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2021-12-01,2.14,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2022-01-01,2.3,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2022-01-01,2.22,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2022-01-01,2.3,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2022-01-01,2.17,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2022-01-01,4.95,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2022-02-01,2.63,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2022-02-01,2.31,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2022-02-01,2.47,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2022-02-01,2.08,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2022-02-01,4.84,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2022-03-01,3.05,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2022-03-01,2.79,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2022-03-01,2.32,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2022-03-01,2.52,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2022-03-01,5.23,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2022-04-01,2.81,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2022-04-01,2.81,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2022-04-01,3.26,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2022-04-01,2.81,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2022-04-01,4.8,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2022-05-01,3.06,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2022-05-01,2.7,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2022-05-01,2.85,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2022-05-01,3.08,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2022-05-01,4.68,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2022-06-01,2.88,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2022-06-01,2.53,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2022-06-01,1.96,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2022-06-01,3.2,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2022-06-01,4.83,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2022-07-01,2.75,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2022-07-01,2.97,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2022-07-01,2.69,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2022-07-01,2.84,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2022-07-01,4.75,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2022-08-01,2.99,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2022-08-01,2.96,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2022-08-01,2.44,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2022-08-01,2.59,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2022-08-01,4.29,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2022-09-01,3.12,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2022-09-01,3.12,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2022-09-01,3.12,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2022-09-01,2.49,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2022-09-01,4.36,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2022-10-01,2.61,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2022-10-01,3.26,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Torit,RETAIL,2022-10-01,2.28,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2022-10-01,4.31,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2022-11-01,2.58,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2022-11-01,2.93,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2022-11-01,3.22,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2022-11-01,2.03,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2022-11-01,3.32,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2022-12-01,2.4,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2022-12-01,2.7,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2022-12-01,2.7,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2022-12-01,1.84,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2022-12-01,2.4,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2023-01-01,2.46,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2023-01-01,2.56,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Torit,RETAIL,2023-01-01,2.23,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2023-01-01,2.22,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2023-02-01,2.57,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2023-02-01,2.27,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2023-02-01,2.06,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2023-02-01,1.8,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2023-02-01,2.4,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2023-03-01,2.0,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2023-03-01,1.8,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2023-03-01,1.91,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2023-03-01,1.76,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2023-03-01,2.98,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2023-04-01,2.23,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2023-04-01,1.81,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2023-04-01,1.83,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2023-04-01,1.83,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2023-05-01,2.14,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2023-05-01,1.67,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2023-05-01,1.89,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2023-05-01,1.88,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2023-05-01,1.68,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2023-06-01,2.2,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2023-06-01,1.42,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2023-06-01,1.52,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2023-06-01,1.62,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2023-06-01,1.71,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2023-07-01,2.11,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2023-07-01,2.31,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2023-07-01,1.96,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2023-07-01,1.92,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2023-07-01,2.59,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2023-08-01,2.56,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2023-08-01,1.61,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2023-08-01,2.27,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2023-08-01,1.62,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2023-08-01,2.66,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2023-09-01,2.17,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2023-09-01,1.7,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2023-09-01,2.18,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2023-09-01,1.95,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2023-09-01,2.59,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2023-10-01,1.93,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2023-10-01,1.84,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2023-10-01,1.67,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2023-10-01,1.61,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2023-10-01,2.53,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2023-11-01,1.82,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2023-11-01,1.82,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2023-11-01,1.47,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2023-11-01,1.66,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2023-11-01,2.52,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2023-12-01,1.83,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2023-12-01,1.58,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2023-12-01,1.96,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2023-12-01,1.32,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2023-12-01,2.44,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2024-01-01,1.73,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2024-01-01,1.99,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2024-01-01,1.82,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2024-01-01,1.43,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2024-02-01,1.91,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2024-02-01,1.85,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2024-02-01,1.38,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2024-02-01,2.71,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2024-03-01,1.83,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2024-03-01,1.83,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2024-03-01,1.58,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2024-03-01,2.16,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2024-04-01,1.92,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2024-04-01,1.94,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2024-04-01,1.54,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2024-04-01,1.71,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2024-05-01,2.01,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2024-05-01,2.06,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2024-05-01,1.17,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2024-05-01,2.64,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2024-06-01,2.01,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2024-06-01,1.95,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2024-06-01,1.31,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2024-06-01,2.56,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2024-07-01,1.64,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2024-07-01,1.83,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2024-07-01,2.73,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2024-07-01,2.46,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2024-08-01,1.74,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2024-08-01,1.57,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2024-08-01,2.03,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2024-08-01,2.17,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2024-09-01,1.91,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2024-09-01,1.79,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2024-09-01,2.0,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2024-09-01,2.76,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2024-10-01,2.36,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2024-10-01,2.31,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2024-10-01,2.08,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2024-10-01,3.02,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2024-11-01,2.07,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2024-11-01,2.18,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2024-11-01,1.52,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Bor,RETAIL,2024-12-01,2.78,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2024-12-01,2.33,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2024-12-01,1.99,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Bor,RETAIL,2025-01-01,2.47,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2025-01-01,2.81,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2025-01-01,2.56,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2025-01-01,2.85,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2025-02-01,2.2,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2025-02-01,2.56,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2025-02-01,2.25,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Yambio,RETAIL,2025-02-01,2.75,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2025-03-01,2.1,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2025-03-01,2.1,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2025-03-01,2.53,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2025-03-01,2.18,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2025-03-01,2.8,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2025-04-01,2.09,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2025-04-01,2.27,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2025-04-01,2.09,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2025-04-01,2.44,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2025-05-01,2.48,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2025-05-01,2.35,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2025-05-01,2.34,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2025-05-01,2.12,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2025-05-01,2.45,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2025-06-01,2.39,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2025-06-01,2.39,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2025-06-01,2.42,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2025-06-01,2.25,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2025-06-01,2.4,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2025-07-01,2.36,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2025-07-01,2.36,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2025-07-01,2.36,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2025-07-01,2.19,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Yambio,RETAIL,2025-07-01,2.44,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24
+Vegetable Oil,South Sudan,Bor,RETAIL,2025-08-01,2.38,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2025-08-01,2.38,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2025-08-01,2.38,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2025-08-01,2.33,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2025-09-01,2.41,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2025-09-01,2.41,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Rumbek,RETAIL,2025-09-01,2.59,Liter,c577bc82-8343-4e49-b2f2-73dc280af1fd
+Vegetable Oil,South Sudan,Torit,RETAIL,2025-09-01,2.07,Liter,03174f5f-3c1c-42be-828d-cda2389b5fb9
+Vegetable Oil,South Sudan,Bor,RETAIL,2025-10-01,13416.67,Liter,db17a738-e180-4f1a-b413-9df45467fbc4
+Vegetable Oil,South Sudan,Juba (Konyokonyo),RETAIL,2025-10-01,14000.0,Liter,4915b669-9f14-48dd-862f-56c24598e9c1
+Vegetable Oil,South Sudan,Yambio,RETAIL,2025-10-01,13000.0,Liter,24089a3f-5a9d-4dcb-98b6-68a5b73c9e24

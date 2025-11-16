@@ -1,0 +1,311 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2010-07-01,99.72,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2010-07-01,107.4,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2010-08-01,101.03,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2010-08-01,108.37,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2010-09-01,100.48,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2010-09-01,107.68,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2010-10-01,97.22,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2010-10-01,107.14,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2010-11-01,97.28,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2010-11-01,107.17,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2010-12-01,99.11,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2010-12-01,106.36,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2011-01-01,99.09,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2011-01-01,104.88,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2011-02-01,98.9,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2011-02-01,103.9,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2011-03-01,95.42,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2011-03-01,104.43,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2011-04-01,89.94,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2011-04-01,106.49,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2011-05-01,92.82,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2011-05-01,105.18,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2011-06-01,93.78,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2011-06-01,99.03,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2011-07-01,89.66,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2011-07-01,99.95,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2011-08-01,92.43,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2011-08-01,102.42,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2011-09-01,93.93,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2011-09-01,102.55,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2011-10-01,93.93,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2011-10-01,103.44,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2011-11-01,94.06,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2011-11-01,103.71,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2011-12-01,94.07,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2011-12-01,101.19,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2012-01-01,94.07,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2012-01-01,101.14,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2012-02-01,94.07,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2012-02-01,100.82,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2012-03-01,94.07,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2012-03-01,98.11,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2012-04-01,94.12,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2012-04-01,95.29,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2012-05-01,94.07,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2012-05-01,99.67,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2012-06-01,96.35,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2012-06-01,102.49,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2012-07-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2012-07-01,105.01,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2012-08-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2012-09-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2012-10-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2012-10-01,119.39,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2012-11-01,112.59,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2012-12-01,122.6,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2012-12-01,128.8,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2013-01-01,136.8,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2013-02-01,137.48,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2013-03-01,143.69,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2013-04-01,144.38,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2013-04-01,144.72,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2013-05-01,141.82,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2013-05-01,144.72,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2013-06-01,141.82,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2013-07-01,142.2,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2013-08-01,144.61,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2013-09-01,162.08,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2013-10-01,217.08,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2013-11-01,217.08,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2013-12-01,217.08,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2014-01-01,255.92,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2014-02-01,289.44,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2014-03-01,289.44,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2014-04-01,289.44,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2014-05-01,289.44,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2014-06-01,289.44,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2014-07-01,289.44,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2014-08-01,289.44,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2014-09-01,285.54,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2014-10-01,266.92,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2014-10-01,221.9,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2014-11-01,247.47,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2014-11-01,228.53,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2014-12-01,232.66,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2015-01-01,226.79,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2015-02-01,237.8,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2015-03-01,235.72,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2015-03-01,252.83,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2015-04-01,231.55,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2015-04-01,231.55,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2015-05-01,229.17,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2015-06-01,153.16,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2015-06-01,172.16,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2015-07-01,94.84,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2015-07-01,122.81,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2015-08-01,88.42,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2015-08-01,102.6,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2015-09-01,86.83,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2015-09-01,85.22,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2015-10-01,86.13,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2015-10-01,89.32,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2015-11-01,83.99,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2015-11-01,94.55,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2015-12-01,80.65,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2015-12-01,87.42,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2016-01-01,79.59,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2016-01-01,76.78,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2016-02-01,73.22,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2016-02-01,79.03,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2016-03-01,73.7,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2016-03-01,85.65,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2016-04-01,81.04,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2016-04-01,86.83,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2016-05-01,81.04,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2016-05-01,86.83,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2016-06-01,81.04,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2016-06-01,88.05,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2016-07-01,83.94,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2016-07-01,96.26,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2016-08-01,85.38,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2016-08-01,98.69,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2016-09-01,85.38,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2016-09-01,98.41,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2016-10-01,85.38,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2016-10-01,95.68,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2016-11-01,85.38,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2016-11-01,94.07,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2016-12-01,85.38,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2016-12-01,94.07,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2017-01-01,83.78,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2017-01-01,87.23,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2017-02-01,82.49,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2017-02-01,86.83,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2017-03-01,80.77,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2017-03-01,86.83,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2017-04-01,76.26,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2017-04-01,86.83,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2017-05-01,76.98,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2017-05-01,86.83,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2017-06-01,79.53,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2017-06-01,86.83,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2017-07-01,79.93,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2017-07-01,86.83,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2017-08-01,66.9,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2017-08-01,86.83,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2017-09-01,62.23,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2017-09-01,86.83,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2017-10-01,64.34,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2017-10-01,86.83,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2017-11-01,66.57,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2017-11-01,86.83,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2017-12-01,66.57,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2017-12-01,68.38,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2018-01-01,66.57,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2018-01-01,65.53,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2018-02-01,66.57,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2018-02-01,63.31,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2018-03-01,66.57,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2018-03-01,63.31,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2018-04-01,66.96,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2018-04-01,63.31,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2018-05-01,67.66,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2018-05-01,63.31,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2018-06-01,67.86,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2018-06-01,63.31,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2018-07-01,76.92,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2018-07-01,62.92,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2018-08-01,85.38,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2018-08-01,63.31,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2018-09-01,85.38,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2018-09-01,63.31,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2018-10-01,85.38,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2018-10-01,91.12,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2018-11-01,85.38,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2018-11-01,104.2,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2018-12-01,89.73,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2018-12-01,104.2,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2019-01-01,107.15,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2019-01-01,112.3,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2019-02-01,119.69,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2019-02-01,122.47,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2019-03-01,121.44,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2019-03-01,122.73,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2019-04-01,115.77,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2019-05-01,115.77,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2019-06-01,108.88,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2019-06-01,123.01,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2019-07-01,108.54,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2019-07-01,123.01,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2019-08-01,108.54,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2019-08-01,118.31,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2019-09-01,107.38,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2019-09-01,113.6,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2019-10-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2019-10-01,113.6,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2019-11-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2019-11-01,113.36,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2019-12-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2019-12-01,112.16,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2020-01-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2020-01-01,112.16,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2020-02-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2020-03-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2020-06-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2020-06-01,102.75,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2020-07-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2020-07-01,101.01,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2020-08-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2020-08-01,98.41,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2020-09-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2020-09-01,98.41,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2020-10-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2020-10-01,98.41,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2020-11-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2020-11-01,84.97,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2020-12-01,101.3,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2020-12-01,79.59,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2021-02-01,84.51,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2021-03-01,64.25,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2021-03-01,91.53,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2021-04-01,65.12,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2021-04-01,93.96,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2021-05-01,95.51,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2021-06-01,65.12,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2021-06-01,97.32,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2021-07-01,65.12,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2021-07-01,95.0,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2021-08-01,65.12,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2021-08-01,93.34,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2021-09-01,65.12,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2021-09-01,93.18,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2021-10-01,65.12,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2021-10-01,93.16,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2021-11-01,65.12,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2021-11-01,92.86,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2021-12-01,65.12,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2021-12-01,92.86,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2022-02-01,74.44,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2022-02-01,86.83,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2022-03-01,82.09,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2022-03-01,92.07,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2022-04-01,78.87,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2022-04-01,92.62,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2022-05-01,66.64,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2022-05-01,91.09,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2022-06-01,67.54,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2022-06-01,89.73,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2022-07-01,68.33,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2022-07-01,89.73,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2022-08-01,68.74,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2022-08-01,89.73,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2022-09-01,69.39,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2022-09-01,87.96,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2022-10-01,72.08,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2022-10-01,88.15,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2022-11-01,72.36,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2022-11-01,85.38,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2022-12-01,72.36,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2022-12-01,85.38,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2023-01-01,72.36,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2023-01-01,85.38,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2023-02-01,77.69,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2023-02-01,85.38,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2023-03-01,82.81,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2023-03-01,89.14,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2023-04-01,86.33,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2023-04-01,90.45,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2023-05-01,81.38,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2023-05-01,94.76,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2023-06-01,81.68,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2023-06-01,100.85,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2023-07-01,85.59,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2023-07-01,101.3,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2023-08-01,83.71,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2023-08-01,101.3,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2023-09-01,91.06,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2023-09-01,101.3,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2023-10-01,107.29,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2023-10-01,107.98,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2023-11-01,119.07,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2023-11-01,115.77,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2023-12-01,110.71,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2023-12-01,118.06,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2024-04-01,112.88,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2024-04-01,119.91,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2024-05-01,111.13,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2024-05-01,117.09,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2024-06-01,111.1,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2024-06-01,118.67,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2024-07-01,129.21,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2024-07-01,119.62,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2024-08-01,137.31,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2024-08-01,118.0,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2024-09-01,136.76,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2024-09-01,136.28,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2024-10-01,167.15,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2024-10-01,161.2,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2024-11-01,170.34,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2024-11-01,159.19,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2024-12-01,179.22,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2024-12-01,159.77,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2025-01-01,173.55,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2025-02-01,194.64,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2025-02-01,175.99,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),Cochabamba,WHOLESALE,2025-03-01,195.18,Spanish quintal (46 kg),2b89687d-dfc7-4d03-86c1-ee80b3d688a6
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2025-03-01,180.86,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2025-04-01,187.66,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2025-05-01,192.98,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624
+Quinoa,Bolivia (Plurinational State of),La Paz,WHOLESALE,2025-06-01,201.06,Spanish quintal (46 kg),82bda12c-80f0-4dbf-9aee-3d2ab1edf624

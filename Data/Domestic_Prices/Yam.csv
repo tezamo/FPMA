@@ -1,0 +1,1446 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Yam,Côte d'Ivoire,National Average,RETAIL,2011-07-01,1.09,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2011-10-01,0.87,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2011-11-01,0.84,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2012-01-01,0.66,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2012-02-01,0.68,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2012-03-01,0.74,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2012-04-01,0.85,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2012-05-01,1.12,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2012-06-01,1.04,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2012-07-01,0.5,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2012-08-01,0.51,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2012-09-01,0.53,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2012-10-01,0.68,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2012-11-01,0.32,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2012-12-01,0.78,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2013-01-01,0.51,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Parakou,RETAIL,2013-01-01,0.46,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2013-01-01,0.83,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2013-02-01,0.51,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Parakou,RETAIL,2013-02-01,0.46,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2013-02-01,0.91,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2013-03-01,0.49,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Parakou,RETAIL,2013-03-01,0.44,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2013-03-01,0.89,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2013-04-01,0.48,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2013-05-01,0.89,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2013-06-01,0.91,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2013-07-01,1.07,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2013-08-01,1.09,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2013-09-01,0.73,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2013-10-01,0.67,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2013-11-01,0.74,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2013-12-01,0.81,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2014-01-01,0.82,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2014-02-01,0.83,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2014-03-01,1.0,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2014-04-01,0.97,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2014-05-01,1.0,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2014-06-01,1.12,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2014-07-01,0.82,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2014-07-01,0.58,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2014-07-01,0.7,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2014-07-01,1.07,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2014-08-01,0.73,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2014-08-01,0.45,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Côte d'Ivoire,National Average,RETAIL,2014-08-01,1.01,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2014-09-01,0.65,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2014-09-01,0.47,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2014-09-01,0.22,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2014-09-01,0.58,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2014-10-01,0.82,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2014-10-01,0.39,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2014-10-01,0.44,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2014-10-01,0.49,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2014-11-01,0.5,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2014-11-01,0.45,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2014-11-01,0.41,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2014-11-01,0.55,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2014-12-01,0.59,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2014-12-01,0.39,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2014-12-01,0.42,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2014-12-01,0.67,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2015-01-01,1.13,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2015-02-01,0.93,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2015-03-01,0.7,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2015-04-01,0.49,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2015-04-01,0.49,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2015-04-01,0.7,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2015-04-01,0.8,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2015-05-01,0.54,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2015-05-01,0.44,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2015-05-01,0.69,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2015-05-01,0.73,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2015-06-01,1.11,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2015-06-01,0.34,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2015-06-01,0.6,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2015-06-01,1.03,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2015-07-01,0.55,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2015-07-01,0.19,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2015-07-01,0.61,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Benin,Cotonou,RETAIL,2015-08-01,0.68,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2015-08-01,0.46,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2015-08-01,0.52,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2015-08-01,0.7,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2015-09-01,0.68,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Parakou,RETAIL,2015-09-01,0.31,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2015-09-01,0.84,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2015-10-01,0.68,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2015-10-01,0.38,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2015-10-01,0.3,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2015-10-01,0.71,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2015-11-01,0.68,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2015-12-01,0.8,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2016-01-01,0.86,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2016-02-01,0.83,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2016-03-01,0.83,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2016-03-01,0.64,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2016-03-01,0.3,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2016-03-01,1.04,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2016-04-01,1.21,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2016-05-01,1.32,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2016-06-01,0.95,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2016-07-01,1.53,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2016-08-01,1.33,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2016-09-01,1.29,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2016-10-01,1.22,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Côte d'Ivoire,National Average,RETAIL,2016-11-01,0.82,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2016-12-01,0.7,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Côte d'Ivoire,National Average,RETAIL,2016-12-01,0.97,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Benin,Cotonou,RETAIL,2017-01-01,0.78,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Côte d'Ivoire,National Average,RETAIL,2017-01-01,1.03,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2017-01-01,0.69,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2017-01-01,0.67,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2017-01-01,0.51,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2017-01-01,0.7,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2017-01-01,0.67,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2017-01-01,0.77,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2017-01-01,0.87,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2017-02-01,0.8,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Côte d'Ivoire,National Average,RETAIL,2017-02-01,1.0,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2017-02-01,0.71,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2017-02-01,0.66,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2017-02-01,0.49,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2017-02-01,0.71,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2017-02-01,0.68,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2017-02-01,0.78,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2017-02-01,0.88,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2017-03-01,0.81,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Côte d'Ivoire,National Average,RETAIL,2017-03-01,1.0,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2017-03-01,0.84,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2017-03-01,0.77,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2017-03-01,0.54,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2017-03-01,0.82,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2017-03-01,0.77,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2017-03-01,0.91,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2017-03-01,0.92,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Côte d'Ivoire,National Average,RETAIL,2017-04-01,0.75,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2017-04-01,0.82,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2017-04-01,0.8,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2017-04-01,0.65,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2017-04-01,0.82,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2017-04-01,0.79,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2017-04-01,0.89,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2017-04-01,0.94,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2017-05-01,1.0,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Côte d'Ivoire,National Average,RETAIL,2017-05-01,0.93,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2017-05-01,0.91,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2017-05-01,0.9,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2017-05-01,0.75,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2017-05-01,0.92,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2017-05-01,0.88,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2017-05-01,0.98,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2017-05-01,1.05,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2017-06-01,1.16,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Côte d'Ivoire,National Average,RETAIL,2017-06-01,0.85,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2017-06-01,0.96,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2017-06-01,0.96,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2017-06-01,0.82,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2017-06-01,0.94,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2017-06-01,0.88,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2017-06-01,1.05,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2017-06-01,1.08,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2017-07-01,1.36,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Côte d'Ivoire,National Average,RETAIL,2017-07-01,1.13,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2017-07-01,0.96,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2017-07-01,0.96,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2017-07-01,0.81,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2017-07-01,0.98,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2017-07-01,0.91,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2017-07-01,1.06,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2017-07-01,1.07,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2017-08-01,1.34,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Côte d'Ivoire,National Average,RETAIL,2017-08-01,1.04,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2017-08-01,1.13,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2017-08-01,0.99,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2017-08-01,0.94,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2017-08-01,1.05,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2017-08-01,0.92,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2017-08-01,1.12,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2017-08-01,1.08,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2017-09-01,1.26,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Côte d'Ivoire,National Average,RETAIL,2017-09-01,0.9,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2017-09-01,0.85,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2017-09-01,0.83,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2017-09-01,0.83,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2017-09-01,0.87,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2017-09-01,0.81,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2017-09-01,0.89,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2017-09-01,0.86,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2017-10-01,1.0,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Côte d'Ivoire,National Average,RETAIL,2017-10-01,1.08,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2017-10-01,0.73,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2017-10-01,0.75,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2017-10-01,0.72,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2017-10-01,0.77,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2017-10-01,0.72,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2017-10-01,0.77,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2017-10-01,0.66,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Côte d'Ivoire,National Average,RETAIL,2017-11-01,0.97,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2017-11-01,0.7,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2017-11-01,0.71,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2017-11-01,0.68,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2017-11-01,0.72,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2017-11-01,0.69,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2017-11-01,0.74,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2017-11-01,0.62,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Côte d'Ivoire,National Average,RETAIL,2017-12-01,1.04,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2017-12-01,0.69,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2017-12-01,0.68,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2017-12-01,0.67,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2017-12-01,0.76,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2017-12-01,0.67,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2017-12-01,0.71,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2017-12-01,0.68,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2018-01-01,0.59,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Côte d'Ivoire,National Average,RETAIL,2018-01-01,1.11,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2018-01-01,0.74,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2018-01-01,0.75,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2018-01-01,0.71,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2018-01-01,0.76,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2018-01-01,0.67,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2018-01-01,0.82,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2018-01-01,0.73,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Côte d'Ivoire,National Average,RETAIL,2018-02-01,0.92,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2018-02-01,0.76,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2018-02-01,0.84,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2018-02-01,0.66,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2018-02-01,0.74,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2018-02-01,0.62,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2018-02-01,0.91,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2018-02-01,0.74,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Côte d'Ivoire,National Average,RETAIL,2018-03-01,1.02,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2018-03-01,0.83,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2018-03-01,0.99,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2018-03-01,0.62,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2018-03-01,0.78,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2018-03-01,0.63,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2018-03-01,1.02,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2018-03-01,0.91,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2018-04-01,0.56,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Côte d'Ivoire,National Average,RETAIL,2018-04-01,1.18,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2018-04-01,0.92,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2018-04-01,1.07,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2018-04-01,0.65,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2018-04-01,0.87,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2018-04-01,0.69,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2018-04-01,1.09,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2018-04-01,1.07,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2018-05-01,0.58,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2018-05-01,0.55,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2018-05-01,0.48,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2018-05-01,0.96,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2018-05-01,0.95,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2018-05-01,1.04,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2018-05-01,0.7,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2018-05-01,1.0,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2018-05-01,0.72,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2018-05-01,1.06,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2018-05-01,1.14,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Côte d'Ivoire,National Average,RETAIL,2018-06-01,1.15,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2018-06-01,0.94,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2018-06-01,1.14,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2018-06-01,0.62,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2018-06-01,1.13,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2018-06-01,0.75,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2018-06-01,1.04,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2018-06-01,1.24,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2018-07-01,0.53,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2018-07-01,0.6,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Côte d'Ivoire,National Average,RETAIL,2018-07-01,1.02,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2018-07-01,0.92,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2018-07-01,1.03,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2018-07-01,0.56,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2018-07-01,1.07,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2018-07-01,0.73,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2018-07-01,0.93,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2018-07-01,1.12,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2018-08-01,0.5,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2018-08-01,0.93,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Côte d'Ivoire,National Average,RETAIL,2018-08-01,0.92,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2018-08-01,0.96,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2018-08-01,1.09,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2018-08-01,0.57,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2018-08-01,1.12,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2018-08-01,0.8,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2018-08-01,0.93,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2018-08-01,1.16,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2018-09-01,0.5,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2018-09-01,0.48,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Côte d'Ivoire,National Average,RETAIL,2018-09-01,0.91,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2018-09-01,0.92,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2018-09-01,1.05,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2018-09-01,0.59,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2018-09-01,1.1,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2018-09-01,0.69,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2018-09-01,0.82,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2018-09-01,1.16,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2018-10-01,0.5,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2018-10-01,0.47,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2018-10-01,0.53,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2018-10-01,0.9,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2018-10-01,0.82,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2018-10-01,0.94,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2018-10-01,0.52,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2018-10-01,0.95,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2018-10-01,0.66,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2018-10-01,0.8,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2018-10-01,1.0,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2018-11-01,0.53,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2018-11-01,0.58,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2018-11-01,0.58,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2018-11-01,0.92,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2018-11-01,0.78,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2018-11-01,0.88,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2018-11-01,0.57,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2018-11-01,0.86,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2018-11-01,0.62,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2018-11-01,0.77,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2018-11-01,0.92,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2018-12-01,0.61,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2018-12-01,0.58,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2018-12-01,0.59,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2018-12-01,0.92,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2018-12-01,0.69,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2018-12-01,0.78,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2018-12-01,0.53,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2018-12-01,0.68,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2018-12-01,0.59,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2018-12-01,0.74,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2018-12-01,0.81,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2019-01-01,0.65,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2019-01-01,0.6,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2019-01-01,0.59,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2019-01-01,0.86,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2019-01-01,0.69,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2019-01-01,0.76,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2019-01-01,0.49,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2019-01-01,0.75,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2019-01-01,0.56,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2019-01-01,0.72,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2019-01-01,0.82,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2019-02-01,0.6,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2019-02-01,0.29,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2019-02-01,0.36,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2019-02-01,0.79,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2019-02-01,0.67,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2019-02-01,0.79,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2019-02-01,0.5,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2019-02-01,0.66,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2019-02-01,0.55,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2019-02-01,0.77,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2019-02-01,0.75,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2019-03-01,0.6,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2019-03-01,0.34,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2019-03-01,0.36,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2019-03-01,0.88,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2019-03-01,0.66,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2019-03-01,0.73,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2019-03-01,0.47,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2019-03-01,0.62,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2019-03-01,0.53,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2019-03-01,0.84,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2019-03-01,0.71,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2019-04-01,0.61,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2019-04-01,0.42,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2019-04-01,0.47,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2019-04-01,0.88,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2019-04-01,0.73,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2019-04-01,0.83,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2019-04-01,0.49,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2019-04-01,0.69,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2019-04-01,0.63,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2019-04-01,0.9,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2019-04-01,0.79,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2019-05-01,0.55,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2019-05-01,0.37,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2019-05-01,0.38,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2019-05-01,1.05,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2019-05-01,0.7,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2019-05-01,0.78,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2019-05-01,0.51,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2019-05-01,0.68,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2019-05-01,0.63,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2019-05-01,0.85,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2019-05-01,0.76,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2019-06-01,0.5,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2019-06-01,0.35,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2019-06-01,0.36,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2019-06-01,1.23,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2019-06-01,0.59,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2019-06-01,0.61,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2019-06-01,0.43,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2019-06-01,0.57,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2019-06-01,0.57,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2019-06-01,0.72,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2019-06-01,0.65,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2019-07-01,0.46,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2019-07-01,0.36,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2019-07-01,0.39,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2019-07-01,1.02,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2019-07-01,0.56,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2019-07-01,0.57,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2019-07-01,0.44,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2019-07-01,0.53,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2019-07-01,0.57,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2019-07-01,0.64,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2019-07-01,0.59,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2019-08-01,0.45,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2019-08-01,0.4,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2019-08-01,0.41,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2019-08-01,0.83,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2019-08-01,0.62,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2019-08-01,0.6,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2019-08-01,0.51,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2019-08-01,0.6,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2019-08-01,0.62,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2019-08-01,0.72,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2019-08-01,0.68,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2019-09-01,0.47,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2019-09-01,0.36,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2019-09-01,0.35,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2019-09-01,0.81,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2019-09-01,0.62,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2019-09-01,0.54,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2019-09-01,0.5,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2019-09-01,0.61,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2019-09-01,0.65,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2019-09-01,0.73,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2019-09-01,0.68,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2019-10-01,0.49,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2019-10-01,0.35,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2019-10-01,0.36,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2019-10-01,0.85,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2019-10-01,0.59,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2019-10-01,0.51,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2019-10-01,0.48,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2019-10-01,0.53,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2019-10-01,0.61,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2019-10-01,0.8,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2019-10-01,0.61,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2019-11-01,0.52,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2019-11-01,0.34,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2019-11-01,0.35,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2019-11-01,0.91,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2019-11-01,0.66,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2019-11-01,0.58,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2019-11-01,0.55,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2019-11-01,0.67,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2019-11-01,0.63,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2019-11-01,0.89,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2019-11-01,0.67,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2019-12-01,0.54,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2019-12-01,0.34,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2019-12-01,0.34,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2019-12-01,0.84,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2019-12-01,0.67,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2019-12-01,0.57,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2019-12-01,0.52,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2019-12-01,0.68,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2019-12-01,0.63,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2019-12-01,0.91,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2019-12-01,0.75,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Savanes Region,RETAIL,2019-12-01,0.41,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2020-01-01,0.54,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2020-01-01,0.36,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2020-01-01,0.35,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2020-01-01,0.82,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2020-01-01,0.63,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2020-01-01,0.5,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2020-01-01,0.48,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2020-01-01,0.57,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2020-01-01,0.68,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2020-01-01,0.91,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2020-01-01,0.67,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2020-01-01,0.37,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2020-01-01,0.5,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2020-01-01,0.4,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2020-02-01,0.53,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2020-02-01,0.35,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2020-02-01,0.34,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2020-02-01,0.79,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2020-02-01,0.62,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2020-02-01,0.54,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2020-02-01,0.44,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2020-02-01,0.59,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2020-02-01,0.62,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2020-02-01,0.87,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2020-02-01,0.74,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2020-02-01,0.36,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2020-02-01,0.52,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2020-02-01,0.38,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2020-03-01,0.54,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2020-03-01,0.37,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2020-03-01,0.35,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2020-03-01,0.81,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2020-03-01,0.63,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2020-03-01,0.63,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2020-03-01,0.37,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2020-03-01,0.59,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2020-03-01,0.55,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2020-03-01,0.87,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2020-03-01,0.79,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2020-03-01,0.35,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2020-03-01,0.53,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2020-03-01,0.46,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2020-04-01,0.53,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2020-04-01,0.36,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2020-04-01,0.36,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2020-04-01,0.84,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2020-04-01,0.64,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2020-04-01,0.49,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2020-04-01,0.35,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2020-04-01,0.65,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2020-04-01,0.61,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2020-04-01,0.89,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2020-04-01,0.86,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2020-04-01,0.6,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2020-04-01,0.55,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2020-04-01,0.56,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2020-05-01,0.53,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2020-05-01,0.36,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2020-05-01,0.36,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2020-05-01,0.86,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2020-05-01,0.66,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2020-05-01,0.54,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2020-05-01,0.37,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2020-05-01,0.64,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2020-05-01,0.61,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2020-05-01,0.98,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2020-05-01,0.82,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2020-05-01,0.5,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2020-05-01,0.61,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2020-05-01,0.6,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2020-06-01,0.57,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2020-06-01,0.38,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2020-06-01,0.4,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2020-06-01,0.99,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2020-06-01,0.7,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2020-06-01,0.68,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2020-06-01,0.44,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2020-06-01,0.66,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2020-06-01,0.59,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2020-06-01,0.98,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2020-06-01,0.81,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2020-06-01,0.6,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2020-06-01,0.64,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2020-06-01,0.62,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2020-07-01,0.67,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2020-07-01,0.41,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2020-07-01,0.48,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2020-07-01,1.11,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2020-07-01,0.71,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2020-07-01,0.61,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2020-07-01,0.46,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2020-07-01,0.71,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2020-07-01,0.63,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2020-07-01,1.01,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2020-07-01,0.85,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2020-07-01,0.7,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2020-07-01,0.86,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2020-07-01,0.85,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2020-08-01,0.69,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2020-08-01,0.37,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2020-08-01,0.56,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2020-08-01,1.06,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2020-08-01,0.68,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2020-08-01,0.5,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2020-08-01,0.41,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2020-08-01,0.67,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2020-08-01,0.71,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2020-08-01,1.01,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2020-08-01,0.81,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2020-08-01,0.65,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2020-08-01,0.73,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2020-08-01,0.76,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2020-09-01,0.43,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2020-09-01,0.3,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2020-09-01,0.61,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2020-09-01,0.97,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2020-09-01,0.65,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2020-09-01,0.45,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2020-09-01,0.38,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2020-09-01,0.67,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2020-09-01,0.67,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2020-09-01,0.92,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2020-09-01,0.82,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2020-09-01,0.38,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2020-09-01,0.57,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2020-09-01,0.49,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2020-10-01,0.46,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2020-10-01,0.27,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2020-10-01,0.55,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2020-10-01,1.03,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2020-10-01,0.64,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2020-10-01,0.43,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2020-10-01,0.37,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2020-10-01,0.67,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2020-10-01,0.58,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2020-10-01,0.97,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2020-10-01,0.84,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2020-10-01,0.41,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2020-10-01,0.51,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2020-10-01,0.37,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2020-11-01,0.71,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2020-11-01,0.26,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2020-11-01,0.59,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2020-11-01,0.85,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2020-11-01,0.62,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2020-11-01,0.45,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2020-11-01,0.38,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2020-11-01,0.67,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2020-11-01,0.62,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2020-11-01,0.84,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2020-11-01,0.79,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2020-11-01,0.4,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2020-11-01,0.53,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2020-11-01,0.42,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2020-12-01,0.92,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2020-12-01,0.25,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2020-12-01,0.68,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2020-12-01,0.92,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2020-12-01,0.62,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2020-12-01,0.43,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2020-12-01,0.37,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2020-12-01,0.66,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2020-12-01,0.61,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2020-12-01,0.84,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2020-12-01,0.8,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2020-12-01,0.42,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2020-12-01,0.52,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2020-12-01,0.45,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2021-01-01,0.86,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2021-01-01,0.32,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2021-01-01,0.76,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2021-01-01,1.0,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2021-01-01,0.62,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2021-01-01,0.4,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2021-01-01,0.35,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2021-01-01,0.67,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2021-01-01,0.62,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2021-01-01,0.83,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2021-01-01,0.85,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2021-01-01,0.34,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2021-01-01,0.54,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2021-01-01,0.47,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2021-02-01,0.86,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2021-02-01,0.32,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2021-02-01,0.83,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2021-02-01,0.99,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2021-02-01,0.64,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2021-02-01,0.37,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2021-02-01,0.3,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2021-02-01,0.73,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2021-02-01,0.72,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2021-02-01,0.84,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2021-02-01,0.9,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2021-02-01,0.47,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2021-02-01,0.53,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2021-02-01,0.48,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2021-03-01,0.89,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2021-03-01,0.34,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2021-03-01,0.88,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2021-03-01,1.0,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2021-03-01,0.64,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2021-03-01,0.38,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2021-03-01,0.29,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2021-03-01,0.71,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2021-03-01,0.74,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2021-03-01,0.85,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2021-03-01,0.94,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2021-03-01,0.4,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2021-03-01,0.58,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2021-03-01,0.5,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2021-04-01,0.95,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2021-04-01,0.47,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2021-04-01,0.88,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2021-04-01,1.09,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2021-04-01,0.66,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2021-04-01,0.4,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2021-04-01,0.29,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2021-04-01,0.74,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2021-04-01,0.75,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2021-04-01,0.9,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2021-04-01,0.94,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2021-04-01,0.49,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2021-04-01,0.65,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2021-04-01,0.62,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2021-05-01,0.99,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2021-05-01,0.46,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2021-05-01,0.9,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2021-05-01,1.18,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2021-05-01,0.66,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2021-05-01,0.4,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2021-05-01,0.28,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2021-05-01,0.72,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2021-05-01,0.8,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2021-05-01,0.89,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2021-05-01,0.93,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2021-05-01,0.73,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2021-05-01,0.78,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2021-05-01,0.73,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2021-06-01,0.97,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2021-06-01,0.47,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2021-06-01,1.05,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2021-06-01,1.34,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2021-06-01,0.7,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2021-06-01,0.4,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2021-06-01,0.28,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2021-06-01,0.79,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2021-06-01,0.95,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2021-06-01,1.04,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2021-06-01,0.92,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2021-06-01,0.83,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2021-06-01,0.92,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2021-06-01,0.83,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2021-07-01,0.97,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2021-07-01,0.62,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2021-07-01,0.82,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2021-07-01,1.28,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2021-07-01,0.75,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2021-07-01,0.41,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2021-07-01,0.29,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2021-07-01,0.86,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2021-07-01,0.96,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2021-07-01,1.07,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2021-07-01,1.01,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2021-07-01,1.14,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2021-07-01,1.08,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2021-07-01,1.15,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2021-08-01,1.03,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2021-08-01,0.47,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2021-08-01,0.75,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2021-08-01,1.05,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2021-08-01,0.74,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2021-08-01,0.41,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2021-08-01,0.3,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2021-08-01,0.86,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2021-08-01,0.97,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2021-08-01,1.0,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2021-08-01,0.99,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2021-08-01,0.72,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2021-08-01,0.89,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2021-08-01,0.94,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2021-09-01,0.8,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2021-09-01,0.42,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2021-09-01,0.69,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2021-09-01,1.0,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2021-09-01,0.75,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2021-09-01,0.45,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2021-09-01,0.31,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2021-09-01,0.77,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2021-09-01,1.01,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2021-09-01,1.02,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2021-09-01,1.0,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2021-09-01,0.5,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2021-09-01,0.68,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2021-09-01,0.7,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2021-10-01,0.6,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2021-10-01,0.35,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2021-10-01,0.53,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2021-10-01,0.99,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2021-10-01,0.76,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2021-10-01,0.44,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2021-10-01,0.31,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2021-10-01,0.82,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2021-10-01,1.0,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2021-10-01,1.05,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2021-10-01,1.03,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2021-10-01,0.33,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2021-10-01,0.59,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2021-10-01,0.51,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2021-11-01,0.59,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2021-11-01,0.42,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2021-11-01,0.54,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2021-11-01,0.94,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2021-11-01,0.8,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2021-11-01,0.44,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2021-11-01,0.32,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2021-11-01,0.86,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2021-11-01,0.99,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2021-11-01,1.07,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2021-11-01,1.15,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2021-11-01,0.44,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2021-11-01,0.57,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2021-11-01,0.6,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2021-12-01,0.64,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2021-12-01,0.4,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2021-12-01,0.71,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2021-12-01,0.94,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2021-12-01,0.79,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2021-12-01,0.44,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2021-12-01,0.32,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2021-12-01,0.81,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2021-12-01,1.02,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2021-12-01,1.08,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2021-12-01,1.19,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2021-12-01,0.5,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2021-12-01,0.59,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2021-12-01,0.6,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2022-01-01,0.76,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2022-01-01,0.35,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2022-01-01,0.77,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2022-01-01,0.99,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2022-01-01,0.8,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2022-01-01,0.45,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2022-01-01,0.32,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2022-01-01,0.84,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2022-01-01,0.95,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2022-01-01,1.04,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2022-01-01,1.25,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2022-01-01,0.46,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2022-01-01,0.61,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2022-01-01,0.64,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2022-02-01,0.82,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2022-02-01,0.45,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2022-02-01,0.78,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2022-02-01,0.71,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2022-02-01,0.81,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2022-02-01,0.46,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2022-02-01,0.33,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2022-02-01,0.88,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2022-02-01,0.97,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2022-02-01,1.08,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2022-02-01,1.25,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2022-02-01,0.47,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2022-02-01,0.6,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2022-02-01,0.59,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2022-03-01,0.86,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2022-03-01,0.44,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2022-03-01,0.78,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2022-03-01,0.93,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2022-03-01,0.85,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2022-03-01,0.48,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2022-03-01,0.34,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2022-03-01,0.96,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2022-03-01,0.99,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2022-03-01,1.14,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2022-03-01,1.26,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2022-03-01,0.55,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2022-03-01,0.58,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2022-03-01,0.61,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2022-04-01,0.87,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2022-04-01,0.48,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2022-04-01,0.82,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2022-04-01,1.16,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2022-04-01,0.87,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2022-04-01,0.49,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2022-04-01,0.34,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2022-04-01,0.96,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2022-04-01,1.03,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2022-04-01,1.19,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2022-04-01,1.27,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2022-04-01,0.6,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2022-04-01,0.7,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2022-04-01,0.72,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2022-05-01,0.9,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2022-05-01,0.47,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2022-05-01,0.8,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2022-05-01,1.06,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2022-05-01,0.92,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2022-05-01,0.49,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2022-05-01,0.35,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2022-05-01,0.99,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2022-05-01,1.07,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2022-05-01,1.26,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2022-05-01,1.29,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2022-05-01,0.76,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2022-05-01,0.8,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2022-05-01,0.76,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2022-06-01,0.91,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2022-06-01,0.48,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2022-06-01,0.81,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2022-06-01,1.2,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2022-06-01,0.97,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2022-06-01,0.51,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2022-06-01,0.39,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2022-06-01,1.01,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2022-06-01,1.12,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2022-06-01,1.3,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2022-06-01,1.31,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2022-06-01,0.91,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2022-06-01,0.88,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2022-06-01,0.83,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2022-07-01,0.89,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2022-07-01,0.48,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2022-07-01,0.79,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2022-07-01,1.12,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2022-07-01,0.91,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2022-07-01,0.53,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2022-07-01,0.4,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2022-07-01,1.02,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2022-07-01,1.15,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2022-07-01,1.31,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2022-07-01,1.29,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2022-07-01,0.9,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2022-07-01,0.96,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2022-07-01,0.94,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2022-08-01,0.81,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2022-08-01,0.43,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2022-08-01,0.75,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2022-08-01,1.18,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2022-08-01,0.95,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2022-08-01,0.52,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2022-08-01,0.42,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2022-08-01,1.04,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2022-08-01,1.19,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2022-08-01,1.36,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2022-08-01,1.26,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2022-08-01,0.53,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2022-08-01,0.73,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2022-08-01,0.64,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2022-09-01,0.62,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2022-09-01,0.34,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2022-09-01,0.62,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2022-09-01,1.48,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2022-09-01,0.94,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2022-09-01,0.52,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2022-09-01,0.47,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2022-09-01,1.02,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2022-09-01,1.14,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2022-09-01,1.34,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2022-09-01,1.24,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2022-09-01,0.46,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2022-09-01,0.55,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2022-09-01,0.33,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2022-10-01,0.5,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2022-10-01,0.28,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2022-10-01,0.51,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2022-10-01,1.0,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2022-10-01,0.93,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2022-10-01,0.53,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2022-10-01,0.48,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2022-10-01,0.99,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2022-10-01,1.16,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2022-10-01,1.27,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2022-10-01,1.24,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2022-10-01,0.36,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2022-10-01,0.51,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2022-10-01,0.32,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2022-11-01,0.47,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2022-11-01,0.26,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2022-11-01,0.48,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2022-11-01,1.03,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2022-11-01,0.95,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2022-11-01,0.52,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2022-11-01,0.49,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2022-11-01,0.99,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2022-11-01,1.26,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2022-11-01,1.29,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2022-11-01,1.25,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2022-11-01,0.41,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2022-11-01,0.47,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2022-11-01,0.34,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2022-12-01,0.49,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2022-12-01,0.25,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2022-12-01,0.49,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2022-12-01,1.02,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2022-12-01,0.94,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2022-12-01,0.54,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2022-12-01,0.5,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2022-12-01,0.96,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2022-12-01,1.26,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2022-12-01,1.28,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2022-12-01,1.24,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2022-12-01,0.51,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2022-12-01,0.46,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2022-12-01,0.43,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2023-01-01,0.57,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2023-01-01,0.29,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2023-01-01,0.56,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2023-01-01,1.04,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2023-01-01,0.95,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2023-01-01,0.55,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2023-01-01,0.5,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2023-01-01,0.97,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2023-01-01,1.23,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2023-01-01,1.29,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2023-01-01,1.24,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2023-01-01,0.41,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2023-01-01,0.49,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2023-01-01,0.46,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2023-02-01,0.63,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2023-02-01,0.33,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2023-02-01,0.62,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2023-02-01,0.95,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2023-02-01,0.95,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2023-02-01,0.55,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2023-02-01,0.48,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2023-02-01,0.98,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2023-02-01,1.23,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2023-02-01,1.28,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2023-02-01,1.27,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2023-02-01,0.36,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2023-02-01,0.57,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2023-02-01,0.48,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2023-03-01,0.72,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2023-03-01,0.37,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2023-03-01,0.69,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2023-03-01,0.95,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2023-03-01,0.96,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2023-03-01,0.56,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2023-03-01,0.47,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2023-03-01,1.02,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2023-03-01,1.23,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2023-03-01,1.28,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2023-03-01,1.31,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2023-03-01,0.44,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2023-03-01,0.51,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2023-03-01,0.4,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2023-04-01,0.82,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2023-04-01,0.42,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2023-04-01,0.79,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2023-04-01,1.08,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2023-04-01,0.97,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2023-04-01,0.59,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2023-04-01,0.47,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2023-04-01,0.96,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2023-04-01,1.28,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2023-04-01,1.27,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2023-04-01,1.35,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2023-04-01,0.46,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2023-04-01,0.62,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2023-04-01,0.5,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2023-05-01,0.89,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2023-05-01,0.46,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2023-05-01,0.85,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2023-05-01,1.13,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2023-05-01,0.99,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2023-05-01,0.62,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2023-05-01,0.5,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2023-05-01,0.99,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2023-05-01,1.3,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2023-05-01,1.29,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2023-05-01,1.37,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2023-05-01,0.54,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2023-05-01,0.74,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2023-05-01,0.57,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2023-06-01,0.95,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2023-06-01,0.49,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2023-06-01,0.91,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2023-06-01,1.2,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2023-06-01,0.83,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2023-06-01,0.61,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2023-06-01,0.5,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2023-06-01,0.8,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2023-06-01,1.01,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2023-06-01,1.01,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2023-06-01,1.11,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2023-06-01,0.62,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2023-06-01,0.79,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2023-06-01,0.67,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2023-07-01,1.03,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2023-07-01,0.51,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2023-07-01,0.95,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2023-07-01,1.35,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2023-07-01,0.7,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2023-07-01,0.49,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2023-07-01,0.42,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2023-07-01,0.68,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2023-07-01,0.86,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2023-07-01,0.85,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2023-07-01,0.96,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2023-07-01,0.91,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2023-07-01,1.02,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2023-07-01,0.99,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2023-08-01,0.95,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2023-08-01,0.49,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2023-08-01,0.88,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2023-08-01,1.26,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2023-08-01,0.76,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2023-08-01,0.55,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2023-08-01,0.47,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2023-08-01,0.73,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2023-08-01,0.9,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2023-08-01,0.95,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2023-08-01,1.01,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2023-08-01,0.54,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2023-08-01,0.82,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2023-08-01,0.71,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2023-09-01,0.83,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2023-09-01,0.43,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2023-09-01,0.75,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2023-09-01,0.98,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2023-09-01,0.78,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2023-09-01,0.55,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2023-09-01,0.48,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2023-09-01,0.77,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2023-09-01,0.92,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2023-09-01,0.98,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2023-09-01,1.04,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2023-09-01,0.4,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2023-09-01,0.67,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2023-09-01,0.51,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2023-10-01,0.76,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2023-10-01,0.39,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2023-10-01,0.7,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2023-10-01,0.95,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2023-10-01,0.86,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2023-10-01,0.76,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2023-10-01,0.51,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2023-10-01,0.72,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2023-10-01,0.93,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2023-10-01,1.25,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2023-10-01,1.06,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2023-10-01,0.34,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2023-10-01,0.54,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2023-10-01,0.41,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2023-11-01,0.87,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2023-11-01,0.35,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2023-11-01,0.75,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2023-11-01,1.29,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2023-11-01,0.93,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2023-11-01,0.82,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2023-11-01,0.62,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2023-11-01,0.76,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2023-11-01,1.01,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2023-11-01,1.15,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2023-11-01,1.27,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2023-11-01,0.37,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2023-11-01,0.58,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2023-11-01,0.46,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2023-12-01,0.96,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2023-12-01,0.31,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2023-12-01,0.81,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2023-12-01,1.24,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2023-12-01,0.93,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2023-12-01,0.83,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2023-12-01,0.63,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2023-12-01,0.74,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2023-12-01,1.0,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2023-12-01,1.14,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2023-12-01,1.33,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2023-12-01,0.47,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2023-12-01,0.64,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2023-12-01,0.51,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2024-01-01,0.99,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2024-01-01,0.27,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2024-01-01,0.82,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2024-01-01,1.25,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2024-01-01,0.96,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2024-01-01,0.99,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2024-01-01,0.73,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2024-01-01,0.77,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2024-01-01,0.99,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2024-01-01,1.19,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2024-01-01,1.1,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2024-01-01,0.53,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2024-01-01,0.65,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2024-01-01,0.58,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2024-02-01,1.04,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2024-02-01,0.27,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2024-02-01,0.88,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2024-02-01,1.07,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2024-02-01,0.67,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2024-02-01,0.73,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2024-02-01,0.5,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2024-02-01,0.58,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2024-02-01,0.65,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2024-02-01,0.85,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2024-02-01,0.69,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2024-02-01,0.48,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2024-02-01,0.66,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2024-02-01,0.56,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2024-03-01,1.15,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2024-03-01,0.29,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2024-03-01,0.94,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2024-03-01,1.04,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2024-03-01,0.71,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2024-03-01,0.75,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2024-03-01,0.55,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2024-03-01,0.55,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2024-03-01,0.67,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2024-03-01,1.07,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2024-03-01,0.68,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2024-03-01,0.66,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2024-03-01,0.67,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2024-03-01,0.62,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2024-04-01,1.18,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2024-04-01,0.3,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2024-04-01,0.95,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2024-04-01,1.06,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2024-04-01,0.92,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2024-04-01,0.94,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2024-04-01,0.71,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2024-04-01,0.72,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2024-04-01,0.83,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2024-04-01,1.41,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2024-04-01,0.91,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2024-04-01,0.64,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2024-04-01,0.84,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2024-04-01,0.8,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2024-05-01,1.29,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2024-05-01,0.32,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2024-05-01,0.95,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2024-05-01,1.11,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2024-05-01,0.92,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2024-05-01,1.23,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2024-05-01,0.7,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2024-05-01,0.69,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2024-05-01,0.77,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2024-05-01,1.28,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2024-05-01,0.84,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2024-05-01,0.93,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2024-05-01,0.95,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2024-05-01,0.88,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2024-06-01,1.73,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2024-06-01,0.41,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2024-06-01,0.98,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2024-06-01,1.24,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2024-06-01,1.36,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2024-06-01,1.65,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2024-06-01,0.98,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2024-06-01,0.84,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2024-06-01,1.62,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2024-06-01,1.34,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2024-06-01,1.85,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2024-06-01,0.96,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2024-06-01,1.17,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2024-06-01,1.04,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2024-07-01,1.92,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2024-07-01,0.48,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2024-07-01,1.03,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2024-07-01,1.18,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2024-07-01,1.16,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2024-07-01,1.43,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2024-07-01,0.65,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2024-07-01,0.85,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2024-07-01,0.99,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2024-07-01,1.48,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2024-07-01,1.51,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2024-07-01,1.18,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2024-07-01,1.34,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2024-07-01,1.63,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2024-08-01,1.16,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2024-08-01,0.44,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2024-08-01,0.78,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2024-08-01,1.32,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2024-08-01,1.05,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2024-08-01,1.44,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2024-08-01,0.61,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2024-08-01,0.8,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2024-08-01,0.94,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2024-08-01,1.17,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2024-08-01,1.27,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2024-08-01,1.04,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2024-08-01,1.27,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2024-08-01,1.28,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2024-09-01,0.83,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2024-09-01,0.33,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2024-09-01,0.53,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2024-09-01,1.18,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2024-09-01,1.03,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2024-09-01,1.42,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2024-09-01,0.64,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2024-09-01,0.81,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2024-09-01,0.93,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2024-09-01,1.16,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2024-09-01,1.17,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2024-09-01,0.83,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2024-09-01,0.97,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2024-09-01,0.86,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2024-10-01,0.72,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2024-10-01,0.25,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2024-10-01,0.49,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2024-10-01,1.16,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2024-10-01,1.04,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2024-10-01,1.41,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2024-10-01,0.67,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2024-10-01,0.83,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2024-10-01,0.94,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2024-10-01,1.13,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2024-10-01,1.2,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2024-10-01,0.58,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2024-10-01,0.76,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2024-10-01,0.51,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2024-11-01,0.71,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2024-11-01,0.21,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2024-11-01,0.46,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2024-11-01,1.0,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2024-11-01,1.1,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2024-11-01,1.41,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2024-11-01,0.77,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2024-11-01,0.92,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2024-11-01,0.95,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2024-11-01,1.28,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2024-11-01,1.23,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2024-11-01,0.64,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2024-11-01,0.59,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2024-11-01,0.51,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2024-12-01,0.87,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2024-12-01,0.27,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2024-12-01,0.54,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,National Average,RETAIL,2024-12-01,0.9,Kg,78d96313-0077-495f-8659-c70465f21993
+Yam,Nigeria,National Average,RETAIL,2024-12-01,1.23,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2024-12-01,1.54,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2024-12-01,0.86,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2024-12-01,1.0,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2024-12-01,1.05,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2024-12-01,1.54,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2024-12-01,1.33,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Togo,Centrale Region,RETAIL,2024-12-01,0.45,Kg,7b4da00e-51c5-441e-8085-9e8d21f85ccb
+Yam,Togo,Maritime Region,RETAIL,2024-12-01,0.6,Kg,fe826eed-8d55-4369-882f-4ea22019ef93
+Yam,Togo,Savanes Region,RETAIL,2024-12-01,0.61,Kg,0702ac18-7b5c-490d-b93b-cb2d3decc199
+Yam,Benin,Cotonou,RETAIL,2025-01-01,0.96,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2025-01-01,0.33,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2025-01-01,0.71,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,Abidjan,RETAIL,2025-01-01,0.94,Kg,244ecda1-a5b9-436b-9aef-e213ab5d5e89
+Yam,Côte d'Ivoire,Centre,RETAIL,2025-01-01,0.95,Kg,e9c611b2-1d82-4deb-8d35-edcaf10b3850
+Yam,Côte d'Ivoire,Est,RETAIL,2025-01-01,0.95,Kg,44fde056-0750-49fd-82b6-62968a951b50
+Yam,Côte d'Ivoire,Lagunes,RETAIL,2025-01-01,0.94,Kg,62b9ac53-6fc7-4900-8260-1317c001aff5
+Yam,Côte d'Ivoire,Nord,RETAIL,2025-01-01,0.95,Kg,6c293b2d-9110-497d-9591-eeedca14aba0
+Yam,Côte d'Ivoire,Ouest,RETAIL,2025-01-01,0.95,Kg,53d961c9-99e1-48db-92c8-fc56a7d276e1
+Yam,Côte d'Ivoire,Sud-Ouest,RETAIL,2025-01-01,0.95,Kg,1acfb174-b382-407a-ae46-9ac5a472960f
+Yam,Nigeria,National Average,RETAIL,2025-01-01,1.3,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2025-01-01,1.23,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2025-01-01,1.11,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2025-01-01,1.33,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2025-01-01,1.39,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2025-01-01,1.46,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2025-01-01,1.28,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2025-02-01,1.06,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2025-02-01,0.37,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2025-02-01,0.8,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,Abidjan,RETAIL,2025-02-01,0.94,Kg,244ecda1-a5b9-436b-9aef-e213ab5d5e89
+Yam,Côte d'Ivoire,Centre,RETAIL,2025-02-01,0.58,Kg,e9c611b2-1d82-4deb-8d35-edcaf10b3850
+Yam,Côte d'Ivoire,Est,RETAIL,2025-02-01,0.76,Kg,44fde056-0750-49fd-82b6-62968a951b50
+Yam,Côte d'Ivoire,Lagunes,RETAIL,2025-02-01,0.88,Kg,62b9ac53-6fc7-4900-8260-1317c001aff5
+Yam,Côte d'Ivoire,Nord,RETAIL,2025-02-01,0.91,Kg,6c293b2d-9110-497d-9591-eeedca14aba0
+Yam,Côte d'Ivoire,Ouest,RETAIL,2025-02-01,0.83,Kg,53d961c9-99e1-48db-92c8-fc56a7d276e1
+Yam,Côte d'Ivoire,Sud-Ouest,RETAIL,2025-02-01,0.86,Kg,1acfb174-b382-407a-ae46-9ac5a472960f
+Yam,Nigeria,National Average,RETAIL,2025-02-01,1.35,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2025-02-01,1.29,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2025-02-01,1.17,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2025-02-01,1.38,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2025-02-01,1.46,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2025-02-01,1.52,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2025-02-01,1.29,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2025-03-01,1.18,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2025-03-01,0.42,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2025-03-01,0.85,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,Abidjan,RETAIL,2025-03-01,1.02,Kg,244ecda1-a5b9-436b-9aef-e213ab5d5e89
+Yam,Côte d'Ivoire,Centre,RETAIL,2025-03-01,0.68,Kg,e9c611b2-1d82-4deb-8d35-edcaf10b3850
+Yam,Côte d'Ivoire,Est,RETAIL,2025-03-01,0.84,Kg,44fde056-0750-49fd-82b6-62968a951b50
+Yam,Côte d'Ivoire,Lagunes,RETAIL,2025-03-01,0.91,Kg,62b9ac53-6fc7-4900-8260-1317c001aff5
+Yam,Côte d'Ivoire,Nord,RETAIL,2025-03-01,1.02,Kg,6c293b2d-9110-497d-9591-eeedca14aba0
+Yam,Côte d'Ivoire,Ouest,RETAIL,2025-03-01,0.89,Kg,53d961c9-99e1-48db-92c8-fc56a7d276e1
+Yam,Côte d'Ivoire,Sud-Ouest,RETAIL,2025-03-01,0.83,Kg,1acfb174-b382-407a-ae46-9ac5a472960f
+Yam,Nigeria,National Average,RETAIL,2025-03-01,1.4,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2025-03-01,1.29,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2025-03-01,1.17,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2025-03-01,1.43,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2025-03-01,1.54,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2025-03-01,1.63,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2025-03-01,1.39,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2025-04-01,1.4,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2025-04-01,0.47,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2025-04-01,0.95,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,Abidjan,RETAIL,2025-04-01,0.91,Kg,244ecda1-a5b9-436b-9aef-e213ab5d5e89
+Yam,Côte d'Ivoire,Centre,RETAIL,2025-04-01,1.08,Kg,e9c611b2-1d82-4deb-8d35-edcaf10b3850
+Yam,Côte d'Ivoire,Est,RETAIL,2025-04-01,0.81,Kg,44fde056-0750-49fd-82b6-62968a951b50
+Yam,Côte d'Ivoire,Lagunes,RETAIL,2025-04-01,0.97,Kg,62b9ac53-6fc7-4900-8260-1317c001aff5
+Yam,Côte d'Ivoire,Nord,RETAIL,2025-04-01,0.94,Kg,6c293b2d-9110-497d-9591-eeedca14aba0
+Yam,Côte d'Ivoire,Ouest,RETAIL,2025-04-01,0.96,Kg,53d961c9-99e1-48db-92c8-fc56a7d276e1
+Yam,Côte d'Ivoire,Sud-Ouest,RETAIL,2025-04-01,0.98,Kg,1acfb174-b382-407a-ae46-9ac5a472960f
+Yam,Nigeria,National Average,RETAIL,2025-04-01,1.4,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2025-04-01,1.26,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2025-04-01,1.4,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2025-04-01,1.34,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2025-04-01,1.54,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2025-04-01,1.57,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2025-04-01,1.38,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2025-05-01,1.62,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2025-05-01,0.52,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2025-05-01,1.02,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,Abidjan,RETAIL,2025-05-01,1.07,Kg,244ecda1-a5b9-436b-9aef-e213ab5d5e89
+Yam,Côte d'Ivoire,Centre,RETAIL,2025-05-01,0.7,Kg,e9c611b2-1d82-4deb-8d35-edcaf10b3850
+Yam,Côte d'Ivoire,Est,RETAIL,2025-05-01,0.88,Kg,44fde056-0750-49fd-82b6-62968a951b50
+Yam,Côte d'Ivoire,Lagunes,RETAIL,2025-05-01,0.95,Kg,62b9ac53-6fc7-4900-8260-1317c001aff5
+Yam,Côte d'Ivoire,Nord,RETAIL,2025-05-01,1.07,Kg,6c293b2d-9110-497d-9591-eeedca14aba0
+Yam,Côte d'Ivoire,Ouest,RETAIL,2025-05-01,0.93,Kg,53d961c9-99e1-48db-92c8-fc56a7d276e1
+Yam,Côte d'Ivoire,Sud-Ouest,RETAIL,2025-05-01,0.87,Kg,1acfb174-b382-407a-ae46-9ac5a472960f
+Yam,Nigeria,National Average,RETAIL,2025-05-01,1.49,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2025-05-01,1.32,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2025-05-01,1.41,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2025-05-01,1.36,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2025-05-01,1.7,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2025-05-01,1.69,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2025-05-01,1.53,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2025-06-01,1.82,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2025-06-01,0.57,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2025-06-01,1.09,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,Abidjan,RETAIL,2025-06-01,0.84,Kg,244ecda1-a5b9-436b-9aef-e213ab5d5e89
+Yam,Côte d'Ivoire,Centre,RETAIL,2025-06-01,0.96,Kg,e9c611b2-1d82-4deb-8d35-edcaf10b3850
+Yam,Côte d'Ivoire,Est,RETAIL,2025-06-01,1.03,Kg,44fde056-0750-49fd-82b6-62968a951b50
+Yam,Côte d'Ivoire,Lagunes,RETAIL,2025-06-01,0.82,Kg,62b9ac53-6fc7-4900-8260-1317c001aff5
+Yam,Côte d'Ivoire,Nord,RETAIL,2025-06-01,1.2,Kg,6c293b2d-9110-497d-9591-eeedca14aba0
+Yam,Côte d'Ivoire,Ouest,RETAIL,2025-06-01,0.87,Kg,53d961c9-99e1-48db-92c8-fc56a7d276e1
+Yam,Côte d'Ivoire,Sud-Ouest,RETAIL,2025-06-01,0.99,Kg,1acfb174-b382-407a-ae46-9ac5a472960f
+Yam,Nigeria,National Average,RETAIL,2025-06-01,1.59,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2025-06-01,1.35,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2025-06-01,1.6,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2025-06-01,1.43,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2025-06-01,1.77,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2025-06-01,1.9,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2025-06-01,1.59,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2025-07-01,2.08,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2025-07-01,0.63,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2025-07-01,1.12,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,Abidjan,RETAIL,2025-07-01,1.44,Kg,244ecda1-a5b9-436b-9aef-e213ab5d5e89
+Yam,Côte d'Ivoire,Centre,RETAIL,2025-07-01,1.01,Kg,e9c611b2-1d82-4deb-8d35-edcaf10b3850
+Yam,Côte d'Ivoire,Est,RETAIL,2025-07-01,1.01,Kg,44fde056-0750-49fd-82b6-62968a951b50
+Yam,Côte d'Ivoire,Lagunes,RETAIL,2025-07-01,0.83,Kg,62b9ac53-6fc7-4900-8260-1317c001aff5
+Yam,Côte d'Ivoire,Nord,RETAIL,2025-07-01,1.12,Kg,6c293b2d-9110-497d-9591-eeedca14aba0
+Yam,Côte d'Ivoire,Ouest,RETAIL,2025-07-01,0.93,Kg,53d961c9-99e1-48db-92c8-fc56a7d276e1
+Yam,Côte d'Ivoire,Sud-Ouest,RETAIL,2025-07-01,0.96,Kg,1acfb174-b382-407a-ae46-9ac5a472960f
+Yam,Nigeria,National Average,RETAIL,2025-07-01,1.62,Kg,5da7d11d-6d95-48c9-b1e2-c62236c268d5
+Yam,Nigeria,North Central,RETAIL,2025-07-01,1.37,Kg,4f5d67ed-b520-42e5-917d-bb4c9fe03921
+Yam,Nigeria,North East,RETAIL,2025-07-01,1.6,Kg,48506206-41d6-4c6a-bb9d-d99ffcdbd2cb
+Yam,Nigeria,North West,RETAIL,2025-07-01,1.4,Kg,0c55ff48-21a4-4ec3-8c24-38a95ba5b499
+Yam,Nigeria,South East,RETAIL,2025-07-01,1.8,Kg,f40ef1cb-5efc-4082-a045-63bf87d919be
+Yam,Nigeria,South South,RETAIL,2025-07-01,2.15,Kg,fc6f18b9-7f3b-46ee-9241-70c3ccd9e05f
+Yam,Nigeria,South West,RETAIL,2025-07-01,1.53,Kg,6564b70e-7bce-4a1f-8230-6627a963db62
+Yam,Benin,Cotonou,RETAIL,2025-08-01,1.76,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2025-08-01,0.62,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2025-08-01,0.97,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,Abidjan,RETAIL,2025-08-01,1.45,Kg,244ecda1-a5b9-436b-9aef-e213ab5d5e89
+Yam,Côte d'Ivoire,Centre,RETAIL,2025-08-01,0.97,Kg,e9c611b2-1d82-4deb-8d35-edcaf10b3850
+Yam,Côte d'Ivoire,Est,RETAIL,2025-08-01,0.96,Kg,44fde056-0750-49fd-82b6-62968a951b50
+Yam,Côte d'Ivoire,Lagunes,RETAIL,2025-08-01,0.69,Kg,62b9ac53-6fc7-4900-8260-1317c001aff5
+Yam,Côte d'Ivoire,Nord,RETAIL,2025-08-01,1.0,Kg,6c293b2d-9110-497d-9591-eeedca14aba0
+Yam,Côte d'Ivoire,Ouest,RETAIL,2025-08-01,0.91,Kg,53d961c9-99e1-48db-92c8-fc56a7d276e1
+Yam,Côte d'Ivoire,Sud-Ouest,RETAIL,2025-08-01,0.95,Kg,1acfb174-b382-407a-ae46-9ac5a472960f
+Yam,Benin,Cotonou,RETAIL,2025-09-01,1.21,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2025-09-01,0.5,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2025-09-01,0.71,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318
+Yam,Côte d'Ivoire,Abidjan,RETAIL,2025-09-01,1.34,Kg,244ecda1-a5b9-436b-9aef-e213ab5d5e89
+Yam,Côte d'Ivoire,Centre,RETAIL,2025-09-01,0.8,Kg,e9c611b2-1d82-4deb-8d35-edcaf10b3850
+Yam,Côte d'Ivoire,Est,RETAIL,2025-09-01,0.8,Kg,44fde056-0750-49fd-82b6-62968a951b50
+Yam,Côte d'Ivoire,Lagunes,RETAIL,2025-09-01,0.74,Kg,62b9ac53-6fc7-4900-8260-1317c001aff5
+Yam,Côte d'Ivoire,Nord,RETAIL,2025-09-01,0.92,Kg,6c293b2d-9110-497d-9591-eeedca14aba0
+Yam,Côte d'Ivoire,Ouest,RETAIL,2025-09-01,0.8,Kg,53d961c9-99e1-48db-92c8-fc56a7d276e1
+Yam,Côte d'Ivoire,Sud-Ouest,RETAIL,2025-09-01,0.95,Kg,1acfb174-b382-407a-ae46-9ac5a472960f
+Yam,Benin,Cotonou,RETAIL,2025-10-01,0.96,Kg,f8fffedb-0e97-4529-9fce-e3e4aedb9a0c
+Yam,Benin,Natitingou,RETAIL,2025-10-01,0.43,Kg,96ca0d4b-bb7d-4f2e-8889-0d8c2b4fb66c
+Yam,Benin,Parakou,RETAIL,2025-10-01,0.6,Kg,f5bfb428-8538-4a3c-ad5f-2a401a5c9318

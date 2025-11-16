@@ -1,0 +1,916 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2000-01-01,0.32,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2000-01-01,2.43,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2000-04-01,0.64,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2000-04-01,0.64,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2000-04-01,0.58,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2000-05-01,0.74,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2000-05-01,0.77,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2000-05-01,0.73,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2000-06-01,0.76,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2000-06-01,0.8,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2000-06-01,0.72,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2000-07-01,0.78,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2000-07-01,0.81,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2000-07-01,0.73,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2000-08-01,0.78,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2000-08-01,0.79,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2000-08-01,0.73,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2000-09-01,0.77,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2000-09-01,0.79,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2000-09-01,0.71,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2000-10-01,0.74,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2000-10-01,0.74,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2000-10-01,0.68,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2000-11-01,0.74,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2000-11-01,0.7,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2000-11-01,0.67,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2000-12-01,0.73,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2000-12-01,0.71,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2000-12-01,0.68,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2001-01-01,0.73,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2001-01-01,0.73,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2001-01-01,0.68,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2001-02-01,0.82,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2001-02-01,0.82,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2001-02-01,0.76,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2001-03-01,0.91,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2001-03-01,0.87,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2001-03-01,0.8,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2001-04-01,0.95,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2001-04-01,0.98,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2001-04-01,0.89,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2001-05-01,0.99,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2001-05-01,0.96,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2001-05-01,0.92,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2001-06-01,1.04,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2001-06-01,0.98,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2001-06-01,0.95,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2001-07-01,1.03,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2001-07-01,1.0,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2001-07-01,0.94,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2001-08-01,1.28,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2001-08-01,1.33,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2001-08-01,1.23,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2001-09-01,1.42,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2001-09-01,1.48,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2001-09-01,1.39,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2001-10-01,1.37,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2001-10-01,1.33,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2001-10-01,1.29,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2001-11-01,1.38,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2001-11-01,1.36,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2001-11-01,1.25,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2001-12-01,1.42,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2001-12-01,1.36,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2001-12-01,1.35,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2002-01-01,1.47,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2002-01-01,1.44,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2002-01-01,1.41,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2002-02-01,1.52,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2002-02-01,1.5,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2002-02-01,1.39,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2002-03-01,1.48,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2002-03-01,1.4,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2002-03-01,1.38,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2002-04-01,1.48,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2002-04-01,1.37,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2002-04-01,1.34,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2002-05-01,1.38,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2002-05-01,1.32,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2002-05-01,1.22,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2002-06-01,1.28,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2002-06-01,1.27,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2002-06-01,1.16,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2002-07-01,1.19,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2002-07-01,1.18,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2002-07-01,1.09,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2002-08-01,1.08,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2002-08-01,1.12,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2002-08-01,0.99,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2002-09-01,1.0,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2002-09-01,1.02,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2002-09-01,0.9,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2002-10-01,0.99,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2002-10-01,0.97,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2002-10-01,0.82,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2002-11-01,0.97,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2002-11-01,0.96,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2002-12-01,0.93,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2002-12-01,0.91,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2003-01-01,0.92,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2003-01-01,0.89,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2003-01-01,0.82,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2003-02-01,1.06,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2003-02-01,1.08,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2003-02-01,0.9,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2003-03-01,1.1,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2003-03-01,1.12,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2003-03-01,0.95,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2003-04-01,1.26,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2003-04-01,1.22,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2003-04-01,1.03,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2003-05-01,1.32,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2003-05-01,1.27,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2003-05-01,1.19,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2003-06-01,1.21,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2003-06-01,1.19,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2003-06-01,1.08,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2003-07-01,0.96,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2003-07-01,0.93,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2003-07-01,1.11,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2003-08-01,0.87,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2003-08-01,0.87,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2003-08-01,0.93,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2003-09-01,0.87,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2003-09-01,0.82,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2003-09-01,1.01,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2003-10-01,0.84,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2003-10-01,0.81,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2003-10-01,0.77,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2003-11-01,0.83,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2003-11-01,0.81,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2003-11-01,0.79,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2003-12-01,0.82,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2003-12-01,0.83,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2003-12-01,0.79,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2004-01-01,0.86,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2004-01-01,0.85,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2004-01-01,0.8,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2004-02-01,0.84,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2004-02-01,0.86,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2004-02-01,0.77,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2004-03-01,0.86,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2004-03-01,0.86,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2004-03-01,0.76,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2004-04-01,0.86,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2004-04-01,0.83,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2004-04-01,0.77,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2004-05-01,0.85,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2004-05-01,0.83,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2004-05-01,0.75,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2004-06-01,0.86,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2004-06-01,0.83,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2004-06-01,0.79,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2004-07-01,0.85,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2004-07-01,0.83,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2004-07-01,0.78,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2004-08-01,0.88,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2004-08-01,0.83,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2004-08-01,0.76,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2004-09-01,0.89,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2004-09-01,0.86,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2004-09-01,0.81,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2004-10-01,0.95,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2004-10-01,0.92,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2004-10-01,0.85,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2004-11-01,0.95,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2004-11-01,0.92,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2004-11-01,0.86,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2004-12-01,0.96,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2004-12-01,0.94,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2004-12-01,0.89,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2005-01-01,0.96,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2005-01-01,0.93,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2005-01-01,0.88,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2005-02-01,0.97,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2005-02-01,0.94,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2005-02-01,0.88,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2005-03-01,0.94,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2005-03-01,0.93,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2005-03-01,0.89,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2005-04-01,0.94,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2005-04-01,0.9,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2005-04-01,0.9,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2005-05-01,0.95,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2005-05-01,0.91,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2005-05-01,0.85,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2005-06-01,0.94,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2005-06-01,0.9,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2005-06-01,0.87,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2005-07-01,0.93,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2005-07-01,0.89,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2005-07-01,0.88,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2005-08-01,0.9,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2005-08-01,0.89,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2005-08-01,0.89,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2005-09-01,0.9,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2005-09-01,0.88,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2005-09-01,0.88,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2005-10-01,0.89,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2005-10-01,0.88,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2005-10-01,0.85,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2005-11-01,1.02,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2005-11-01,0.95,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2005-11-01,0.99,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2005-12-01,1.08,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2005-12-01,1.04,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2005-12-01,1.03,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2006-01-01,1.04,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2006-01-01,1.04,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2006-01-01,1.04,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2006-02-01,1.05,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2006-02-01,1.05,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2006-02-01,1.06,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2006-03-01,1.03,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2006-03-01,1.07,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2006-03-01,1.03,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2006-04-01,1.03,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2006-04-01,1.05,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2006-04-01,1.05,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2006-05-01,1.12,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2006-05-01,1.12,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2006-05-01,1.11,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2006-06-01,1.12,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2006-06-01,1.14,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2006-06-01,1.15,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2006-07-01,1.12,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2006-07-01,1.16,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2006-07-01,1.16,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2006-08-01,1.09,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2006-08-01,1.08,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2006-08-01,1.15,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2006-09-01,1.12,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2006-09-01,1.09,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2006-09-01,1.1,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2006-10-01,1.07,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2006-10-01,1.1,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2006-10-01,1.03,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2006-11-01,1.03,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2006-11-01,1.03,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2006-11-01,1.07,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2006-12-01,1.01,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2006-12-01,1.06,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2006-12-01,1.07,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2007-01-01,1.02,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2007-01-01,0.98,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2007-01-01,1.08,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2007-02-01,1.05,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2007-02-01,0.96,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2007-02-01,1.06,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2007-03-01,1.03,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2007-03-01,0.94,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2007-03-01,1.02,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2007-04-01,1.05,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2007-04-01,1.05,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2007-04-01,1.04,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2007-05-01,1.06,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2007-05-01,1.06,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2007-05-01,1.02,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2007-06-01,1.0,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2007-06-01,1.06,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2007-06-01,1.01,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2007-07-01,1.03,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2007-07-01,1.07,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2007-07-01,1.02,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2007-08-01,1.04,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2007-08-01,1.09,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2007-08-01,0.99,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2007-09-01,1.04,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2007-09-01,1.09,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2007-09-01,0.99,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2007-10-01,1.07,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2007-10-01,1.11,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2007-10-01,1.08,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2007-11-01,1.08,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2007-11-01,1.1,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2007-11-01,1.07,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2007-12-01,1.09,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2007-12-01,1.11,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2007-12-01,1.06,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2008-01-01,1.09,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2008-01-01,1.12,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2008-01-01,1.07,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2008-02-01,1.15,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2008-02-01,1.17,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2008-02-01,1.04,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2008-03-01,1.23,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2008-03-01,1.21,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2008-03-01,1.12,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2008-04-01,1.34,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2008-04-01,1.29,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2008-04-01,1.33,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2008-05-01,1.39,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2008-05-01,1.34,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2008-05-01,1.28,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2008-06-01,1.39,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2008-06-01,1.36,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2008-06-01,1.3,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2008-07-01,1.39,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2008-07-01,1.37,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2008-07-01,1.33,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2008-08-01,1.43,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2008-08-01,1.41,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2008-08-01,1.37,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2008-09-01,1.37,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2008-09-01,1.38,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2008-09-01,1.38,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2008-10-01,1.18,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2008-10-01,1.19,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2008-10-01,1.23,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2008-11-01,1.12,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2008-11-01,1.09,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2008-11-01,1.2,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2008-12-01,1.13,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2008-12-01,1.08,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2008-12-01,1.14,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2009-01-01,1.16,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2009-01-01,1.18,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2009-01-01,1.28,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2009-02-01,1.13,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2009-02-01,1.14,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2009-02-01,1.19,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2009-03-01,1.16,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2009-03-01,1.15,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2009-03-01,1.15,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2009-04-01,1.28,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2009-04-01,1.25,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2009-04-01,1.37,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2009-05-01,1.34,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2009-05-01,1.31,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2009-05-01,1.49,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2009-06-01,1.32,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2009-06-01,1.31,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2009-06-01,1.48,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2009-07-01,1.3,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2009-07-01,1.29,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2009-07-01,1.45,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2009-08-01,1.31,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2009-08-01,1.28,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2009-08-01,1.47,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2009-09-01,1.34,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2009-09-01,1.31,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2009-09-01,1.42,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2009-10-01,1.32,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2009-10-01,1.28,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2009-10-01,1.4,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2009-11-01,1.31,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2009-11-01,1.29,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2009-11-01,1.41,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2009-12-01,1.36,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2009-12-01,1.31,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2009-12-01,1.37,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2010-01-01,1.32,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2010-01-01,1.29,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2010-01-01,1.34,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2010-02-01,1.29,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2010-02-01,1.33,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2010-02-01,1.29,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2010-03-01,1.34,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2010-03-01,1.31,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2010-03-01,1.32,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2010-04-01,1.36,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2010-04-01,1.35,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2010-04-01,1.37,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2010-05-01,1.31,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2010-05-01,1.26,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2010-05-01,1.33,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2010-06-01,1.27,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2010-06-01,1.26,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2010-06-01,1.32,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2010-07-01,1.24,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2010-07-01,1.24,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2010-07-01,1.25,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2010-08-01,1.19,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2010-08-01,1.2,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2010-08-01,1.23,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2010-09-01,1.12,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2010-09-01,1.1,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2010-09-01,1.13,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2010-10-01,1.11,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2010-10-01,1.07,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2010-10-01,1.23,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2010-11-01,1.11,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2010-11-01,1.08,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2010-11-01,1.19,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2010-12-01,1.1,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2010-12-01,1.12,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2010-12-01,1.14,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2011-01-01,1.14,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2011-01-01,1.12,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2011-01-01,1.15,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2011-02-01,1.23,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2011-02-01,1.14,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2011-02-01,1.14,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2011-03-01,1.32,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2011-03-01,1.24,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2011-03-01,1.25,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2011-04-01,1.33,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2011-04-01,1.32,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2011-04-01,1.35,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2011-05-01,1.32,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2011-05-01,1.37,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2011-05-01,1.31,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2011-06-01,1.27,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2011-06-01,1.36,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2011-06-01,1.29,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2011-07-01,1.31,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2011-07-01,1.41,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2011-07-01,1.31,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2011-08-01,1.42,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2011-08-01,1.45,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2011-08-01,1.31,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2011-09-01,1.37,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2011-09-01,1.36,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2011-09-01,1.36,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2011-10-01,1.41,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2011-10-01,1.47,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2011-10-01,1.31,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2011-11-01,1.41,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2011-11-01,1.42,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2011-11-01,1.31,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2011-12-01,1.45,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2011-12-01,1.47,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2011-12-01,1.4,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2012-01-01,1.48,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2012-01-01,1.56,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2012-01-01,1.42,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2012-02-01,1.53,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2012-02-01,1.64,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2012-02-01,1.5,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2012-03-01,1.45,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2012-03-01,1.41,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2012-03-01,1.41,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2012-04-01,1.41,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2012-04-01,1.34,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2012-04-01,1.34,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2012-05-01,1.36,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2012-05-01,1.36,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2012-05-01,1.28,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2012-06-01,1.32,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2012-06-01,1.35,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2012-06-01,1.24,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2012-07-01,1.38,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2012-07-01,1.48,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2012-07-01,1.32,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2012-08-01,1.37,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2012-08-01,1.46,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2012-08-01,1.36,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2012-09-01,1.39,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2012-09-01,1.34,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2012-09-01,1.34,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2012-10-01,1.39,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2012-10-01,1.17,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2012-10-01,1.3,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2012-11-01,1.34,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2012-11-01,1.26,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2012-11-01,1.25,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2012-12-01,1.36,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2012-12-01,1.34,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2012-12-01,1.34,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2013-01-01,1.37,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2013-01-01,1.36,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2013-01-01,1.35,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2013-02-01,1.35,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2013-02-01,1.3,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2013-02-01,1.35,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2013-03-01,1.36,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2013-03-01,1.24,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2013-03-01,1.37,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2013-04-01,1.39,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2013-04-01,1.37,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2013-04-01,1.32,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2013-05-01,1.39,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2013-05-01,1.37,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2013-05-01,1.28,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2013-06-01,1.36,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2013-06-01,1.32,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2013-06-01,1.26,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2013-07-01,1.47,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2013-07-01,1.38,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2013-07-01,1.38,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2013-08-01,1.48,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2013-08-01,1.44,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2013-08-01,1.36,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2013-09-01,1.45,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2013-09-01,1.43,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2013-09-01,1.34,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2013-10-01,1.46,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2013-10-01,1.44,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2013-10-01,1.34,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2013-11-01,1.45,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2013-11-01,1.34,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2013-11-01,1.34,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2013-12-01,1.44,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2013-12-01,1.38,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2013-12-01,1.35,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2014-01-01,1.4,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2014-01-01,1.4,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2014-01-01,1.35,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2014-02-01,1.44,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2014-02-01,1.39,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2014-02-01,1.32,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2014-03-01,1.44,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2014-03-01,1.4,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2014-03-01,1.29,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2014-04-01,1.54,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2014-04-01,1.42,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2014-04-01,1.36,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2014-05-01,1.7,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2014-05-01,1.76,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2014-05-01,1.41,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2014-06-01,1.75,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2014-06-01,1.76,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2014-06-01,1.45,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2014-07-01,1.65,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2014-07-01,1.54,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2014-07-01,1.41,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2014-08-01,1.52,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2014-08-01,1.75,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2014-08-01,1.38,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2014-09-01,1.46,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2014-09-01,1.53,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2014-09-01,1.29,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2014-10-01,1.37,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2014-10-01,1.34,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2014-10-01,1.31,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2014-11-01,1.35,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2014-11-01,1.33,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2014-11-01,1.19,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2014-12-01,1.31,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2014-12-01,1.25,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2014-12-01,1.18,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2015-01-01,1.3,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2015-01-01,1.25,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2015-01-01,1.25,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2015-02-01,1.27,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2015-02-01,1.24,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2015-02-01,1.24,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2015-03-01,1.25,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2015-03-01,1.22,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2015-03-01,1.21,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2015-04-01,1.25,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2015-04-01,1.18,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2015-04-01,1.18,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2015-05-01,1.25,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2015-05-01,1.18,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2015-05-01,1.17,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2015-06-01,1.23,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2015-06-01,1.16,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2015-06-01,1.13,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2015-07-01,1.18,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2015-07-01,1.13,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2015-07-01,1.1,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2015-08-01,1.12,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2015-08-01,1.09,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2015-08-01,1.06,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2015-09-01,1.07,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2015-09-01,1.07,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2015-09-01,1.04,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2015-10-01,1.08,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2015-10-01,1.04,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2015-10-01,1.05,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2015-11-01,1.07,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2015-11-01,1.02,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2015-11-01,1.05,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2015-12-01,1.01,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2015-12-01,0.98,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2015-12-01,1.01,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2016-01-01,0.98,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2016-01-01,0.87,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2016-01-01,0.95,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2016-02-01,0.99,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2016-02-01,0.76,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2016-02-01,0.93,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2016-03-01,1.04,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2016-03-01,0.97,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2016-03-01,0.99,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2016-04-01,1.05,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2016-04-01,0.97,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2016-04-01,0.97,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2016-05-01,1.01,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2016-05-01,0.96,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2016-05-01,0.91,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2016-06-01,1.03,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2016-06-01,0.95,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2016-06-01,0.92,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2016-07-01,1.09,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2016-07-01,0.97,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2016-07-01,0.98,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2016-08-01,1.18,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2016-08-01,1.15,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2016-08-01,1.07,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2016-09-01,1.16,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2016-09-01,1.15,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2016-09-01,1.11,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2016-10-01,1.19,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2016-10-01,1.16,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2016-10-01,1.07,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2016-11-01,1.14,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2016-11-01,1.15,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2016-11-01,1.02,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2016-12-01,1.16,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2016-12-01,1.17,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2016-12-01,1.1,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2017-01-01,1.16,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2017-01-01,1.17,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2017-01-01,1.08,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2017-02-01,1.23,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2017-02-01,1.3,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2017-02-01,1.13,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2017-03-01,1.26,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2017-03-01,1.37,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2017-03-01,1.16,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2017-04-01,1.26,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2017-04-01,1.33,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2017-04-01,1.2,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2017-05-01,1.21,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2017-05-01,1.3,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2017-05-01,1.19,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2017-06-01,1.21,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2017-06-01,1.28,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2017-06-01,1.18,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2017-07-01,1.29,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2017-07-01,1.34,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2017-07-01,1.12,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2017-08-01,1.28,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2017-08-01,1.35,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2017-08-01,1.21,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2017-09-01,1.26,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2017-09-01,1.35,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2017-09-01,1.21,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2017-10-01,1.19,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2017-10-01,1.32,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2017-10-01,1.1,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2017-11-01,1.2,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2017-11-01,1.29,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2017-11-01,1.06,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2017-12-01,1.15,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2017-12-01,1.21,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2017-12-01,1.08,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2018-01-01,1.17,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2018-01-01,1.21,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2018-01-01,1.05,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2018-02-01,1.18,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2018-02-01,1.23,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2018-02-01,1.07,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2018-03-01,1.14,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2018-03-01,1.24,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2018-03-01,1.07,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2018-04-01,1.16,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2018-04-01,1.23,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2018-04-01,1.09,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2018-05-01,1.09,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2018-05-01,1.17,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2018-05-01,1.03,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2018-06-01,1.06,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2018-06-01,1.13,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2018-06-01,1.02,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2018-07-01,1.18,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2018-07-01,1.28,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2018-07-01,1.1,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2018-08-01,1.16,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2018-08-01,1.33,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2018-08-01,1.12,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2018-09-01,1.11,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2018-09-01,1.31,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2018-09-01,1.09,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2018-10-01,1.11,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2018-10-01,1.31,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2018-10-01,1.1,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2018-11-01,1.07,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2018-11-01,1.23,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2018-11-01,1.04,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2018-12-01,1.12,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2018-12-01,1.24,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2018-12-01,1.04,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2019-01-01,1.15,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2019-01-01,1.24,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2019-01-01,1.09,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2019-02-01,1.13,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2019-02-01,1.18,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2019-02-01,1.09,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2019-03-01,1.14,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2019-03-01,1.17,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2019-03-01,1.06,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2019-04-01,1.14,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2019-04-01,1.18,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2019-04-01,1.06,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2019-05-01,1.14,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2019-05-01,1.18,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2019-05-01,1.05,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2019-06-01,1.17,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2019-06-01,1.17,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2019-06-01,1.02,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2019-07-01,1.14,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2019-07-01,1.18,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2019-07-01,1.03,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2019-08-01,1.1,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2019-08-01,1.15,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2019-08-01,1.02,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2019-09-01,1.13,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2019-09-01,1.08,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2019-09-01,1.02,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2019-10-01,1.14,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2019-10-01,0.88,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2019-10-01,1.04,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2019-11-01,1.16,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2019-11-01,0.88,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2019-11-01,1.09,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2019-12-01,1.24,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2019-12-01,0.89,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2019-12-01,1.1,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2020-01-01,1.37,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2020-01-01,0.9,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2020-01-01,1.12,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2020-02-01,1.35,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2020-02-01,1.07,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2020-02-01,1.12,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2020-03-01,1.19,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2020-03-01,1.32,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2020-03-01,1.02,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2020-04-01,1.34,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2020-04-01,1.2,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2020-04-01,1.09,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2020-05-01,1.31,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2020-05-01,1.23,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2020-05-01,1.18,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2020-07-01,1.47,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2020-08-01,1.3,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2020-08-01,1.3,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2020-08-01,1.21,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2020-09-01,1.3,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2020-09-01,1.25,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2020-09-01,1.18,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2020-10-01,1.17,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2020-10-01,1.22,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2020-10-01,1.17,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2020-11-01,1.23,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2020-11-01,1.41,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2020-11-01,1.23,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2020-12-01,1.31,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2020-12-01,1.5,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2020-12-01,1.31,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2021-01-01,1.51,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2021-01-01,1.28,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2021-02-01,1.43,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2021-02-01,1.48,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2021-02-01,1.26,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2021-03-01,1.36,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2021-03-01,1.44,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2021-03-01,1.25,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2021-04-01,1.45,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2021-04-01,1.45,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2021-04-01,1.35,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2021-05-01,1.45,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2021-05-01,1.5,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2021-05-01,1.38,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2021-06-01,1.45,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2021-06-01,1.52,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2021-06-01,1.34,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2021-07-01,1.5,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2021-07-01,1.45,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2021-07-01,1.35,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2021-08-01,1.5,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2021-08-01,1.45,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2021-08-01,1.35,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2021-09-01,1.53,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2021-09-01,1.46,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2021-09-01,1.42,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2021-10-01,1.51,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2021-10-01,1.44,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2021-10-01,1.38,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2021-11-01,1.53,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2021-11-01,1.42,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2021-11-01,1.44,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2021-12-01,1.62,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2021-12-01,1.45,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2021-12-01,1.52,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2022-01-01,1.64,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2022-01-01,1.59,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2022-01-01,1.54,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2022-02-01,1.57,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2022-02-01,1.65,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2022-02-01,1.45,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2022-03-01,1.7,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2022-03-01,1.51,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2022-03-01,1.46,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2022-04-01,1.82,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2022-04-01,1.37,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2022-04-01,1.68,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2022-05-01,1.8,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2022-05-01,1.66,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2022-05-01,1.66,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2022-06-01,1.81,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2022-06-01,1.69,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2022-06-01,1.6,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2022-07-01,1.75,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2022-07-01,1.51,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2022-07-01,1.56,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2022-08-01,1.92,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2022-08-01,1.61,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2022-08-01,1.6,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2022-09-01,1.86,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2022-09-01,1.44,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2022-09-01,1.62,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2022-10-01,1.85,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2022-10-01,1.3,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2022-10-01,1.62,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2022-11-01,1.83,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2022-11-01,1.36,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2022-11-01,1.67,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2022-12-01,1.84,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2022-12-01,1.53,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2022-12-01,1.66,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2023-01-01,1.83,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2023-01-01,1.67,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2023-01-01,1.71,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2023-02-01,1.85,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2023-02-01,1.92,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2023-02-01,1.74,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2023-03-01,1.81,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2023-03-01,1.79,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2023-03-01,1.58,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2023-04-01,1.84,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2023-04-01,1.69,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2023-04-01,1.62,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2023-05-01,1.79,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2023-05-01,2.07,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2023-05-01,1.66,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2023-06-01,1.82,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2023-06-01,2.02,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2023-06-01,1.7,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2023-07-01,1.84,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2023-07-01,1.71,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2023-07-01,1.76,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2023-08-01,1.98,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2023-08-01,1.65,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2023-08-01,1.99,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2023-09-01,2.03,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2023-09-01,1.81,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2023-09-01,2.1,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2023-10-01,2.05,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2023-10-01,2.23,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2023-10-01,1.62,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2023-11-01,2.16,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2023-11-01,2.22,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2023-11-01,1.63,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2023-12-01,2.05,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2023-12-01,2.05,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2023-12-01,1.8,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2024-01-01,2.08,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2024-01-01,2.11,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2024-01-01,1.77,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2024-02-01,2.08,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2024-02-01,2.26,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2024-02-01,1.75,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2024-03-01,2.08,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2024-03-01,2.21,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2024-03-01,1.81,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2024-04-01,2.09,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2024-04-01,2.23,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2024-04-01,1.67,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2024-05-01,2.07,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2024-05-01,2.32,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2024-05-01,1.67,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2024-06-01,1.77,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2024-06-01,1.87,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2024-06-01,1.65,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2024-07-01,1.83,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2024-07-01,1.88,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2024-07-01,1.62,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2024-08-01,1.71,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2024-08-01,1.78,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2024-08-01,1.57,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2024-09-01,1.63,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2024-09-01,1.65,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2024-09-01,1.53,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2024-10-01,1.63,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2024-10-01,1.65,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2024-10-01,1.53,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2024-11-01,1.57,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2024-11-01,1.64,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2024-11-01,1.48,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2024-12-01,1.58,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2024-12-01,1.56,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2024-12-01,1.48,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2025-01-01,1.53,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2025-01-01,1.61,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2025-01-01,1.46,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2025-02-01,1.56,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2025-02-01,1.59,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2025-02-01,1.58,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2025-03-01,1.55,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2025-03-01,1.58,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2025-03-01,1.63,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2025-04-01,1.59,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2025-04-01,1.51,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2025-04-01,1.46,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2025-05-01,1.54,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2025-05-01,1.46,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2025-05-01,1.44,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2025-06-01,1.55,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2025-06-01,1.52,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2025-06-01,1.68,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2025-07-01,1.5,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2025-07-01,1.48,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2025-07-01,1.45,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2025-08-01,1.51,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2025-08-01,1.5,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2025-08-01,1.61,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2025-09-01,1.48,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2025-09-01,1.47,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2025-09-01,1.43,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a
+"Beans (black, imported)",Mexico,Mexico City,WHOLESALE,2025-10-01,1.47,Kg,18d07c1e-636e-4371-938d-5454030978f4
+"Beans (black, imported)",Mexico,Puebla,WHOLESALE,2025-10-01,1.42,Kg,f78f4879-84a1-412c-b654-cd8af9e1663a
+"Beans (black, imported)",Mexico,Xalapa,WHOLESALE,2025-10-01,1.33,Kg,ae5264ed-a9b5-4d34-8336-ecb843f1080a

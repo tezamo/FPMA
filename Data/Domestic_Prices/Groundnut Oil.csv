@@ -1,0 +1,479 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Groundnut Oil,Myanmar,Yangon,RETAIL,2009-01-01,2.74,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2009-02-01,2.85,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2009-03-01,2.83,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2009-04-01,2.69,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2009-05-01,2.68,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2009-06-01,2.6,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2009-07-01,2.53,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2009-08-01,2.6,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2009-09-01,2.65,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2009-10-01,2.72,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2009-11-01,2.93,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2009-12-01,2.98,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2010-01-01,3.1,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2010-02-01,3.2,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2010-03-01,3.23,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2010-04-01,3.34,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2010-05-01,3.37,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2010-06-01,3.8,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2010-07-01,3.93,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2010-08-01,3.61,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2010-09-01,3.94,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2010-10-01,4.14,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2010-11-01,4.03,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2010-12-01,4.23,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2011-01-01,4.44,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2011-02-01,4.53,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2011-03-01,4.62,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2011-04-01,4.67,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2011-05-01,4.83,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2011-06-01,4.78,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2011-07-01,4.53,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2011-08-01,4.85,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2011-09-01,4.57,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2011-10-01,4.46,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2011-11-01,4.59,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2011-12-01,4.55,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2012-01-01,4.36,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2012-02-01,4.3,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2012-03-01,4.4,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2012-04-01,4.41,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2012-05-01,4.37,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2012-06-01,4.34,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2012-07-01,4.54,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2012-08-01,4.77,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2012-09-01,4.91,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2012-10-01,4.97,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2012-11-01,4.91,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2012-12-01,4.8,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2013-01-01,4.86,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2013-02-01,4.36,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2013-03-01,3.93,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2013-04-01,3.96,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2013-05-01,3.86,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2013-06-01,3.74,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2013-07-01,3.93,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2013-08-01,3.78,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2013-09-01,3.68,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2013-10-01,3.65,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2013-11-01,3.59,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2013-12-01,3.49,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2014-01-01,3.68,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2014-02-01,3.66,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2014-03-01,3.71,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2014-04-01,3.74,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2014-05-01,3.73,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2014-06-01,3.71,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2014-07-01,3.7,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2014-08-01,3.72,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2014-09-01,3.71,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2014-10-01,3.65,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2014-11-01,3.67,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2014-12-01,3.82,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2015-01-01,3.84,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2015-02-01,4.01,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2015-03-01,3.99,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2015-04-01,3.98,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2015-05-01,3.94,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2015-06-01,4.05,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2015-07-01,4.01,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2015-08-01,4.36,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2015-09-01,4.12,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2015-10-01,4.09,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2015-11-01,3.83,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2015-12-01,3.77,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2016-01-01,3.7,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2016-02-01,3.77,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2016-03-01,3.86,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2016-04-01,3.99,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2016-05-01,4.01,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2016-06-01,4.04,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2016-07-01,4.07,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2016-08-01,4.01,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2016-09-01,3.89,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2016-10-01,3.67,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2016-11-01,3.47,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2016-12-01,3.33,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2017-01-01,3.36,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2017-02-01,3.39,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2017-03-01,3.38,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2017-04-01,3.39,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2017-05-01,3.49,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2017-06-01,3.53,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2017-07-01,3.52,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2017-08-01,3.53,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2017-09-01,3.54,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2017-10-01,3.52,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2017-11-01,3.51,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2017-12-01,3.52,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2018-01-01,3.57,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2018-02-01,3.61,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2018-03-01,3.59,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2018-04-01,3.61,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2018-05-01,3.56,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2018-06-01,3.51,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2018-07-01,3.4,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2018-08-01,3.26,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2018-09-01,3.22,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2018-10-01,3.27,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2018-11-01,3.18,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2018-12-01,3.19,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2019-01-01,3.26,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2019-02-01,3.28,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2019-03-01,3.28,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2019-04-01,3.3,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2019-05-01,3.26,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2019-06-01,3.28,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2019-07-01,3.31,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2019-08-01,3.3,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2019-09-01,3.26,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2019-10-01,3.3,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2019-11-01,3.26,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2019-12-01,3.34,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2020-01-01,3.23,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2020-02-01,3.38,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2020-03-01,3.51,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2020-04-01,3.51,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2020-05-01,3.56,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2020-06-01,3.58,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2020-07-01,3.64,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2020-08-01,3.68,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2020-09-01,3.78,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2020-10-01,3.87,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2020-11-01,3.85,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2020-12-01,3.73,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2021-01-01,3.76,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2021-02-01,3.55,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2021-06-01,3.64,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2021-07-01,3.65,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2021-08-01,3.04,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2021-09-01,3.46,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2021-10-01,3.45,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2021-11-01,3.67,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2021-12-01,3.69,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2022-01-01,3.7,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2022-02-01,3.81,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2022-03-01,4.45,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2022-06-01,1.92,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2022-06-01,1.61,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2022-06-01,2.51,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2022-06-01,2.42,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2022-06-01,2.45,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2022-06-01,2.08,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2022-06-01,2.21,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2022-06-01,2.34,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2022-06-01,5.33,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2022-07-01,2.48,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2022-07-01,1.77,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2022-07-01,2.51,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2022-07-01,2.33,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2022-07-01,2.45,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2022-07-01,2.16,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2022-07-01,2.22,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2022-07-01,2.3,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2022-07-01,5.59,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2022-08-01,2.29,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2022-08-01,1.76,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2022-08-01,2.42,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2022-08-01,2.13,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2022-08-01,2.35,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2022-08-01,1.92,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2022-08-01,2.25,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2022-08-01,2.23,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2022-08-01,5.73,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2022-09-01,1.77,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2022-09-01,1.92,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2022-09-01,2.29,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2022-09-01,1.93,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2022-09-01,2.26,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2022-09-01,1.76,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2022-09-01,2.1,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2022-09-01,2.18,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2022-09-01,6.66,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2022-10-01,1.75,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2022-10-01,1.9,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2022-10-01,2.25,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2022-10-01,1.84,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2022-10-01,2.02,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2022-10-01,1.64,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2022-10-01,1.89,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2022-10-01,2.19,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2022-10-01,6.65,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2022-11-01,2.05,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2022-11-01,2.02,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2022-11-01,2.33,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2022-11-01,1.87,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2022-11-01,1.94,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2022-11-01,1.87,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2022-11-01,2.03,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2022-11-01,2.23,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2022-11-01,5.98,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2022-12-01,2.13,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2022-12-01,2.1,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2022-12-01,2.42,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2022-12-01,2.0,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2022-12-01,2.02,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2022-12-01,1.95,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2022-12-01,2.1,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2022-12-01,2.29,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2022-12-01,5.71,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2023-01-01,2.46,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2023-01-01,2.02,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2023-01-01,2.46,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2023-01-01,2.05,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2023-01-01,2.46,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2023-01-01,2.14,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2023-01-01,2.2,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2023-01-01,2.46,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2023-01-01,5.72,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2023-02-01,2.47,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2023-02-01,1.96,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2023-02-01,1.63,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2023-02-01,2.01,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2023-02-01,2.29,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2023-02-01,1.97,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2023-02-01,2.21,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2023-02-01,2.45,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2023-02-01,5.71,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2023-03-01,2.47,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2023-03-01,1.99,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2023-03-01,2.42,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2023-03-01,2.07,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2023-03-01,2.28,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2023-03-01,2.03,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2023-03-01,2.19,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2023-03-01,2.45,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2023-03-01,5.72,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2023-04-01,2.53,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Doba,RETAIL,2023-04-01,2.16,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Moundou,RETAIL,2023-04-01,2.04,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2023-04-01,2.24,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2023-04-01,2.51,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2023-04-01,6.12,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2023-05-01,2.51,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2023-05-01,2.05,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2023-05-01,4.37,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2023-05-01,2.14,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2023-05-01,2.24,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2023-05-01,1.99,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,Sarh,RETAIL,2023-05-01,2.49,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2023-05-01,6.19,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2023-06-01,2.5,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2023-06-01,2.01,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2023-06-01,4.36,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2023-06-01,1.97,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2023-06-01,2.31,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2023-06-01,1.99,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2023-06-01,2.22,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2023-06-01,2.48,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2023-06-01,6.34,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2023-07-01,2.6,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2023-07-01,2.11,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2023-07-01,2.18,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2023-07-01,1.96,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2023-07-01,2.28,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2023-07-01,2.08,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2023-07-01,2.2,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2023-07-01,2.02,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2023-07-01,6.43,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2023-08-01,2.56,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2023-08-01,2.02,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2023-08-01,2.15,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2023-08-01,1.95,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2023-08-01,2.25,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2023-08-01,1.98,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2023-08-01,2.15,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2023-08-01,2.16,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2023-08-01,6.84,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2023-09-01,2.51,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2023-09-01,1.95,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2023-09-01,2.03,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2023-09-01,1.91,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2023-09-01,2.28,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2023-09-01,1.63,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2023-09-01,1.95,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2023-09-01,1.63,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2023-09-01,6.69,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2023-10-01,2.01,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2023-10-01,1.72,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2023-10-01,2.04,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2023-10-01,1.77,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2023-10-01,1.61,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2023-10-01,1.53,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2023-10-01,1.78,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2023-10-01,1.61,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2023-10-01,6.67,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2023-11-01,2.06,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2023-11-01,1.77,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2023-11-01,1.89,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2023-11-01,1.65,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2023-11-01,1.65,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2023-11-01,1.44,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2023-11-01,1.77,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2023-11-01,1.65,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2023-11-01,6.74,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2023-12-01,2.08,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2023-12-01,1.79,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2023-12-01,1.95,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2023-12-01,1.66,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2023-12-01,1.66,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2023-12-01,1.55,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2023-12-01,1.8,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2023-12-01,1.25,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2023-12-01,6.32,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2024-01-01,2.08,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2024-01-01,1.66,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2024-01-01,1.84,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2024-01-01,1.66,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2024-01-01,1.83,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2024-01-01,1.51,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2024-01-01,1.78,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2024-01-01,1.25,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2024-01-01,6.19,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2024-02-01,2.06,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2024-02-01,1.54,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2024-02-01,1.65,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2024-02-01,1.65,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2024-02-01,1.65,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2024-02-01,1.48,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2024-02-01,2.47,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2024-02-01,1.65,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2024-02-01,6.44,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2024-03-01,2.16,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2024-03-01,1.62,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2024-03-01,1.66,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2024-03-01,1.66,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2024-03-01,1.66,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2024-03-01,1.49,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2024-03-01,2.49,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2024-03-01,1.66,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2024-03-01,6.97,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2024-04-01,2.04,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Doba,RETAIL,2024-04-01,1.64,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Moundou,RETAIL,2024-04-01,1.32,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2024-04-01,2.44,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2024-04-01,1.64,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2024-04-01,6.81,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2024-05-01,1.98,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2024-05-01,1.4,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2024-05-01,1.75,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2024-05-01,1.65,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2024-05-01,1.65,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2024-05-01,2.04,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2024-05-01,2.47,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2024-05-01,1.65,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2024-05-01,6.78,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2024-06-01,1.8,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2024-06-01,1.39,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2024-06-01,1.8,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2024-06-01,1.64,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2024-06-01,1.64,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2024-06-01,1.43,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2024-06-01,2.46,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2024-06-01,1.8,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2024-06-01,6.57,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2024-07-01,2.07,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2024-07-01,1.47,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2024-07-01,1.82,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2024-07-01,1.65,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2024-07-01,1.82,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2024-07-01,1.42,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2024-07-01,2.49,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2024-07-01,1.82,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2024-07-01,7.67,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2024-08-01,2.01,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2024-08-01,1.51,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2024-08-01,1.77,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2024-08-01,1.71,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2024-08-01,1.68,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2024-08-01,1.67,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2024-08-01,2.71,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2024-08-01,2.01,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2024-08-01,8.1,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2024-09-01,1.88,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2024-09-01,1.52,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2024-09-01,2.06,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2024-09-01,1.69,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2024-09-01,1.95,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2024-09-01,1.59,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2024-09-01,2.76,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2024-09-01,1.27,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2024-09-01,8.81,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2024-10-01,1.85,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2024-10-01,1.5,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2024-10-01,2.02,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2024-10-01,1.66,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2024-10-01,1.91,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2024-10-01,1.51,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2024-10-01,2.56,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2024-10-01,1.83,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2024-10-01,8.81,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2024-11-01,1.95,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2024-11-01,1.46,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2024-11-01,2.63,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2024-11-01,1.62,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2024-11-01,1.78,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2024-11-01,1.62,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2024-11-01,2.56,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2024-11-01,1.22,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2024-11-01,8.81,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2024-12-01,1.92,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2024-12-01,1.44,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2024-12-01,2.59,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2024-12-01,1.6,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2024-12-01,1.84,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2024-12-01,1.69,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2024-12-01,2.83,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2024-12-01,1.2,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2024-12-01,8.81,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2025-01-01,8.81,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2025-02-01,8.81,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2025-03-01,8.58,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2025-04-01,8.65,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2025-05-01,2.58,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2025-05-01,1.98,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2025-05-01,2.58,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2025-05-01,2.11,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2025-05-01,2.15,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2025-05-01,2.03,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2025-05-01,3.14,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2025-05-01,2.34,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2025-05-01,8.81,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2025-06-01,2.63,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2025-06-01,2.02,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2025-06-01,2.63,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2025-06-01,2.18,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2025-06-01,2.19,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2025-06-01,2.07,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2025-06-01,3.25,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2025-06-01,2.41,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2025-06-01,8.81,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2025-07-01,2.67,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2025-07-01,2.23,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2025-07-01,2.67,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2025-07-01,2.24,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2025-07-01,2.4,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2025-07-01,2.14,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2025-07-01,3.41,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2025-07-01,2.47,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2025-07-01,8.62,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2025-08-01,2.63,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2025-08-01,2.22,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2025-08-01,2.66,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2025-08-01,2.22,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2025-08-01,2.22,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2025-08-01,2.16,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2025-08-01,3.48,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2025-08-01,2.46,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2025-08-01,8.58,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Chad,Abeche,RETAIL,2025-09-01,2.66,Kg,95cc29d8-fb12-4189-b3b0-14009d456646
+Groundnut Oil,Chad,Am Timan,RETAIL,2025-09-01,2.35,Kg,735bfeb2-7903-47ed-a798-08d25d9d0d7c
+Groundnut Oil,Chad,Bol,RETAIL,2025-09-01,2.62,Kg,88791404-03fd-48bf-bd0b-10e8fc4df547
+Groundnut Oil,Chad,Doba,RETAIL,2025-09-01,2.33,Kg,7cbeaf14-d0ca-4444-bb34-2e2bda30f0d0
+Groundnut Oil,Chad,Mongo,RETAIL,2025-09-01,2.37,Kg,d0f915cd-f564-48fb-9721-97f845c8003a
+Groundnut Oil,Chad,Moundou,RETAIL,2025-09-01,2.28,Kg,3cf2665f-2090-43a1-9930-fd9579af6263
+Groundnut Oil,Chad,N'Djamena,RETAIL,2025-09-01,3.45,Kg,65c66e50-5754-45c2-a0db-be2de7eb5d56
+Groundnut Oil,Chad,Sarh,RETAIL,2025-09-01,2.5,Kg,5c8defc1-2924-43ac-b517-3cbeba1c9862
+Groundnut Oil,Myanmar,Yangon,RETAIL,2025-09-01,8.95,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65
+Groundnut Oil,Myanmar,Yangon,RETAIL,2025-10-01,8.89,viss (1.63 kg),58ce674f-fcc8-49de-b988-4e0817756a65

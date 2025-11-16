@@ -1,0 +1,10 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+"Fish (white, fresh fillets)",United Kingdom,National Average,RETAIL,2025-01-01,25.9,Kg,9d7db77e-e87c-47ee-a3f8-34ab6d710167
+"Fish (white, fresh fillets)",United Kingdom,National Average,RETAIL,2025-02-01,26.57,Kg,9d7db77e-e87c-47ee-a3f8-34ab6d710167
+"Fish (white, fresh fillets)",United Kingdom,National Average,RETAIL,2025-03-01,27.19,Kg,9d7db77e-e87c-47ee-a3f8-34ab6d710167
+"Fish (white, fresh fillets)",United Kingdom,National Average,RETAIL,2025-04-01,28.42,Kg,9d7db77e-e87c-47ee-a3f8-34ab6d710167
+"Fish (white, fresh fillets)",United Kingdom,National Average,RETAIL,2025-05-01,28.91,Kg,9d7db77e-e87c-47ee-a3f8-34ab6d710167
+"Fish (white, fresh fillets)",United Kingdom,National Average,RETAIL,2025-06-01,29.91,Kg,9d7db77e-e87c-47ee-a3f8-34ab6d710167
+"Fish (white, fresh fillets)",United Kingdom,National Average,RETAIL,2025-07-01,29.32,Kg,9d7db77e-e87c-47ee-a3f8-34ab6d710167
+"Fish (white, fresh fillets)",United Kingdom,National Average,RETAIL,2025-08-01,29.68,Kg,9d7db77e-e87c-47ee-a3f8-34ab6d710167
+"Fish (white, fresh fillets)",United Kingdom,National Average,RETAIL,2025-09-01,30.35,Kg,9d7db77e-e87c-47ee-a3f8-34ab6d710167

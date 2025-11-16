@@ -1,0 +1,889 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Bread (high grade flour),Armenia,National Average,RETAIL,2005-01-01,0.61,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Armenia,National Average,RETAIL,2005-02-01,0.64,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Armenia,National Average,RETAIL,2005-03-01,0.65,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Armenia,National Average,RETAIL,2005-04-01,0.67,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Armenia,National Average,RETAIL,2005-05-01,0.67,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Armenia,National Average,RETAIL,2005-06-01,0.67,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Armenia,National Average,RETAIL,2005-07-01,0.67,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Armenia,National Average,RETAIL,2005-08-01,0.64,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Armenia,National Average,RETAIL,2005-09-01,0.65,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Armenia,National Average,RETAIL,2005-10-01,0.66,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Armenia,National Average,RETAIL,2005-11-01,0.65,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Armenia,National Average,RETAIL,2005-12-01,0.66,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Armenia,National Average,RETAIL,2006-01-01,0.66,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Armenia,National Average,RETAIL,2006-02-01,0.66,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2006-02-01,0.38,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2006-03-01,0.66,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2006-03-01,0.4,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2006-04-01,0.66,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2006-04-01,0.4,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2006-05-01,0.67,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2006-05-01,0.39,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2006-06-01,0.7,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2006-06-01,0.39,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2006-07-01,0.71,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2006-07-01,0.39,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2006-08-01,0.74,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2006-08-01,0.4,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2006-09-01,0.77,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2006-09-01,0.4,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2006-10-01,0.78,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2006-10-01,0.4,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2006-11-01,0.79,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2006-11-01,0.41,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2006-12-01,0.81,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2006-12-01,0.41,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2007-01-01,0.82,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2007-01-01,0.45,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2007-02-01,0.83,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2007-02-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2007-03-01,0.83,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2007-03-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2007-04-01,0.82,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2007-04-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2007-05-01,0.84,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2007-05-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2007-06-01,0.96,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2007-06-01,0.47,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2007-07-01,0.98,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2007-07-01,0.51,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2007-08-01,0.98,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2007-08-01,0.57,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2007-09-01,1.02,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2007-09-01,0.58,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2007-10-01,1.11,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2007-10-01,0.59,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2007-11-01,1.17,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2007-11-01,0.62,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2007-12-01,1.22,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2007-12-01,0.64,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2008-01-01,1.21,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2008-01-01,0.65,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2008-02-01,1.2,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2008-02-01,0.66,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2008-03-01,1.29,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2008-03-01,0.69,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2008-04-01,1.36,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2008-04-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2008-05-01,1.4,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2008-05-01,0.88,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2008-06-01,1.41,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2008-06-01,0.91,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2008-07-01,1.43,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2008-07-01,0.92,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2008-08-01,1.43,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2008-08-01,0.89,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2008-09-01,1.43,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2008-09-01,0.89,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2008-10-01,1.41,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2008-10-01,0.89,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2008-11-01,1.33,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2008-11-01,0.82,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2008-12-01,1.27,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2008-12-01,0.72,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Armenia,National Average,RETAIL,2009-01-01,1.27,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2009-01-01,0.68,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2009-01-01,0.25,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2009-01-01,0.26,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2009-02-01,1.21,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2009-02-01,0.68,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2009-02-01,0.25,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2009-02-01,0.26,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2009-03-01,1.02,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2009-03-01,0.68,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2009-03-01,0.25,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2009-03-01,0.26,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2009-04-01,1.02,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2009-04-01,0.67,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2009-04-01,0.25,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2009-04-01,0.26,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2009-05-01,1.02,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2009-05-01,0.67,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2009-05-01,0.25,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2009-05-01,0.26,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2009-06-01,1.03,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2009-06-01,0.67,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2009-06-01,0.25,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2009-06-01,0.26,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2009-07-01,1.03,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2009-07-01,0.67,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2009-07-01,0.24,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2009-07-01,0.26,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2009-08-01,1.0,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2009-08-01,0.67,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2009-08-01,0.25,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2009-08-01,0.26,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2009-09-01,0.98,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2009-09-01,0.67,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2009-09-01,0.24,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2009-09-01,0.27,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2009-10-01,0.97,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2009-10-01,0.67,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2009-10-01,0.26,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2009-10-01,0.27,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2009-11-01,0.97,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2009-11-01,0.67,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2009-11-01,0.26,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2009-11-01,0.27,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2009-12-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2009-12-01,0.67,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2009-12-01,0.26,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2009-12-01,0.27,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2010-01-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2010-01-01,0.66,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2010-01-01,0.26,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2010-01-01,0.28,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2010-02-01,0.98,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2010-02-01,0.66,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2010-02-01,0.26,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2010-02-01,0.28,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2010-03-01,0.95,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2010-03-01,0.66,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2010-03-01,0.26,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2010-03-01,0.29,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2010-04-01,0.95,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2010-04-01,0.66,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2010-04-01,0.27,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2010-04-01,0.29,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2010-05-01,0.97,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2010-05-01,0.66,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2010-05-01,0.28,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2010-05-01,0.29,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2010-06-01,1.0,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2010-06-01,0.66,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2010-06-01,0.28,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2010-06-01,0.29,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2010-07-01,1.02,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2010-07-01,0.65,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2010-07-01,0.38,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2010-07-01,0.33,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2010-08-01,1.09,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2010-08-01,0.66,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2010-08-01,0.38,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2010-08-01,0.33,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2010-09-01,1.12,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2010-09-01,0.67,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2010-09-01,0.39,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2010-09-01,0.33,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2010-10-01,1.16,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2010-10-01,0.69,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2010-10-01,0.39,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2010-10-01,0.33,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2010-11-01,1.15,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2010-11-01,0.78,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2010-11-01,0.39,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2010-11-01,0.33,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2010-12-01,1.16,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2010-12-01,0.79,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2010-12-01,0.39,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2010-12-01,0.34,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2011-01-01,1.13,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2011-01-01,0.78,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2011-01-01,0.39,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2011-01-01,0.33,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2011-02-01,1.17,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2011-02-01,0.78,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2011-02-01,0.37,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2011-02-01,0.34,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2011-03-01,1.16,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2011-03-01,0.78,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2011-03-01,0.41,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2011-03-01,0.35,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2011-04-01,1.15,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2011-04-01,0.78,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2011-04-01,0.48,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2011-04-01,0.38,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2011-05-01,1.14,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2011-05-01,0.78,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2011-05-01,0.51,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2011-05-01,0.41,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2011-06-01,1.14,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2011-06-01,0.79,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2011-06-01,0.52,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2011-06-01,0.42,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2011-07-01,1.16,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2011-07-01,0.79,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2011-07-01,0.6,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2011-07-01,0.45,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2011-08-01,1.16,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2011-08-01,0.79,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2011-08-01,0.68,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2011-08-01,0.49,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2011-09-01,1.14,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2011-09-01,0.79,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2011-09-01,0.73,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2011-09-01,0.56,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2011-10-01,1.13,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2011-10-01,0.79,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2011-10-01,0.76,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2011-10-01,0.61,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2011-11-01,1.11,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2011-11-01,0.78,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2011-11-01,0.76,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2011-11-01,0.67,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2011-12-01,1.11,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2011-12-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2011-12-01,0.75,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2011-12-01,0.68,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2012-01-01,1.1,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2012-01-01,0.72,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2012-01-01,0.75,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2012-01-01,0.7,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2012-02-01,1.09,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2012-02-01,0.72,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2012-02-01,0.75,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2012-02-01,0.7,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2012-03-01,1.11,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2012-03-01,0.71,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2012-03-01,0.75,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2012-03-01,0.73,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2012-04-01,1.1,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2012-04-01,0.71,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2012-04-01,0.75,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2012-04-01,0.75,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2012-05-01,1.08,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2012-05-01,0.71,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2012-05-01,0.81,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2012-05-01,0.82,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2012-06-01,1.04,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2012-06-01,0.71,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2012-06-01,0.85,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2012-06-01,0.85,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2012-07-01,1.07,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2012-07-01,0.71,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2012-07-01,0.94,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2012-07-01,0.93,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2012-08-01,1.09,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2012-08-01,0.73,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2012-08-01,1.04,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2012-08-01,0.99,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2012-09-01,1.11,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2012-09-01,0.73,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2012-09-01,1.06,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2012-09-01,1.01,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2012-10-01,1.15,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2012-10-01,0.75,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2012-10-01,1.1,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2012-10-01,1.05,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2012-11-01,1.15,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2012-11-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2012-11-01,1.12,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2012-11-01,1.11,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2012-12-01,1.16,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2012-12-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2012-12-01,1.1,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2012-12-01,1.12,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2013-01-01,1.16,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2013-01-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2013-01-01,1.21,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2013-01-01,1.18,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2013-02-01,1.16,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2013-02-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2013-02-01,1.21,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2013-02-01,1.18,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2013-03-01,1.14,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2013-03-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2013-03-01,1.22,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2013-03-01,1.19,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2013-04-01,1.14,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2013-04-01,0.78,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2013-04-01,1.22,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2013-04-01,1.2,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2013-05-01,1.14,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2013-05-01,0.78,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2013-05-01,1.31,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2013-05-01,1.23,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2013-06-01,1.15,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2013-06-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2013-06-01,1.26,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2013-06-01,1.22,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2013-07-01,1.16,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2013-07-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2013-07-01,1.24,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2013-07-01,1.24,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2013-08-01,1.17,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2013-08-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2013-08-01,1.16,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2013-08-01,1.24,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2013-09-01,1.17,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2013-09-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2013-09-01,1.67,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2013-09-01,1.39,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2013-10-01,1.17,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2013-10-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2013-10-01,1.73,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2013-10-01,1.48,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2013-11-01,1.18,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2013-11-01,0.77,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2013-11-01,1.73,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2013-11-01,1.53,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2013-12-01,1.18,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2013-12-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2013-12-01,1.76,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2013-12-01,1.56,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2014-01-01,1.17,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2014-01-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2014-01-01,1.77,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2014-01-01,1.55,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2014-02-01,1.15,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2014-02-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2014-02-01,1.83,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2014-02-01,1.61,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2014-03-01,1.15,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2014-03-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2014-03-01,1.76,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2014-03-01,1.58,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2014-04-01,1.15,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2014-04-01,0.77,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2014-04-01,1.76,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2014-04-01,1.6,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2014-05-01,1.15,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2014-05-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2014-05-01,1.73,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2014-05-01,1.59,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2014-06-01,1.16,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2014-06-01,0.77,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2014-06-01,1.73,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2014-06-01,1.61,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2014-07-01,1.17,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2014-07-01,0.77,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2014-07-01,1.73,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2014-07-01,1.65,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2014-08-01,1.17,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2014-08-01,0.77,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2014-08-01,1.73,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2014-08-01,1.68,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2014-09-01,1.17,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2014-09-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2014-09-01,1.76,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2014-09-01,1.72,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2014-10-01,1.17,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2014-10-01,0.77,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2014-10-01,1.75,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2014-10-01,1.73,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2014-11-01,1.14,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2014-11-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2014-11-01,1.75,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2014-11-01,1.71,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2014-12-01,1.07,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2014-12-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2014-12-01,1.75,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2014-12-01,1.73,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2015-01-01,1.09,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2015-01-01,0.78,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2015-01-01,1.75,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2015-01-01,1.72,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2015-02-01,1.07,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2015-02-01,0.72,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2015-02-01,1.73,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2015-02-01,1.71,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2015-03-01,1.06,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2015-03-01,0.58,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2015-03-01,1.73,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2015-03-01,1.72,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2015-04-01,1.06,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2015-04-01,0.58,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2015-04-01,1.72,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2015-04-01,1.73,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2015-05-01,1.05,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2015-05-01,0.58,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2015-05-01,1.77,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2015-05-01,1.74,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2015-06-01,1.06,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2015-06-01,0.57,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2015-06-01,1.83,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2015-06-01,1.75,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2015-07-01,1.06,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2015-07-01,0.58,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2015-07-01,1.8,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2015-07-01,1.75,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2015-08-01,1.05,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2015-08-01,0.58,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2015-08-01,1.8,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2015-08-01,1.77,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2015-09-01,1.05,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2015-09-01,0.58,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2015-09-01,1.81,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2015-09-01,1.77,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2015-10-01,1.07,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2015-10-01,0.58,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2015-10-01,2.05,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2015-10-01,1.85,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2015-11-01,1.05,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2015-11-01,0.58,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2015-11-01,2.09,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2015-11-01,1.87,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2015-12-01,1.04,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2015-12-01,0.52,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2015-12-01,2.21,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2015-12-01,1.91,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2016-01-01,1.03,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2016-01-01,0.42,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2016-01-01,2.3,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2016-01-01,2.0,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2016-02-01,0.98,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2016-02-01,0.4,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2016-02-01,2.23,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2016-02-01,2.02,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2016-03-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2016-03-01,0.39,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2016-03-01,2.24,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2016-03-01,2.05,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2016-04-01,1.0,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2016-04-01,0.41,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2016-04-01,2.3,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2016-04-01,2.07,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2016-05-01,1.01,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2016-05-01,0.42,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2016-05-01,2.27,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2016-05-01,2.08,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2016-06-01,1.01,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2016-06-01,0.41,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2016-06-01,2.11,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2016-06-01,2.09,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2016-07-01,1.01,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2016-07-01,0.4,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2016-07-01,2.3,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2016-07-01,2.11,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2016-08-01,1.01,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2016-08-01,0.43,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2016-08-01,2.41,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2016-08-01,2.15,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2016-09-01,1.01,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2016-09-01,0.44,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2016-09-01,2.41,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2016-09-01,2.16,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2016-10-01,1.01,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2016-10-01,0.45,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2016-10-01,2.37,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2016-10-01,2.17,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2016-11-01,1.0,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2016-11-01,0.43,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2016-11-01,2.37,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2016-11-01,2.18,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2016-12-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2016-12-01,0.42,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2016-12-01,2.35,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2016-12-01,2.18,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2017-01-01,0.9,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2017-01-01,0.43,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2017-01-01,2.42,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2017-01-01,2.24,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2017-02-01,0.9,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2017-02-01,0.44,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2017-02-01,2.48,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2017-02-01,2.26,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2017-03-01,0.91,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2017-03-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2017-03-01,2.44,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2017-03-01,2.28,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2017-04-01,0.91,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2017-04-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2017-04-01,2.5,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2017-04-01,2.3,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2017-05-01,0.91,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2017-05-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2017-05-01,2.54,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2017-05-01,2.33,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2017-06-01,0.91,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2017-06-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2017-06-01,2.53,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2017-06-01,2.38,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2017-07-01,0.92,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2017-07-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2017-07-01,2.44,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2017-07-01,2.32,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2017-08-01,0.92,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2017-08-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2017-08-01,2.39,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2017-08-01,2.32,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2017-09-01,0.92,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2017-09-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2017-09-01,2.35,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2017-09-01,2.3,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2017-10-01,0.92,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2017-10-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2017-10-01,2.46,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2017-10-01,2.36,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2017-11-01,0.91,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2017-11-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2017-11-01,2.48,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2017-11-01,2.39,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2017-12-01,0.91,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2017-12-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2017-12-01,2.5,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2017-12-01,2.4,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2018-01-01,0.92,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2018-01-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2018-01-01,2.54,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2018-01-01,2.46,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2018-02-01,0.92,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2018-02-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2018-02-01,2.37,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2018-02-01,2.44,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2018-03-01,0.92,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2018-03-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2018-03-01,2.44,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2018-03-01,2.39,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2018-04-01,0.92,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2018-04-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2018-04-01,2.48,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2018-04-01,2.46,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2018-05-01,0.91,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2018-05-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2018-05-01,2.49,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2018-05-01,2.46,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2018-06-01,0.92,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2018-06-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2018-06-01,2.58,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2018-06-01,2.5,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2018-07-01,0.92,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2018-07-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2018-07-01,2.5,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2018-07-01,2.5,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2018-08-01,0.93,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2018-08-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2018-08-01,2.58,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2018-08-01,2.51,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2018-09-01,0.94,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2018-09-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2018-09-01,2.67,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2018-09-01,2.56,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2018-10-01,0.94,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2018-10-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2018-10-01,2.72,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2018-10-01,2.6,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2018-11-01,0.93,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2018-11-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2018-11-01,2.74,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2018-11-01,2.63,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2018-12-01,0.94,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2018-12-01,0.46,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2018-12-01,2.72,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2018-12-01,2.61,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2019-01-01,0.94,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2019-01-01,0.47,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2019-01-01,2.76,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2019-01-01,2.63,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2019-02-01,0.95,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2019-02-01,0.47,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2019-02-01,2.75,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2019-02-01,2.62,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2019-03-01,0.96,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2019-03-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2019-03-01,2.77,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2019-03-01,2.67,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2019-04-01,0.97,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2019-04-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2019-04-01,2.82,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2019-04-01,2.68,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2019-05-01,0.98,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2019-05-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2019-05-01,2.85,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2019-05-01,2.71,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2019-06-01,0.98,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2019-06-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2019-06-01,2.85,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2019-06-01,2.72,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2019-07-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2019-07-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2019-07-01,2.86,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2019-07-01,2.75,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2019-08-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2019-08-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2019-08-01,2.88,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2019-08-01,2.73,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2019-09-01,0.98,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2019-09-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2019-09-01,2.88,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2019-09-01,2.77,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2019-10-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2019-10-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2019-10-01,2.85,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2019-10-01,2.78,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2019-11-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2019-11-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2019-11-01,2.86,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2019-11-01,2.76,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2019-12-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2019-12-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2019-12-01,2.87,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2019-12-01,2.79,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2020-01-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2020-01-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2020-01-01,2.89,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2020-01-01,2.81,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2020-02-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2020-02-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2020-02-01,2.88,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2020-02-01,2.85,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2020-03-01,0.97,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2020-03-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2020-03-01,3.15,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2020-03-01,2.9,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2020-04-01,0.98,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2020-04-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2020-04-01,3.15,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2020-04-01,2.9,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2020-05-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2020-05-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2020-05-01,3.09,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2020-05-01,2.9,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2020-06-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2020-06-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2020-06-01,3.04,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2020-06-01,2.89,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2020-07-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2020-07-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2020-07-01,2.95,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2020-07-01,2.85,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2020-08-01,0.98,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2020-08-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2020-08-01,3.02,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2020-08-01,2.88,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2020-09-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2020-09-01,0.54,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2020-09-01,2.98,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2020-09-01,2.88,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2020-10-01,0.98,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2020-10-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2020-10-01,2.72,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2020-10-01,2.8,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2020-11-01,0.97,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2020-11-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2020-11-01,2.8,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2020-11-01,2.84,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2020-12-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2020-12-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2020-12-01,2.82,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2020-12-01,2.9,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2021-01-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2021-01-01,0.48,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2021-01-01,2.85,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2021-01-01,2.93,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2021-02-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2021-02-01,0.49,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2021-02-01,2.87,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2021-02-01,2.97,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2021-03-01,0.98,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2021-03-01,0.49,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2021-03-01,2.86,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2021-03-01,2.97,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2021-04-01,0.98,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2021-04-01,0.49,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2021-04-01,2.84,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2021-04-01,2.98,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2021-05-01,0.99,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2021-05-01,0.49,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2021-05-01,2.84,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2021-05-01,3.02,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2021-06-01,1.01,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2021-06-01,0.5,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2021-06-01,2.86,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2021-06-01,3.06,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2021-07-01,1.06,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2021-07-01,0.5,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2021-07-01,3.03,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2021-07-01,3.14,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2021-08-01,1.06,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2021-08-01,0.5,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2021-08-01,3.07,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2021-08-01,3.17,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2021-09-01,1.07,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2021-09-01,0.52,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2021-09-01,2.98,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2021-09-01,3.14,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2021-10-01,1.1,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2021-10-01,0.52,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2021-10-01,2.98,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2021-10-01,3.12,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2021-11-01,1.14,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2021-11-01,0.52,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2021-11-01,3.03,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2021-11-01,3.19,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2021-12-01,1.14,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2021-12-01,0.54,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2021-12-01,3.0,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2021-12-01,3.2,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2022-01-01,1.16,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2022-01-01,0.66,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2022-01-01,3.04,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2022-01-01,3.23,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2022-02-01,1.17,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2022-02-01,0.68,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2022-02-01,3.18,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2022-02-01,3.32,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2022-03-01,1.17,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2022-03-01,0.68,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2022-03-01,3.39,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2022-03-01,3.48,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2022-04-01,1.25,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2022-04-01,0.68,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2022-04-01,3.21,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2022-04-01,3.51,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2022-05-01,1.3,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2022-05-01,0.68,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2022-05-01,3.42,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2022-05-01,3.63,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2022-06-01,1.48,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2022-06-01,0.69,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2022-06-01,3.59,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2022-06-01,3.74,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2022-07-01,1.54,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2022-07-01,0.69,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2022-07-01,3.64,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2022-07-01,3.79,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2022-08-01,1.56,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2022-08-01,0.72,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2022-08-01,3.71,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2022-08-01,3.89,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2022-09-01,1.55,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2022-09-01,0.79,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2022-09-01,3.88,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2022-09-01,3.96,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2022-10-01,1.58,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2022-10-01,0.79,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2022-10-01,3.75,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2022-10-01,3.94,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2022-11-01,1.61,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2022-11-01,0.79,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2022-11-01,3.71,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2022-11-01,3.91,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2022-12-01,1.62,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2022-12-01,0.79,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2022-12-01,3.9,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2022-12-01,3.71,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2023-01-01,1.61,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2023-01-01,0.79,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2023-01-01,3.71,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2023-01-01,3.87,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2023-02-01,1.62,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2023-02-01,0.79,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2023-02-01,3.47,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2023-02-01,3.81,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2023-03-01,1.61,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2023-03-01,0.78,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2023-03-01,3.47,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2023-03-01,3.84,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2023-04-01,1.55,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2023-04-01,0.77,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2023-04-01,3.47,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2023-04-01,3.87,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2023-05-01,1.53,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2023-05-01,0.77,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2023-05-01,3.5,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2023-05-01,3.87,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2023-06-01,1.52,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2023-06-01,0.76,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2023-06-01,3.52,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2023-06-01,3.87,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2023-07-01,1.52,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2023-07-01,0.75,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2023-07-01,3.65,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2023-07-01,3.97,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2023-08-01,1.52,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2023-08-01,0.74,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2023-08-01,3.65,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2023-08-01,3.94,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2023-09-01,1.52,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2023-09-01,0.74,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2023-09-01,3.58,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2023-09-01,3.89,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2023-10-01,1.45,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2023-10-01,0.74,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2023-10-01,3.6,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2023-10-01,3.94,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2023-11-01,1.46,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2023-11-01,0.73,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2023-11-01,3.61,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2023-11-01,3.96,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2023-12-01,1.45,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2023-12-01,0.72,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2023-12-01,3.61,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2023-12-01,3.94,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2024-01-01,1.45,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2024-01-01,0.7,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2024-01-01,3.7,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2024-01-01,4.04,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2024-02-01,1.45,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2024-02-01,0.7,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2024-02-01,3.73,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2024-02-01,4.07,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2024-03-01,1.47,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2024-03-01,0.7,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2024-03-01,3.74,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2024-03-01,4.05,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2024-04-01,1.51,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2024-04-01,0.7,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2024-04-01,3.75,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2024-04-01,4.06,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2024-05-01,1.51,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2024-05-01,0.7,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2024-05-01,3.75,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2024-05-01,4.08,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2024-06-01,1.51,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2024-06-01,0.71,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2024-06-01,3.75,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2024-06-01,4.12,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2024-07-01,1.51,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2024-07-01,0.71,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2024-07-01,3.77,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2024-07-01,4.16,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2024-08-01,1.5,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2024-08-01,0.71,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2024-08-01,3.82,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2024-08-01,4.21,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2024-09-01,1.51,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2024-09-01,0.71,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2024-09-01,3.82,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2024-09-01,4.24,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2024-10-01,1.54,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2024-10-01,0.71,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2024-10-01,3.83,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2024-10-01,4.23,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2024-11-01,1.55,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2024-11-01,0.71,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2024-11-01,3.81,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2024-11-01,4.21,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2024-12-01,1.52,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2024-12-01,0.71,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2024-12-01,4.02,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2024-12-01,4.31,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2025-01-01,1.52,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2025-01-01,0.71,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2025-01-01,4.06,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2025-01-01,4.41,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2025-02-01,1.52,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2025-02-01,0.73,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2025-02-01,3.92,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2025-02-01,4.34,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2025-03-01,1.54,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2025-03-01,0.74,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2025-03-01,3.92,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2025-03-01,4.38,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2025-04-01,1.57,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2025-04-01,0.74,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2025-04-01,4.04,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2025-04-01,4.43,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2025-05-01,1.61,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2025-05-01,0.74,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2025-05-01,4.22,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2025-05-01,4.52,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2025-06-01,1.59,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2025-06-01,0.74,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2025-06-01,4.22,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2025-06-01,4.63,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2025-07-01,1.59,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2025-07-01,0.74,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2025-07-01,4.26,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2025-07-01,4.6,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2025-08-01,1.61,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2025-08-01,0.74,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2025-08-01,4.24,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2025-08-01,4.65,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2025-09-01,1.61,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e
+Bread (high grade flour),Azerbaijan,National Average,RETAIL,2025-09-01,0.74,Kg,6ab37985-1ecd-41f7-84c1-33cd1f05b91f
+Bread (high grade flour),Belarus,Minsk,RETAIL,2025-09-01,4.27,Kg,33d60a21-3f15-4d61-85ee-54f1a61ed8a7
+Bread (high grade flour),Belarus,National Average,RETAIL,2025-09-01,4.64,Kg,3350b418-ccb0-4e6d-b78a-6879b6cfaf33
+Bread (high grade flour),Armenia,National Average,RETAIL,2025-10-01,1.65,Kg,79e6690d-688c-4ddb-9398-61ffe0d7f60e

@@ -1,0 +1,1838 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Pork meat with bones,Philippines,Cebu,RETAIL,2000-01-01,2.47,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2000-01-01,2.13,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2000-01-01,2.18,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2000-01-01,2.61,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2000-01-01,2.18,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2000-01-01,1.9,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2000-02-01,2.48,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2000-02-01,2.13,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2000-02-01,2.17,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2000-02-01,2.57,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2000-02-01,2.17,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2000-02-01,1.9,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2000-03-01,2.43,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2000-03-01,2.14,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2000-03-01,2.13,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2000-03-01,2.57,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2000-03-01,2.17,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2000-03-01,2.28,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2000-04-01,2.44,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2000-04-01,2.16,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2000-04-01,2.19,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2000-04-01,2.64,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2000-04-01,2.17,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2000-04-01,2.31,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2000-05-01,2.34,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2000-05-01,2.11,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2000-05-01,2.14,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2000-05-01,2.61,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2000-05-01,2.14,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2000-05-01,2.32,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2000-06-01,2.34,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2000-06-01,2.06,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2000-06-01,2.1,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2000-06-01,2.55,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2000-06-01,2.09,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2000-06-01,2.3,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2000-07-01,2.25,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2000-07-01,1.97,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2000-07-01,1.99,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2000-07-01,2.42,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2000-07-01,2.02,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2000-07-01,2.21,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2000-08-01,2.22,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2000-08-01,1.94,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2000-08-01,2.0,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2000-08-01,2.38,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2000-08-01,1.99,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2000-08-01,2.18,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2000-09-01,2.18,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2000-09-01,1.9,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2000-09-01,1.96,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2000-09-01,2.34,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2000-09-01,1.96,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2000-09-01,2.14,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2000-10-01,2.08,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2000-10-01,1.81,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2000-10-01,1.84,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2000-10-01,2.22,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2000-10-01,1.86,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2000-10-01,2.02,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2000-11-01,2.02,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2000-11-01,1.74,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2000-11-01,1.78,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2000-11-01,2.15,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2000-11-01,1.8,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2000-11-01,1.93,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2000-12-01,2.01,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2000-12-01,1.74,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2000-12-01,1.78,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2000-12-01,2.15,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2000-12-01,1.81,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2000-12-01,1.93,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2001-01-01,1.97,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2001-01-01,1.69,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2001-01-01,1.74,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2001-01-01,2.14,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2001-01-01,1.78,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2001-01-01,1.9,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2001-02-01,2.13,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2001-02-01,1.84,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2001-02-01,1.84,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2001-02-01,2.32,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2001-02-01,1.91,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2001-02-01,2.09,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2001-03-01,2.15,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2001-03-01,1.84,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2001-03-01,1.89,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2001-03-01,2.45,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2001-03-01,1.94,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2001-03-01,2.01,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2001-04-01,2.1,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2001-04-01,1.77,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2001-04-01,1.83,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2001-04-01,2.37,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2001-04-01,1.89,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2001-04-01,2.1,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2001-05-01,2.09,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2001-05-01,1.76,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2001-05-01,1.83,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2001-05-01,2.38,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2001-05-01,1.86,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2001-05-01,2.09,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2001-06-01,2.05,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2001-06-01,1.73,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2001-06-01,1.8,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2001-06-01,2.32,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2001-06-01,1.88,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2001-06-01,2.05,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2001-07-01,1.98,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2001-07-01,1.68,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2001-07-01,1.76,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2001-07-01,2.2,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2001-07-01,1.82,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2001-07-01,1.97,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2001-08-01,2.03,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2001-08-01,1.7,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2001-08-01,1.79,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2001-08-01,2.23,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2001-08-01,1.85,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2001-08-01,1.83,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2001-09-01,2.08,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2001-09-01,1.72,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2001-09-01,1.8,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2001-09-01,2.24,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2001-09-01,1.88,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2001-09-01,1.85,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2001-10-01,2.05,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2001-10-01,1.71,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2001-10-01,1.78,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2001-10-01,2.22,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2001-10-01,1.87,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2001-10-01,1.86,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2001-11-01,2.05,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2001-11-01,1.71,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2001-11-01,1.77,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2001-11-01,2.17,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2001-11-01,1.93,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2001-11-01,1.81,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2001-12-01,2.04,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2001-12-01,1.72,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2001-12-01,1.78,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2001-12-01,2.21,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2001-12-01,1.87,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2001-12-01,1.82,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2002-01-01,2.15,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2002-01-01,1.72,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2002-01-01,1.79,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2002-01-01,2.22,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2002-01-01,1.88,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2002-01-01,1.87,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2002-02-01,2.06,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2002-02-01,1.72,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2002-02-01,1.79,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2002-02-01,2.24,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2002-02-01,1.88,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2002-02-01,1.87,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2002-03-01,2.08,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2002-03-01,1.72,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2002-03-01,1.79,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2002-03-01,2.24,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2002-03-01,1.89,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2002-03-01,1.88,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2002-04-01,2.07,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2002-04-01,1.75,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2002-04-01,1.78,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2002-04-01,2.27,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2002-04-01,1.9,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2002-04-01,1.84,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2002-05-01,2.12,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2002-05-01,1.79,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2002-05-01,1.83,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2002-05-01,2.33,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2002-05-01,1.94,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2002-05-01,1.91,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2002-06-01,2.1,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2002-06-01,1.76,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2002-06-01,1.81,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2002-06-01,2.28,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2002-06-01,1.93,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2002-06-01,1.9,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2002-07-01,2.1,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2002-07-01,1.76,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2002-07-01,1.8,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2002-07-01,2.24,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2002-07-01,1.9,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2002-07-01,1.9,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2002-08-01,2.05,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2002-08-01,1.7,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2002-08-01,1.72,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2002-08-01,2.15,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2002-08-01,1.86,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2002-08-01,1.85,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2002-09-01,2.02,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2002-09-01,1.69,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2002-09-01,1.7,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2002-09-01,2.1,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2002-09-01,1.83,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2002-09-01,1.84,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2002-10-01,2.0,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2002-10-01,1.66,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2002-10-01,1.68,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2002-10-01,2.04,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2002-10-01,1.8,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2002-10-01,1.81,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2002-11-01,1.94,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2002-11-01,1.65,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2002-11-01,1.67,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2002-11-01,2.02,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2002-11-01,1.77,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2002-11-01,1.8,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2002-12-01,1.97,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2002-12-01,1.66,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2002-12-01,1.67,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2002-12-01,1.95,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2002-12-01,1.76,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2002-12-01,1.79,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2003-01-01,1.96,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2003-01-01,1.66,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2003-01-01,1.68,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2003-01-01,2.03,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2003-01-01,1.77,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2003-01-01,1.79,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2003-02-01,1.93,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2003-02-01,1.64,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2003-02-01,1.66,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2003-02-01,2.04,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2003-02-01,1.76,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2003-02-01,1.78,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2003-03-01,1.92,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2003-03-01,1.64,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2003-03-01,1.65,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2003-03-01,2.06,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2003-03-01,1.77,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2003-03-01,1.76,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2003-04-01,1.99,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2003-04-01,1.68,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2003-04-01,1.7,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2003-04-01,2.14,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2003-04-01,1.82,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2003-04-01,1.82,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2003-05-01,2.0,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2003-05-01,1.69,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2003-05-01,1.71,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2003-05-01,2.17,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2003-05-01,1.85,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2003-05-01,1.83,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2003-06-01,1.94,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2003-06-01,1.65,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2003-06-01,1.69,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2003-06-01,2.09,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2003-06-01,1.8,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2003-06-01,1.8,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2003-07-01,1.95,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2003-07-01,1.64,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2003-07-01,1.68,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2003-07-01,2.12,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2003-07-01,1.79,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2003-07-01,1.79,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2003-08-01,1.91,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2003-08-01,1.61,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2003-08-01,1.64,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2003-08-01,2.06,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2003-08-01,1.75,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2003-08-01,1.75,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2003-09-01,1.92,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2003-09-01,1.62,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2003-09-01,1.62,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2003-09-01,2.06,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2003-09-01,1.74,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2003-09-01,1.74,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2003-10-01,1.92,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2003-10-01,1.63,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2003-10-01,1.62,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2003-10-01,2.07,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2003-10-01,1.74,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2003-10-01,1.75,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2003-11-01,1.9,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2003-11-01,1.61,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2003-11-01,1.61,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2003-11-01,2.04,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2003-11-01,1.73,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2003-11-01,1.73,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2003-12-01,1.94,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2003-12-01,1.63,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2003-12-01,1.61,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2003-12-01,2.11,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2003-12-01,1.77,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2003-12-01,1.85,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2004-01-01,2.03,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2004-01-01,1.75,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2004-01-01,1.73,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2004-01-01,2.3,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2004-01-01,1.87,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2004-01-01,1.86,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2004-02-01,2.21,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2004-02-01,1.76,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2004-02-01,1.81,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2004-02-01,2.44,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2004-02-01,1.96,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2004-02-01,2.05,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2004-03-01,2.31,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2004-03-01,1.85,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2004-03-01,1.91,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2004-03-01,2.55,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2004-03-01,2.03,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2004-03-01,2.09,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2004-04-01,2.37,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2004-04-01,1.91,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2004-04-01,1.91,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2004-04-01,2.54,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2004-04-01,2.1,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2004-04-01,2.38,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2004-05-01,2.35,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2004-05-01,1.89,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2004-05-01,2.01,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2004-05-01,2.52,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2004-05-01,2.15,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2004-05-01,2.09,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2004-06-01,2.34,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2004-06-01,1.9,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2004-06-01,2.11,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2004-06-01,2.49,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2004-06-01,2.16,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2004-06-01,1.95,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2004-07-01,2.39,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2004-07-01,1.87,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2004-07-01,2.14,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2004-07-01,2.46,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2004-07-01,2.16,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2004-07-01,1.95,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2004-08-01,2.36,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2004-08-01,1.89,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2004-08-01,2.15,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2004-08-01,2.44,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2004-08-01,2.13,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2004-08-01,1.95,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2004-09-01,2.36,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2004-09-01,1.88,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2004-09-01,2.13,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2004-09-01,2.41,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2004-09-01,2.1,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2004-09-01,1.94,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2004-10-01,2.36,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2004-10-01,1.89,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2004-10-01,2.13,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2004-10-01,2.38,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2004-10-01,2.09,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2004-10-01,1.93,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2004-11-01,2.27,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2004-11-01,1.9,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2004-11-01,2.13,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2004-11-01,2.42,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2004-11-01,2.11,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2004-11-01,2.0,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2004-12-01,2.41,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2004-12-01,1.91,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2004-12-01,2.14,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2004-12-01,2.58,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2004-12-01,2.17,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2004-12-01,2.1,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2005-01-01,2.39,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2005-01-01,1.94,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2005-01-01,2.15,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2005-01-01,2.63,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2005-01-01,2.21,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2005-01-01,2.12,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2005-02-01,2.48,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2005-02-01,1.96,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2005-02-01,2.19,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2005-02-01,2.65,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2005-02-01,2.25,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2005-02-01,2.15,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2005-03-01,2.5,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2005-03-01,1.98,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2005-03-01,2.2,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2005-03-01,2.66,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2005-03-01,2.27,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2005-03-01,2.17,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2005-04-01,2.42,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2005-04-01,1.98,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2005-04-01,2.2,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2005-04-01,2.66,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2005-04-01,2.29,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2005-04-01,2.17,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2005-05-01,2.44,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2005-05-01,1.98,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2005-05-01,2.21,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2005-05-01,2.67,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2005-05-01,2.3,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2005-05-01,2.17,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2005-06-01,2.43,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2005-06-01,1.92,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2005-06-01,2.17,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2005-06-01,2.64,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2005-06-01,2.26,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2005-06-01,2.14,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2005-07-01,2.37,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2005-07-01,1.93,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2005-07-01,2.14,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2005-07-01,2.58,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2005-07-01,2.23,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2005-07-01,2.11,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2005-08-01,2.37,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2005-08-01,1.92,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2005-08-01,2.14,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2005-08-01,2.58,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2005-08-01,2.22,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2005-08-01,2.11,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2005-09-01,2.35,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2005-09-01,1.93,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2005-09-01,2.14,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2005-09-01,2.57,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2005-09-01,2.21,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2005-09-01,2.08,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2005-10-01,2.36,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2005-10-01,1.92,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2005-10-01,2.15,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2005-10-01,2.58,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2005-10-01,2.22,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2005-10-01,2.1,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2005-11-01,2.4,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2005-11-01,1.94,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2005-11-01,2.2,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2005-11-01,2.62,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2005-11-01,2.27,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2005-11-01,2.15,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2005-12-01,2.45,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2005-12-01,2.03,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2005-12-01,2.24,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2005-12-01,2.67,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2005-12-01,2.31,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2005-12-01,2.18,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2006-01-01,2.49,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2006-01-01,2.03,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2006-01-01,2.28,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2006-01-01,2.71,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2006-01-01,2.35,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2006-01-01,2.21,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2006-02-01,2.44,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2006-02-01,2.08,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2006-02-01,2.32,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2006-02-01,2.73,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2006-02-01,2.38,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2006-02-01,2.26,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2006-03-01,2.53,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2006-03-01,2.09,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2006-03-01,2.34,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2006-03-01,2.78,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2006-03-01,2.4,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2006-03-01,2.28,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2006-04-01,2.53,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2006-04-01,2.1,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2006-04-01,2.34,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2006-04-01,2.77,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2006-04-01,2.4,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2006-04-01,2.27,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2006-05-01,2.49,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2006-05-01,2.07,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2006-05-01,2.3,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2006-05-01,2.74,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2006-05-01,2.37,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2006-05-01,2.24,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2006-06-01,2.46,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2006-06-01,2.05,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2006-06-01,2.26,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2006-06-01,2.69,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2006-06-01,2.33,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2006-06-01,2.2,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2006-07-01,2.55,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2006-07-01,2.06,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2006-07-01,2.29,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2006-07-01,2.74,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2006-07-01,2.36,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2006-07-01,2.23,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2006-08-01,2.61,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2006-08-01,2.12,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2006-08-01,2.34,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2006-08-01,2.8,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2006-08-01,2.42,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2006-08-01,2.28,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2006-09-01,2.66,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2006-09-01,2.15,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2006-09-01,2.38,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2006-09-01,2.85,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2006-09-01,2.45,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2006-09-01,2.32,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2006-10-01,2.67,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2006-10-01,2.14,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2006-10-01,2.4,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2006-10-01,2.87,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2006-10-01,2.47,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2006-10-01,2.34,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2006-11-01,2.69,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2006-11-01,2.17,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2006-11-01,2.41,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2006-11-01,2.87,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2006-11-01,2.47,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2006-11-01,2.35,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2006-12-01,2.7,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2006-12-01,2.17,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2006-12-01,2.43,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2006-12-01,2.89,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2006-12-01,2.48,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2006-12-01,2.36,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2007-01-01,2.74,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2007-01-01,2.19,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2007-01-01,2.42,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2007-01-01,2.93,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2007-01-01,2.51,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2007-01-01,2.39,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2007-02-01,2.77,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2007-02-01,2.24,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2007-02-01,2.48,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2007-02-01,2.96,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2007-02-01,2.54,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2007-02-01,2.43,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2007-03-01,2.76,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2007-03-01,2.22,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2007-03-01,2.44,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2007-03-01,2.96,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2007-03-01,2.54,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2007-03-01,2.43,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2007-04-01,2.79,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2007-04-01,2.24,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2007-04-01,2.47,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2007-04-01,3.02,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2007-04-01,2.58,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2007-04-01,2.47,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2007-05-01,2.84,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2007-05-01,2.3,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2007-05-01,2.52,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2007-05-01,3.13,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2007-05-01,2.67,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2007-05-01,2.52,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2007-06-01,2.9,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2007-06-01,2.33,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2007-06-01,2.56,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2007-06-01,3.16,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2007-06-01,2.73,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2007-06-01,2.56,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2007-07-01,2.94,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2007-07-01,2.38,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2007-07-01,2.59,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2007-07-01,3.23,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2007-07-01,2.76,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2007-07-01,2.59,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2007-08-01,2.91,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2007-08-01,2.35,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2007-08-01,2.56,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2007-08-01,3.2,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2007-08-01,2.73,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2007-08-01,2.47,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2007-09-01,2.92,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2007-09-01,2.34,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2007-09-01,2.57,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2007-09-01,3.18,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2007-09-01,2.74,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2007-09-01,2.34,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2007-10-01,3.04,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2007-10-01,2.49,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2007-10-01,2.68,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2007-10-01,3.3,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2007-10-01,2.83,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2007-10-01,2.54,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2007-11-01,3.11,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2007-11-01,2.48,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2007-11-01,2.77,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2007-11-01,3.39,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2007-11-01,2.92,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2007-11-01,2.71,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2007-12-01,3.22,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2007-12-01,2.6,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2007-12-01,2.87,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2007-12-01,3.53,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2007-12-01,3.04,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2007-12-01,2.81,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2008-01-01,3.32,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2008-01-01,2.74,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2008-01-01,2.93,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2008-01-01,3.65,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2008-01-01,3.13,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2008-01-01,2.95,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2008-02-01,3.34,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2008-02-01,2.78,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2008-02-01,2.97,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2008-02-01,3.84,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2008-02-01,3.22,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2008-02-01,3.51,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2008-03-01,3.4,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2008-03-01,2.91,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2008-03-01,3.2,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2008-03-01,4.14,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2008-03-01,3.35,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2008-03-01,3.6,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2008-04-01,3.43,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2008-04-01,2.97,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2008-04-01,3.16,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2008-04-01,4.3,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2008-04-01,3.45,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2008-04-01,3.87,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2008-05-01,3.4,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2008-05-01,2.87,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2008-05-01,3.18,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2008-05-01,4.22,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2008-05-01,3.42,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2008-05-01,3.73,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2008-06-01,3.31,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2008-06-01,2.89,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2008-06-01,3.13,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2008-06-01,4.08,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2008-06-01,3.31,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2008-06-01,3.61,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2008-07-01,3.29,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2008-07-01,2.84,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2008-07-01,3.14,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2008-07-01,3.95,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2008-07-01,3.26,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2008-07-01,3.53,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2008-08-01,3.28,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2008-08-01,2.86,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2008-08-01,3.14,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2008-08-01,3.9,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2008-08-01,3.25,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2008-08-01,3.44,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2008-09-01,3.23,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2008-09-01,2.83,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2008-09-01,3.14,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2008-09-01,3.76,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2008-09-01,3.22,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2008-09-01,3.21,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2008-10-01,3.09,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2008-10-01,2.79,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2008-10-01,3.02,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2008-10-01,3.41,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2008-10-01,3.05,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2008-10-01,2.8,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2008-11-01,2.99,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2008-11-01,2.78,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2008-11-01,2.94,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2008-11-01,3.3,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2008-11-01,2.97,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2008-11-01,2.67,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2008-12-01,2.95,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2008-12-01,2.7,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2008-12-01,2.87,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2008-12-01,3.34,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2008-12-01,2.89,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2008-12-01,2.76,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2009-01-01,3.03,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2009-01-01,2.72,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2009-01-01,2.96,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2009-01-01,3.6,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2009-01-01,3.06,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2009-01-01,2.97,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2009-02-01,3.22,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2009-02-01,2.81,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2009-02-01,3.18,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2009-02-01,3.73,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2009-02-01,3.15,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2009-02-01,3.14,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2009-03-01,3.26,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2009-03-01,2.77,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2009-03-01,3.15,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2009-03-01,3.7,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2009-03-01,3.16,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2009-03-01,2.97,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2009-04-01,3.24,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2009-04-01,2.72,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2009-04-01,3.1,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2009-04-01,3.56,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2009-04-01,3.07,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2009-04-01,3.13,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2009-05-01,3.27,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2009-05-01,2.73,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2009-05-01,3.11,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2009-05-01,3.49,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2009-05-01,3.08,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2009-05-01,3.25,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2009-06-01,3.34,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2009-06-01,2.79,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2009-06-01,3.19,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2009-06-01,3.53,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2009-06-01,3.12,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2009-06-01,3.41,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2009-07-01,3.3,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2009-07-01,2.74,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2009-07-01,3.17,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2009-07-01,3.43,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2009-07-01,3.08,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2009-07-01,3.29,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2009-08-01,3.28,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2009-08-01,2.74,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2009-08-01,3.16,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2009-08-01,3.38,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2009-08-01,3.06,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2009-08-01,3.24,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2009-09-01,3.29,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2009-09-01,2.73,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2009-09-01,3.16,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2009-09-01,3.44,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2009-09-01,3.07,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2009-09-01,3.25,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2009-10-01,3.38,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2009-10-01,2.82,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2009-10-01,3.26,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2009-10-01,3.63,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2009-10-01,3.2,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2009-10-01,3.49,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2009-11-01,3.49,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2009-11-01,2.88,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2009-11-01,3.27,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2009-11-01,3.69,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2009-11-01,3.24,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2009-11-01,3.69,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2009-12-01,3.59,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2009-12-01,3.02,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2009-12-01,3.29,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2009-12-01,3.88,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2009-12-01,3.34,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2009-12-01,3.8,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2010-01-01,3.7,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2010-01-01,3.04,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2010-01-01,3.39,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2010-01-01,4.01,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2010-01-01,3.4,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2010-01-01,3.93,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2010-02-01,3.7,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2010-02-01,3.02,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2010-02-01,3.4,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2010-02-01,4.0,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2010-02-01,3.4,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2010-02-01,3.82,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2010-03-01,3.31,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2010-03-01,3.06,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2010-03-01,3.45,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2010-03-01,4.05,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2010-03-01,3.47,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2010-03-01,3.97,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2010-04-01,3.82,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2010-04-01,3.14,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2010-04-01,3.58,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2010-04-01,4.15,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2010-04-01,3.58,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2010-04-01,4.06,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2010-05-01,3.74,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2010-05-01,3.07,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2010-05-01,3.51,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2010-05-01,4.06,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2010-05-01,3.52,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2010-05-01,3.98,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2010-06-01,3.7,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2010-06-01,3.02,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2010-06-01,3.28,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2010-06-01,4.01,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2010-06-01,3.47,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2010-06-01,3.84,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2010-07-01,3.71,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2010-07-01,3.02,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2010-07-01,3.28,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2010-07-01,3.95,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2010-07-01,3.47,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2010-07-01,3.84,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2010-08-01,3.84,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2010-08-01,3.1,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2010-08-01,3.54,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2010-08-01,4.01,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2010-08-01,3.53,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2010-08-01,3.93,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2010-09-01,3.91,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2010-09-01,3.16,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2010-09-01,3.54,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2010-09-01,4.01,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2010-09-01,3.58,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2010-09-01,3.88,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2010-10-01,3.96,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2010-10-01,3.41,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2010-10-01,3.59,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2010-10-01,4.12,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2010-10-01,3.63,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2010-10-01,3.96,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2010-11-01,3.85,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2010-11-01,3.32,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2010-11-01,3.59,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2010-11-01,4.09,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2010-11-01,3.6,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2010-11-01,3.99,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2010-12-01,3.84,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2010-12-01,3.34,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2010-12-01,3.55,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2010-12-01,4.02,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2010-12-01,3.58,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2010-12-01,3.97,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2011-01-01,3.83,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2011-01-01,3.35,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2011-01-01,3.53,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2011-01-01,4.05,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2011-01-01,3.56,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2011-01-01,4.11,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2011-02-01,3.86,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2011-02-01,3.24,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2011-02-01,3.57,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2011-02-01,4.09,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2011-02-01,3.6,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2011-02-01,3.97,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2011-03-01,3.91,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2011-03-01,3.4,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2011-03-01,3.58,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2011-03-01,4.1,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2011-03-01,3.65,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2011-03-01,3.95,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2011-04-01,3.95,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2011-04-01,3.36,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2011-04-01,3.63,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2011-04-01,4.2,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2011-04-01,3.69,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2011-04-01,4.05,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2011-05-01,3.98,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2011-05-01,3.43,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2011-05-01,3.66,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2011-05-01,4.25,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2011-05-01,3.72,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2011-05-01,4.08,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2011-06-01,4.05,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2011-06-01,3.41,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2011-06-01,3.64,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2011-06-01,4.23,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2011-06-01,3.7,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2011-06-01,4.1,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2011-07-01,4.07,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2011-07-01,3.48,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2011-07-01,3.69,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2011-07-01,4.22,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2011-07-01,3.74,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2011-07-01,4.11,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2011-08-01,4.11,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2011-08-01,3.54,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2011-08-01,3.72,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2011-08-01,4.25,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2011-08-01,3.76,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2011-08-01,4.04,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2011-09-01,4.04,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2011-09-01,3.49,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2011-09-01,3.67,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2011-09-01,4.19,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2011-09-01,3.69,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2011-09-01,3.9,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2011-10-01,4.0,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2011-10-01,3.41,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2011-10-01,3.64,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2011-10-01,4.14,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2011-10-01,3.65,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2011-10-01,3.85,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2011-11-01,4.02,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2011-11-01,3.47,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2011-11-01,3.61,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2011-11-01,4.14,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2011-11-01,3.65,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2011-11-01,3.86,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2011-12-01,3.99,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2011-12-01,3.23,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2011-12-01,3.57,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2011-12-01,4.1,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2011-12-01,3.61,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2011-12-01,3.89,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2012-01-01,3.98,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2012-01-01,3.4,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2012-01-01,3.58,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2012-01-01,4.11,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2012-01-01,3.62,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2012-01-01,3.94,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2012-02-01,4.06,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2012-02-01,3.39,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2012-02-01,3.66,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2012-02-01,4.23,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2012-02-01,3.7,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2012-02-01,4.03,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2012-03-01,4.05,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2012-03-01,3.38,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2012-03-01,3.64,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2012-03-01,4.21,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2012-03-01,3.69,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2012-03-01,3.96,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2012-04-01,4.05,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2012-04-01,3.34,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2012-04-01,3.65,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2012-04-01,4.21,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2012-04-01,3.69,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2012-04-01,4.03,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2012-05-01,4.04,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2012-05-01,3.33,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2012-05-01,3.64,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2012-05-01,4.13,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2012-05-01,3.69,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2012-05-01,4.07,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2012-06-01,4.06,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2012-06-01,3.31,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2012-06-01,3.65,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2012-06-01,4.2,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2012-06-01,3.71,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2012-06-01,4.11,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2012-07-01,4.16,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2012-07-01,3.4,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2012-07-01,3.72,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2012-07-01,4.32,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2012-07-01,3.78,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2012-07-01,4.18,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2012-08-01,4.15,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2012-08-01,3.57,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2012-08-01,3.75,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2012-08-01,4.34,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2012-08-01,3.78,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2012-08-01,4.19,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2012-09-01,4.07,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2012-09-01,3.59,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2012-09-01,3.77,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2012-09-01,4.33,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2012-09-01,3.8,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2012-09-01,4.21,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2012-10-01,4.22,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2012-10-01,3.62,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2012-10-01,3.78,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2012-10-01,4.39,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2012-10-01,3.83,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2012-10-01,4.16,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2012-11-01,4.24,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2012-11-01,3.65,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2012-11-01,3.82,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2012-11-01,4.41,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2012-11-01,3.87,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2012-11-01,4.13,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2012-12-01,4.25,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2012-12-01,3.66,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2012-12-01,3.85,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2012-12-01,4.43,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2012-12-01,3.88,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2012-12-01,4.24,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2013-01-01,4.29,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2013-01-01,3.56,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2013-01-01,4.02,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2013-01-01,4.41,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2013-01-01,3.91,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2013-01-01,4.29,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2013-02-01,4.31,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2013-02-01,3.62,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2013-02-01,4.22,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2013-02-01,4.5,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2013-02-01,3.95,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2013-02-01,4.31,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2013-03-01,4.34,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2013-03-01,3.65,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2013-03-01,4.33,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2013-03-01,4.48,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2013-03-01,3.98,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2013-03-01,4.45,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2013-04-01,4.32,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2013-04-01,3.64,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2013-04-01,4.33,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2013-04-01,4.51,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2013-04-01,3.99,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2013-04-01,4.34,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2013-05-01,4.33,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2013-05-01,3.6,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2013-05-01,4.31,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2013-05-01,4.41,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2013-05-01,4.01,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2013-05-01,4.3,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2013-06-01,4.17,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2013-06-01,3.47,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2013-06-01,4.16,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2013-06-01,4.43,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2013-06-01,3.88,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2013-06-01,4.2,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2013-07-01,4.16,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2013-07-01,3.44,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2013-07-01,4.13,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2013-07-01,4.41,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2013-07-01,3.84,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2013-07-01,4.15,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2013-08-01,4.15,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2013-08-01,3.4,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2013-08-01,4.08,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2013-08-01,4.3,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2013-08-01,3.79,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2013-08-01,4.1,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2013-09-01,4.15,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2013-09-01,3.41,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2013-09-01,4.08,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2013-09-01,4.36,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2013-09-01,3.78,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2013-09-01,4.11,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2013-10-01,4.18,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2013-10-01,3.45,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2013-10-01,4.14,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2013-10-01,4.37,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2013-10-01,3.84,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2013-10-01,4.08,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2013-11-01,4.13,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2013-11-01,3.41,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2013-11-01,4.1,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2013-11-01,4.31,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2013-11-01,3.81,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2013-11-01,4.13,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2013-12-01,4.11,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2013-12-01,3.41,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2013-12-01,4.05,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2013-12-01,4.27,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2013-12-01,3.77,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2013-12-01,3.99,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2014-01-01,4.04,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2014-01-01,3.33,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2014-01-01,3.98,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2014-01-01,4.15,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2014-01-01,3.71,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2014-01-01,3.91,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2014-02-01,4.1,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2014-02-01,3.35,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2014-02-01,4.01,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2014-02-01,4.21,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2014-02-01,3.75,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2014-02-01,4.0,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2014-03-01,4.18,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2014-03-01,3.37,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2014-03-01,4.02,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2014-03-01,4.22,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2014-03-01,3.81,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2014-03-01,4.25,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2014-04-01,4.26,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2014-04-01,3.44,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2014-04-01,4.03,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2014-04-01,4.47,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2014-04-01,3.93,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2014-04-01,4.46,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2014-05-01,4.39,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2014-05-01,3.58,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2014-05-01,4.12,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2014-05-01,4.81,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2014-05-01,4.06,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2014-05-01,4.63,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2014-06-01,4.36,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2014-06-01,3.6,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2014-06-01,4.24,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2014-06-01,4.81,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2014-06-01,4.07,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2014-06-01,4.51,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2014-07-01,4.45,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2014-07-01,3.58,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2014-07-01,4.27,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2014-07-01,4.82,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2014-07-01,4.14,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2014-07-01,4.58,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2014-08-01,4.37,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2014-08-01,3.57,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2014-08-01,4.25,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2014-08-01,4.84,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2014-08-01,4.09,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2014-08-01,4.53,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2014-09-01,4.39,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2014-09-01,3.57,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2014-09-01,4.22,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2014-09-01,4.81,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2014-09-01,4.06,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2014-09-01,4.4,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2014-10-01,4.28,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2014-10-01,3.49,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2014-10-01,4.16,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2014-10-01,4.57,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2014-10-01,3.96,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2014-10-01,4.32,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2014-11-01,4.29,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2014-11-01,3.46,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2014-11-01,4.17,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2014-11-01,4.52,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2014-11-01,3.92,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2014-11-01,3.93,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2014-12-01,4.32,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2014-12-01,3.51,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2014-12-01,4.21,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2014-12-01,4.58,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2014-12-01,3.94,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2014-12-01,3.75,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2015-01-01,4.32,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2015-01-01,3.55,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2015-01-01,4.22,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2015-01-01,4.55,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2015-01-01,3.95,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2015-01-01,3.94,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2015-02-01,4.37,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2015-02-01,3.55,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2015-02-01,4.23,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,National Average,RETAIL,2015-02-01,3.91,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2015-02-01,3.96,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2015-03-01,4.34,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2015-03-01,3.51,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2015-03-01,4.18,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,National Average,RETAIL,2015-03-01,3.88,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2015-03-01,4.05,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2015-04-01,4.33,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2015-04-01,3.48,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2015-04-01,4.21,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,National Average,RETAIL,2015-04-01,3.87,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2015-04-01,3.94,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2015-05-01,4.31,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2015-05-01,3.49,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2015-05-01,4.19,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,National Average,RETAIL,2015-05-01,3.86,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2015-05-01,3.94,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2015-06-01,4.28,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2015-06-01,3.44,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2015-06-01,4.15,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,National Average,RETAIL,2015-06-01,3.8,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2015-06-01,3.89,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2015-07-01,4.28,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2015-07-01,3.42,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2015-07-01,4.17,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,National Average,RETAIL,2015-07-01,3.76,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2015-07-01,3.87,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2015-08-01,4.2,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2015-08-01,3.35,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2015-08-01,4.1,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,National Average,RETAIL,2015-08-01,3.7,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2015-08-01,3.8,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2015-09-01,4.14,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2015-09-01,3.29,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2015-09-01,4.02,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,National Average,RETAIL,2015-09-01,3.65,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2015-09-01,3.76,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2015-10-01,4.19,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2015-10-01,3.32,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2015-10-01,4.02,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,National Average,RETAIL,2015-10-01,3.67,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Cebu,RETAIL,2015-11-01,4.09,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2015-11-01,3.31,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2015-11-01,3.96,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,National Average,RETAIL,2015-11-01,3.62,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2015-11-01,3.74,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2015-12-01,4.08,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2015-12-01,3.28,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2015-12-01,3.94,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,National Average,RETAIL,2015-12-01,3.6,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2015-12-01,3.82,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2016-01-01,4.06,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2016-01-01,3.26,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2016-01-01,3.91,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2016-01-01,3.75,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2016-01-01,3.6,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2016-01-01,3.8,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2016-02-01,4.04,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2016-02-01,3.24,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2016-02-01,3.91,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2016-02-01,3.71,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2016-02-01,3.57,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2016-02-01,3.81,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2016-03-01,4.12,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2016-03-01,3.25,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2016-03-01,3.99,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2016-03-01,3.73,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2016-03-01,3.63,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2016-03-01,3.92,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2016-04-01,4.16,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2016-04-01,3.33,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2016-04-01,4.02,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2016-04-01,3.77,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2016-04-01,3.66,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2016-04-01,3.98,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2016-05-01,3.8,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2016-05-01,3.24,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2016-05-01,3.99,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2016-05-01,3.71,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2016-05-01,3.61,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2016-05-01,3.92,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2016-06-01,3.68,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2016-06-01,3.24,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2016-06-01,4.02,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2016-06-01,3.75,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2016-06-01,3.65,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2016-06-01,3.96,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2016-07-01,3.69,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2016-07-01,3.25,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2016-07-01,3.96,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2016-07-01,3.69,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2016-07-01,3.61,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2016-07-01,3.91,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2016-08-01,3.67,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2016-08-01,3.32,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2016-08-01,3.99,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2016-08-01,3.78,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2016-08-01,3.61,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2016-08-01,3.75,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2016-09-01,3.67,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2016-09-01,3.31,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2016-09-01,3.93,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2016-09-01,3.75,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2016-09-01,3.54,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2016-09-01,3.36,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2016-10-01,3.58,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2016-10-01,3.24,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2016-10-01,3.84,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2016-10-01,3.68,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2016-10-01,3.47,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2016-10-01,3.24,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2016-11-01,3.56,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2016-11-01,3.13,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2016-11-01,3.78,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2016-11-01,3.62,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2016-11-01,3.41,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2016-11-01,3.31,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2016-12-01,3.53,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2016-12-01,3.17,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2016-12-01,3.71,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2016-12-01,3.58,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2016-12-01,3.37,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2016-12-01,3.29,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2017-01-01,3.51,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2017-01-01,3.11,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2017-01-01,3.71,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2017-01-01,3.55,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2017-01-01,3.37,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2017-01-01,3.16,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2017-02-01,3.56,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2017-02-01,3.11,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2017-02-01,3.68,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2017-02-01,3.54,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2017-02-01,3.38,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2017-02-01,3.07,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2017-03-01,3.61,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2017-03-01,3.18,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2017-03-01,3.76,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2017-03-01,3.53,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2017-03-01,3.43,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2017-03-01,3.41,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2017-04-01,3.78,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2017-04-01,3.35,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2017-04-01,3.79,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2017-04-01,3.73,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2017-04-01,3.55,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2017-04-01,3.69,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2017-05-01,3.87,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2017-05-01,3.42,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2017-05-01,3.81,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2017-05-01,3.85,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2017-05-01,3.62,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2017-05-01,3.77,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2017-06-01,3.94,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2017-06-01,3.36,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2017-06-01,3.88,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2017-06-01,3.93,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2017-06-01,3.65,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2017-06-01,3.92,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2017-07-01,3.9,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2017-07-01,3.32,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2017-07-01,3.88,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2017-07-01,3.89,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2017-07-01,3.63,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2017-07-01,3.75,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2017-08-01,3.86,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2017-08-01,3.3,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2017-08-01,3.93,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2017-08-01,3.86,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2017-08-01,3.61,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2017-08-01,3.73,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2017-09-01,3.97,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2017-09-01,3.27,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2017-09-01,3.92,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2017-09-01,3.8,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2017-09-01,3.58,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2017-09-01,3.69,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2017-10-01,4.02,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2017-10-01,3.29,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2017-10-01,3.9,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2017-10-01,3.83,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2017-10-01,3.57,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2017-10-01,3.63,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2017-11-01,3.97,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2017-11-01,3.33,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2017-11-01,3.92,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2017-11-01,3.81,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2017-11-01,3.58,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2017-11-01,3.71,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2017-12-01,4.09,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2017-12-01,3.36,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2017-12-01,3.97,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2017-12-01,3.81,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2017-12-01,3.65,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2017-12-01,4.19,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2018-01-01,4.08,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2018-01-01,3.41,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2018-01-01,3.96,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2018-01-01,3.76,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2018-01-01,3.65,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2018-01-01,3.79,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2018-02-01,3.87,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2018-02-01,3.29,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2018-02-01,4.23,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2018-02-01,3.68,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2018-02-01,3.58,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2018-02-01,3.52,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2018-03-01,4.13,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2018-03-01,3.27,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2018-03-01,4.37,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2018-03-01,3.66,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2018-03-01,3.57,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2018-03-01,3.44,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2018-04-01,4.12,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2018-04-01,3.28,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2018-04-01,4.39,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2018-04-01,3.66,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2018-04-01,3.6,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2018-04-01,3.36,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2018-05-01,4.12,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Iloilo,RETAIL,2018-05-01,4.37,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2018-05-01,3.8,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2018-05-01,3.7,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2018-05-01,3.19,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2018-06-01,4.1,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Iloilo,RETAIL,2018-06-01,4.29,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2018-06-01,3.64,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2018-06-01,3.66,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2018-06-01,3.23,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2018-07-01,4.06,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Iloilo,RETAIL,2018-07-01,4.26,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2018-07-01,3.71,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2018-07-01,3.67,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2018-07-01,3.18,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2018-08-01,4.15,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2018-08-01,3.38,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2018-08-01,4.27,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2018-08-01,3.75,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2018-08-01,3.68,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2018-08-01,3.23,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2018-09-01,4.07,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2018-09-01,3.38,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,MetroManila,RETAIL,2018-09-01,3.75,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2018-09-01,3.65,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2018-09-01,3.17,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2018-10-01,4.12,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Iloilo,RETAIL,2018-10-01,4.13,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2018-10-01,3.65,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2018-10-01,3.64,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2018-10-01,3.21,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2018-11-01,4.22,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2018-11-01,3.35,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2018-11-01,4.22,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2018-11-01,3.79,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2018-11-01,3.7,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2018-11-01,3.29,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2018-12-01,4.22,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2018-12-01,3.47,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2018-12-01,4.23,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2018-12-01,3.8,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2018-12-01,3.73,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2018-12-01,3.29,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2019-01-01,4.21,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Iloilo,RETAIL,2019-01-01,4.24,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2019-01-01,3.81,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2019-01-01,3.73,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2019-01-01,3.3,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2019-02-01,4.29,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2019-02-01,3.43,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2019-02-01,4.26,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2019-02-01,3.82,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2019-02-01,3.76,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2019-02-01,3.52,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2019-03-01,4.21,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2019-03-01,3.37,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2019-03-01,4.27,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2019-03-01,3.8,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2019-03-01,3.73,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2019-03-01,3.59,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2019-04-01,4.24,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2019-04-01,3.4,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2019-04-01,4.32,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2019-04-01,3.82,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2019-04-01,3.76,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2019-04-01,3.62,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2019-05-01,4.17,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2019-05-01,3.36,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2019-05-01,4.27,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2019-05-01,3.8,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2019-05-01,3.74,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2019-05-01,3.65,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2019-06-01,4.19,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2019-06-01,3.42,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2019-06-01,4.27,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2019-06-01,3.86,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2019-06-01,3.79,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2019-06-01,3.76,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2019-07-01,4.22,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2019-07-01,3.45,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2019-07-01,4.36,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2019-07-01,4.0,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2019-07-01,3.83,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2019-07-01,3.83,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2019-08-01,4.13,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Iloilo,RETAIL,2019-08-01,4.32,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2019-08-01,3.93,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2019-08-01,3.77,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2019-08-01,3.66,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2019-09-01,4.09,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Iloilo,RETAIL,2019-09-01,4.17,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2019-09-01,3.84,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2019-09-01,3.74,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2019-09-01,3.58,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2019-10-01,4.08,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2019-10-01,3.39,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2019-10-01,4.09,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2019-10-01,3.85,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2019-10-01,3.72,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2019-10-01,3.51,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2019-11-01,4.14,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2019-11-01,3.47,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2019-11-01,4.19,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2019-11-01,3.94,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2019-11-01,3.76,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2019-11-01,3.25,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2019-12-01,4.24,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2019-12-01,3.49,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2019-12-01,4.19,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2019-12-01,3.86,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2019-12-01,3.74,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2019-12-01,2.95,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2020-01-01,4.22,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2020-01-01,3.45,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2020-01-01,3.98,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2020-01-01,3.85,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2020-01-01,3.73,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2020-01-01,3.32,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2020-02-01,4.26,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2020-02-01,3.45,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2020-02-01,3.99,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2020-02-01,3.85,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2020-02-01,3.75,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2020-02-01,3.35,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2020-03-01,4.27,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2020-03-01,3.4,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2020-03-01,3.95,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2020-03-01,3.77,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2020-03-01,3.74,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2020-03-01,3.45,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2020-04-01,3.78,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2020-04-01,3.36,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2020-04-01,3.95,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2020-04-01,3.83,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2020-04-01,3.72,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2020-04-01,3.3,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2020-05-01,4.23,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2020-05-01,3.31,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2020-05-01,3.96,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2020-05-01,3.85,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2020-05-01,3.76,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2020-05-01,3.46,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2020-06-01,4.52,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2020-06-01,3.35,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2020-06-01,3.99,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2020-06-01,4.23,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2020-06-01,3.91,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2020-06-01,4.03,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2020-07-01,4.51,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2020-07-01,3.5,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2020-07-01,4.04,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2020-07-01,4.77,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2020-07-01,4.06,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2020-07-01,4.53,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2020-08-01,4.47,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2020-08-01,3.61,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2020-08-01,4.1,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2020-08-01,4.72,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2020-08-01,4.11,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2020-08-01,4.23,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2020-09-01,4.49,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2020-09-01,3.58,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2020-09-01,4.12,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2020-09-01,4.68,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2020-09-01,4.12,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2020-09-01,4.41,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2020-10-01,4.43,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2020-10-01,3.74,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2020-10-01,4.06,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2020-10-01,5.38,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2020-10-01,4.36,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2020-10-01,4.95,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2020-11-01,4.44,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2020-11-01,3.78,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2020-11-01,4.15,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2020-11-01,5.72,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2020-11-01,4.57,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Cebu,RETAIL,2020-12-01,4.45,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Iloilo,RETAIL,2020-12-01,4.34,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2020-12-01,5.79,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2020-12-01,4.81,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Cebu,RETAIL,2021-01-01,3.82,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2021-01-01,4.77,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2021-01-01,4.53,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2021-01-01,7.03,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2021-01-01,4.92,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2021-01-01,6.5,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2021-02-01,4.16,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2021-02-01,5.59,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2021-02-01,4.82,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2021-02-01,6.2,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2021-02-01,5.23,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2021-02-01,6.69,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2021-03-01,4.45,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2021-03-01,5.33,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2021-03-01,4.81,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2021-03-01,6.22,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2021-03-01,5.26,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2021-03-01,6.25,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2021-04-01,4.38,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2021-04-01,5.19,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2021-04-01,5.24,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2021-04-01,6.82,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2021-04-01,5.46,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2021-04-01,6.81,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2021-05-01,4.37,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2021-05-01,5.44,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2021-05-01,5.43,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2021-05-01,6.89,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2021-05-01,5.6,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2021-05-01,7.09,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2021-06-01,4.44,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2021-06-01,5.37,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2021-06-01,5.4,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2021-06-01,6.66,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2021-06-01,5.55,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2021-06-01,7.01,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2021-07-01,4.53,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2021-07-01,5.11,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2021-07-01,5.18,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2021-07-01,6.39,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2021-07-01,5.33,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2021-07-01,6.58,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2021-08-01,4.44,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2021-08-01,4.88,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2021-08-01,5.15,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2021-08-01,6.34,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2021-08-01,5.27,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2021-08-01,6.49,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2021-09-01,4.45,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2021-09-01,4.89,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2021-09-01,4.7,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2021-09-01,5.89,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2021-09-01,5.16,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2021-09-01,6.33,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2021-10-01,4.32,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2021-10-01,4.49,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2021-10-01,4.3,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2021-10-01,5.56,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2021-10-01,4.98,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2021-10-01,5.71,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2021-11-01,4.38,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2021-11-01,4.83,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2021-11-01,5.06,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2021-11-01,6.03,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2021-11-01,5.12,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2021-11-01,5.86,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2021-12-01,5.08,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2021-12-01,4.92,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2021-12-01,5.3,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2021-12-01,6.39,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2021-12-01,5.22,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2021-12-01,5.95,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2022-01-01,4.66,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2022-01-01,4.91,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2022-01-01,5.1,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2022-01-01,6.12,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2022-01-01,5.24,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2022-01-01,6.2,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2022-02-01,4.46,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2022-02-01,4.85,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2022-02-01,4.9,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2022-02-01,6.04,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2022-02-01,5.29,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2022-02-01,5.92,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2022-03-01,4.49,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2022-03-01,5.14,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2022-03-01,5.06,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2022-03-01,5.97,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2022-03-01,5.35,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2022-03-01,5.64,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2022-04-01,4.52,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2022-04-01,5.23,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2022-04-01,5.12,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2022-04-01,6.11,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2022-04-01,5.48,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2022-04-01,5.82,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2022-05-01,4.49,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2022-05-01,5.55,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2022-05-01,5.08,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2022-05-01,6.12,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2022-05-01,5.53,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2022-05-01,6.18,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2022-06-01,4.35,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2022-06-01,5.21,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2022-06-01,4.97,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2022-06-01,6.05,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2022-06-01,5.46,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2022-06-01,5.93,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2022-07-01,4.17,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2022-07-01,4.73,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2022-07-01,4.71,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2022-07-01,5.74,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2022-07-01,5.24,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2022-07-01,5.25,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2022-08-01,4.06,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2022-08-01,4.96,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2022-08-01,4.54,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2022-08-01,5.49,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2022-08-01,5.19,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2022-08-01,5.03,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2022-09-01,3.87,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2022-09-01,4.74,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2022-09-01,4.26,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2022-09-01,5.13,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2022-09-01,4.94,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2022-09-01,5.11,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2022-10-01,3.76,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2022-10-01,4.23,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2022-10-01,4.11,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2022-10-01,5.01,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2022-10-01,4.79,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2022-10-01,4.91,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2022-11-01,3.9,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2022-11-01,4.69,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2022-11-01,3.96,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2022-11-01,5.11,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2022-11-01,4.88,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2022-11-01,4.94,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2022-12-01,4.11,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2022-12-01,5.0,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2022-12-01,4.23,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2022-12-01,5.32,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2022-12-01,5.06,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2022-12-01,5.14,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2023-01-01,4.07,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2023-01-01,5.06,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2023-01-01,4.56,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2023-01-01,5.37,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2023-01-01,5.16,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2023-01-01,5.3,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2023-02-01,4.13,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2023-02-01,5.75,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2023-02-01,4.44,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2023-02-01,5.38,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2023-02-01,5.18,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2023-02-01,5.32,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2023-03-01,4.13,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2023-03-01,5.31,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2023-03-01,4.76,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2023-03-01,5.46,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2023-03-01,5.22,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2023-03-01,5.16,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2023-04-01,4.07,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2023-04-01,5.01,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2023-04-01,4.95,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2023-04-01,5.67,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2023-04-01,5.23,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2023-04-01,5.2,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2023-05-01,4.19,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2023-05-01,5.47,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2023-05-01,5.11,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2023-05-01,5.64,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2023-05-01,5.22,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2023-05-01,5.18,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2023-06-01,4.34,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2023-06-01,5.21,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2023-06-01,5.05,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2023-06-01,5.52,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2023-06-01,5.17,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2023-06-01,5.26,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2023-07-01,4.14,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2023-07-01,5.36,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2023-07-01,4.89,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2023-07-01,5.51,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2023-07-01,5.19,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2023-07-01,5.53,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2023-08-01,4.21,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2023-08-01,5.27,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2023-08-01,4.83,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2023-08-01,5.25,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2023-08-01,5.03,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2023-08-01,5.28,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2023-09-01,4.27,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2023-09-01,5.19,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2023-09-01,5.18,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2023-09-01,5.14,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2023-09-01,4.98,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2023-09-01,5.19,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2023-10-01,4.27,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2023-10-01,5.29,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2023-10-01,5.27,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2023-10-01,5.14,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2023-10-01,4.96,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2023-10-01,5.13,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2023-11-01,4.39,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2023-11-01,5.45,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2023-11-01,5.76,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2023-11-01,5.2,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2023-11-01,5.06,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2023-11-01,5.2,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2023-12-01,4.45,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2023-12-01,5.55,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2023-12-01,5.72,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2023-12-01,5.27,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2023-12-01,5.12,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2023-12-01,5.22,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2024-01-01,4.71,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2024-01-01,5.35,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2024-01-01,5.5,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2024-01-01,5.29,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2024-01-01,5.12,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2024-01-01,5.14,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2024-02-01,5.08,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2024-02-01,5.38,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2024-02-01,5.73,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2024-02-01,5.45,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2024-02-01,5.18,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2024-02-01,5.19,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2024-03-01,5.01,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2024-03-01,5.29,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2024-03-01,6.07,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2024-03-01,5.55,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2024-03-01,5.31,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2024-03-01,5.3,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2024-04-01,5.09,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2024-04-01,5.17,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2024-04-01,6.15,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2024-04-01,5.46,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2024-04-01,5.24,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2024-04-01,5.2,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2024-05-01,4.63,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2024-05-01,4.92,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2024-05-01,6.12,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2024-05-01,5.42,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2024-05-01,5.18,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2024-05-01,5.15,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2024-06-01,4.66,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2024-06-01,4.88,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2024-06-01,6.02,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2024-06-01,5.37,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2024-06-01,5.12,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2024-06-01,5.17,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2024-07-01,4.55,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2024-07-01,4.94,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2024-07-01,6.0,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2024-07-01,5.4,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2024-07-01,5.14,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2024-07-01,5.19,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2024-08-01,4.44,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2024-08-01,5.04,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2024-08-01,5.88,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2024-08-01,5.4,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2024-08-01,5.2,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2024-08-01,5.22,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2024-09-01,4.39,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2024-09-01,5.16,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2024-09-01,6.05,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2024-09-01,5.36,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2024-09-01,5.23,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2024-09-01,5.26,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2024-10-01,4.43,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2024-10-01,5.21,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2024-10-01,5.75,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2024-10-01,5.23,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2024-10-01,5.11,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2024-10-01,5.17,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2024-11-01,4.54,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2024-11-01,4.93,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2024-11-01,5.68,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2024-11-01,5.16,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2024-11-01,5.0,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2024-11-01,5.07,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2024-12-01,4.49,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2024-12-01,5.02,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2024-12-01,5.94,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2024-12-01,5.34,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2024-12-01,5.07,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2024-12-01,5.13,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2025-01-01,4.67,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2025-01-01,5.17,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2025-01-01,6.08,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2025-01-01,5.77,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2025-01-01,5.18,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2025-01-01,5.18,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2025-02-01,5.1,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2025-02-01,5.35,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2025-02-01,6.33,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2025-02-01,5.98,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2025-02-01,5.44,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2025-02-01,5.87,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2025-03-01,5.26,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2025-03-01,5.52,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2025-03-01,6.53,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2025-03-01,6.03,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2025-03-01,5.64,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2025-03-01,6.07,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2025-04-01,5.34,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2025-04-01,5.55,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2025-04-01,6.54,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2025-04-01,6.05,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2025-04-01,5.75,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2025-04-01,5.97,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2025-05-01,5.48,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2025-05-01,5.77,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2025-05-01,6.74,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2025-05-01,6.37,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2025-05-01,5.95,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2025-05-01,6.29,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2025-06-01,5.42,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2025-06-01,5.88,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2025-06-01,6.59,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2025-06-01,6.44,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2025-06-01,5.94,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2025-06-01,6.19,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2025-07-01,4.94,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2025-07-01,5.69,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2025-07-01,6.03,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2025-07-01,6.36,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2025-07-01,5.88,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2025-07-01,6.1,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2025-08-01,4.55,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2025-08-01,5.64,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2025-08-01,5.81,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2025-08-01,6.06,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2025-08-01,5.73,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2025-08-01,5.96,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2025-09-01,4.44,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2025-09-01,5.44,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2025-09-01,5.71,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2025-09-01,5.94,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2025-09-01,5.64,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2025-09-01,5.88,Kg,10605514-4064-47df-9737-e8bda2b70c25
+Pork meat with bones,Philippines,Cebu,RETAIL,2025-10-01,4.35,Kg,1bae313e-4c05-4958-ae3b-e3b5089dcc2d
+Pork meat with bones,Philippines,Davao City,RETAIL,2025-10-01,5.24,Kg,6cc8665c-74ec-46a4-88e1-54a1281025b3
+Pork meat with bones,Philippines,Iloilo,RETAIL,2025-10-01,5.53,Kg,5cac8fe3-29a6-46b6-b86f-9bfc6d84d66d
+Pork meat with bones,Philippines,MetroManila,RETAIL,2025-10-01,5.73,Kg,fb4d17de-d9c9-4643-8d17-65f18818c38d
+Pork meat with bones,Philippines,National Average,RETAIL,2025-10-01,5.47,Kg,c2cf60d2-3c2f-4050-9224-49f66951f8b1
+Pork meat with bones,Philippines,Nueva Ecija,RETAIL,2025-10-01,5.7,Kg,10605514-4064-47df-9737-e8bda2b70c25

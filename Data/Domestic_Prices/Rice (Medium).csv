@@ -1,0 +1,412 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2008-01-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2008-01-01,44.99,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2008-02-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2008-02-01,46.27,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2008-03-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2008-03-01,47.27,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2008-04-01,0.54,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2008-04-01,51.02,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2008-05-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2008-05-01,46.16,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2008-06-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2008-06-01,47.21,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2008-07-01,0.54,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2008-07-01,51.47,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2008-08-01,0.53,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2008-08-01,49.63,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2008-09-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2008-09-01,48.26,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2008-10-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2008-10-01,47.16,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2008-11-01,0.48,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2008-11-01,42.5,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2008-12-01,0.46,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2008-12-01,43.0,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2009-01-01,0.45,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2009-01-01,40.44,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2009-02-01,0.44,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2009-02-01,39.2,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2009-03-01,0.41,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2009-03-01,36.01,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2009-04-01,0.38,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2009-04-01,32.63,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2009-05-01,0.38,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2009-05-01,33.57,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2009-06-01,0.36,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2009-06-01,32.66,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2009-07-01,0.36,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2009-07-01,32.97,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2009-08-01,0.36,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2009-08-01,32.92,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2009-09-01,0.37,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2009-09-01,33.66,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2009-10-01,0.38,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2009-10-01,35.06,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2009-11-01,0.38,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2009-11-01,35.58,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2009-12-01,0.42,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2009-12-01,37.67,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2010-01-01,0.48,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2010-01-01,44.05,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2010-02-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2010-02-01,47.67,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2010-03-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2010-03-01,46.44,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2010-04-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2010-04-01,43.77,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2010-05-01,0.45,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2010-05-01,42.13,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2010-06-01,0.48,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2010-06-01,44.06,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2010-07-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2010-07-01,47.13,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2010-08-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2010-08-01,46.85,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2010-09-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2010-09-01,49.34,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2010-10-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2010-10-01,49.97,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2010-11-01,0.53,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2010-11-01,50.27,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2010-12-01,0.55,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2010-12-01,52.86,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2011-01-01,0.58,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2011-01-01,54.11,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2011-02-01,0.59,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2011-02-01,54.42,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2011-03-01,0.56,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2011-03-01,53.08,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2011-04-01,0.56,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2011-04-01,52.42,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2011-05-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2011-05-01,45.78,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2011-06-01,0.46,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2011-06-01,44.26,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2011-07-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2011-07-01,46.32,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2011-08-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2011-08-01,45.77,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2011-09-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2011-09-01,46.13,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2011-10-01,0.48,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2011-10-01,43.97,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2011-11-01,0.45,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2011-11-01,42.38,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2011-12-01,0.43,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2011-12-01,39.84,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2012-01-01,0.41,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2012-01-01,38.3,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2012-02-01,0.41,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2012-02-01,38.84,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2012-03-01,0.42,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2012-03-01,37.92,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2012-04-01,0.42,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2012-04-01,36.79,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2012-05-01,0.4,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2012-05-01,36.1,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2012-06-01,0.39,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2012-06-01,34.58,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2012-07-01,0.39,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2012-07-01,34.97,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2012-08-01,0.39,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2012-08-01,34.45,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2012-09-01,0.4,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2012-09-01,33.77,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2012-10-01,0.4,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2012-10-01,34.45,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2012-11-01,0.4,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2012-11-01,35.64,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2012-12-01,0.4,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2012-12-01,36.36,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2013-01-01,0.43,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2013-01-01,40.32,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2013-02-01,0.48,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2013-02-01,42.46,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2013-03-01,0.48,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2013-03-01,43.01,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2013-04-01,0.47,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2013-04-01,42.01,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2013-05-01,0.45,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2013-05-01,40.82,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2013-06-01,0.45,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2013-06-01,41.93,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2013-07-01,0.47,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2013-07-01,44.44,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2013-08-01,0.48,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2013-08-01,45.74,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2013-09-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2013-09-01,45.67,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2013-10-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2013-10-01,45.79,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2013-11-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2013-11-01,47.51,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2013-12-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2013-12-01,47.09,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2014-01-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2014-01-01,48.95,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2014-02-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2014-02-01,48.47,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2014-03-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2014-03-01,49.09,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2014-04-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2014-04-01,49.05,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2014-05-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2014-05-01,47.09,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2014-06-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2014-06-01,46.61,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2014-07-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2014-07-01,47.72,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2014-08-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2014-08-01,48.54,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2014-09-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2014-09-01,48.79,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2014-10-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2014-10-01,48.6,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2014-11-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2014-11-01,47.77,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2014-12-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2014-12-01,45.63,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2015-01-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2015-01-01,46.6,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2015-02-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2015-02-01,47.05,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2015-03-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2015-03-01,45.58,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2015-04-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2015-04-01,43.3,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2015-05-01,0.47,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2015-05-01,40.63,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2015-06-01,0.46,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2015-06-01,40.13,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2015-07-01,0.46,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2015-07-01,40.12,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2015-08-01,0.46,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2015-08-01,40.28,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2015-09-01,0.46,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2015-09-01,40.79,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2015-10-01,0.47,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2015-10-01,41.75,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2015-11-01,0.45,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2015-11-01,39.82,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2015-12-01,0.44,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2015-12-01,39.2,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2016-01-01,0.45,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2016-01-01,40.92,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2016-02-01,0.46,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2016-02-01,40.33,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2016-03-01,0.44,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2016-03-01,38.32,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2016-04-01,0.45,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2016-04-01,38.28,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2016-05-01,0.43,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2016-05-01,37.15,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2016-06-01,0.44,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2016-06-01,38.84,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2016-07-01,0.45,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2016-07-01,40.38,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2016-08-01,0.47,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2016-08-01,43.29,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2016-09-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2016-09-01,46.34,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2016-10-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2016-10-01,47.67,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2016-11-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2016-11-01,48.04,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2016-12-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2016-12-01,46.39,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2017-01-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2017-01-01,47.54,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2017-02-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2017-02-01,48.83,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2017-03-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2017-03-01,48.83,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2017-04-01,0.54,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2017-04-01,51.67,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2017-05-01,0.61,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2017-05-01,57.77,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2017-06-01,0.62,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2017-06-01,58.82,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2017-07-01,0.61,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2017-07-01,56.2,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2017-08-01,0.6,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2017-08-01,56.55,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2017-09-01,0.65,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2017-09-01,61.0,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2017-10-01,0.62,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2017-10-01,57.64,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2017-11-01,0.59,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2017-11-01,54.51,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2017-12-01,0.6,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2017-12-01,55.91,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2018-01-01,0.62,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2018-01-01,55.3,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2018-02-01,0.61,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2018-02-01,54.87,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2018-03-01,0.6,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2018-03-01,54.92,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2018-04-01,0.6,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2018-04-01,53.6,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2018-05-01,0.56,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2018-05-01,50.79,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2018-06-01,0.54,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2018-06-01,48.63,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2018-07-01,0.56,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2018-07-01,50.99,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2018-08-01,0.55,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2018-08-01,49.66,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2018-09-01,0.55,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2018-09-01,48.59,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2018-10-01,0.53,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2018-10-01,45.95,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2018-11-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2018-11-01,44.09,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2018-12-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2018-12-01,43.06,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2019-01-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2019-01-01,44.63,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2019-02-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2019-02-01,43.97,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2019-03-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2019-03-01,42.29,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2019-04-01,0.46,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2019-04-01,37.89,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2019-05-01,0.46,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2019-05-01,38.1,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2019-06-01,0.46,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2019-06-01,38.99,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2019-07-01,0.46,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2019-07-01,39.08,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2019-08-01,0.44,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2019-08-01,37.77,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2019-09-01,0.44,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2019-09-01,36.25,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2019-10-01,0.43,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2019-10-01,35.3,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2019-11-01,0.44,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2019-11-01,37.95,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2019-12-01,0.44,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2019-12-01,38.58,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2020-01-01,0.43,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2020-01-01,36.87,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2020-02-01,0.45,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2020-02-01,38.52,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2020-03-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2020-03-01,42.22,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2020-04-01,0.54,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2020-04-01,47.28,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2020-05-01,0.53,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2020-06-01,0.53,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2020-06-01,49.21,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2020-07-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2020-07-01,43.75,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2020-08-01,0.54,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2020-08-01,50.14,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2020-09-01,0.57,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2020-09-01,52.64,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2020-10-01,0.58,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2020-10-01,54.87,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2020-11-01,0.58,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2020-11-01,54.83,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2020-12-01,0.59,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2020-12-01,56.01,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2021-01-01,0.6,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2021-01-01,55.34,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2021-02-01,0.6,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2021-02-01,54.83,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2021-03-01,0.61,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2021-03-01,54.83,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2021-04-01,0.61,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2021-04-01,54.83,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2021-05-01,0.59,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2021-05-01,54.46,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2021-06-01,0.58,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2021-06-01,52.47,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2021-07-01,0.6,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2021-07-01,54.25,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2021-08-01,0.59,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2021-08-01,53.81,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2021-09-01,0.59,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2021-09-01,52.79,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2021-10-01,0.58,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2021-10-01,52.56,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2021-11-01,0.58,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2021-11-01,51.3,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2021-12-01,0.58,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2021-12-01,52.09,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2022-01-01,0.58,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2022-01-01,53.01,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2022-02-01,0.58,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2022-02-01,52.14,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2022-03-01,0.59,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2022-03-01,54.48,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2022-04-01,0.57,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2022-04-01,51.76,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2022-05-01,0.57,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2022-05-01,51.94,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2022-06-01,0.56,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2022-06-01,51.93,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2022-07-01,0.55,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2022-07-01,51.36,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2022-08-01,0.57,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2022-08-01,53.87,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2022-09-01,0.57,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2022-09-01,53.91,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2022-10-01,0.56,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2022-10-01,52.24,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2022-11-01,0.57,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2022-11-01,53.74,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2022-12-01,0.56,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2022-12-01,52.87,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2023-01-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2023-01-01,49.56,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2023-02-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2023-02-01,48.95,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2023-03-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2023-03-01,47.49,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2023-04-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2023-04-01,46.23,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2023-05-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2023-05-01,45.79,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2023-06-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2023-06-01,46.3,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2023-07-01,0.47,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2023-07-01,44.59,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2023-08-01,0.48,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2023-08-01,43.94,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2023-09-01,0.47,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2023-09-01,46.27,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2023-10-01,0.47,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2023-10-01,45.37,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2023-11-01,0.48,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2023-11-01,44.28,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2023-12-01,0.48,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2023-12-01,44.03,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2024-01-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2024-01-01,45.27,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2024-02-01,0.48,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2024-02-01,44.89,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2024-03-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2024-03-01,45.91,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2024-04-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2024-04-01,46.82,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2024-05-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2024-05-01,44.86,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2024-06-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2024-06-01,44.79,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2024-07-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2024-07-01,45.77,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2024-08-01,0.5,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2024-08-01,46.69,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2024-09-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2024-09-01,47.71,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2024-10-01,0.51,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2024-10-01,48.07,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2024-11-01,0.52,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2024-11-01,48.97,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2024-12-01,0.53,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2024-12-01,48.95,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2025-01-01,49.24,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2025-02-01,49.66,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83
+Rice (Medium),Bangladesh,Dhaka,RETAIL,2025-08-01,0.49,Kg,6e3d3fe6-4e4b-40e0-bccb-1f4726c3c7dd
+Rice (Medium),Bangladesh,Dhaka,WHOLESALE,2025-08-01,48.09,100 kg,8a48039e-9be1-4ba7-9ed4-c0908aecab83

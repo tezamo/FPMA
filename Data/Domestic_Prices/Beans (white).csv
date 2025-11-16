@@ -1,0 +1,1930 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2006-01-01,0.67,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2006-02-01,0.7,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2006-03-01,0.74,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2006-04-01,0.75,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2006-05-01,0.75,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2006-06-01,0.74,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2006-07-01,0.73,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2006-08-01,0.75,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2006-09-01,0.74,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2006-10-01,0.73,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2006-11-01,0.74,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2006-12-01,0.75,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2007-01-01,0.7,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2007-02-01,0.79,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2007-03-01,0.79,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2007-04-01,0.81,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2007-05-01,0.78,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2007-06-01,0.76,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2007-07-01,0.75,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2007-08-01,0.74,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2007-09-01,0.74,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2007-10-01,0.75,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2007-11-01,0.78,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2007-12-01,0.84,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2008-01-01,0.82,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2008-02-01,0.81,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2008-03-01,0.76,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2008-04-01,0.79,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2008-05-01,0.83,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2008-06-01,0.83,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2008-07-01,0.83,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2008-08-01,0.81,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2008-09-01,0.79,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2008-10-01,0.8,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2008-11-01,0.81,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2008-12-01,0.83,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2009-01-01,0.85,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2009-02-01,0.87,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2009-03-01,0.85,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2009-04-01,0.86,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2009-05-01,0.84,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2009-06-01,0.82,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2009-07-01,0.83,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2009-08-01,0.82,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2009-09-01,0.84,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2009-10-01,0.77,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2009-11-01,0.72,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2009-12-01,0.74,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2010-01-01,0.76,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2010-02-01,0.77,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2010-03-01,0.76,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2010-04-01,0.79,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2010-05-01,0.73,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2010-06-01,0.75,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2010-07-01,0.82,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2010-08-01,0.77,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2010-09-01,0.78,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2010-10-01,0.79,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2010-11-01,0.79,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2010-12-01,0.75,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2011-01-01,0.77,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2011-02-01,0.78,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2011-03-01,0.77,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2011-04-01,0.79,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2011-05-01,0.78,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2011-06-01,0.76,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2011-07-01,0.78,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2011-08-01,0.72,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2011-09-01,0.78,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2011-10-01,0.79,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2011-11-01,0.79,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2011-12-01,0.77,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2012-01-01,0.76,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2012-02-01,0.78,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2012-03-01,0.79,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2012-04-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2012-04-01,1.06,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2012-04-01,0.77,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2012-05-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2012-05-01,1.06,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2012-05-01,0.77,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2012-06-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2012-06-01,1.06,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2012-06-01,0.8,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2012-07-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2012-07-01,1.01,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2012-07-01,0.76,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2012-08-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2012-08-01,1.01,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2012-08-01,0.62,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2012-09-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2012-09-01,1.01,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2012-09-01,0.57,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2012-10-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2012-10-01,1.0,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2012-10-01,0.95,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2012-11-01,1.1,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2012-11-01,1.05,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2012-11-01,0.93,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2012-12-01,1.1,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2012-12-01,1.1,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2012-12-01,0.99,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2013-01-01,0.96,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2013-01-01,1.04,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2013-01-01,0.96,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2013-02-01,0.9,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2013-02-01,1.05,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2013-02-01,0.98,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2013-03-01,0.9,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2013-03-01,1.05,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2013-03-01,0.98,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2013-04-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2013-04-01,0.99,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2013-04-01,0.96,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2013-05-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2013-05-01,1.01,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2013-05-01,0.97,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2013-06-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2013-06-01,1.01,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Djibouti,Dikhil,RETAIL,2013-07-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2013-07-01,1.01,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2013-07-01,0.95,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2013-08-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2013-08-01,1.01,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2013-08-01,0.94,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2013-09-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2013-09-01,1.01,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2013-09-01,0.94,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2013-10-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2013-10-01,1.01,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Djibouti,Dikhil,RETAIL,2013-11-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2013-11-01,1.01,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Djibouti,Dikhil,RETAIL,2013-12-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2013-12-01,1.02,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Djibouti,Dikhil,RETAIL,2014-01-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2014-01-01,1.02,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Djibouti,National Average,RETAIL,2014-02-01,1.3,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Djibouti,Dikhil,RETAIL,2014-03-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2014-03-01,1.35,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Djibouti,Dikhil,RETAIL,2014-04-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2014-04-01,1.39,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2014-04-01,0.93,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2014-05-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2014-05-01,1.39,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2014-05-01,0.92,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2014-06-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2014-06-01,1.39,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2014-06-01,0.91,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2014-07-01,0.79,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2014-07-01,1.39,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2014-07-01,0.94,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2014-08-01,1.02,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2014-08-01,1.47,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Djibouti,Dikhil,RETAIL,2014-09-01,1.24,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2014-09-01,1.54,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Djibouti,Dikhil,RETAIL,2014-10-01,1.24,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2014-10-01,1.54,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Djibouti,Dikhil,RETAIL,2014-11-01,1.24,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2014-11-01,1.54,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Djibouti,Dikhil,RETAIL,2014-12-01,1.24,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2014-12-01,1.79,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Djibouti,Dikhil,RETAIL,2015-01-01,1.24,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2015-01-01,1.7,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Djibouti,Dikhil,RETAIL,2015-02-01,1.64,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2015-02-01,1.77,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2015-02-01,1.12,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2015-03-01,1.64,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2015-03-01,1.67,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2015-03-01,1.0,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2015-04-01,1.24,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2015-04-01,1.63,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2015-04-01,1.06,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2015-05-01,1.24,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2015-05-01,1.63,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2015-05-01,1.1,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2015-06-01,1.27,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2015-06-01,1.64,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2015-07-01,1.01,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2015-08-01,1.02,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2015-09-01,1.02,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2015-10-01,1.15,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2015-10-01,1.88,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2015-10-01,0.99,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2015-11-01,1.12,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2015-11-01,1.87,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2015-11-01,1.01,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2015-12-01,1.04,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2015-12-01,1.53,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2015-12-01,0.99,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2016-01-01,1.04,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2016-01-01,1.47,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2016-01-01,0.97,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2016-02-01,1.04,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2016-02-01,1.1,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2016-02-01,1.0,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2016-03-01,1.03,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2016-03-01,1.09,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2016-03-01,0.97,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2016-04-01,0.97,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2016-05-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2016-05-01,1.09,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2016-05-01,0.94,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2016-06-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2016-06-01,1.09,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2016-06-01,0.96,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2016-07-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2016-07-01,1.09,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2016-07-01,0.95,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2016-08-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2016-08-01,1.09,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2016-08-01,0.97,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2016-09-01,1.04,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2016-09-01,1.07,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2016-09-01,0.96,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2016-10-01,0.99,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2016-11-01,0.99,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2016-12-01,1.04,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2016-12-01,1.07,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2016-12-01,1.05,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Djibouti,Dikhil,RETAIL,2017-01-01,1.04,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2017-01-01,1.14,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2017-01-01,1.01,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2017-01-01,3625.0,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2017-01-01,3000.0,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2017-01-01,2624.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2017-01-01,2000.0,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2017-01-01,2464.03,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2017-01-01,1800.0,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2017-02-01,1.04,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2017-02-01,1.14,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2017-02-01,0.99,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2017-02-01,2875.0,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Dohuk,RETAIL,2017-02-01,2000.0,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2017-02-01,1937.5,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2017-02-01,2232.14,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2017-02-01,2187.5,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2017-03-01,1.04,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2017-03-01,1.14,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2017-03-01,1.05,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2017-03-01,3062.5,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2017-03-01,2000.0,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2017-03-01,2500.0,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2017-03-01,1750.0,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2017-03-01,2233.07,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2017-03-01,2125.0,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2017-04-01,1.04,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2017-04-01,1.1,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2017-04-01,1.06,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2017-04-01,3250.0,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2017-04-01,2000.0,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2017-04-01,2400.0,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2017-04-01,1750.0,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2017-04-01,2243.75,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2017-04-01,2250.0,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2017-05-01,1.04,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2017-05-01,1.1,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2017-05-01,1.05,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2017-05-01,4625.0,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2017-05-01,2500.0,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2017-05-01,2250.0,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2017-05-01,1750.0,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2017-05-01,2382.81,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2017-05-01,2250.0,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2017-06-01,1.04,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2017-06-01,1.14,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2017-06-01,1.03,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2017-06-01,2312.5,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2017-06-01,2333.33,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2017-06-01,2385.0,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2017-06-01,2302.05,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2017-06-01,2562.5,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2017-07-01,1.04,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2017-07-01,1.14,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2017-07-01,1.03,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2017-07-01,2500.0,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2017-07-01,2500.0,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2017-07-01,2453.0,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2017-07-01,2000.0,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2017-07-01,2809.14,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Djibouti,Dikhil,RETAIL,2017-08-01,1.04,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2017-08-01,1.19,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2017-08-01,1.01,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2017-08-01,2250.0,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2017-08-01,2250.0,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2017-08-01,2500.0,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2017-08-01,2437.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2017-08-01,1600.0,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2017-08-01,2262.5,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2017-08-01,2325.0,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2017-09-01,1.15,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2017-09-01,1.28,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2017-09-01,1.02,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2017-09-01,2063.0,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2017-09-01,2500.0,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2017-09-01,2500.0,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2017-09-01,2875.0,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2017-09-01,2000.0,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2017-09-01,2179.2,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2017-09-01,2625.0,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2017-10-01,1.1,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2017-10-01,1.22,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2017-10-01,1.0,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2017-10-01,2500.0,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2017-10-01,2500.0,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2017-10-01,2666.0,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2017-10-01,2000.0,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2017-10-01,2152.19,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2017-10-01,2500.0,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2017-11-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2017-11-01,0.77,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2017-11-01,1.0,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2017-11-01,2500.0,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2017-11-01,2500.0,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2017-11-01,2541.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2017-11-01,2500.0,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2017-11-01,2203.86,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2017-11-01,2500.0,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2017-12-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2017-12-01,0.81,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2017-12-01,1.02,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2017-12-01,2500.0,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2017-12-01,2500.0,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2017-12-01,2666.0,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2017-12-01,2500.0,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2017-12-01,2195.46,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2017-12-01,2375.0,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2018-01-01,1.15,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2018-01-01,0.81,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2018-01-01,1.01,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2018-01-01,2.11,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Dohuk,RETAIL,2018-01-01,2.18,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2018-01-01,2.11,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2018-01-01,1.67,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2018-01-01,2.11,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2018-02-01,1.24,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2018-02-01,1.16,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2018-02-01,1.0,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2018-02-01,2.11,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Dohuk,RETAIL,2018-02-01,2.32,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2018-02-01,1.69,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2018-02-01,1.82,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2018-02-01,2.11,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2018-03-01,1.24,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2018-03-01,1.16,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2018-03-01,0.99,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Dohuk,RETAIL,2018-03-01,2.32,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2018-03-01,1.76,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2018-03-01,2.11,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2018-04-01,1.24,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2018-04-01,1.16,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2018-04-01,1.0,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2018-04-01,2.01,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Dohuk,RETAIL,2018-04-01,2.36,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2018-04-01,1.8,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2018-04-01,2.11,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2018-05-01,1.24,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2018-05-01,1.16,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2018-05-01,1.0,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2018-05-01,1.9,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Dohuk,RETAIL,2018-05-01,2.18,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2018-05-01,2.11,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2018-05-01,1.81,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2018-05-01,2.11,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2018-06-01,1.28,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2018-06-01,1.18,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2018-06-01,1.0,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2018-06-01,1.9,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Dohuk,RETAIL,2018-06-01,2.12,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2018-06-01,1.77,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2018-06-01,2.12,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2018-07-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2018-07-01,1.22,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2018-07-01,0.97,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2018-07-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2018-07-01,1.9,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Dohuk,RETAIL,2018-07-01,1.69,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2018-07-01,1.72,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2018-07-01,2.12,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2018-08-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2018-08-01,1.22,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2018-08-01,0.97,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2018-08-01,1.69,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Dohuk,RETAIL,2018-08-01,1.85,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2018-08-01,1.71,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2018-08-01,2.12,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2018-09-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2018-09-01,0.83,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2018-09-01,0.95,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2018-09-01,2.12,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2018-09-01,1.69,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2018-09-01,1.69,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2018-09-01,2.19,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2018-09-01,1.69,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2018-09-01,1.79,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2018-10-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2018-10-01,1.27,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2018-10-01,0.92,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2018-10-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2018-10-01,1.69,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2018-10-01,1.69,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2018-10-01,2.33,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2018-10-01,1.65,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2018-10-01,1.25,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2018-11-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2018-11-01,1.27,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2018-11-01,0.96,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2018-11-01,1.37,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2018-11-01,2.12,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2018-11-01,1.69,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2018-11-01,2.01,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2018-11-01,1.71,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2018-11-01,1.21,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2018-12-01,1.29,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2018-12-01,1.21,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2018-12-01,0.94,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2018-12-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Basrah,RETAIL,2018-12-01,1.69,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2018-12-01,1.74,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2018-12-01,1.73,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2018-12-01,1.85,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Djibouti,Dikhil,RETAIL,2019-01-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2019-01-01,1.07,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2019-01-01,0.95,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2019-01-01,1.59,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2019-01-01,2.12,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2019-01-01,1.69,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2019-01-01,2.08,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2019-01-01,1.69,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2019-01-01,1.74,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2019-01-01,0.87,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2019-01-01,0.87,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Djibouti,Dikhil,RETAIL,2019-02-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2019-02-01,1.07,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2019-02-01,0.94,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2019-02-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2019-02-01,2.12,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2019-02-01,1.69,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2019-02-01,1.94,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2019-02-01,2.12,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2019-02-01,1.71,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2019-02-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2019-02-01,0.88,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2019-02-01,0.87,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Djibouti,Dikhil,RETAIL,2019-03-01,1.58,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2019-03-01,1.35,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2019-03-01,0.93,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2019-03-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2019-03-01,1.8,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2019-03-01,1.69,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2019-03-01,1.9,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2019-03-01,1.06,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2019-03-01,1.63,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2019-03-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2019-03-01,0.89,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2019-03-01,0.87,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Djibouti,Dikhil,RETAIL,2019-04-01,0.96,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2019-04-01,1.22,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2019-04-01,0.94,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2019-04-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2019-04-01,2.12,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2019-04-01,1.69,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2019-04-01,2.19,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2019-04-01,1.72,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2019-04-01,1.9,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2019-04-01,0.89,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2019-04-01,0.87,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Djibouti,Dikhil,RETAIL,2019-05-01,0.96,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2019-05-01,1.27,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2019-05-01,0.94,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2019-05-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2019-05-01,2.12,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2019-05-01,1.69,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2019-05-01,2.12,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2019-05-01,1.72,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2019-05-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2019-05-01,0.91,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2019-05-01,0.86,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Djibouti,Dikhil,RETAIL,2019-06-01,0.96,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2019-06-01,1.27,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2019-06-01,0.94,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2019-06-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2019-06-01,2.12,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2019-06-01,1.69,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2019-06-01,2.19,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2019-06-01,1.74,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2019-06-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2019-06-01,0.95,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2019-06-01,0.93,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Djibouti,Dikhil,RETAIL,2019-07-01,0.96,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2019-07-01,1.27,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2019-07-01,0.92,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2019-07-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2019-07-01,2.12,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Dohuk,RETAIL,2019-07-01,2.12,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2019-07-01,1.97,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2019-07-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2019-07-01,0.96,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2019-07-01,0.99,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Djibouti,Dikhil,RETAIL,2019-08-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2019-08-01,1.29,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2019-08-01,0.91,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2019-08-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2019-08-01,2.12,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Dohuk,RETAIL,2019-08-01,1.97,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2019-08-01,1.91,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2019-08-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2019-08-01,0.95,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2019-08-01,0.94,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Djibouti,Dikhil,RETAIL,2019-09-01,1.18,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2019-09-01,1.38,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2019-09-01,0.92,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2019-09-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2019-09-01,2.12,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Dohuk,RETAIL,2019-09-01,1.99,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2019-09-01,1.48,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2019-09-01,1.79,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2019-09-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2019-09-01,0.97,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2019-09-01,0.9,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Djibouti,Dikhil,RETAIL,2019-10-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2019-10-01,1.29,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2019-10-01,0.99,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2019-10-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2019-10-01,2.12,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Dohuk,RETAIL,2019-10-01,1.94,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2019-10-01,1.48,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2019-10-01,1.85,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2019-10-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2019-10-01,1.0,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2019-10-01,0.9,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Djibouti,Dikhil,RETAIL,2019-11-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2019-11-01,1.29,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2019-11-01,0.98,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Baghdad,RETAIL,2019-11-01,2.12,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2019-11-01,1.69,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2019-11-01,1.9,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2019-11-01,1.48,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2019-11-01,1.77,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2019-11-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2019-11-01,1.0,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2019-11-01,0.9,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Djibouti,Dikhil,RETAIL,2019-12-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2019-12-01,1.29,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2019-12-01,1.08,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2019-12-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2019-12-01,1.8,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2019-12-01,2.01,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2019-12-01,1.99,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2019-12-01,1.79,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2019-12-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2019-12-01,1.03,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2019-12-01,0.89,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Djibouti,Dikhil,RETAIL,2020-01-01,1.01,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2020-01-01,1.29,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2020-01-01,1.04,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2020-01-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2020-01-01,1.69,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2020-01-01,2.12,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2020-01-01,2.12,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2020-01-01,1.84,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2020-01-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2020-01-01,1.06,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2020-01-01,0.89,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Djibouti,Dikhil,RETAIL,2020-02-01,1.1,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2020-02-01,1.34,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2020-02-01,1.11,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2020-02-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2020-02-01,1.69,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2020-02-01,2.12,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2020-02-01,2.06,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,National Average,RETAIL,2020-02-01,1.84,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2020-02-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2020-02-01,1.08,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2020-02-01,0.9,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,National Average,RETAIL,2020-03-01,0.57,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Djibouti,Dikhil,RETAIL,2020-03-01,1.1,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2020-03-01,1.34,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2020-03-01,1.1,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2020-03-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2020-03-01,2.12,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2020-03-01,2.12,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2020-03-01,2.33,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2020-03-01,1.27,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2020-03-01,1.99,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2020-03-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2020-03-01,1.11,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2020-03-01,0.91,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,National Average,RETAIL,2020-04-01,0.58,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Djibouti,Dikhil,RETAIL,2020-04-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2020-04-01,1.55,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2020-04-01,1.1,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2020-04-01,1.92,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2020-04-01,2.08,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2020-04-01,2.12,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2020-04-01,2.35,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2020-04-01,1.27,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2020-04-01,2.14,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2020-04-01,1.74,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2020-04-01,1.16,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2020-04-01,0.9,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2020-05-01,0.57,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2020-05-01,0.59,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2020-05-01,0.96,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2020-05-01,0.78,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2020-05-01,0.37,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2020-05-01,0.77,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2020-05-01,0.61,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2020-05-01,0.65,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2020-05-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2020-05-01,1.55,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2020-05-01,1.08,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2020-05-01,1.85,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2020-05-01,1.8,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2020-05-01,2.01,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2020-05-01,2.33,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2020-05-01,1.27,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2020-05-01,2.07,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2020-05-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2020-05-01,1.41,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2020-05-01,1.08,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2020-06-01,0.57,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2020-06-01,0.62,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2020-06-01,0.67,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2020-06-01,0.95,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2020-06-01,0.33,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2020-06-01,0.57,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2020-06-01,0.62,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2020-06-01,0.67,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2020-06-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2020-06-01,1.55,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2020-06-01,1.03,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2020-06-01,1.9,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2020-06-01,1.69,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2020-06-01,2.12,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2020-06-01,2.31,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2020-06-01,1.27,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2020-06-01,1.99,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2020-06-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2020-06-01,1.5,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2020-06-01,1.18,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2020-07-01,0.73,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2020-07-01,0.73,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2020-07-01,0.68,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2020-07-01,0.78,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Bossangoa,RETAIL,2020-07-01,0.73,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2020-07-01,0.75,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2020-07-01,0.7,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2020-07-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2020-07-01,1.49,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2020-07-01,1.06,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2020-07-01,1.82,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2020-07-01,1.69,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2020-07-01,2.12,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2020-07-01,2.12,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2020-07-01,1.27,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2020-07-01,1.94,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2020-07-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2020-07-01,1.51,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2020-07-01,1.13,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2020-08-01,0.8,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2020-08-01,0.85,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2020-08-01,0.75,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2020-08-01,1.0,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2020-08-01,0.5,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2020-08-01,0.8,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2020-08-01,0.85,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2020-08-01,0.9,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2020-08-01,0.65,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2020-08-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2020-08-01,1.49,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2020-08-01,1.07,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2020-08-01,1.74,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2020-08-01,1.69,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2020-08-01,2.02,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2020-08-01,2.12,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2020-08-01,1.27,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2020-08-01,1.87,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2020-08-01,1.74,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2020-08-01,1.46,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2020-08-01,1.21,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Batangafo,RETAIL,2020-09-01,0.8,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2020-09-01,0.8,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Bossangoa,RETAIL,2020-09-01,0.85,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2020-09-01,0.78,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2020-09-01,0.7,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2020-09-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2020-09-01,1.49,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2020-09-01,1.05,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2020-09-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2020-09-01,1.69,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2020-09-01,2.12,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2020-09-01,2.26,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2020-09-01,1.27,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2020-09-01,1.88,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2020-09-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2020-09-01,1.35,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2020-09-01,1.19,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2020-10-01,0.9,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2020-10-01,0.85,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2020-10-01,0.8,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2020-10-01,0.8,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2020-10-01,0.65,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2020-10-01,0.8,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2020-10-01,0.87,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2020-10-01,1.0,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2020-10-01,0.75,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2020-10-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2020-10-01,1.49,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2020-10-01,1.08,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2020-10-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2020-10-01,1.69,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2020-10-01,2.12,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2020-10-01,1.69,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2020-10-01,1.27,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2020-10-01,1.85,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2020-10-01,1.77,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2020-10-01,1.24,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2020-10-01,1.13,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2020-11-01,0.65,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Berbérati,RETAIL,2020-11-01,1.0,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2020-11-01,1.12,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2020-11-01,0.8,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2020-11-01,0.91,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2020-11-01,0.9,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2020-11-01,0.7,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2020-11-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2020-11-01,1.49,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2020-11-01,1.06,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2020-11-01,1.9,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2020-11-01,1.69,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2020-11-01,2.12,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2020-11-01,2.3,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2020-11-01,1.27,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2020-11-01,1.9,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2020-11-01,1.71,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2020-11-01,1.2,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2020-11-01,1.1,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2020-12-01,0.62,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Berbérati,RETAIL,2020-12-01,1.03,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2020-12-01,1.24,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2020-12-01,0.72,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2020-12-01,0.86,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2020-12-01,0.93,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Djibouti,Dikhil,RETAIL,2020-12-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2020-12-01,1.49,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2020-12-01,1.03,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2020-12-01,1.98,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2020-12-01,1.75,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2020-12-01,2.12,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2020-12-01,2.33,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2020-12-01,1.34,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2020-12-01,2.01,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2020-12-01,1.7,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2020-12-01,1.19,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2020-12-01,1.11,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2021-01-01,0.72,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2021-01-01,0.82,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2021-01-01,1.13,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2021-01-01,0.93,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2021-01-01,1.03,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2021-01-01,0.82,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2021-01-01,0.88,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2021-01-01,0.93,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2021-01-01,0.72,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2021-01-01,1.34,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2021-01-01,1.46,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2021-01-01,0.94,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2021-01-01,1.53,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2021-01-01,1.72,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2021-01-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2021-01-01,1.91,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2021-01-01,1.17,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2021-01-01,1.76,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2021-01-01,1.39,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2021-01-01,1.19,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2021-01-01,1.13,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2021-02-01,0.56,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2021-02-01,1.23,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2021-02-01,0.46,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2021-02-01,1.23,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2021-02-01,0.5,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2021-02-01,0.51,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2021-02-01,0.87,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2021-02-01,0.82,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2021-02-01,0.72,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2021-02-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2021-02-01,1.35,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2021-02-01,1.03,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2021-02-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2021-02-01,1.72,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2021-02-01,1.64,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2021-02-01,2.07,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2021-02-01,1.21,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2021-02-01,1.75,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2021-02-01,1.38,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2021-02-01,1.2,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2021-02-01,1.16,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2021-03-01,0.56,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2021-03-01,1.31,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2021-03-01,0.45,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2021-03-01,1.21,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2021-03-01,0.49,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2021-03-01,0.5,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2021-03-01,0.83,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2021-03-01,0.81,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2021-03-01,0.65,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2021-03-01,1.34,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2021-03-01,1.46,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Iraq,Anbar,RETAIL,2021-03-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2021-03-01,1.72,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2021-03-01,1.65,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2021-03-01,2.07,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2021-03-01,1.21,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2021-03-01,1.72,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2021-03-01,1.38,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2021-03-01,1.22,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2021-03-01,1.2,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2021-04-01,0.71,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2021-04-01,1.02,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2021-04-01,0.51,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2021-04-01,1.22,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2021-04-01,0.56,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2021-04-01,0.71,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2021-04-01,0.85,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2021-04-01,0.86,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2021-04-01,0.71,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2021-04-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2021-04-01,1.35,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2021-04-01,1.05,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2021-04-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2021-04-01,2.02,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2021-04-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2021-04-01,2.07,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2021-04-01,1.21,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2021-04-01,1.76,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2021-04-01,1.38,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2021-04-01,1.22,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2021-04-01,1.19,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2021-05-01,0.82,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2021-05-01,0.93,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2021-05-01,0.72,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2021-05-01,1.24,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2021-05-01,0.72,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2021-05-01,0.82,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2021-05-01,0.94,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2021-05-01,0.93,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2021-05-01,0.82,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2021-05-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2021-05-01,1.49,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2021-05-01,1.07,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2021-05-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2021-05-01,2.07,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2021-05-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2021-05-01,2.07,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2021-05-01,1.21,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2021-05-01,1.76,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2021-05-01,1.38,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2021-05-01,1.23,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2021-05-01,1.2,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,National Average,RETAIL,2021-06-01,0.91,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Djibouti,Dikhil,RETAIL,2021-06-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2021-06-01,1.28,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2021-06-01,1.04,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2021-06-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2021-06-01,2.07,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2021-06-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2021-06-01,2.06,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2021-06-01,1.21,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2021-06-01,1.72,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2021-06-01,1.38,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2021-06-01,1.22,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2021-06-01,1.22,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bangui,RETAIL,2021-07-01,1.25,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2021-07-01,0.55,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2021-07-01,1.3,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2021-07-01,0.57,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2021-07-01,1.0,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2021-07-01,1.01,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2021-07-01,0.7,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Djibouti,Dikhil,RETAIL,2021-07-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2021-07-01,1.28,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2021-07-01,1.07,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2021-07-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2021-07-01,2.07,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2021-07-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2021-07-01,1.91,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2021-07-01,1.21,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2021-07-01,1.72,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2021-07-01,1.38,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2021-07-01,1.2,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2021-07-01,1.21,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bangui,RETAIL,2021-08-01,1.25,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2021-08-01,0.6,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2021-08-01,1.4,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2021-08-01,0.65,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2021-08-01,1.1,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2021-08-01,1.05,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2021-08-01,0.75,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2021-08-01,0.85,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2021-08-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2021-08-01,1.28,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2021-08-01,1.05,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2021-08-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2021-08-01,1.97,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2021-08-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2021-08-01,2.06,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2021-08-01,1.21,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2021-08-01,1.69,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2021-08-01,1.38,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2021-08-01,1.19,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2021-08-01,1.23,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bangui,RETAIL,2021-09-01,1.25,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2021-09-01,0.7,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2021-09-01,1.3,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2021-09-01,0.75,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2021-09-01,1.1,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2021-09-01,1.03,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2021-09-01,0.8,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2021-09-01,0.8,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2021-09-01,1.18,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2021-09-01,1.29,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2021-09-01,1.03,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2021-09-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2021-09-01,2.01,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2021-09-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2021-09-01,1.78,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2021-09-01,1.21,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2021-09-01,1.7,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2021-09-01,1.38,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2021-09-01,1.19,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2021-09-01,1.26,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bangui,RETAIL,2021-10-01,1.08,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2021-10-01,0.74,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2021-10-01,1.18,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,National Average,RETAIL,2021-10-01,1.01,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2021-10-01,0.76,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Djibouti,Dikhil,RETAIL,2021-10-01,1.18,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2021-10-01,1.33,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2021-10-01,1.06,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2021-10-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2021-10-01,1.99,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2021-10-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2021-10-01,1.96,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2021-10-01,1.21,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2021-10-01,1.69,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2021-10-01,1.54,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2021-10-01,1.18,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2021-10-01,1.25,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2021-11-01,1.06,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2021-11-01,1.26,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Berbérati,RETAIL,2021-11-01,1.16,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2021-11-01,0.77,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,National Average,RETAIL,2021-11-01,1.08,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2021-11-01,0.68,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Djibouti,Dikhil,RETAIL,2021-11-01,1.35,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2021-11-01,1.41,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2021-11-01,1.02,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2021-11-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2021-11-01,1.93,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2021-11-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2021-11-01,1.96,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2021-11-01,1.21,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2021-11-01,1.69,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2021-11-01,1.55,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2021-11-01,1.19,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2021-11-01,1.24,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2021-12-01,1.05,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2021-12-01,0.77,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Berbérati,RETAIL,2021-12-01,0.86,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2021-12-01,0.67,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2021-12-01,0.77,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2021-12-01,0.78,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2021-12-01,0.67,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Djibouti,Dikhil,RETAIL,2021-12-01,1.35,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2021-12-01,1.41,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2021-12-01,0.9,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2021-12-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2021-12-01,1.72,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2021-12-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2021-12-01,2.07,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2021-12-01,1.37,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2021-12-01,1.68,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2021-12-01,1.55,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2021-12-01,1.18,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2021-12-01,1.17,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2022-01-01,0.96,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2022-01-01,0.72,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2022-01-01,0.57,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2022-01-01,0.86,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2022-01-01,0.62,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2022-01-01,0.67,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2022-01-01,0.73,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2022-01-01,0.57,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2022-01-01,0.62,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2022-01-01,1.35,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2022-01-01,1.41,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2022-01-01,0.97,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2022-01-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2022-01-01,1.89,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2022-01-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2022-01-01,2.06,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2022-01-01,1.61,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2022-01-01,1.71,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2022-01-01,1.64,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2022-01-01,1.19,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2022-01-01,1.19,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2022-02-01,0.96,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2022-02-01,0.82,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2022-02-01,0.67,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2022-02-01,0.86,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2022-02-01,0.67,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2022-02-01,0.67,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2022-02-01,0.76,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2022-02-01,0.67,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2022-02-01,0.67,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2022-02-01,1.24,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2022-02-01,1.38,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2022-02-01,1.0,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2022-02-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2022-02-01,1.9,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2022-02-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2022-02-01,1.94,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2022-02-01,1.72,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2022-02-01,1.72,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2022-02-01,1.72,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2022-02-01,1.2,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2022-02-01,1.19,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2022-03-01,0.93,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2022-03-01,0.75,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2022-03-01,0.65,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2022-03-01,0.84,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2022-03-01,0.65,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2022-03-01,1.03,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2022-03-01,0.77,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2022-03-01,0.65,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2022-03-01,0.65,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2022-03-01,1.24,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2022-03-01,1.45,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2022-03-01,1.06,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2022-03-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2022-03-01,1.9,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2022-03-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2022-03-01,1.72,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2022-03-01,1.8,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2022-03-01,1.74,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2022-03-01,1.61,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2022-03-01,1.15,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2022-03-01,1.14,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2022-04-01,1.01,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2022-04-01,0.82,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2022-04-01,0.78,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2022-04-01,0.82,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2022-04-01,0.82,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2022-04-01,0.82,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2022-04-01,0.81,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2022-04-01,0.73,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2022-04-01,0.69,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2022-04-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2022-04-01,1.53,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2022-04-01,1.08,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2022-04-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2022-04-01,1.9,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2022-04-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2022-04-01,1.66,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2022-04-01,1.72,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2022-04-01,1.73,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2022-04-01,1.57,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Uzbekistan,National Average,RETAIL,2022-04-01,1.13,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2022-04-01,1.12,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2022-05-01,1.08,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2022-05-01,0.81,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2022-05-01,0.76,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2022-05-01,0.99,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2022-05-01,0.99,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2022-05-01,0.9,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2022-05-01,0.87,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2022-05-01,0.81,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2022-05-01,0.72,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2022-05-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2022-05-01,1.53,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2022-05-01,1.04,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2022-05-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2022-05-01,1.78,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2022-05-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2022-05-01,2.21,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2022-05-01,1.72,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2022-05-01,1.76,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2022-05-01,1.55,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2022-05-01,1.94,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2022-05-01,1.15,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2022-05-01,1.12,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2022-06-01,1.07,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2022-06-01,0.81,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2022-06-01,0.76,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2022-06-01,0.98,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2022-06-01,1.07,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2022-06-01,0.9,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2022-06-01,0.91,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2022-06-01,0.9,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2022-06-01,0.72,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2022-06-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2022-06-01,1.53,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2022-06-01,1.04,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2022-06-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2022-06-01,1.75,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2022-06-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2022-06-01,2.24,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2022-06-01,1.72,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2022-06-01,1.73,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2022-06-01,1.55,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2022-06-01,1.4,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2022-06-01,1.17,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2022-06-01,1.16,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2022-07-01,0.86,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2022-07-01,0.86,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Berbérati,RETAIL,2022-07-01,0.86,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2022-07-01,1.09,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2022-07-01,0.6,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2022-07-01,0.87,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2022-07-01,0.6,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2022-07-01,0.9,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2022-07-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2022-07-01,1.26,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2022-07-01,1.04,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2022-07-01,1.65,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2022-07-01,1.72,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2022-07-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2022-07-01,1.7,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2022-07-01,1.72,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2022-07-01,1.7,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2022-07-01,1.55,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2022-07-01,1.38,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2022-07-01,1.16,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2022-07-01,1.17,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2022-08-01,0.86,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2022-08-01,0.86,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2022-08-01,1.05,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2022-08-01,0.94,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Bossangoa,RETAIL,2022-08-01,0.6,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2022-08-01,0.91,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2022-08-01,0.69,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2022-08-01,0.77,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2022-08-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2022-08-01,1.26,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2022-08-01,1.03,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2022-08-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2022-08-01,1.72,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2022-08-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2022-08-01,2.03,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2022-08-01,1.72,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2022-08-01,1.71,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2022-08-01,1.55,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2022-08-01,1.34,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2022-08-01,1.16,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2022-08-01,1.18,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2022-09-01,0.84,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2022-09-01,0.92,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2022-09-01,1.03,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2022-09-01,0.84,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Bossangoa,RETAIL,2022-09-01,0.67,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2022-09-01,0.9,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2022-09-01,0.73,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2022-09-01,1.01,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2022-09-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2022-09-01,1.24,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2022-09-01,1.05,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2022-09-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2022-09-01,1.66,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2022-09-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2022-09-01,2.07,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2022-09-01,1.72,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2022-09-01,1.72,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2022-09-01,1.55,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2022-09-01,1.36,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2022-09-01,1.16,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2022-09-01,1.18,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2022-10-01,0.92,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2022-10-01,0.83,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2022-10-01,1.0,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2022-10-01,0.92,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Bossangoa,RETAIL,2022-10-01,0.67,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2022-10-01,0.9,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2022-10-01,0.75,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2022-10-01,0.75,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2022-10-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2022-10-01,1.24,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2022-10-01,1.06,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2022-10-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2022-10-01,1.55,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2022-10-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2022-10-01,1.87,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2022-10-01,1.64,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2022-10-01,1.71,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2022-10-01,1.55,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2022-10-01,1.45,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2022-10-01,1.16,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2022-10-01,1.17,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2022-11-01,0.86,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2022-11-01,0.86,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2022-11-01,0.95,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2022-11-01,0.95,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Bossangoa,RETAIL,2022-11-01,0.69,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2022-11-01,0.91,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2022-11-01,0.78,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2022-11-01,0.69,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2022-11-01,0.84,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2022-11-01,1.06,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2022-11-01,1.03,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2022-11-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2022-11-01,1.55,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2022-11-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2022-11-01,1.9,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2022-11-01,1.72,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2022-11-01,1.71,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2022-11-01,1.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2022-11-01,1.5,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2022-11-01,1.17,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2022-11-01,1.17,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2022-12-01,0.74,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2022-12-01,0.81,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2022-12-01,0.81,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2022-12-01,0.81,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2022-12-01,0.78,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2022-12-01,0.67,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2022-12-01,0.74,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2022-12-01,0.72,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2022-12-01,0.63,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2022-12-01,1.02,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2022-12-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2022-12-01,1.55,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2022-12-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2022-12-01,2.22,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2022-12-01,1.72,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2022-12-01,1.74,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2022-12-01,1.74,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2022-12-01,1.56,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2022-12-01,1.18,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2022-12-01,1.16,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2023-01-01,0.82,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2023-01-01,0.82,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2023-01-01,0.82,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2023-01-01,0.91,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2023-01-01,0.91,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2023-01-01,0.68,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2023-01-01,0.86,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2023-01-01,0.82,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2023-01-01,0.64,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2023-01-01,0.84,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2023-01-01,1.11,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2023-01-01,1.01,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2023-01-01,1.72,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2023-01-01,1.55,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2023-01-01,1.72,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2023-01-01,2.24,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2023-01-01,1.72,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2023-01-01,1.77,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2023-01-01,1.9,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2023-01-01,1.55,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2023-01-01,1.22,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2023-01-01,1.15,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2023-02-01,0.82,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2023-02-01,0.84,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2023-02-01,0.91,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2023-02-01,0.91,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2023-02-01,1.0,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2023-02-01,0.73,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2023-02-01,0.91,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2023-02-01,0.91,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2023-02-01,0.66,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2023-02-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2023-02-01,1.32,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2023-02-01,1.01,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2023-02-01,1.92,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2023-02-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2023-02-01,2.64,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2023-02-01,2.83,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2023-02-01,2.06,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2023-02-01,2.13,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2023-02-01,1.97,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2023-02-01,1.56,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2023-02-01,1.25,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2023-02-01,1.15,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2023-03-01,0.84,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2023-03-01,0.82,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Berbérati,RETAIL,2023-03-01,0.91,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2023-03-01,1.2,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2023-03-01,0.72,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2023-03-01,0.9,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2023-03-01,0.91,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2023-03-01,0.66,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2023-03-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2023-03-01,1.25,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2023-03-01,1.03,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2023-03-01,1.69,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2023-03-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2023-03-01,2.5,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2023-03-01,2.46,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2023-03-01,1.97,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2023-03-01,2.13,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2023-03-01,1.92,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2023-03-01,1.56,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2023-03-01,1.32,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2023-03-01,1.22,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2023-04-01,0.97,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2023-04-01,0.93,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2023-04-01,0.84,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2023-04-01,0.93,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2023-04-01,1.3,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2023-04-01,0.74,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2023-04-01,0.88,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2023-04-01,0.97,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2023-04-01,0.7,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2023-04-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2023-04-01,1.25,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2023-04-01,1.03,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2023-04-01,1.54,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2023-04-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2023-04-01,2.5,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2023-04-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2023-04-01,1.92,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2023-04-01,2.15,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2023-04-01,1.92,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2023-04-01,1.52,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2023-04-01,1.4,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2023-04-01,1.27,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2023-05-01,1.01,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2023-05-01,0.92,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2023-05-01,0.92,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2023-05-01,0.83,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2023-05-01,1.29,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2023-05-01,0.74,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2023-05-01,0.95,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2023-05-01,1.01,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2023-05-01,0.69,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2023-05-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2023-05-01,1.25,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2023-05-01,1.07,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2023-05-01,1.54,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2023-05-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2023-05-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2023-05-01,2.31,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2023-05-01,2.02,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2023-05-01,2.08,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2023-05-01,1.68,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2023-05-01,1.53,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2023-05-01,1.44,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2023-05-01,1.32,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2023-06-01,1.03,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2023-06-01,1.01,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2023-06-01,1.03,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2023-06-01,0.92,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2023-06-01,1.38,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2023-06-01,0.83,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2023-06-01,1.04,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2023-06-01,1.1,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2023-06-01,0.69,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2023-06-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2023-06-01,1.25,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2023-06-01,1.06,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2023-06-01,1.54,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2023-06-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2023-06-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2023-06-01,2.38,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2023-06-01,2.09,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2023-06-01,2.07,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2023-06-01,1.92,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2023-06-01,1.29,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2023-06-01,1.46,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2023-06-01,1.36,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Djibouti,Dikhil,RETAIL,2023-07-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2023-07-01,1.07,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2023-07-01,1.06,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2023-07-01,1.54,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2023-07-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2023-07-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2023-07-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2023-07-01,2.12,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2023-07-01,2.08,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2023-07-01,1.92,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2023-07-01,1.16,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2023-07-01,1.46,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2023-07-01,1.39,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2023-08-01,0.74,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2023-08-01,1.02,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2023-08-01,1.11,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2023-08-01,1.02,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2023-08-01,1.48,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2023-08-01,0.92,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2023-08-01,1.08,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2023-08-01,1.11,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2023-08-01,0.74,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2023-08-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2023-08-01,1.25,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2023-08-01,1.03,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2023-08-01,1.54,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2023-08-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2023-08-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2023-08-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2023-08-01,2.36,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2023-08-01,2.09,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2023-08-01,2.08,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2023-08-01,1.15,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2023-08-01,1.44,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2023-08-01,1.38,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2023-09-01,0.91,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2023-09-01,1.0,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2023-09-01,1.09,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2023-09-01,1.0,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2023-09-01,1.49,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2023-09-01,0.91,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2023-09-01,1.03,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2023-09-01,1.09,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2023-09-01,0.72,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2023-09-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2023-09-01,1.25,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2023-09-01,1.02,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2023-09-01,1.46,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2023-09-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2023-09-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2023-09-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2023-09-01,2.69,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2023-09-01,2.13,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2023-09-01,2.12,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2023-09-01,1.19,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2023-09-01,1.42,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2023-09-01,1.36,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2023-10-01,0.81,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2023-10-01,0.9,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2023-10-01,1.1,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2023-10-01,0.98,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2023-10-01,1.57,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2023-10-01,0.85,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2023-10-01,1.03,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2023-10-01,0.98,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2023-10-01,0.67,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2023-10-01,1.41,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2023-10-01,1.25,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2023-10-01,1.03,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2023-10-01,1.34,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2023-10-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2023-10-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2023-10-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2023-10-01,2.69,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2023-10-01,2.11,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2023-10-01,2.12,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2023-10-01,1.27,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2023-10-01,1.43,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2023-10-01,1.34,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2023-11-01,0.92,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2023-11-01,1.01,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2023-11-01,0.96,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2023-11-01,1.01,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2023-11-01,1.19,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2023-11-01,0.73,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2023-11-01,0.99,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2023-11-01,0.87,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2023-11-01,0.73,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2023-11-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2023-11-01,1.32,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2023-11-01,1.05,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2023-11-01,1.54,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2023-11-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2023-11-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2023-11-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2023-11-01,2.69,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2023-11-01,2.15,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2023-11-01,2.12,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2023-11-01,1.35,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2023-11-01,1.43,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2023-11-01,1.32,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2023-12-01,0.92,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2023-12-01,0.74,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2023-12-01,0.69,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2023-12-01,0.92,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Bossangoa,RETAIL,2023-12-01,0.65,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2023-12-01,0.8,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2023-12-01,0.83,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2023-12-01,0.58,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2023-12-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2023-12-01,1.32,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2023-12-01,1.02,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2023-12-01,1.54,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2023-12-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2023-12-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2023-12-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2023-12-01,2.69,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2023-12-01,2.14,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2023-12-01,2.12,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2023-12-01,1.37,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2023-12-01,1.43,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2023-12-01,1.37,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2024-01-01,0.76,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2024-01-01,0.83,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2024-01-01,0.92,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2024-01-01,0.83,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2024-01-01,0.92,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2024-01-01,0.65,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2024-01-01,0.73,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2024-01-01,0.74,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2024-01-01,0.42,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2024-01-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2024-01-01,1.21,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2024-01-01,1.0,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2024-01-01,1.66,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2024-01-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2024-01-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2024-01-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2024-01-01,2.5,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2024-01-01,2.17,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2024-01-01,2.12,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2024-01-01,1.44,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2024-01-01,1.45,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2024-01-01,1.4,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2024-02-01,0.82,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2024-02-01,0.82,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2024-02-01,0.91,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2024-02-01,0.82,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2024-02-01,1.01,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2024-02-01,0.66,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2024-02-01,0.74,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2024-02-01,0.78,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2024-02-01,0.41,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2024-02-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2024-02-01,1.21,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2024-02-01,1.02,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2024-02-01,1.95,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2024-02-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2024-02-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2024-02-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2024-02-01,2.5,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2024-02-01,2.12,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2024-02-01,1.51,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2024-02-01,1.46,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2024-02-01,1.42,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2024-03-01,0.83,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2024-03-01,0.83,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2024-03-01,0.88,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2024-03-01,0.92,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2024-03-01,1.01,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2024-03-01,0.67,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2024-03-01,0.76,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2024-03-01,0.76,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2024-03-01,0.46,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2024-03-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2024-03-01,1.24,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2024-03-01,1.02,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2024-03-01,2.07,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2024-03-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2024-03-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2024-03-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2024-03-01,2.11,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2024-03-01,2.22,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2024-03-01,2.12,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2024-03-01,1.49,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2024-03-01,1.47,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2024-03-01,1.42,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2024-04-01,0.82,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2024-04-01,0.84,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2024-04-01,1.0,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2024-04-01,1.0,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2024-04-01,1.09,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2024-04-01,0.66,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2024-04-01,0.8,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2024-04-01,0.77,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2024-04-01,0.5,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2024-04-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2024-04-01,1.24,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2024-04-01,1.02,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2024-04-01,2.07,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2024-04-01,1.92,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2024-04-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2024-04-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2024-04-01,1.92,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2024-04-01,2.17,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2024-04-01,2.12,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2024-04-01,1.49,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2024-04-01,1.5,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2024-04-01,1.43,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2024-05-01,0.92,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2024-05-01,1.01,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2024-05-01,1.1,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2024-05-01,1.08,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2024-05-01,1.19,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2024-05-01,0.69,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2024-05-01,0.86,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2024-05-01,0.82,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2024-05-01,0.62,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2024-05-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2024-05-01,1.4,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2024-05-01,1.02,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2024-05-01,1.92,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2024-05-01,1.85,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2024-05-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2024-05-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2024-05-01,1.92,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2024-05-01,2.15,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2024-05-01,2.28,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2024-05-01,1.54,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2024-05-01,1.56,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2024-05-01,1.5,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2024-06-01,0.91,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2024-06-01,1.0,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2024-06-01,1.09,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2024-06-01,1.09,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2024-06-01,1.16,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2024-06-01,0.73,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2024-06-01,0.88,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2024-06-01,0.91,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2024-06-01,0.57,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2024-06-01,1.38,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2024-06-01,1.45,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2024-06-01,1.01,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2024-06-01,1.92,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2024-06-01,1.82,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2024-06-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2024-06-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2024-06-01,1.92,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2024-06-01,2.12,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2024-06-01,2.31,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2024-06-01,1.52,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2024-06-01,1.62,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2024-06-01,1.55,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2024-07-01,0.92,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2024-07-01,0.92,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2024-07-01,1.1,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2024-07-01,1.19,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2024-07-01,1.29,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2024-07-01,0.73,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2024-07-01,0.94,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2024-07-01,0.64,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2024-07-01,1.38,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2024-07-01,1.52,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2024-07-01,1.02,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2024-07-01,1.92,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2024-07-01,1.78,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2024-07-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2024-07-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2024-07-01,1.92,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2024-07-01,2.16,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2024-07-01,2.6,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2024-07-01,1.51,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2024-07-01,1.71,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2024-07-01,1.61,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2024-08-01,0.93,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2024-08-01,0.93,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2024-08-01,1.12,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2024-08-01,1.31,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2024-08-01,1.31,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2024-08-01,1.03,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2024-08-01,1.03,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2024-08-01,0.93,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2024-08-01,0.7,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2024-08-01,1.0,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2024-08-01,1.92,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2024-08-01,1.77,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2024-08-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2024-08-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2024-08-01,1.92,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2024-08-01,2.15,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2024-08-01,2.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2024-08-01,1.49,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2024-08-01,1.79,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2024-08-01,1.66,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2024-09-01,1.27,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2024-09-01,0.99,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2024-09-01,1.13,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2024-09-01,1.32,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2024-09-01,1.41,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2024-09-01,1.08,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2024-09-01,1.07,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2024-09-01,0.99,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2024-09-01,0.52,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2024-09-01,0.56,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2024-09-01,1.11,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2024-09-01,1.03,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2024-09-01,1.95,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2024-09-01,1.72,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2024-09-01,2.29,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2024-09-01,2.48,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2024-09-01,1.91,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2024-09-01,2.17,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2024-09-01,2.67,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2024-09-01,1.48,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2024-09-01,1.82,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2024-09-01,1.68,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2024-10-01,0.92,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2024-10-01,0.92,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2024-10-01,0.92,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2024-10-01,1.2,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2024-10-01,1.48,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2024-10-01,0.92,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2024-10-01,0.97,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2024-10-01,0.83,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2024-10-01,0.65,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2024-10-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2024-10-01,1.22,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2024-10-01,1.01,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2024-10-01,2.06,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2024-10-01,1.82,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2024-10-01,2.12,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2024-10-01,2.48,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2024-10-01,1.91,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2024-10-01,2.16,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2024-10-01,2.67,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2024-10-01,1.49,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2024-10-01,1.76,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2024-10-01,1.65,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2024-11-01,0.86,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2024-11-01,0.83,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2024-11-01,0.76,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2024-11-01,1.08,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2024-11-01,1.35,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2024-11-01,0.74,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2024-11-01,0.89,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2024-11-01,0.72,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2024-11-01,0.59,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2024-11-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2024-11-01,1.41,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2024-11-01,1.03,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2024-11-01,2.12,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2024-11-01,1.54,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2024-11-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2024-11-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2024-11-01,1.92,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2024-11-01,2.16,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2024-11-01,2.69,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2024-11-01,1.49,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2024-11-01,1.68,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2024-11-01,1.55,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2024-12-01,0.64,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2024-12-01,0.8,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2024-12-01,0.67,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2024-12-01,0.78,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2024-12-01,0.89,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2024-12-01,0.64,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2024-12-01,0.74,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2024-12-01,0.75,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2024-12-01,0.44,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2024-12-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2024-12-01,1.43,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2024-12-01,1.0,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2024-12-01,2.12,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2024-12-01,1.83,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2024-12-01,2.31,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2024-12-01,2.5,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2024-12-01,1.92,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2024-12-01,2.12,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2024-12-01,1.37,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2024-12-01,1.5,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2024-12-01,1.66,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2024-12-01,1.52,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2025-01-01,0.68,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2025-01-01,0.77,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2025-01-01,0.61,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2025-01-01,0.79,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2025-01-01,0.83,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2025-01-01,0.61,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2025-01-01,0.71,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2025-01-01,0.68,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2025-01-01,0.44,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2025-01-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2025-01-01,1.48,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2025-01-01,0.99,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2025-01-01,2.1,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2025-01-01,1.63,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2025-01-01,2.29,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2025-01-01,2.48,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2025-01-01,1.91,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2025-01-01,2.05,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2025-01-01,1.14,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2025-01-01,1.49,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2025-01-01,1.64,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2025-01-01,1.52,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2025-02-01,0.64,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2025-02-01,0.75,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2025-02-01,0.55,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2025-02-01,0.79,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2025-02-01,0.84,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2025-02-01,0.55,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2025-02-01,0.67,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2025-02-01,0.66,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2025-02-01,0.42,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Djibouti,Dikhil,RETAIL,2025-02-01,1.13,Kg,ce539562-3755-4e24-a273-441167daed4d
+Beans (white),Djibouti,National Average,RETAIL,2025-02-01,1.41,Kg,a60edc67-8bd9-443e-a8d5-be8412b6909b
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2025-02-01,1.01,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2025-02-01,2.18,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2025-02-01,1.62,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2025-02-01,2.29,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2025-02-01,2.48,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2025-02-01,1.91,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2025-02-01,2.08,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2025-02-01,1.15,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2025-02-01,1.49,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2025-02-01,1.65,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2025-02-01,1.54,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2025-03-01,0.73,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2025-03-01,0.82,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2025-03-01,0.71,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2025-03-01,0.92,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2025-03-01,0.89,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2025-03-01,0.69,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2025-03-01,0.77,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2025-03-01,0.73,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2025-03-01,0.55,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2025-03-01,0.99,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2025-03-01,2.29,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2025-03-01,1.7,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2025-03-01,2.12,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2025-03-01,2.48,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2025-03-01,1.91,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2025-03-01,2.04,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2025-03-01,1.15,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2025-03-01,1.44,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2025-03-01,1.68,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2025-03-01,1.56,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2025-04-01,0.85,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2025-04-01,0.95,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2025-04-01,0.85,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2025-04-01,1.0,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2025-04-01,1.04,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2025-04-01,0.85,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2025-04-01,0.9,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2025-04-01,0.69,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2025-04-01,1.02,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2025-04-01,2.32,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2025-04-01,1.7,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2025-04-01,2.32,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2025-04-01,2.51,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2025-04-01,1.83,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2025-04-01,2.05,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2025-04-01,1.16,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2025-04-01,1.44,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2025-04-01,1.72,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2025-04-01,1.58,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2025-05-01,0.96,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2025-05-01,1.05,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2025-05-01,0.67,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2025-05-01,1.05,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2025-05-01,1.19,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,National Average,RETAIL,2025-05-01,0.98,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2025-05-01,0.96,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2025-05-01,1.08,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2025-05-01,2.32,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2025-05-01,1.72,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2025-05-01,2.32,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2025-05-01,2.52,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2025-05-01,1.77,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2025-05-01,2.04,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2025-05-01,1.16,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2025-05-01,1.45,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2025-05-01,1.73,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2025-05-01,1.59,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2025-06-01,0.98,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2025-06-01,1.07,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2025-06-01,0.98,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2025-06-01,1.07,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2025-06-01,1.37,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2025-06-01,0.98,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2025-06-01,1.03,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2025-06-01,0.98,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2025-06-01,1.05,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2025-06-01,2.29,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2025-06-01,1.72,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2025-06-01,2.29,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2025-06-01,2.48,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2025-06-01,1.53,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2025-06-01,1.99,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2025-06-01,1.15,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2025-06-01,1.44,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2025-06-01,1.77,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2025-06-01,1.6,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2025-07-01,0.99,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2025-07-01,1.19,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2025-07-01,0.99,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2025-07-01,1.14,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2025-07-01,1.26,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2025-07-01,0.99,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2025-07-01,1.06,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2025-07-01,0.99,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2025-07-01,0.89,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2025-07-01,1.01,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2025-07-01,1.91,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2025-07-01,1.72,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2025-07-01,2.29,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2025-07-01,2.48,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2025-07-01,1.53,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2025-07-01,1.96,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2025-07-01,1.15,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2025-07-01,1.43,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2025-07-01,1.77,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2025-07-01,1.66,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Central African Republic,Bambari,RETAIL,2025-08-01,1.09,Kg,42221b4d-a039-4e50-9483-cd64922d7345
+Beans (white),Central African Republic,Bangui,RETAIL,2025-08-01,1.18,Kg,d0afe50b-3bb6-4db5-b9b1-5ce3ed2d19f8
+Beans (white),Central African Republic,Batangafo,RETAIL,2025-08-01,0.99,Kg,405bce83-d4a9-40e5-aba8-4466d00e2db2
+Beans (white),Central African Republic,Berbérati,RETAIL,2025-08-01,1.18,Kg,f0cbd907-76c3-419a-9d01-8dcec7ad2723
+Beans (white),Central African Republic,Birao,RETAIL,2025-08-01,1.33,Kg,09ebedff-c006-4328-9f4f-3a465ded4014
+Beans (white),Central African Republic,Bossangoa,RETAIL,2025-08-01,1.09,Kg,777fd0e2-244f-4a49-a113-986a931f45ea
+Beans (white),Central African Republic,National Average,RETAIL,2025-08-01,1.09,Kg,961e688f-eb2e-4930-8b04-5c0176f050fb
+Beans (white),Central African Republic,Ndélé,RETAIL,2025-08-01,1.04,Kg,0ad7c328-57ac-4cde-b3fc-b616a5fc4618
+Beans (white),Central African Republic,Ngaoundaye,RETAIL,2025-08-01,0.79,Kg,be0b434b-d293-476c-abd1-95366ebb2760
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2025-08-01,0.98,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2025-08-01,2.04,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2025-08-01,1.72,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2025-08-01,2.29,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2025-08-01,2.48,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2025-08-01,1.53,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2025-08-01,1.97,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2025-08-01,1.15,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2025-08-01,1.46,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2025-08-01,1.77,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2025-08-01,1.63,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Dominican Republic,Santo Domingo,RETAIL,2025-09-01,0.97,Libra,84ba7558-62dd-430a-926e-41676f90082c
+Beans (white),Iraq,Anbar,RETAIL,2025-09-01,2.1,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2025-09-01,1.91,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2025-09-01,2.29,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2025-09-01,2.48,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2025-09-01,1.91,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2025-09-01,2.0,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2025-09-01,1.34,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba
+Beans (white),Türkiye,National Average,RETAIL,2025-09-01,1.45,Kg,45533504-67b6-466d-bafa-0d6def56e508
+Beans (white),Uzbekistan,National Average,RETAIL,2025-09-01,1.76,Kg,331d76c4-5a9b-4505-824b-094ff4bc9c63
+Beans (white),Uzbekistan,Tashkent Region,RETAIL,2025-09-01,1.65,Kg,98df72d4-02fd-4db9-bbdc-d1bc08931755
+Beans (white),Iraq,Anbar,RETAIL,2025-10-01,2.12,Kg,4cfa4d4a-1bad-45f1-876a-7003c4ca4b31
+Beans (white),Iraq,Baghdad,RETAIL,2025-10-01,1.93,Kg,42b23ebd-6b97-4b2c-868b-7e24683d9149
+Beans (white),Iraq,Basrah,RETAIL,2025-10-01,2.32,Kg,71e1e7c3-1094-4399-84f1-50bb3cc9dde7
+Beans (white),Iraq,Dohuk,RETAIL,2025-10-01,2.51,Kg,67f8d165-0c88-4640-91ad-0a025ae35f26
+Beans (white),Iraq,Erbil,RETAIL,2025-10-01,1.54,Kg,24f35e66-ccc4-40a0-b825-e670df81ff81
+Beans (white),Iraq,National Average,RETAIL,2025-10-01,2.02,Kg,b914af3b-8666-4547-923c-d3b3cb8e861b
+Beans (white),Iraq,Sulaimaniyah,RETAIL,2025-10-01,1.35,Kg,a5f2819d-2994-4c0e-8e2a-9402d165f8ba

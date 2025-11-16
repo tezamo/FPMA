@@ -1,0 +1,316 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2005-02-01,0.43,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2005-03-01,0.44,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2005-04-01,0.49,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2005-05-01,0.44,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2005-06-01,0.52,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2005-07-01,0.32,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2005-08-01,0.24,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2005-09-01,0.29,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2005-10-01,0.37,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2008-01-01,0.52,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2008-04-01,0.82,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2008-05-01,0.86,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2008-06-01,0.83,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2008-07-01,0.66,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2008-08-01,0.56,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2008-09-01,0.5,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2008-12-01,0.6,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2009-01-01,0.66,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2009-02-01,0.65,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2009-03-01,0.66,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2009-04-01,0.7,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2009-06-01,0.63,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2009-07-01,0.64,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2009-08-01,0.67,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2009-09-01,0.72,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2009-10-01,0.72,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2009-11-01,0.73,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2009-12-01,0.74,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2011-01-01,0.68,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2011-02-01,0.75,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2011-03-01,0.83,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2011-04-01,1.02,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2011-05-01,1.05,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2011-07-01,0.85,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2011-08-01,0.73,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2011-09-01,0.67,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2011-11-01,0.75,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2013-01-01,0.77,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2013-02-01,0.86,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2013-03-01,0.97,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2013-04-01,1.19,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2013-05-01,1.12,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2013-06-01,0.91,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2013-07-01,0.81,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2013-08-01,0.86,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2013-09-01,0.91,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2013-10-01,1.02,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2013-11-01,1.1,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2013-12-01,1.1,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2021-05-01,1.16,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2021-05-01,1.38,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2021-05-01,1.27,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2021-05-01,0.93,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2021-06-01,0.95,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2021-06-01,1.12,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2021-06-01,1.21,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2021-06-01,0.93,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2021-07-01,0.96,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2021-07-01,1.18,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2021-07-01,1.18,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2021-08-01,1.02,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2021-08-01,1.12,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2021-08-01,1.24,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2021-08-01,1.1,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2021-09-01,1.02,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2021-09-01,1.13,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2021-09-01,0.6,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2021-09-01,0.85,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2021-09-01,1.17,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2021-09-01,0.95,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2021-10-01,0.55,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2021-10-01,0.9,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2021-10-01,1.1,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2021-10-01,0.87,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2021-11-01,0.63,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2021-11-01,0.94,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2021-11-01,0.58,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2021-11-01,1.07,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2021-11-01,1.09,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2021-11-01,0.88,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2021-12-01,0.6,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2021-12-01,0.66,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2021-12-01,1.1,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2021-12-01,0.84,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2022-01-01,0.57,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2022-01-01,0.61,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2022-01-01,0.54,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2022-01-01,1.1,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2022-01-01,1.09,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2022-01-01,0.9,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2022-02-01,0.65,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2022-02-01,0.73,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2022-02-01,0.53,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2022-02-01,0.88,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2022-02-01,1.11,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2022-02-01,0.8,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2022-03-01,0.63,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2022-03-01,0.7,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2022-03-01,1.07,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2022-03-01,0.68,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2022-04-01,0.84,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2022-04-01,1.01,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2022-04-01,0.94,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2022-04-01,0.57,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2022-05-01,0.83,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2022-05-01,1.02,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2022-05-01,1.25,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2022-05-01,1.52,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2022-05-01,0.99,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2022-05-01,0.77,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2022-06-01,0.81,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2022-06-01,1.03,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2022-06-01,1.08,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2022-06-01,1.39,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2022-06-01,1.07,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2022-06-01,0.75,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2022-07-01,0.91,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2022-07-01,1.04,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2022-07-01,0.78,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2022-07-01,1.07,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2022-07-01,1.07,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2022-07-01,0.85,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2022-08-01,1.09,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2022-08-01,1.24,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2022-08-01,0.75,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2022-08-01,0.89,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2022-08-01,1.09,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2022-08-01,0.78,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2022-09-01,1.1,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2022-09-01,1.2,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2022-09-01,0.82,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2022-09-01,0.94,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2022-09-01,1.16,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2022-09-01,0.79,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2022-10-01,1.07,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2022-10-01,1.18,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2022-10-01,0.91,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2022-10-01,1.13,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2022-11-01,1.09,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2022-11-01,1.22,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2022-11-01,0.94,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2022-11-01,1.23,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2022-11-01,1.15,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2022-11-01,0.9,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2022-12-01,1.17,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2022-12-01,1.34,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2022-12-01,1.14,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2022-12-01,0.92,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2023-01-01,1.16,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2023-01-01,1.34,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2023-01-01,0.95,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2023-01-01,1.1,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2023-01-01,1.11,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2023-01-01,0.9,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2023-02-01,1.33,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2023-02-01,1.49,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2023-02-01,0.97,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2023-02-01,1.16,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2023-02-01,1.14,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2023-02-01,1.08,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2023-03-01,1.32,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2023-03-01,1.46,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2023-03-01,1.16,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2023-03-01,1.35,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2023-03-01,1.16,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2023-03-01,1.22,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2023-04-01,1.29,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2023-04-01,1.46,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2023-04-01,1.1,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2023-04-01,1.42,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2023-04-01,1.27,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2023-04-01,1.15,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2023-05-01,1.33,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2023-05-01,1.47,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2023-05-01,1.31,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2023-05-01,1.7,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2023-05-01,1.35,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2023-05-01,1.17,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2023-06-01,1.31,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2023-06-01,1.45,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2023-06-01,1.25,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2023-06-01,1.43,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2023-06-01,1.43,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2023-06-01,1.2,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2023-07-01,1.27,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2023-07-01,1.41,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2023-07-01,0.91,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2023-07-01,1.08,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2023-07-01,1.34,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2023-07-01,1.17,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2023-08-01,1.22,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2023-08-01,1.32,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2023-08-01,0.71,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2023-08-01,0.88,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2023-08-01,1.1,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2023-09-01,1.36,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2023-09-01,1.44,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2023-09-01,1.11,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2023-09-01,1.28,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2023-10-01,1.32,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2023-10-01,1.42,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2023-10-01,1.42,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2023-10-01,1.62,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2023-10-01,1.14,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2023-11-01,1.15,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2023-11-01,1.25,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2023-11-01,1.18,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2023-11-01,1.32,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2023-11-01,1.12,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2023-12-01,0.97,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Kapsabet,WHOLESALE,2023-12-01,1.17,Kg,4358ae1c-efda-4c78-ade5-6ea9c1b1c692
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2023-12-01,0.56,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2023-12-01,0.69,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2024-01-01,1.1,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2024-01-01,0.68,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2024-01-01,0.82,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2024-01-01,0.88,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2024-02-01,0.51,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2024-02-01,0.59,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Bungoma,RETAIL,2024-03-01,1.46,Kg,9faf4e45-6e6d-484a-8290-e70820a6d9f8
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2024-03-01,1.27,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Kapsabet,RETAIL,2024-03-01,1.26,Kg,23707112-8473-4b24-bae3-9440318c8c3e
+Beans (Rosecoco),Kenya,Kapsabet,WHOLESALE,2024-03-01,1.23,Kg,4358ae1c-efda-4c78-ade5-6ea9c1b1c692
+Beans (Rosecoco),Kenya,Kapsabet,RETAIL,2024-04-01,1.19,Kg,23707112-8473-4b24-bae3-9440318c8c3e
+Beans (Rosecoco),Kenya,Kapsabet,WHOLESALE,2024-04-01,1.15,Kg,4358ae1c-efda-4c78-ade5-6ea9c1b1c692
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2024-04-01,0.77,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2024-04-01,0.9,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2024-04-01,0.87,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Bungoma,RETAIL,2024-05-01,1.38,Kg,9faf4e45-6e6d-484a-8290-e70820a6d9f8
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2024-05-01,1.21,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Kapsabet,RETAIL,2024-05-01,1.34,Kg,23707112-8473-4b24-bae3-9440318c8c3e
+Beans (Rosecoco),Kenya,Kapsabet,WHOLESALE,2024-05-01,1.21,Kg,4358ae1c-efda-4c78-ade5-6ea9c1b1c692
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2024-05-01,0.89,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Kapsabet,RETAIL,2024-06-01,1.39,Kg,23707112-8473-4b24-bae3-9440318c8c3e
+Beans (Rosecoco),Kenya,Kapsabet,WHOLESALE,2024-06-01,1.24,Kg,4358ae1c-efda-4c78-ade5-6ea9c1b1c692
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2024-06-01,0.89,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2024-06-01,0.97,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2024-06-01,0.69,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Bungoma,RETAIL,2024-07-01,1.47,Kg,9faf4e45-6e6d-484a-8290-e70820a6d9f8
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2024-07-01,1.29,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Kapsabet,RETAIL,2024-07-01,1.33,Kg,23707112-8473-4b24-bae3-9440318c8c3e
+Beans (Rosecoco),Kenya,Kapsabet,WHOLESALE,2024-07-01,1.19,Kg,4358ae1c-efda-4c78-ade5-6ea9c1b1c692
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2024-07-01,0.75,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2024-07-01,0.83,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2024-07-01,0.78,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2024-07-01,0.71,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Bungoma,RETAIL,2024-08-01,1.5,Kg,9faf4e45-6e6d-484a-8290-e70820a6d9f8
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2024-08-01,1.31,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Kapsabet,RETAIL,2024-08-01,1.08,Kg,23707112-8473-4b24-bae3-9440318c8c3e
+Beans (Rosecoco),Kenya,Kapsabet,WHOLESALE,2024-08-01,0.93,Kg,4358ae1c-efda-4c78-ade5-6ea9c1b1c692
+Beans (Rosecoco),Kenya,Bungoma,RETAIL,2024-09-01,1.55,Kg,9faf4e45-6e6d-484a-8290-e70820a6d9f8
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2024-09-01,1.35,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2024-09-01,1.16,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2024-09-01,1.35,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kapsabet,RETAIL,2024-09-01,1.04,Kg,23707112-8473-4b24-bae3-9440318c8c3e
+Beans (Rosecoco),Kenya,Kapsabet,WHOLESALE,2024-09-01,1.01,Kg,4358ae1c-efda-4c78-ade5-6ea9c1b1c692
+Beans (Rosecoco),Kenya,Bungoma,RETAIL,2024-10-01,1.39,Kg,9faf4e45-6e6d-484a-8290-e70820a6d9f8
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2024-10-01,1.09,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Kapsabet,RETAIL,2024-10-01,1.16,Kg,23707112-8473-4b24-bae3-9440318c8c3e
+Beans (Rosecoco),Kenya,Kapsabet,WHOLESALE,2024-10-01,1.04,Kg,4358ae1c-efda-4c78-ade5-6ea9c1b1c692
+Beans (Rosecoco),Kenya,Bungoma,RETAIL,2024-11-01,1.35,Kg,9faf4e45-6e6d-484a-8290-e70820a6d9f8
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2024-11-01,1.16,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Kapsabet,RETAIL,2024-11-01,1.23,Kg,23707112-8473-4b24-bae3-9440318c8c3e
+Beans (Rosecoco),Kenya,Kapsabet,WHOLESALE,2024-11-01,1.21,Kg,4358ae1c-efda-4c78-ade5-6ea9c1b1c692
+Beans (Rosecoco),Kenya,Bungoma,RETAIL,2024-12-01,1.35,Kg,9faf4e45-6e6d-484a-8290-e70820a6d9f8
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2024-12-01,1.16,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2024-12-01,1.08,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2024-12-01,0.94,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Bungoma,RETAIL,2025-01-01,1.37,Kg,9faf4e45-6e6d-484a-8290-e70820a6d9f8
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2025-01-01,1.16,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Kapsabet,RETAIL,2025-01-01,1.24,Kg,23707112-8473-4b24-bae3-9440318c8c3e
+Beans (Rosecoco),Kenya,Kapsabet,WHOLESALE,2025-01-01,1.04,Kg,4358ae1c-efda-4c78-ade5-6ea9c1b1c692
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2025-01-01,1.0,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2025-01-01,0.91,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Bungoma,RETAIL,2025-02-01,1.35,Kg,9faf4e45-6e6d-484a-8290-e70820a6d9f8
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2025-02-01,1.16,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2025-02-01,1.08,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2025-02-01,1.24,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kapsabet,RETAIL,2025-02-01,1.03,Kg,23707112-8473-4b24-bae3-9440318c8c3e
+Beans (Rosecoco),Kenya,Kapsabet,WHOLESALE,2025-02-01,0.88,Kg,4358ae1c-efda-4c78-ade5-6ea9c1b1c692
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2025-02-01,1.08,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2025-02-01,0.96,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Bungoma,RETAIL,2025-03-01,1.35,Kg,9faf4e45-6e6d-484a-8290-e70820a6d9f8
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2025-03-01,1.16,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2025-03-01,1.16,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2025-03-01,1.24,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Bungoma,RETAIL,2025-04-01,1.42,Kg,9faf4e45-6e6d-484a-8290-e70820a6d9f8
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2025-04-01,1.22,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2025-04-01,0.97,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2025-04-01,1.16,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Bungoma,RETAIL,2025-05-01,1.55,Kg,9faf4e45-6e6d-484a-8290-e70820a6d9f8
+Beans (Rosecoco),Kenya,Bungoma,WHOLESALE,2025-05-01,1.35,Kg,cdc37d0d-a780-4a78-b31a-982199ba384b
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2025-05-01,1.16,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2025-05-01,1.24,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2025-05-01,0.94,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2025-05-01,1.12,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2025-05-01,1.39,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2025-05-01,0.99,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Eldoret,WHOLESALE,2025-06-01,1.35,Kg,0a33fcbb-4bac-4b6e-b70a-fcaed0162efe
+Beans (Rosecoco),Kenya,Eldoret,RETAIL,2025-06-01,1.47,Kg,2c1e45a9-3181-4770-82b0-828216bd1fb8
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2025-06-01,0.95,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2025-06-01,1.15,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2025-06-01,1.68,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2025-07-01,0.79,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2025-07-01,1.01,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2025-07-01,1.08,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2025-07-01,0.98,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2025-08-01,0.77,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2025-08-01,0.99,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2025-09-01,0.75,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2025-09-01,0.98,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Kitale,WHOLESALE,2025-10-01,0.78,Kg,2ab56e5b-f8ea-422e-9dc1-8960c4e9a300
+Beans (Rosecoco),Kenya,Kitale,RETAIL,2025-10-01,1.0,Kg,790147c2-ff6d-4890-8648-2c8c427b9958
+Beans (Rosecoco),Kenya,Nairobi Kangemi,RETAIL,2025-10-01,0.97,Kg,08e9d401-1b56-4b28-aebd-82c834d20a79
+Beans (Rosecoco),Kenya,Nairobi Kangemi,WHOLESALE,2025-10-01,0.89,Kg,2b5b8b1b-ee51-4e3f-89d9-46e37ad9653a

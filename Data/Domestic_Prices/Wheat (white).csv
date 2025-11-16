@@ -1,0 +1,391 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2019-04-01,54.4,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2019-04-01,57.07,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2019-05-01,54.43,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2019-05-01,57.92,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2019-05-01,48.42,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2019-06-01,50.67,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2019-06-01,55.47,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2019-06-01,62.4,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2019-06-01,58.07,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2019-06-01,55.18,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2019-07-01,53.67,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2019-07-01,57.16,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2019-07-01,61.26,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2019-07-01,61.09,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2019-07-01,57.47,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2019-08-01,60.15,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2019-08-01,63.41,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2019-08-01,62.73,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2019-08-01,64.45,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2019-09-01,62.46,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2019-09-01,70.17,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2019-09-01,65.54,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2019-09-01,62.68,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2019-10-01,57.48,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2019-10-01,69.66,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2019-10-01,63.49,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2019-10-01,59.1,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2019-11-01,50.94,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2019-11-01,68.33,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2019-11-01,60.79,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2019-11-01,53.45,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2019-12-01,49.01,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2019-12-01,65.16,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2019-12-01,57.22,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2019-12-01,48.28,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2020-01-01,50.25,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2020-01-01,61.05,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2020-01-01,50.09,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2020-01-01,58.96,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2020-01-01,40.7,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2020-01-01,46.96,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2020-02-01,50.32,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2020-02-01,61.39,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2020-02-01,55.95,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2020-02-01,57.51,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2020-02-01,45.07,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2020-02-01,47.4,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2020-03-01,54.1,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2020-03-01,62.44,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2020-03-01,70.7,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2020-03-01,59.33,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2020-03-01,44.57,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2020-03-01,47.65,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2020-04-01,59.88,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2020-04-01,46.7,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2020-04-01,52.73,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2020-05-01,63.5,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2020-05-01,60.91,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2020-05-01,51.68,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2020-05-01,52.42,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2020-06-01,51.69,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2020-06-01,62.32,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2020-06-01,63.48,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2020-06-01,50.14,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2020-06-01,53.26,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2020-07-01,55.51,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2020-07-01,64.47,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2020-07-01,68.32,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2020-07-01,61.68,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2020-07-01,47.54,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2020-07-01,55.51,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2020-08-01,52.55,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2020-08-01,64.93,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2020-08-01,70.07,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2020-08-01,61.66,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2020-08-01,47.65,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2020-08-01,55.35,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2020-09-01,52.03,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2020-09-01,61.61,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2020-09-01,49.29,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2020-09-01,53.74,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2020-10-01,50.68,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2020-10-01,64.59,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2020-10-01,61.89,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2020-10-01,47.09,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2020-10-01,50.46,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2020-11-01,48.93,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2020-11-01,62.15,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2020-11-01,63.48,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2020-11-01,60.83,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2020-11-01,52.9,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2020-11-01,49.42,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2020-12-01,51.76,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2020-12-01,60.66,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2020-12-01,62.11,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2020-12-01,51.76,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2020-12-01,51.11,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2021-01-01,53.82,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2021-01-01,57.63,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2021-01-01,63.57,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2021-01-01,58.48,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2021-01-01,49.58,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2021-01-01,50.85,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2021-02-01,59.69,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2021-02-01,70.55,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2021-02-01,60.48,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2021-02-01,59.85,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2021-02-01,55.44,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2021-02-01,58.74,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2021-03-01,60.86,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2021-03-01,74.39,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2021-03-01,60.0,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2021-03-01,56.56,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2021-03-01,60.86,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2021-04-01,62.67,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2021-04-01,61.23,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2021-04-01,60.33,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2021-04-01,55.23,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2021-04-01,62.13,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2021-05-01,66.21,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2021-05-01,76.39,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2021-05-01,59.94,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2021-05-01,63.9,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2021-06-01,70.86,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2021-06-01,78.63,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2021-06-01,59.91,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2021-06-01,59.53,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2021-06-01,62.22,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2021-06-01,70.05,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2021-07-01,78.96,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2021-07-01,81.46,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2021-07-01,68.17,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2021-07-01,72.71,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2021-07-01,69.59,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2021-08-01,88.5,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2021-08-01,93.88,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2021-08-01,66.79,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2021-08-01,72.36,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2021-08-01,84.72,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2021-09-01,81.86,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2021-09-01,88.19,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2021-09-01,65.49,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2021-09-01,69.86,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2021-09-01,80.77,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2021-10-01,76.58,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2021-10-01,84.48,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2021-10-01,68.55,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2021-10-01,64.26,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2021-10-01,76.04,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2021-11-01,50.81,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2021-11-01,81.47,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2021-11-01,79.89,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2021-11-01,63.07,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2021-11-01,68.75,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2021-12-01,66.52,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2021-12-01,78.05,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2021-12-01,72.08,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2021-12-01,59.72,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2021-12-01,64.87,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2022-01-01,65.64,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2022-01-01,78.14,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2022-01-01,64.63,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2022-01-01,63.62,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2022-02-01,65.82,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2022-02-01,76.16,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2022-02-01,63.51,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2022-02-01,63.51,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2022-02-01,64.62,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2022-03-01,65.44,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2022-03-01,74.97,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2022-03-01,68.78,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2022-03-01,61.9,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2022-03-01,66.52,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2022-04-01,67.38,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2022-04-01,75.19,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2022-04-01,68.36,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2022-04-01,64.45,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2022-04-01,66.53,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2022-05-01,68.46,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2022-05-01,76.72,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2022-05-01,71.86,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2022-05-01,73.8,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2022-05-01,71.67,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2022-06-01,82.06,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2022-06-01,83.99,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2022-06-01,75.3,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2022-06-01,77.23,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2022-06-01,82.18,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2022-07-01,81.62,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2022-07-01,84.5,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2022-07-01,71.06,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2022-07-01,76.82,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2022-07-01,87.38,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2022-08-01,80.97,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2022-08-01,85.02,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2022-08-01,91.45,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2022-08-01,57.15,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2022-08-01,86.49,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2022-09-01,80.75,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2022-09-01,85.03,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2022-09-01,95.0,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2022-09-01,76.0,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2022-09-01,86.14,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2022-10-01,80.48,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2022-10-01,84.74,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2022-10-01,90.89,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2022-10-01,77.64,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2022-10-01,85.57,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2022-11-01,84.23,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2022-11-01,92.23,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2022-11-01,79.05,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2022-11-01,81.12,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2022-12-01,84.41,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2022-12-01,84.65,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2022-12-01,90.04,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2022-12-01,60.03,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2022-12-01,77.85,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2023-01-01,83.91,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2023-01-01,87.95,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2023-01-01,83.91,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2023-01-01,68.37,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2023-02-01,97.89,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2023-02-01,89.5,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2023-02-01,89.5,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2023-02-01,61.53,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2023-02-01,81.11,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2023-03-01,89.34,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2023-03-01,93.06,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2023-03-01,87.94,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2023-04-01,96.95,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2023-04-01,92.34,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2023-04-01,83.1,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2023-04-01,88.64,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2023-05-01,96.53,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2023-05-01,91.93,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2023-05-01,88.25,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2023-05-01,82.74,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2023-05-01,90.09,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Diredawa,RETAIL,2023-06-01,91.89,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2023-06-01,80.87,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2023-06-01,102.0,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2023-07-01,98.11,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2023-07-01,91.12,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Shashemene,RETAIL,2023-07-01,78.37,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2023-07-01,102.06,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2023-08-01,106.93,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2023-08-01,105.29,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2023-09-01,116.07,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2023-09-01,144.7,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2023-09-01,124.36,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2023-09-01,103.1,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2023-09-01,106.72,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2023-10-01,112.87,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2023-10-01,162.54,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2023-10-01,125.06,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2023-10-01,121.9,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2023-10-01,95.72,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2023-10-01,107.0,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2023-11-01,111.76,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2023-11-01,161.8,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2023-11-01,127.29,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2023-11-01,121.35,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2023-11-01,89.89,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2023-11-01,96.48,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2023-12-01,114.93,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2023-12-01,152.2,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2023-12-01,129.59,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2023-12-01,121.53,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2023-12-01,94.9,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2023-12-01,102.96,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2024-01-01,112.09,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2024-01-01,142.62,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2024-01-01,124.79,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2024-01-01,122.83,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2024-01-01,106.96,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2024-01-01,105.85,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2024-02-01,107.77,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2024-02-01,141.34,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2024-02-01,126.32,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2024-02-01,122.79,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2024-02-01,97.17,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2024-02-01,106.3,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2024-03-01,117.19,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2024-03-01,140.98,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2024-03-01,124.9,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2024-03-01,121.59,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2024-03-01,101.33,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2024-04-01,109.52,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2024-04-01,140.46,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2024-04-01,121.44,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2024-04-01,122.55,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2024-04-01,110.61,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2024-05-01,112.34,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2024-05-01,130.83,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2024-05-01,114.09,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2024-05-01,120.37,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2024-05-01,90.71,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2024-05-01,114.26,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2024-06-01,112.38,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2024-06-01,121.72,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2024-06-01,119.98,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2024-06-01,119.98,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2024-06-01,95.64,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2024-06-01,115.64,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2024-07-01,111.07,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2024-07-01,130.16,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2024-07-01,128.21,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2024-07-01,116.45,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2024-07-01,104.65,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2024-07-01,107.95,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2024-08-01,63.86,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2024-08-01,63.96,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2024-08-01,76.51,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2024-08-01,70.24,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2024-08-01,52.15,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2024-08-01,66.55,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Diredawa,RETAIL,2024-09-01,65.02,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2024-09-01,66.76,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2024-09-01,62.51,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2024-09-01,53.75,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2024-09-01,56.14,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2024-10-01,54.72,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2024-10-01,58.18,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2024-10-01,65.04,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2024-10-01,57.35,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2024-10-01,49.87,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2024-10-01,55.27,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2024-11-01,51.92,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2024-11-01,53.01,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2024-11-01,60.08,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2024-11-01,55.56,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2024-11-01,36.7,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2024-11-01,48.12,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2024-12-01,48.24,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2024-12-01,56.74,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2024-12-01,48.74,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2024-12-01,36.28,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2025-01-01,46.94,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2025-01-01,59.05,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2025-01-01,54.92,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2025-01-01,46.71,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2025-01-01,55.11,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2025-01-01,42.78,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2025-02-01,46.7,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2025-02-01,58.99,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2025-02-01,55.36,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2025-02-01,50.87,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2025-02-01,56.63,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2025-02-01,45.03,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2025-03-01,48.33,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Diredawa,RETAIL,2025-03-01,61.74,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2025-03-01,56.53,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2025-03-01,52.94,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2025-03-01,54.02,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2025-03-01,49.39,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2025-04-01,48.15,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2025-04-01,62.55,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2025-04-01,60.66,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2025-04-01,57.15,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Shashemene,RETAIL,2025-04-01,53.08,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Shashemene Town,WHOLESALE,2025-04-01,50.23,100 kg,76309dfd-902b-4b27-adae-274e33a12fe9
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2025-05-01,48.9,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2025-05-01,61.59,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2025-05-01,59.73,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2025-05-01,55.06,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Shashemene,RETAIL,2025-05-01,52.26,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2025-06-01,50.82,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2025-06-01,60.76,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2025-06-01,58.92,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2025-06-01,55.79,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2025-06-01,50.97,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2025-06-01,47.87,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2025-07-01,55.87,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2025-07-01,60.95,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2025-07-01,65.3,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2025-07-01,63.05,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2025-07-01,54.87,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2025-07-01,50.79,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2025-08-01,54.13,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2025-08-01,60.55,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Diredawa,RETAIL,2025-08-01,64.11,100 kg,8f1f6604-332a-402b-90ae-0c3e7eded8de
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2025-08-01,68.11,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2025-08-01,56.0,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Shashemene,RETAIL,2025-08-01,53.42,100 kg,69fa5e44-106f-4f6d-84dd-4e48fe933d5c
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2025-09-01,59.18,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2025-09-01,65.97,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c
+Wheat (white),Ethiopia,Mekele,WHOLESALE,2025-09-01,56.98,100 kg,72215a86-2e9f-4fe8-847c-06a88515e79f
+Wheat (white),Ethiopia,Adama City,WHOLESALE,2025-10-01,53.08,100 kg,056e0b00-c74c-4bca-b2a0-5e6b1b7e29d2
+Wheat (white),Ethiopia,Bahirdar,WHOLESALE,2025-10-01,57.53,100 kg,958060c0-0761-41e2-9526-f5fd3f256c05
+Wheat (white),Ethiopia,Jimma,WHOLESALE,2025-10-01,61.23,100 kg,ef1c7e57-db01-43c5-91f8-359d68d7e88c

@@ -1,0 +1,475 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Beans (poroto),Panama,Panama City,RETAIL,2006-01-01,0.8,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2006-01-01,48.4,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2006-02-01,0.8,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2006-02-01,45.2,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2006-03-01,0.8,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2006-03-01,44.8,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2006-04-01,0.79,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2006-04-01,45.8,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2006-05-01,0.75,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2006-05-01,48.8,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2006-06-01,0.73,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2006-06-01,51.2,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2006-07-01,0.73,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2006-07-01,52.6,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2006-08-01,0.73,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2006-08-01,52.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2006-09-01,0.73,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2006-09-01,54.4,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2006-10-01,0.73,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2006-10-01,55.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2006-11-01,0.74,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2006-11-01,60.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2006-12-01,0.71,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2006-12-01,65.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2007-01-01,0.8,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2007-01-01,51.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2007-02-01,0.75,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2007-02-01,47.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2007-03-01,0.67,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2007-03-01,48.6,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2007-04-01,0.7,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2007-04-01,52.4,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2007-05-01,0.72,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2007-05-01,54.8,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2007-06-01,0.75,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2007-06-01,57.6,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2007-07-01,0.77,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2007-07-01,58.8,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2007-08-01,0.77,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2007-08-01,56.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2007-09-01,0.72,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2007-09-01,55.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2007-10-01,0.73,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2007-10-01,57.25,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2007-11-01,0.68,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2007-11-01,57.6,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2007-12-01,0.73,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2007-12-01,59.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2008-01-01,0.77,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2008-01-01,59.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2008-02-01,0.79,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2008-02-01,59.2,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2008-03-01,0.78,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2008-03-01,61.6,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2008-04-01,0.77,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2008-04-01,63.6,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2008-05-01,0.61,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2008-05-01,63.8,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2008-06-01,0.77,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2008-06-01,64.4,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2008-07-01,0.77,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2008-07-01,65.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2008-08-01,0.77,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2008-08-01,65.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2008-09-01,0.83,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2008-09-01,76.2,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2008-10-01,0.91,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2008-10-01,82.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2008-11-01,0.95,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2008-11-01,83.4,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2008-12-01,0.76,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2008-12-01,82.4,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2009-01-01,0.94,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2009-01-01,80.5,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2009-02-01,0.84,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2009-02-01,68.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2009-03-01,0.86,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2009-03-01,72.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2009-04-01,0.87,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2009-04-01,74.4,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2009-05-01,0.87,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2009-05-01,75.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2009-06-01,0.87,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2009-06-01,74.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2009-07-01,0.87,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2009-07-01,74.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2009-08-01,0.87,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2009-08-01,74.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2009-09-01,0.92,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2009-09-01,75.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2009-10-01,0.93,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2009-10-01,74.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2009-11-01,0.93,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2009-11-01,73.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2009-12-01,0.95,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2009-12-01,74.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2010-01-01,0.93,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2010-01-01,68.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2010-02-01,0.93,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2010-02-01,60.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2010-03-01,0.92,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2010-03-01,52.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2010-04-01,0.93,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2010-04-01,51.96,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2010-05-01,0.92,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2010-05-01,49.8,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2010-06-01,0.92,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2010-06-01,47.2,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2010-07-01,0.93,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2010-07-01,50.4,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2010-08-01,0.93,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2010-08-01,53.4,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2010-09-01,0.93,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2010-09-01,56.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2010-10-01,0.93,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2010-10-01,59.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2010-11-01,0.93,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2010-11-01,59.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2010-12-01,0.94,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2010-12-01,63.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2011-01-01,0.95,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2011-01-01,65.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2011-02-01,0.95,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2011-02-01,68.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2011-03-01,0.95,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2011-03-01,66.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2011-04-01,0.95,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2011-04-01,66.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2011-05-01,0.97,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2011-05-01,69.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2011-06-01,0.99,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2011-06-01,76.54,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2011-07-01,1.03,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2011-07-01,77.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2011-08-01,1.03,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2011-08-01,83.6,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2011-09-01,1.03,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2011-09-01,90.8,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2011-10-01,1.05,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2011-10-01,92.24,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2011-11-01,1.07,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2011-11-01,95.48,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2011-12-01,1.07,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2011-12-01,92.92,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2012-01-01,1.05,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2012-01-01,94.72,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2012-02-01,1.03,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2012-02-01,90.4,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2012-03-01,1.02,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2012-03-01,89.6,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2012-04-01,1.01,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2012-04-01,88.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2012-05-01,1.03,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2012-05-01,91.2,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2012-06-01,1.01,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2012-06-01,93.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2012-07-01,1.03,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2012-07-01,95.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2012-08-01,1.04,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2012-08-01,96.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2012-09-01,1.07,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2012-09-01,98.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2012-10-01,1.07,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2012-10-01,98.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2012-11-01,1.07,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2012-11-01,99.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2012-12-01,1.09,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2012-12-01,99.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2013-01-01,1.1,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2013-01-01,98.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2013-02-01,1.1,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2013-02-01,94.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2013-03-01,1.08,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2013-03-01,92.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2013-04-01,1.06,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2013-04-01,89.93,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2013-05-01,1.03,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2013-05-01,88.13,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2013-06-01,1.03,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2013-06-01,89.32,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2013-07-01,1.03,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2013-07-01,89.87,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2013-08-01,1.05,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2013-08-01,93.07,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2013-09-01,1.07,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2013-09-01,97.54,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2013-10-01,1.08,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2013-10-01,97.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2013-11-01,1.08,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2013-11-01,97.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2013-12-01,1.09,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2013-12-01,97.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2014-01-01,1.09,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2014-01-01,97.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2014-02-01,1.1,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2014-02-01,97.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2014-03-01,1.09,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2014-03-01,91.82,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2014-04-01,1.1,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2014-04-01,89.55,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2014-05-01,1.1,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2014-05-01,90.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2014-06-01,1.1,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2014-06-01,94.43,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2014-07-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2014-07-01,88.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2014-08-01,0.97,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2014-08-01,87.18,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2014-09-01,0.97,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2014-09-01,86.57,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2014-10-01,0.98,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2014-10-01,87.34,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2014-11-01,0.98,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2014-11-01,90.14,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2014-12-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2014-12-01,89.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2015-01-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2015-01-01,87.48,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2015-02-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2015-02-01,86.03,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2015-03-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2015-03-01,87.57,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2015-04-01,0.98,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2015-04-01,81.53,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2015-05-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2015-05-01,89.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2015-06-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2015-06-01,90.25,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2015-07-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2015-07-01,92.57,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2015-08-01,0.99,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2015-08-01,92.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2015-09-01,0.99,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2015-09-01,91.45,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2015-10-01,0.99,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2015-10-01,91.09,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2015-11-01,0.99,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2015-11-01,91.46,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2015-12-01,0.99,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2015-12-01,93.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2016-01-01,0.99,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2016-01-01,93.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2016-02-01,0.99,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2016-02-01,93.12,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2016-03-01,0.99,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2016-03-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2016-04-01,0.99,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2016-04-01,90.3,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2016-05-01,0.99,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2016-05-01,90.16,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2016-06-01,0.99,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2016-06-01,92.35,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2016-07-01,1.04,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2016-07-01,94.91,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2016-08-01,1.07,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2016-08-01,94.26,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2016-09-01,1.07,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2016-09-01,93.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2016-10-01,1.06,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2016-10-01,93.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2016-11-01,1.02,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2016-11-01,92.65,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2016-12-01,1.04,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2016-12-01,92.42,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2017-01-01,1.02,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2017-01-01,91.15,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2017-02-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2017-02-01,90.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2017-03-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2017-03-01,90.38,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2017-04-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2017-04-01,95.36,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2017-05-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2017-05-01,99.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2017-06-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2017-06-01,99.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2017-07-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2017-07-01,95.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2017-08-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2017-08-01,95.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2017-09-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2017-09-01,95.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2017-10-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2017-10-01,95.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2017-11-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2017-11-01,98.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2017-12-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2017-12-01,94.8,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2018-01-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2018-01-01,92.93,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2018-02-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2018-02-01,92.59,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2018-03-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2018-03-01,92.11,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2018-04-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2018-04-01,92.62,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2018-05-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2018-05-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2018-06-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2018-06-01,91.32,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2018-07-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2018-07-01,91.32,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2018-08-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2018-08-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2018-09-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2018-09-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2018-10-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2018-10-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2018-11-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2018-11-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2018-12-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2018-12-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2019-01-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2019-01-01,90.56,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2019-02-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2019-02-01,86.94,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2019-03-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2019-03-01,87.28,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2019-04-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2019-04-01,86.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2019-05-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2019-05-01,88.73,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2019-06-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2019-06-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2019-07-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2019-07-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2019-08-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2019-08-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2019-09-01,1.0,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2019-09-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2019-10-01,1.07,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2019-10-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2019-11-01,1.08,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2019-11-01,87.23,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2019-12-01,1.08,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2019-12-01,81.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2020-01-01,1.08,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2020-01-01,82.3,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2020-02-01,1.08,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2020-02-01,78.63,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2020-03-01,1.08,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2020-03-01,84.91,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2020-04-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2020-04-01,89.91,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2020-05-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2020-05-01,97.75,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2020-06-01,1.21,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2020-06-01,99.7,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2020-07-01,1.17,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2020-07-01,98.26,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2020-08-01,1.26,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2020-08-01,99.52,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2020-09-01,1.27,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2020-09-01,98.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2020-10-01,1.27,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2020-10-01,95.15,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2020-11-01,1.27,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2020-11-01,93.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2020-12-01,1.27,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2020-12-01,93.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2021-01-01,1.27,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2021-01-01,93.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2021-02-01,1.27,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2021-02-01,93.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2021-03-01,1.27,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2021-03-01,93.48,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2021-04-01,1.27,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2021-04-01,92.38,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2021-05-01,1.26,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2021-05-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2021-06-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2021-06-01,88.63,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2021-07-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2021-07-01,94.68,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2021-08-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2021-08-01,99.7,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2021-09-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2021-09-01,103.49,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2021-10-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2021-10-01,104.5,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2021-11-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2021-11-01,103.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2021-12-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2021-12-01,101.51,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2022-01-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2022-01-01,98.58,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2022-02-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2022-02-01,93.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2022-03-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2022-03-01,96.14,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2022-04-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2022-04-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2022-05-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2022-05-01,91.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2022-06-01,1.27,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2022-06-01,98.56,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2022-07-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2022-07-01,103.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2022-08-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2022-08-01,100.45,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2022-09-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2022-09-01,102.12,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2022-10-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2022-10-01,104.59,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2022-11-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2022-11-01,102.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2022-12-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2022-12-01,107.12,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2023-01-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2023-01-01,110.7,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2023-02-01,1.25,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2023-02-01,106.35,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2023-03-01,1.28,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2023-03-01,100.73,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2023-04-01,1.31,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2023-04-01,100.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2023-05-01,1.32,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2023-05-01,101.82,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2023-06-01,1.32,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2023-06-01,106.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2023-07-01,1.32,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2023-07-01,106.67,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2023-08-01,1.32,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2023-08-01,109.71,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2023-09-01,1.32,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2023-09-01,105.24,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2023-10-01,1.32,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2023-10-01,106.37,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2023-11-01,1.32,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2023-11-01,108.99,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2023-12-01,1.33,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2023-12-01,121.35,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2024-01-01,1.37,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2024-01-01,122.36,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2024-02-01,1.39,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2024-02-01,112.46,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2024-03-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2024-03-01,105.08,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2024-04-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2024-04-01,100.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2024-05-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2024-05-01,100.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2024-06-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2024-06-01,100.0,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2024-07-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2024-07-01,107.53,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2024-08-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2024-08-01,107.88,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2024-09-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2024-09-01,103.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2024-10-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2024-10-01,103.76,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2024-11-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2024-11-01,114.13,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2024-12-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2024-12-01,118.56,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2025-01-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2025-01-01,117.12,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2025-02-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2025-02-01,117.08,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2025-03-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2025-03-01,118.01,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2025-04-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2025-04-01,116.51,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2025-05-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2025-05-01,114.56,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2025-06-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2025-06-01,118.33,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2025-07-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2025-07-01,121.08,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2025-08-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2025-08-01,121.22,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00
+Beans (poroto),Panama,Panama City,RETAIL,2025-09-01,1.45,Libra,6b0576a0-ebb9-4589-8815-44557f9f6656
+Beans (poroto),Panama,Panama City,WHOLESALE,2025-09-01,122.93,Spanish quintal (46 kg),d3ef3df9-244a-428b-b05f-3d0b46e25a00

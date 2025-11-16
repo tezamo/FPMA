@@ -1,0 +1,657 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2014-12-01,7.49,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2014-12-01,6.96,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2014-12-01,7.49,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2014-12-01,7.71,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2014-12-01,6.42,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2014-12-01,6.96,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2015-01-01,7.48,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2015-01-01,6.95,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2015-01-01,7.48,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2015-01-01,7.7,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2015-01-01,6.41,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2015-01-01,6.95,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2015-02-01,7.45,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2015-02-01,6.91,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2015-02-01,7.45,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2015-02-01,7.66,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2015-02-01,6.38,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2015-02-01,6.91,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2015-03-01,7.43,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2015-03-01,6.9,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2015-03-01,7.43,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2015-03-01,7.64,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2015-03-01,6.37,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2015-03-01,6.9,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2015-04-01,7.41,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2015-04-01,6.88,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2015-04-01,7.41,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2015-04-01,7.62,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2015-04-01,6.35,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2015-04-01,6.88,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2015-05-01,7.33,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2015-05-01,6.81,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2015-05-01,7.33,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2015-05-01,7.46,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2015-05-01,6.29,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2015-05-01,6.81,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2015-06-01,7.18,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2015-06-01,6.58,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2015-06-01,7.13,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2015-06-01,7.24,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2015-06-01,6.07,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2015-06-01,6.83,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2015-07-01,6.69,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2015-07-01,5.91,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2015-07-01,6.19,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2015-07-01,6.55,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2015-07-01,5.46,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2015-07-01,6.37,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2015-08-01,7.11,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2015-08-01,6.24,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2015-08-01,5.73,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2015-08-01,6.92,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2015-08-01,5.92,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2015-08-01,7.68,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2015-09-01,7.14,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2015-09-01,6.27,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2015-09-01,5.74,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2015-09-01,6.95,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2015-09-01,6.56,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2015-09-01,6.95,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2015-10-01,7.0,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2015-10-01,6.15,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2015-10-01,7.19,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2015-10-01,6.81,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2015-10-01,6.43,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2015-10-01,6.81,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2015-11-01,6.73,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2015-11-01,5.91,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2015-11-01,7.5,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2015-11-01,6.55,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2015-11-01,6.19,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2015-11-01,6.59,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2015-12-01,6.54,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2015-12-01,5.75,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2015-12-01,7.52,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2015-12-01,6.37,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2015-12-01,6.01,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2015-12-01,6.54,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2016-01-01,6.38,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2016-01-01,5.59,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2016-01-01,7.31,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2016-01-01,6.19,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2016-01-01,5.85,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2016-01-01,6.36,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2016-02-01,6.2,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2016-02-01,5.38,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2016-02-01,7.03,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2016-02-01,5.95,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2016-02-01,6.62,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2016-02-01,6.12,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2016-03-01,6.08,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2016-03-01,5.27,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2016-03-01,6.89,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2016-03-01,5.84,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2016-03-01,6.49,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2016-03-01,6.0,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2016-04-01,6.07,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2016-04-01,5.26,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2016-04-01,6.87,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2016-04-01,5.82,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2016-04-01,5.94,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2016-04-01,5.99,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2016-05-01,6.04,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2016-05-01,5.24,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2016-05-01,6.85,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2016-05-01,5.8,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2016-05-01,5.74,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2016-05-01,5.96,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2016-06-01,6.05,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2016-06-01,5.19,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2016-06-01,6.79,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2016-06-01,5.75,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2016-06-01,5.59,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2016-06-01,5.91,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2016-07-01,6.0,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2016-07-01,5.13,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2016-07-01,6.71,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2016-07-01,6.06,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2016-07-01,5.53,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2016-07-01,5.84,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2016-08-01,5.87,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2016-08-01,5.05,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2016-08-01,6.6,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2016-08-01,6.22,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2016-08-01,5.44,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2016-08-01,5.75,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2016-09-01,5.71,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2016-09-01,4.95,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2016-09-01,6.47,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2016-09-01,6.09,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2016-09-01,5.52,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2016-09-01,5.64,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2016-10-01,5.71,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2016-10-01,4.93,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2016-10-01,6.45,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2016-10-01,6.07,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2016-10-01,6.07,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2016-10-01,6.22,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2016-11-01,5.69,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2016-11-01,4.87,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2016-11-01,6.37,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2016-11-01,5.99,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2016-11-01,5.99,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2016-11-01,6.74,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2016-12-01,5.95,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2016-12-01,4.83,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2016-12-01,6.32,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2016-12-01,5.95,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2016-12-01,5.58,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2016-12-01,5.95,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2017-01-01,5.92,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2017-01-01,4.81,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2017-01-01,6.29,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2017-01-01,5.92,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2017-01-01,5.82,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2017-01-01,5.92,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2017-02-01,5.87,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2017-02-01,4.77,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2017-02-01,6.24,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2017-02-01,5.87,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2017-02-01,5.87,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2017-02-01,5.87,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2017-03-01,5.8,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2017-03-01,4.71,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2017-03-01,5.98,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2017-03-01,5.8,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2017-03-01,5.8,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2017-03-01,5.8,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2017-04-01,5.81,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2017-04-01,4.72,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2017-04-01,5.45,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2017-04-01,5.96,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2017-04-01,5.81,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2017-04-01,5.81,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2017-05-01,6.24,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2017-05-01,5.07,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2017-05-01,5.85,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2017-05-01,7.02,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2017-05-01,6.24,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2017-05-01,6.24,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2017-06-01,6.43,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2017-06-01,5.23,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2017-06-01,6.03,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2017-06-01,7.23,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2017-06-01,6.43,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2017-06-01,6.43,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2017-07-01,6.4,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2017-07-01,5.2,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2017-07-01,6.0,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2017-07-01,7.2,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2017-07-01,6.4,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2017-07-01,6.4,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2017-08-01,7.19,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2017-08-01,5.19,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2017-08-01,6.09,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2017-08-01,7.19,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2017-08-01,6.39,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2017-08-01,6.39,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2017-09-01,7.17,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2017-09-01,5.18,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2017-09-01,6.37,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2017-09-01,7.17,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2017-09-01,6.37,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2017-09-01,7.17,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2017-10-01,6.36,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2017-10-01,6.36,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2017-10-01,7.14,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2017-10-01,6.68,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2017-10-01,6.89,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2017-11-01,6.34,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2017-11-01,6.34,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2017-11-01,7.12,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2017-11-01,6.57,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2017-11-01,6.34,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2017-12-01,6.3,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2017-12-01,6.3,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2017-12-01,6.97,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2017-12-01,6.3,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2018-01-01,6.27,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2018-01-01,6.27,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2018-01-01,7.0,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2018-01-01,6.27,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2018-02-01,6.25,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2018-02-01,6.25,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2018-02-01,6.98,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2018-02-01,6.25,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2018-03-01,6.17,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2018-03-01,6.25,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2018-03-01,6.9,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2018-03-01,6.17,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2018-04-01,6.12,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2018-04-01,6.5,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2018-04-01,6.87,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2018-04-01,6.12,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2018-05-01,6.07,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2018-05-01,6.45,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2018-05-01,6.83,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2018-05-01,6.07,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2018-06-01,6.02,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2018-06-01,6.39,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2018-06-01,6.76,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2018-06-01,6.02,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2018-07-01,5.95,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2018-07-01,6.32,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2018-07-01,6.69,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2018-07-01,5.95,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2018-08-01,5.84,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2018-08-01,6.21,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2018-08-01,6.21,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2018-08-01,6.57,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2018-08-01,6.39,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2018-09-01,5.76,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2018-09-01,6.12,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2018-09-01,6.12,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2018-09-01,6.33,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2018-09-01,6.48,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2018-10-01,5.98,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2018-10-01,5.98,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2018-10-01,5.98,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2018-10-01,6.31,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2018-10-01,6.33,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2018-11-01,5.96,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2018-11-01,5.79,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2018-11-01,6.1,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2018-11-01,6.21,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2018-12-01,5.9,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2018-12-01,5.57,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2018-12-01,5.9,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2018-12-01,6.37,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2019-01-01,5.75,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2019-01-01,5.43,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2019-01-01,5.82,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2019-01-01,5.75,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2019-01-01,6.38,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2019-02-01,5.51,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2019-02-01,5.16,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2019-02-01,6.05,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2019-02-01,5.46,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2019-02-01,6.07,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2019-03-01,5.85,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2019-03-01,5.16,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2019-03-01,6.07,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2019-03-01,5.58,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2019-03-01,6.19,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2019-04-01,5.86,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2019-04-01,4.98,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2019-04-01,5.86,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2019-04-01,5.86,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2019-04-01,6.23,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2019-05-01,6.49,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2019-05-01,4.87,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2019-05-01,5.65,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2019-05-01,5.65,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2019-05-01,5.93,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2019-06-01,7.01,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2019-06-01,5.07,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2019-06-01,5.39,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2019-06-01,5.39,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2019-06-01,5.93,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2019-07-01,6.13,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2019-07-01,6.4,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2019-07-01,5.33,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2019-07-01,6.13,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2019-07-01,6.0,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2019-08-01,5.89,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2019-08-01,6.43,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2019-08-01,5.36,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2019-08-01,6.43,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2019-08-01,5.89,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2019-09-01,6.03,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2019-09-01,6.43,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2019-09-01,5.42,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2019-09-01,10.04,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2019-09-01,6.29,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2019-10-01,6.58,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2019-10-01,6.52,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2019-10-01,6.24,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2019-10-01,6.52,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2019-10-01,6.52,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2019-11-01,6.82,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2019-11-01,6.55,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2019-11-01,6.87,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2019-11-01,6.55,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2019-11-01,6.55,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2019-12-01,6.6,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2019-12-01,6.53,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2019-12-01,6.12,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2019-12-01,6.53,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2019-12-01,6.53,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2020-01-01,6.51,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2020-01-01,6.51,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2020-01-01,5.97,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2020-01-01,6.51,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2020-01-01,6.51,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2020-02-01,6.4,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2020-02-01,6.93,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2020-02-01,6.4,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2020-02-01,6.13,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2020-02-01,6.4,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2020-02-01,6.4,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2020-03-01,6.21,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2020-03-01,6.72,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2020-03-01,6.53,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2020-03-01,6.4,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2020-03-01,6.59,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2020-03-01,6.59,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2020-04-01,6.75,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2020-04-01,6.5,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2020-04-01,6.5,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2020-04-01,6.63,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2020-04-01,7.0,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2020-04-01,7.0,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2020-05-01,6.3,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2020-05-01,6.58,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2020-05-01,6.11,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2020-05-01,6.64,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2020-05-01,6.58,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2020-05-01,6.96,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2020-06-01,6.33,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2020-06-01,6.33,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2020-06-01,6.05,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2020-06-01,6.79,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2020-06-01,6.33,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2020-06-01,6.79,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2020-07-01,5.99,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2020-07-01,5.99,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2020-07-01,6.42,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2020-07-01,6.42,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2020-07-01,5.99,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2020-07-01,6.64,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2020-08-01,5.85,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2020-08-01,5.93,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2020-08-01,6.27,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2020-08-01,6.27,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2020-08-01,5.85,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2020-08-01,6.6,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2020-09-01,7.63,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2020-09-01,8.64,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2020-09-01,8.35,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2020-09-01,8.21,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2020-09-01,7.49,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2020-09-01,6.91,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2020-10-01,7.91,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2020-10-01,10.0,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2020-10-01,9.38,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2020-10-01,9.53,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2020-10-01,9.38,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2020-10-01,9.38,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2020-11-01,8.12,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2020-11-01,9.58,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2020-11-01,9.39,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2020-11-01,9.46,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2020-11-01,9.39,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2020-11-01,9.58,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2020-12-01,8.39,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2020-12-01,9.38,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2020-12-01,8.66,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2020-12-01,8.68,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2020-12-01,8.66,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2020-12-01,8.66,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2021-01-01,8.28,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2021-01-01,8.97,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2021-01-01,8.28,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2021-01-01,8.28,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2021-01-01,8.28,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2021-01-01,8.28,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2021-02-01,8.1,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2021-02-01,9.45,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2021-02-01,8.61,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2021-02-01,8.74,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2021-02-01,8.27,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2021-02-01,8.44,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2021-03-01,8.39,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2021-03-01,9.04,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2021-03-01,8.72,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2021-03-01,8.96,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2021-03-01,8.72,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2021-03-01,8.88,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2021-04-01,7.85,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2021-04-01,8.46,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2021-04-01,9.06,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2021-04-01,9.06,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2021-04-01,8.16,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2021-04-01,8.91,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2021-05-01,8.17,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2021-05-01,7.95,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2021-05-01,8.51,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2021-05-01,8.88,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2021-05-01,7.83,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2021-05-01,8.63,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2021-06-01,8.22,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2021-06-01,8.08,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2021-06-01,8.22,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2021-06-01,8.82,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2021-06-01,7.67,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2021-06-01,8.22,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2021-07-01,8.01,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2021-07-01,9.39,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2021-07-01,9.07,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2021-07-01,9.27,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2021-07-01,8.33,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2021-07-01,8.54,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2021-08-01,8.57,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2021-08-01,10.39,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2021-08-01,9.61,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2021-08-01,9.79,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2021-08-01,8.83,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2021-08-01,8.31,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2021-09-01,9.24,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2021-09-01,10.91,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2021-09-01,9.5,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2021-09-01,10.1,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2021-09-01,9.24,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2021-09-01,8.47,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2021-10-01,10.15,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2021-10-01,11.26,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2021-10-01,9.84,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2021-10-01,11.05,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2021-10-01,10.15,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2021-10-01,9.54,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2021-11-01,10.13,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2021-11-01,11.65,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2021-11-01,10.0,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2021-11-01,12.67,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2021-11-01,10.13,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2021-11-01,10.13,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2021-12-01,9.99,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2021-12-01,11.49,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2021-12-01,10.99,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2021-12-01,12.49,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2021-12-01,10.49,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2021-12-01,9.99,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2022-01-01,9.88,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2022-01-01,11.36,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2022-01-01,10.87,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2022-01-01,12.35,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2022-01-01,11.26,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2022-01-01,11.07,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2022-02-01,9.78,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2022-02-01,11.74,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2022-02-01,10.76,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2022-02-01,12.22,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2022-02-01,11.74,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2022-02-01,11.74,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2022-03-01,11.38,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2022-03-01,11.5,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2022-03-01,10.66,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2022-03-01,11.97,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2022-03-01,11.5,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2022-03-01,11.85,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2022-04-01,13.65,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2022-04-01,12.6,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2022-04-01,11.3,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2022-04-01,13.14,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2022-04-01,11.48,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2022-04-01,12.24,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2022-05-01,16.03,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2022-05-01,12.83,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2022-05-01,13.69,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2022-05-01,12.6,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2022-05-01,12.83,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2022-06-01,13.32,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2022-06-01,12.87,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2022-06-01,13.32,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2022-06-01,12.76,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2022-06-01,12.43,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2022-06-01,13.32,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2022-07-01,13.64,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2022-07-01,12.94,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2022-07-01,13.73,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2022-07-01,14.08,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2022-07-01,13.38,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2022-08-01,14.42,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2022-08-01,13.5,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2022-08-01,13.57,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2022-08-01,13.19,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2022-08-01,13.91,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2022-09-01,14.38,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2022-09-01,14.81,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2022-09-01,14.62,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2022-09-01,13.74,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2022-09-01,13.52,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2022-10-01,15.89,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2022-10-01,14.74,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2022-10-01,18.82,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2022-10-01,13.35,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2022-10-01,14.58,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2022-11-01,14.81,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2022-11-01,13.7,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2022-11-01,15.7,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2022-11-01,14.34,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2022-11-01,14.81,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2022-12-01,13.98,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2022-12-01,16.18,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2022-12-01,13.7,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2022-12-01,13.98,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2023-01-01,13.62,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2023-01-01,15.53,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2023-01-01,13.11,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2023-01-01,13.79,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2023-02-01,13.39,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2023-02-01,15.3,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2023-02-01,14.4,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2023-02-01,14.56,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2023-03-01,13.04,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2023-03-01,14.88,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2023-03-01,14.35,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2023-03-01,12.96,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2023-04-01,13.01,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2023-04-01,13.74,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2023-04-01,14.11,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2023-04-01,14.5,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2023-05-01,14.29,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2023-05-01,13.33,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2023-05-01,14.97,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2023-05-01,14.37,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2023-06-01,10.39,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2023-06-01,13.03,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2023-06-01,14.46,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2023-06-01,14.19,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2023-07-01,11.52,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2023-07-01,12.75,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2023-07-01,14.51,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2023-07-01,12.34,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2023-08-01,10.55,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2023-08-01,12.92,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2023-08-01,14.68,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2023-08-01,11.01,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2023-09-01,9.23,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2023-09-01,12.94,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2023-09-01,14.77,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2023-09-01,11.08,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2023-10-01,11.62,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2023-10-01,13.63,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2023-10-01,15.71,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2023-10-01,11.79,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2023-11-01,15.08,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2023-11-01,13.93,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2023-11-01,15.83,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2023-11-01,13.01,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2023-12-01,13.64,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2023-12-01,13.86,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2023-12-01,15.91,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2023-12-01,13.03,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2024-01-01,13.3,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2024-01-01,13.95,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2024-01-01,16.24,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2024-01-01,13.01,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2024-02-01,12.31,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2024-02-01,13.0,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2024-02-01,16.11,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2024-02-01,12.97,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2024-03-01,9.65,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2024-03-01,14.19,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2024-03-01,16.19,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2024-03-01,13.12,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2024-04-01,9.07,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2024-04-01,14.14,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2024-04-01,16.25,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2024-04-01,13.23,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2024-05-01,10.56,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2024-05-01,13.99,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2024-05-01,16.22,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2024-05-01,13.21,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2024-06-01,12.25,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2024-06-01,12.85,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2024-06-01,16.21,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2024-06-01,13.19,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2024-08-01,9.12,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2024-08-01,15.21,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2024-08-01,12.93,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2024-08-01,15.21,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2024-08-01,13.31,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2024-09-01,9.05,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2024-09-01,15.08,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2024-09-01,13.07,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2024-09-01,15.08,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2024-09-01,12.95,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2024-11-01,10.04,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2024-11-01,15.21,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2024-11-01,13.31,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2024-11-01,15.21,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2024-11-01,13.31,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2024-12-01,10.7,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2024-12-01,15.28,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2024-12-01,13.37,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2024-12-01,15.28,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2024-12-01,13.37,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2025-01-01,10.75,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2025-01-01,14.59,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2025-01-01,11.52,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2025-01-01,13.76,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2025-01-01,15.36,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2025-01-01,12.67,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2025-06-01,10.7,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2025-06-01,12.99,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2025-06-01,12.23,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2025-06-01,12.99,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2025-06-01,13.76,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2025-06-01,10.7,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2025-07-01,1425.0,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2025-07-01,1775.0,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jacmel,RETAIL,2025-07-01,1600.0,Gallon,28101728-d9f0-4b94-b9f9-bc8795b8a098
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2025-07-01,1675.0,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2025-07-01,1850.0,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2025-07-01,1400.0,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2025-08-01,11.46,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2025-08-01,15.29,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2025-08-01,12.8,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2025-08-01,15.29,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2025-08-01,11.27,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34
+"Vegetable oil (Alberto, imported)",Haiti,Cap Haitien,RETAIL,2025-09-01,11.47,Gallon,fa26c27c-9570-4030-b724-37faba9045fc
+"Vegetable oil (Alberto, imported)",Haiti,Hinche,RETAIL,2025-09-01,15.29,Gallon,94654e7d-67b6-4313-a857-f2299af08068
+"Vegetable oil (Alberto, imported)",Haiti,Jeremie,RETAIL,2025-09-01,12.99,Gallon,7fbfb0c7-d9c5-4f49-98a9-6c9df5e78ca3
+"Vegetable oil (Alberto, imported)",Haiti,Ouanaminthe,RETAIL,2025-09-01,15.29,Gallon,68347600-71f1-4214-901a-25607d4aaf04
+"Vegetable oil (Alberto, imported)",Haiti,Port-au-Prince,RETAIL,2025-09-01,11.47,Gallon,fb88c9a6-3820-4446-850e-96ca52d94e34

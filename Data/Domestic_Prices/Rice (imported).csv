@@ -1,0 +1,524 @@
+commodity_name,country,market,price_type,date,price_usd,unit,uuid
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2016-06-01,1.76,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2016-06-01,1.62,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2016-06-01,1.66,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,Zarqa,RETAIL,2016-06-01,1.62,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2017-01-01,1.76,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2017-01-01,1.72,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2017-01-01,1.85,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2017-01-01,1.74,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2017-01-01,1.76,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2017-02-01,1.85,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2017-02-01,1.68,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2017-02-01,1.69,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2017-02-01,1.75,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2017-02-01,1.71,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2017-03-01,1.85,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2017-03-01,1.68,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2017-03-01,1.69,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2017-03-01,1.75,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2017-03-01,1.72,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2017-04-01,1.85,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2017-04-01,1.68,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2017-04-01,1.69,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2017-04-01,1.75,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2017-04-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2017-05-01,1.85,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2017-05-01,1.68,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2017-05-01,1.69,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2017-05-01,1.75,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2017-05-01,1.72,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2017-06-01,1.85,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2017-06-01,1.66,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2017-06-01,1.68,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2017-06-01,1.74,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2017-06-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2017-07-01,1.85,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2017-07-01,1.64,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2017-07-01,1.68,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2017-07-01,1.74,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2017-07-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2017-08-01,1.85,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2017-08-01,1.64,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2017-08-01,1.68,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2017-08-01,1.74,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2017-08-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2017-09-01,1.85,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2017-09-01,1.64,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2017-09-01,1.68,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2017-09-01,1.74,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2017-09-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2017-10-01,1.85,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2017-10-01,1.64,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2017-10-01,1.69,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2017-10-01,1.74,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2017-10-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2017-11-01,1.85,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2017-11-01,1.65,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2017-11-01,1.64,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2017-11-01,1.71,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2017-11-01,1.71,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2017-12-01,1.85,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2017-12-01,1.65,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2017-12-01,1.69,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2017-12-01,1.75,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2017-12-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2018-01-01,1.85,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2018-01-01,1.64,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2018-01-01,1.64,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2018-01-01,1.72,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2018-01-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2018-02-01,1.86,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2018-02-01,1.64,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2018-02-01,1.66,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2018-02-01,1.71,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2018-02-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2018-03-01,1.86,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2018-03-01,1.64,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2018-03-01,1.69,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2018-03-01,1.71,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2018-03-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2018-04-01,1.86,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2018-04-01,1.64,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2018-04-01,1.66,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2018-04-01,1.71,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2018-04-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2018-05-01,1.86,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2018-05-01,1.64,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2018-05-01,1.65,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2018-05-01,1.71,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2018-05-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2018-06-01,1.86,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2018-06-01,1.62,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2018-06-01,1.64,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2018-06-01,1.71,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2018-06-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2018-07-01,1.86,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2018-07-01,1.64,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2018-07-01,1.64,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2018-07-01,1.71,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2018-07-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2018-08-01,1.86,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2018-08-01,1.65,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2018-08-01,1.64,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2018-08-01,1.71,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2018-08-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2018-09-01,1.86,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2018-09-01,1.65,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2018-09-01,1.65,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2018-09-01,1.72,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2018-09-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2018-10-01,1.86,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2018-10-01,1.66,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2018-10-01,1.68,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2018-10-01,1.72,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2018-10-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2018-11-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2018-11-01,1.69,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2018-11-01,1.81,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2018-11-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2018-11-01,1.72,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2018-12-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2018-12-01,1.69,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2018-12-01,1.83,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2018-12-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2018-12-01,1.76,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2019-01-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2019-01-01,1.69,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2019-01-01,1.82,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2019-01-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2019-01-01,1.75,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2019-02-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2019-02-01,1.69,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2019-02-01,1.82,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2019-02-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2019-02-01,1.75,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2019-03-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2019-03-01,1.69,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2019-03-01,1.83,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2019-03-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2019-03-01,1.75,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2019-04-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2019-04-01,1.69,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2019-04-01,1.83,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2019-04-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2019-04-01,1.73,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2019-05-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2019-05-01,1.7,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2019-05-01,1.83,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2019-05-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2019-05-01,1.73,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2019-06-01,1.86,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2019-06-01,1.62,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2019-06-01,1.63,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2019-06-01,1.7,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2019-06-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2019-07-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2019-07-01,1.75,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2019-07-01,1.83,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2019-07-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2019-07-01,1.73,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2019-08-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2019-08-01,1.77,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2019-08-01,1.83,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2019-08-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2019-08-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2019-09-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2019-09-01,1.79,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2019-09-01,1.82,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2019-09-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2019-09-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2019-10-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2019-10-01,1.79,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2019-10-01,1.82,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2019-10-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2019-10-01,1.66,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2019-11-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2019-11-01,1.9,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2019-11-01,1.83,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2019-11-01,1.83,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2019-11-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2019-12-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2019-12-01,1.9,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2019-12-01,1.83,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2019-12-01,1.83,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2019-12-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2020-01-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2020-01-01,1.92,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2020-01-01,1.83,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2020-01-01,1.83,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2020-01-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2020-02-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2020-02-01,1.92,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2020-02-01,1.83,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2020-02-01,1.83,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2020-02-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2020-03-01,1.87,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2020-03-01,1.69,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2020-03-01,1.75,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2020-03-01,1.77,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2020-03-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2020-04-01,1.87,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2020-04-01,1.83,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2020-04-01,1.75,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2020-04-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2020-04-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2020-05-01,1.87,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2020-05-01,1.83,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2020-05-01,1.75,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2020-05-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2020-05-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2020-06-01,1.87,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2020-06-01,1.83,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2020-06-01,1.75,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2020-06-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2020-06-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2020-07-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2020-07-01,1.83,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2020-07-01,1.69,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2020-07-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2020-07-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2020-08-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2020-08-01,1.76,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2020-08-01,1.61,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2020-08-01,1.77,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2020-08-01,1.7,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2020-09-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2020-09-01,1.76,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2020-09-01,1.61,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2020-09-01,1.77,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2020-09-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2020-10-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2020-10-01,1.76,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2020-10-01,1.61,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2020-10-01,1.77,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2020-10-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2020-11-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2020-11-01,1.75,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2020-11-01,1.76,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2020-11-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2020-11-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2020-12-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2020-12-01,1.75,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2020-12-01,1.76,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2020-12-01,1.79,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2020-12-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2021-01-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2021-01-01,1.76,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2021-01-01,1.89,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2021-01-01,1.82,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2021-01-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2021-02-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2021-02-01,1.73,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2021-02-01,1.76,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2021-02-01,1.8,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2021-02-01,1.73,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2021-03-01,1.9,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2021-03-01,1.75,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2021-03-01,1.79,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2021-03-01,1.83,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2021-03-01,1.76,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2021-04-01,1.9,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2021-04-01,1.76,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2021-04-01,1.79,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2021-04-01,1.83,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2021-04-01,1.72,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2021-05-01,1.9,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2021-05-01,1.73,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2021-05-01,1.79,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2021-05-01,1.83,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2021-05-01,1.72,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2021-06-01,1.9,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2021-06-01,1.73,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2021-06-01,1.79,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2021-06-01,1.82,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2021-06-01,1.72,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2021-07-01,1.92,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2021-07-01,1.75,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2021-07-01,1.79,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2021-07-01,1.83,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2021-07-01,1.72,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2021-08-01,1.92,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2021-08-01,1.75,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2021-08-01,1.77,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2021-08-01,1.82,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2021-08-01,1.73,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2021-09-01,1.92,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2021-09-01,1.76,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2021-09-01,1.76,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2021-09-01,1.83,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2021-09-01,1.73,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2021-10-01,1.92,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2021-10-01,1.73,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2021-10-01,1.75,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2021-10-01,1.82,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2021-10-01,1.72,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2021-11-01,1.92,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2021-11-01,1.72,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2021-11-01,1.73,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2021-11-01,1.82,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2021-11-01,1.72,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2021-12-01,1.92,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2021-12-01,1.73,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2021-12-01,1.73,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2021-12-01,1.82,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2021-12-01,1.72,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2022-01-01,1.92,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2022-01-01,1.73,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2022-01-01,1.73,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2022-01-01,1.82,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2022-01-01,1.72,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2022-02-01,1.92,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2022-02-01,1.76,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2022-02-01,1.73,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2022-02-01,1.83,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2022-02-01,1.68,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2022-03-01,2.0,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2022-03-01,1.8,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2022-03-01,1.99,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2022-03-01,1.89,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2022-03-01,1.69,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2022-04-01,2.0,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2022-04-01,1.82,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2022-04-01,1.99,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2022-04-01,1.9,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2022-04-01,1.73,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2022-05-01,2.0,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2022-05-01,1.9,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2022-05-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2022-05-01,1.9,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2022-05-01,1.75,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2022-06-01,2.01,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2022-06-01,1.9,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2022-06-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2022-06-01,1.92,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2022-06-01,1.75,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2022-07-01,2.01,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2022-07-01,1.9,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2022-07-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2022-07-01,1.92,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2022-07-01,1.75,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2022-08-01,2.01,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2022-08-01,1.9,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2022-08-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2022-08-01,1.9,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2022-08-01,1.76,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2022-09-01,1.87,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2022-09-01,1.92,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2022-09-01,1.99,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2022-09-01,1.87,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2022-09-01,1.76,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2022-10-01,1.79,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2022-10-01,1.92,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2022-10-01,1.99,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2022-10-01,1.87,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2022-10-01,1.79,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2022-11-01,1.79,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2022-11-01,1.89,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2022-11-01,1.99,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2022-11-01,1.87,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2022-11-01,1.85,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2022-12-01,1.79,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2022-12-01,1.9,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2022-12-01,1.99,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2022-12-01,1.89,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2022-12-01,1.85,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2023-01-01,1.79,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2023-01-01,1.89,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2023-01-01,1.99,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2023-01-01,1.89,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2023-01-01,1.79,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2023-02-01,1.92,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2023-02-01,1.9,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2023-02-01,2.0,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2023-02-01,1.93,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2023-02-01,1.8,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2023-03-01,2.01,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2023-03-01,1.9,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2023-03-01,2.0,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2023-03-01,1.94,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2023-03-01,1.92,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2023-04-01,2.01,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2023-04-01,1.89,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2023-04-01,2.0,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2023-04-01,1.94,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2023-04-01,1.92,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2023-05-01,2.01,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2023-05-01,1.9,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2023-05-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2023-05-01,1.97,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2023-05-01,1.93,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2023-06-01,2.01,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2023-06-01,1.92,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2023-06-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2023-06-01,1.97,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2023-06-01,1.93,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2023-07-01,2.01,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2023-07-01,1.92,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2023-07-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2023-07-01,1.97,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2023-07-01,1.97,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2023-08-01,2.01,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2023-08-01,1.9,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2023-08-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2023-08-01,1.96,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2023-08-01,1.97,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2023-09-01,2.01,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2023-09-01,1.9,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2023-09-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2023-09-01,1.96,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2023-09-01,1.97,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2023-10-01,2.01,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2023-10-01,1.93,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2023-10-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2023-10-01,1.97,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2023-10-01,1.97,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2023-11-01,2.01,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2023-11-01,1.93,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2023-11-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2023-11-01,1.97,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2023-11-01,1.97,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2023-12-01,2.01,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2023-12-01,1.94,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2023-12-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2023-12-01,1.97,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2023-12-01,1.97,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2024-01-01,2.03,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2024-01-01,1.94,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2024-01-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2024-01-01,1.97,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2024-01-01,1.97,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2024-02-01,2.03,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2024-02-01,1.96,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2024-02-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2024-02-01,1.97,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2024-02-01,1.97,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2024-03-01,2.03,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2024-03-01,1.96,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2024-03-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2024-03-01,1.99,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2024-03-01,1.99,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2024-04-01,2.03,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2024-04-01,1.99,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2024-04-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2024-04-01,2.0,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2024-04-01,1.99,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2024-05-01,2.03,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2024-05-01,2.01,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2024-05-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2024-05-01,2.01,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2024-05-01,1.99,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2024-06-01,2.03,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2024-06-01,2.01,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2024-06-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2024-06-01,2.01,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2024-06-01,1.99,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2024-07-01,2.03,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2024-07-01,2.03,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2024-07-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2024-07-01,2.01,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2024-07-01,2.0,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2024-08-01,2.03,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2024-08-01,2.03,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2024-08-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2024-08-01,2.01,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2024-08-01,2.0,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2024-09-01,1.97,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2024-09-01,2.01,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2024-09-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2024-09-01,2.0,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2024-09-01,2.0,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2024-10-01,2.03,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2024-10-01,2.03,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2024-10-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2024-10-01,2.0,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2024-10-01,2.0,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2024-11-01,2.03,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2024-11-01,2.03,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2024-11-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2024-11-01,2.01,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2024-11-01,2.0,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2024-12-01,2.03,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2024-12-01,2.03,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2024-12-01,2.03,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2024-12-01,2.01,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2024-12-01,2.0,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2025-01-01,2.03,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2025-01-01,2.03,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2025-01-01,2.03,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2025-01-01,2.01,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2025-01-01,2.0,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2025-02-01,1.97,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2025-02-01,2.03,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2025-02-01,2.03,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2025-02-01,2.01,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2025-02-01,2.0,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2025-03-01,1.94,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2025-03-01,2.01,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2025-03-01,2.03,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2025-03-01,2.0,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2025-03-01,1.99,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2025-04-01,1.89,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2025-04-01,2.0,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2025-04-01,2.03,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2025-04-01,1.99,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2025-04-01,1.97,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2025-05-01,1.87,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2025-05-01,1.99,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2025-05-01,2.03,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2025-05-01,1.99,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2025-05-01,1.97,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2025-06-01,1.87,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2025-06-01,1.99,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2025-06-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2025-06-01,1.99,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2025-06-01,1.97,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2025-07-01,1.87,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2025-07-01,1.99,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2025-07-01,2.01,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,National Average,RETAIL,2025-07-01,1.99,Kg,562605d8-b8c9-4978-9ea7-b164f3dd806f
+Rice (Imported),Jordan,Zarqa,RETAIL,2025-07-01,1.97,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
+Rice (Imported),Jordan,Al Mafraq,RETAIL,2025-08-01,1.86,Kg,bd23a361-9b5a-40d0-8150-2f6805d5f84d
+Rice (Imported),Jordan,Amman,RETAIL,2025-08-01,2.0,Kg,d3ff9ead-cd07-4934-a29d-6b5a966f7623
+Rice (Imported),Jordan,Irbid,RETAIL,2025-08-01,2.02,Kg,984b7e52-9283-4a57-ad18-eeb20bb54e97
+Rice (Imported),Jordan,Zarqa,RETAIL,2025-08-01,1.97,Kg,4acece3f-0c54-4ec6-9c02-b9a366ea5daf
