@@ -1,0 +1,827 @@
+date,price_usd,commodity_name,country,market,price_type,unit
+2000-01-01,203.57,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2000-02-01,203.08,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2000-03-01,188.75,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2000-04-01,177.98,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2000-05-01,165.75,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2000-06-01,164.76,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2000-07-01,159.46,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2000-08-01,159.4,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2000-09-01,154.62,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2000-10-01,162.18,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2000-11-01,158.13,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2000-12-01,158.05,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2001-01-01,158.55,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2001-02-01,158.42,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2001-03-01,147.75,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2001-04-01,137.93,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2001-05-01,139.47,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2001-06-01,144.97,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2001-07-01,148.22,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2001-08-01,149.22,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2001-09-01,154.48,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2001-10-01,151.28,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2001-11-01,151.04,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2001-12-01,154.99,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2002-01-01,166.71,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2002-02-01,170.89,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2002-03-01,166.34,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2002-04-01,167.93,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2002-05-01,175.28,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2002-06-01,177.08,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2002-07-01,173.18,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2002-08-01,167.11,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2002-09-01,164.21,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2002-10-01,166.17,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2002-11-01,167.07,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2002-12-01,165.81,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2003-01-01,174.69,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2003-02-01,174.26,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2003-03-01,170.81,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2003-04-01,170.24,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2003-05-01,173.33,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2003-06-01,178.53,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2003-07-01,173.77,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2003-08-01,169.9,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2003-09-01,174.26,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2003-10-01,173.64,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2003-11-01,170.79,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2003-12-01,175.14,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2004-01-01,187.92,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2004-02-01,190.72,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2004-03-01,214.27,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2004-04-01,216.56,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2004-05-01,209.59,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2004-06-01,209.61,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2004-07-01,211.97,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2004-08-01,217.08,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2004-09-01,211.24,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2004-10-01,211.68,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2004-11-01,224.21,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2004-12-01,246.26,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2005-01-01,254.31,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2005-02-01,258.42,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2005-03-01,258.64,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2005-04-01,260.8,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2005-05-01,256.99,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2005-06-01,248.93,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2005-07-01,240.63,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2005-08-01,247.94,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2005-09-01,249.25,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2005-10-01,250.5,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2005-11-01,242.26,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2005-12-01,244.35,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2006-01-01,255.44,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2006-02-01,262.64,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2006-03-01,265.34,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2006-04-01,265.2,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2006-05-01,261.41,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2006-06-01,259.13,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2006-07-01,261.48,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2006-08-01,261.38,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2006-09-01,262.25,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2006-10-01,259.86,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2006-11-01,263.05,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2006-12-01,271.3,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2007-01-01,277.65,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2007-02-01,279.48,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2007-03-01,279.57,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2007-04-01,281.05,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2007-05-01,283.14,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2007-06-01,284.26,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2007-07-01,290.78,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2007-08-01,287.28,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2007-09-01,286.73,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2007-10-01,292.46,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2007-11-01,312.51,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2007-12-01,327.38,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2008-01-01,345.88,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2008-02-01,414.4,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2008-03-01,535.09,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2008-04-01,795.65,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2008-05-01,747.48,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2008-06-01,622.05,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2008-07-01,606.09,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2008-08-01,544.31,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2008-09-01,553.84,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2008-10-01,462.12,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2008-11-01,416.83,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2008-12-01,402.52,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2009-01-01,439.55,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2009-02-01,444.17,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2009-03-01,429.86,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2009-04-01,404.69,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2009-05-01,410.34,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2009-06-01,431.38,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2009-07-01,437.09,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2009-08-01,405.38,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2009-09-01,401.66,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2009-10-01,383.74,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2009-11-01,424.49,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2009-12-01,473.76,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2010-01-01,471.25,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2010-02-01,441.42,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2010-03-01,408.2,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2010-04-01,366.52,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2010-05-01,361.93,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2010-06-01,359.19,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2010-07-01,361.4,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2010-08-01,383.62,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2010-09-01,408.97,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2010-10-01,419.27,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2010-11-01,443.35,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2010-12-01,449.39,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2011-01-01,434.76,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2011-02-01,447.81,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2011-03-01,416.69,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2011-04-01,409.56,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2011-05-01,408.72,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2011-06-01,437.66,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2011-07-01,462.41,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2011-08-01,487.41,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2011-09-01,517.93,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2011-10-01,520.79,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2011-11-01,552.57,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2011-12-01,522.91,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2012-01-01,479.47,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2012-02-01,484.32,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2012-03-01,488.21,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2012-04-01,504.38,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2012-05-01,554.61,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2012-06-01,556.33,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2012-07-01,526.16,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2012-08-01,524.41,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2012-09-01,526.95,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2012-10-01,526.27,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2012-11-01,523.89,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2012-12-01,520.99,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2013-01-01,533.82,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2013-02-01,535.0,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2013-03-01,515.2,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2013-04-01,517.15,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2013-05-01,505.36,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2013-06-01,486.08,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2013-07-01,470.69,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2013-08-01,432.54,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2013-09-01,398.02,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2013-10-01,388.51,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2013-11-01,363.64,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2013-12-01,360.19,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2014-01-01,356.85,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2014-02-01,366.15,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2014-03-01,335.97,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2014-04-01,319.06,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2014-05-01,313.59,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2014-06-01,331.39,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2014-07-01,349.73,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2014-08-01,364.66,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2014-09-01,360.19,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2014-10-01,360.29,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2014-11-01,349.82,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2014-12-01,349.07,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2015-01-01,351.01,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2015-02-01,348.44,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2015-03-01,340.38,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2015-04-01,333.92,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2015-05-01,323.38,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2015-06-01,319.44,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2015-07-01,330.07,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2015-08-01,317.55,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2015-09-01,303.75,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2015-10-01,319.75,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2015-11-01,318.23,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2015-12-01,310.63,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2016-01-01,317.62,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2016-02-01,326.12,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2016-03-01,327.75,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2016-04-01,335.35,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2016-05-01,358.72,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2016-06-01,365.59,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2016-07-01,369.16,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2016-08-01,352.06,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2016-09-01,333.61,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2016-10-01,320.68,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2016-11-01,308.35,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2016-12-01,318.77,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2017-01-01,324.85,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2017-02-01,317.95,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2017-03-01,315.86,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2017-04-01,325.47,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2017-05-01,351.3,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2017-06-01,383.82,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2017-07-01,349.61,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2017-08-01,322.12,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2017-09-01,328.59,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2017-10-01,328.53,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2017-11-01,331.2,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2017-12-01,330.17,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2018-01-01,356.82,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2018-02-01,348.9,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2018-03-01,356.79,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2018-04-01,383.13,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2018-05-01,378.67,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2018-06-01,356.08,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2018-07-01,329.16,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2018-08-01,332.95,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2018-09-01,335.66,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2018-10-01,338.87,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2018-11-01,335.15,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2018-12-01,337.76,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2019-01-01,343.22,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2019-02-01,342.28,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2019-03-01,335.72,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2019-04-01,347.14,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2019-05-01,344.41,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2019-06-01,351.64,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2019-07-01,344.23,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2019-08-01,359.59,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2019-09-01,354.88,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2019-10-01,352.43,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2019-11-01,350.06,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2019-12-01,358.26,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2020-01-01,378.36,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2020-02-01,379.12,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2020-03-01,424.38,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2020-04-01,473.78,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2020-05-01,421.0,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2020-06-01,439.89,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2020-07-01,399.72,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2020-08-01,417.68,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2020-09-01,410.85,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2020-10-01,388.55,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2020-11-01,406.22,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2020-12-01,436.05,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2021-01-01,459.91,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2021-02-01,471.59,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2021-03-01,443.7,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2021-04-01,412.18,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2021-05-01,406.16,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2021-06-01,378.31,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2021-07-01,341.19,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2021-08-01,324.6,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2021-09-01,321.86,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2021-10-01,326.87,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2021-11-01,332.03,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2021-12-01,338.46,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2022-01-01,359.5,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2022-02-01,360.95,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2022-03-01,364.35,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2022-04-01,375.69,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2022-05-01,415.34,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2022-06-01,392.67,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2022-07-01,366.0,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2022-08-01,375.63,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2022-09-01,376.8,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2022-10-01,365.25,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2022-11-01,370.65,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2022-12-01,395.67,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2023-01-01,437.44,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2023-02-01,412.13,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2023-03-01,405.26,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2023-04-01,422.99,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2023-05-01,436.01,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2023-06-01,439.26,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2023-07-01,470.78,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2023-08-01,559.47,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2023-09-01,547.42,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2023-10-01,519.35,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2023-11-01,517.81,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2023-12-01,567.75,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2024-01-01,586.13,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2024-02-01,550.29,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2024-03-01,543.42,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2024-04-01,521.17,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2024-05-01,559.89,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2024-06-01,556.85,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2024-07-01,516.53,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2024-08-01,515.62,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2024-09-01,499.54,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2024-10-01,436.96,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2024-11-01,435.54,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2024-12-01,446.71,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2025-01-01,407.07,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2025-02-01,365.22,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2025-03-01,348.73,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2025-04-01,341.97,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2025-05-01,351.38,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2025-06-01,333.41,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2025-07-01,316.58,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2025-08-01,298.58,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2025-09-01,298.25,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2025-10-01,281.14,Rice (25% broken),Thailand,Bangkok,WHOLESALE,tonne
+2008-01-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2008-02-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2008-03-01,0.41,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2008-04-01,0.45,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2008-05-01,0.53,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2008-06-01,0.53,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2008-07-01,0.48,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2008-08-01,0.45,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2008-09-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2008-10-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2008-11-01,0.31,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2008-12-01,0.29,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2009-01-01,0.3,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2009-02-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2009-03-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2009-04-01,0.38,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2009-05-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2009-06-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2009-07-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2009-08-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2009-09-01,0.32,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2009-10-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2009-11-01,0.38,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2009-12-01,0.45,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2010-01-01,0.45,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2010-02-01,0.42,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2010-03-01,0.32,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2010-04-01,0.32,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2010-05-01,0.32,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2010-06-01,0.31,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2010-07-01,0.29,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2010-08-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2010-09-01,0.4,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2010-10-01,0.41,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2010-11-01,0.45,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2010-12-01,0.47,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2011-01-01,0.43,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2011-02-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2011-03-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2011-04-01,0.41,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2011-05-01,0.42,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2011-06-01,0.41,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2011-07-01,0.42,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2011-08-01,0.46,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2011-09-01,0.47,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2011-10-01,0.48,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2011-11-01,0.49,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2011-12-01,0.44,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2012-01-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2012-02-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2012-03-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2012-04-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2012-05-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2012-06-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2012-07-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2012-08-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2012-09-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2012-10-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2012-11-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2012-12-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2013-01-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2013-02-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2013-03-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2013-04-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2013-05-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2013-06-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2013-07-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2013-08-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2013-09-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2013-10-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2013-11-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2013-12-01,0.38,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2014-01-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2014-02-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2014-03-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2014-04-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2014-05-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2014-06-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2014-07-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2014-08-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2014-09-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2014-10-01,0.38,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2014-11-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2014-12-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2015-01-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2015-02-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2015-03-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2015-04-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2015-05-01,0.32,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2015-06-01,0.31,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2015-07-01,0.3,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2015-08-01,0.31,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2015-09-01,0.31,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2015-10-01,0.31,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2015-11-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2015-12-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2016-01-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2016-02-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2016-03-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2016-04-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2016-05-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2016-06-01,0.32,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2016-07-01,0.31,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2016-08-01,0.31,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2016-09-01,0.3,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2016-10-01,0.29,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2016-11-01,0.31,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2016-12-01,0.3,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2017-01-01,0.3,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2017-02-01,0.31,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2017-03-01,0.32,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2017-04-01,0.31,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2017-05-01,0.3,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2017-06-01,0.32,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2017-07-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2017-08-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2017-09-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2017-10-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2017-11-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2017-12-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2018-01-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2018-02-01,0.4,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2018-03-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2018-04-01,0.38,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2018-05-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2018-06-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2018-07-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2018-08-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2018-09-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2018-10-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2018-11-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2018-12-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2019-01-01,0.34,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2019-02-01,0.31,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2019-03-01,0.32,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2019-04-01,0.32,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2019-05-01,0.32,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2019-06-01,0.29,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2019-07-01,0.3,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2019-08-01,0.31,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2019-09-01,0.3,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2019-10-01,0.31,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2019-11-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2019-12-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2020-01-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2020-02-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2020-03-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2020-04-01,,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2020-05-01,0.42,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2020-06-01,0.4,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2020-07-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2020-08-01,0.43,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2020-09-01,0.43,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2020-10-01,0.44,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2020-11-01,0.47,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2020-12-01,0.5,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2021-01-01,0.5,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2021-02-01,0.49,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2021-03-01,0.47,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2021-04-01,0.44,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2021-05-01,0.44,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2021-06-01,0.41,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2021-07-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2021-08-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2021-09-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2021-10-01,0.4,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2021-11-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2021-12-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2022-01-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2022-02-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2022-03-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2022-04-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2022-05-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2022-06-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2022-07-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2022-08-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2022-09-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2022-10-01,0.39,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2022-11-01,0.41,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2022-12-01,0.41,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2023-01-01,0.41,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2023-02-01,0.41,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2023-03-01,0.4,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2023-04-01,0.43,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2023-05-01,0.45,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2023-06-01,0.44,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2023-07-01,0.46,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2023-08-01,0.56,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2023-09-01,0.54,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2023-10-01,0.59,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2023-11-01,0.6,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2023-12-01,0.6,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2024-01-01,0.6,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2024-02-01,0.51,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2024-03-01,0.51,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2024-04-01,0.51,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2024-05-01,0.52,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2024-06-01,0.49,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2024-07-01,0.48,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2024-08-01,0.53,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2024-09-01,0.53,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2024-10-01,0.52,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2024-11-01,0.52,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2024-12-01,0.47,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2025-01-01,0.47,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2025-02-01,0.4,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2025-03-01,0.38,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2025-04-01,0.37,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2025-05-01,0.38,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2025-06-01,0.36,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2025-07-01,0.35,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2025-08-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2025-09-01,0.33,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2025-10-01,0.32,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2025-11-01,8200.0,Rice (25% broken),Viet Nam,An Giang,WHOLESALE,Kg
+2018-10-01,0.39,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2018-11-01,0.39,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2018-12-01,0.36,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2019-01-01,0.33,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2019-02-01,0.31,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2019-03-01,0.32,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2019-04-01,0.32,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2019-05-01,0.32,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2019-06-01,0.3,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2019-07-01,0.3,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2019-08-01,0.3,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2019-09-01,0.29,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2019-10-01,0.3,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2019-11-01,0.31,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2019-12-01,0.31,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2020-01-01,0.32,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2020-02-01,0.33,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2020-03-01,0.37,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2020-04-01,0.42,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2020-05-01,0.42,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2020-06-01,0.41,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2020-07-01,0.39,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2020-08-01,0.45,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2020-09-01,0.44,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2020-10-01,0.44,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2020-11-01,0.46,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2020-12-01,0.47,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2021-01-01,0.49,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2021-02-01,0.49,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2021-03-01,0.47,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2021-04-01,0.44,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2021-05-01,0.45,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2021-06-01,0.41,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2021-07-01,0.39,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2021-08-01,0.37,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2021-09-01,0.37,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2021-10-01,0.39,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2021-11-01,0.39,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2021-12-01,0.37,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2022-01-01,0.36,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2022-02-01,0.35,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2022-03-01,0.36,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2022-04-01,0.36,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2022-05-01,0.36,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2022-06-01,0.36,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2022-07-01,0.36,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2022-08-01,0.36,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2022-09-01,0.38,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2022-10-01,0.4,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2022-11-01,0.41,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2022-12-01,0.41,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2023-01-01,0.42,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2023-02-01,0.42,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2023-03-01,0.42,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2023-04-01,0.44,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2023-05-01,0.45,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2023-06-01,0.45,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2023-07-01,0.47,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2023-08-01,0.58,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2023-09-01,0.57,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2023-10-01,0.6,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2023-11-01,0.62,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2023-12-01,0.63,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2024-01-01,0.62,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2024-02-01,0.53,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2024-03-01,0.55,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2024-04-01,0.54,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2024-05-01,0.55,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2024-06-01,0.51,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2024-07-01,0.51,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2024-08-01,0.56,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2024-09-01,0.54,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2024-10-01,0.53,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2024-11-01,0.52,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2024-12-01,0.48,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2025-01-01,0.47,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2025-02-01,0.4,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2025-03-01,0.38,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2025-04-01,0.37,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2025-05-01,0.38,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2025-06-01,0.36,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2025-07-01,0.36,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2025-08-01,0.36,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2025-09-01,0.34,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2025-10-01,0.34,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2025-11-01,8700.0,Rice (25% broken),Viet Nam,Bac Lieu,WHOLESALE,Kg
+2008-01-01,0.33,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2008-02-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2008-03-01,0.41,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2008-04-01,0.45,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2008-05-01,0.54,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2008-06-01,0.5,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2008-07-01,0.46,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2008-08-01,0.43,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2008-09-01,0.38,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2008-10-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2008-11-01,0.27,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2008-12-01,0.29,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2009-01-01,0.29,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2009-02-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2009-03-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2009-04-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2009-05-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2009-06-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2009-07-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2009-08-01,0.33,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2009-09-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2009-10-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2009-11-01,0.41,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2009-12-01,0.46,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2010-01-01,0.45,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2010-02-01,0.41,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2010-03-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2010-04-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2010-05-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2010-06-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2010-07-01,0.3,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2010-08-01,0.33,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2010-09-01,0.39,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2010-10-01,0.41,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2010-11-01,0.44,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2010-12-01,0.46,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2011-01-01,0.44,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2011-02-01,0.4,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2011-03-01,0.39,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2011-04-01,0.41,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2011-05-01,0.41,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2011-06-01,0.41,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2011-07-01,0.43,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2011-08-01,0.47,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2011-09-01,0.47,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2011-10-01,0.49,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2011-11-01,0.49,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2011-12-01,0.43,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2012-01-01,0.39,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2012-02-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2012-03-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2012-04-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2012-05-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2012-06-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2012-07-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2012-08-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2012-09-01,0.38,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2012-10-01,0.4,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2012-11-01,0.4,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2012-12-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2013-01-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2013-02-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2013-03-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2013-04-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2013-05-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2013-06-01,0.33,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2013-07-01,0.33,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2013-08-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2013-09-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2013-10-01,0.33,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2013-11-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2013-12-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2014-01-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2014-02-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2014-03-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2014-04-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2014-05-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2014-06-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2014-07-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2014-08-01,0.38,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2014-09-01,0.38,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2014-10-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2014-11-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2014-12-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2015-01-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2015-02-01,0.31,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2015-03-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2015-04-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2015-05-01,0.31,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2015-06-01,0.31,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2015-07-01,0.31,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2015-08-01,0.31,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2015-09-01,0.31,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2015-10-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2015-11-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2015-12-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2016-01-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2016-02-01,0.33,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2016-03-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2016-04-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2016-05-01,0.33,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2016-06-01,0.33,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2016-07-01,0.33,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2016-08-01,0.33,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2016-09-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2016-10-01,0.31,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2016-11-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2016-12-01,0.31,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2017-01-01,0.31,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2017-02-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2017-03-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2017-04-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2017-05-01,0.31,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2017-06-01,0.33,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2017-07-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2017-08-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2017-09-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2017-10-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2017-11-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2017-12-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2018-01-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2018-02-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2018-03-01,0.39,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2018-04-01,,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2018-05-01,,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2018-06-01,,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2018-07-01,,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2018-08-01,,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2018-09-01,,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2018-10-01,0.4,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2018-11-01,0.39,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2018-12-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2019-01-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2019-02-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2019-03-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2019-04-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2019-05-01,0.33,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2019-06-01,0.29,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2019-07-01,0.3,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2019-08-01,0.3,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2019-09-01,0.29,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2019-10-01,0.31,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2019-11-01,0.31,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2019-12-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2020-01-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2020-02-01,0.32,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2020-03-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2020-04-01,0.41,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2020-05-01,0.41,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2020-06-01,0.4,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2020-07-01,0.39,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2020-08-01,0.43,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2020-09-01,0.42,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2020-10-01,0.43,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2020-11-01,0.45,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2020-12-01,0.45,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2021-01-01,0.46,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2021-02-01,0.46,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2021-03-01,0.46,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2021-04-01,0.43,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2021-05-01,0.44,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2021-06-01,0.39,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2021-07-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2021-08-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2021-09-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2021-10-01,0.38,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2021-11-01,0.38,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2021-12-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2022-01-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2022-02-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2022-03-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2022-04-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2022-05-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2022-06-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2022-07-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2022-08-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2022-09-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2022-10-01,0.4,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2022-11-01,0.41,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2022-12-01,0.41,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2023-01-01,0.41,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2023-02-01,0.41,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2023-03-01,0.41,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2023-04-01,0.42,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2023-05-01,0.45,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2023-06-01,0.45,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2023-07-01,0.47,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2023-08-01,0.58,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2023-09-01,0.56,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2023-10-01,0.6,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2023-11-01,0.62,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2023-12-01,0.63,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2024-01-01,0.62,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2024-02-01,0.53,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2024-03-01,0.53,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2024-04-01,0.53,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2024-05-01,0.55,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2024-06-01,0.51,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2024-07-01,0.5,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2024-08-01,0.56,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2024-09-01,0.53,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2024-10-01,0.52,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2024-11-01,0.52,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2024-12-01,0.46,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2025-01-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2025-02-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2025-03-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2025-04-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2025-05-01,0.37,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2025-06-01,0.35,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2025-07-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2025-08-01,0.36,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2025-09-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2025-10-01,0.34,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg
+2025-11-01,8625.0,Rice (25% broken),Viet Nam,Dong Thap,WHOLESALE,Kg

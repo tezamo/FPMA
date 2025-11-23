@@ -1,0 +1,2610 @@
+date,price_usd,commodity_name,country,market,price_type,unit
+2011-01-01,0.65,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2011-02-01,0.65,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2011-03-01,0.65,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2011-04-01,0.69,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2011-05-01,0.79,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2011-06-01,0.68,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2011-07-01,0.62,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2011-08-01,0.64,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2011-09-01,0.63,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2011-10-01,0.62,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2011-11-01,0.61,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2011-12-01,0.59,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2012-01-01,0.56,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2012-02-01,0.54,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2012-03-01,0.57,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2012-04-01,0.75,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2012-05-01,0.71,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2012-06-01,0.58,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2012-07-01,0.55,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2012-08-01,0.55,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2012-09-01,0.63,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2012-10-01,0.64,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2012-11-01,0.63,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2012-12-01,0.7,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2013-01-01,0.59,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2013-02-01,0.59,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2013-03-01,0.67,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2013-04-01,0.7,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2013-05-01,0.71,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2013-06-01,0.62,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2013-07-01,0.61,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2013-08-01,0.58,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2013-09-01,0.66,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2013-10-01,0.69,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2013-11-01,0.77,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2013-12-01,0.66,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2014-01-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2014-02-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2014-03-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2014-04-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2014-05-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2014-06-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2014-07-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2014-08-01,0.59,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2014-09-01,0.68,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2014-10-01,0.7,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2014-11-01,0.65,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2014-12-01,0.68,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2015-01-01,0.45,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2015-02-01,0.49,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2015-03-01,0.53,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2015-04-01,0.58,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2015-05-01,0.74,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2015-06-01,0.61,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2015-07-01,0.49,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2015-08-01,0.51,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2015-09-01,0.63,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2015-10-01,0.63,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2015-11-01,0.63,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2015-12-01,0.84,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2016-01-01,0.8,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2016-02-01,0.8,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2016-03-01,0.8,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2016-04-01,0.73,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2016-05-01,0.73,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2016-06-01,0.55,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2016-07-01,0.48,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2016-08-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2016-09-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2016-10-01,0.69,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2016-11-01,0.76,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2016-12-01,0.94,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2017-01-01,0.98,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2017-02-01,0.94,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2017-03-01,0.86,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2017-04-01,0.83,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2017-05-01,0.67,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2017-06-01,0.6,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2017-07-01,0.62,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2017-08-01,0.65,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2017-09-01,0.67,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2017-10-01,0.75,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2017-11-01,0.71,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2017-12-01,0.62,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2018-01-01,0.53,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2018-02-01,0.57,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2018-03-01,0.55,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2018-04-01,0.58,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2018-05-01,0.7,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2018-06-01,0.56,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2018-07-01,0.6,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2018-08-01,0.63,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2018-09-01,0.64,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2018-10-01,0.65,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2018-11-01,0.66,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2018-12-01,0.7,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2019-01-01,0.66,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2019-02-01,0.63,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2019-03-01,0.7,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2019-04-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2019-05-01,0.67,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2019-06-01,0.54,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2019-07-01,0.66,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2019-08-01,0.62,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2019-09-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2019-10-01,0.64,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2019-11-01,0.66,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2019-12-01,0.7,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2020-01-01,0.63,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2020-02-01,0.66,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2020-03-01,0.78,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2020-04-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2020-05-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2020-06-01,0.64,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2020-07-01,0.65,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2020-08-01,0.76,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2020-09-01,0.79,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2020-10-01,0.8,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2020-11-01,0.91,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2020-12-01,0.88,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2021-01-01,0.67,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2021-02-01,0.81,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2021-03-01,0.84,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2021-04-01,0.84,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2021-05-01,0.8,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2021-06-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2021-07-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2021-08-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2021-09-01,0.62,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2021-10-01,0.65,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2021-11-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2021-12-01,,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2022-01-01,0.61,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2022-02-01,0.61,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2022-03-01,0.68,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2022-04-01,0.84,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2022-05-01,1.12,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2022-06-01,0.83,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2022-07-01,0.69,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2022-08-01,0.76,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2022-09-01,0.78,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2022-10-01,0.84,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2022-11-01,1.04,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2022-12-01,1.12,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2023-01-01,1.43,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2023-02-01,1.46,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2023-03-01,1.63,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2023-04-01,1.69,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2023-05-01,1.23,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2023-06-01,1.06,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2023-07-01,0.91,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2023-08-01,0.91,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2023-09-01,0.97,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2023-10-01,1.01,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2023-11-01,1.03,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2023-12-01,1.0,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2024-01-01,0.92,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2024-02-01,0.98,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2024-03-01,1.0,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2024-04-01,1.16,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2024-05-01,1.09,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2024-06-01,0.91,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2024-07-01,0.95,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2024-08-01,1.01,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2024-09-01,1.05,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2024-10-01,1.11,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2024-11-01,1.12,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2024-12-01,1.21,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2025-01-01,1.12,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2025-02-01,1.13,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2025-03-01,1.18,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2025-04-01,1.19,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2025-05-01,1.06,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2025-06-01,1.03,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2025-07-01,1.03,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2025-08-01,0.99,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2025-09-01,0.99,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2025-10-01,0.99,Beans,Burundi,Bujumbura Mairie,RETAIL,Kg
+2014-09-01,0.78,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2014-10-01,0.88,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2014-11-01,0.75,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2014-12-01,0.66,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2015-01-01,0.64,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2015-02-01,0.64,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2015-03-01,0.63,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2015-04-01,0.72,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2015-05-01,0.76,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2015-06-01,0.66,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2015-07-01,0.56,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2015-08-01,0.58,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2015-09-01,0.58,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2015-10-01,0.71,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2015-11-01,0.69,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2015-12-01,0.78,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2016-01-01,0.72,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2016-02-01,0.68,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2016-03-01,0.69,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2016-04-01,0.76,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2016-05-01,0.65,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2016-06-01,0.6,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2016-07-01,0.6,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2016-08-01,0.69,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2016-09-01,0.69,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2016-10-01,0.71,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2016-11-01,0.77,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2016-12-01,0.98,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2017-01-01,0.9,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2017-02-01,0.99,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2017-03-01,0.92,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2017-04-01,0.91,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2017-05-01,0.81,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2017-06-01,0.7,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2017-07-01,0.66,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2017-08-01,0.6,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2017-09-01,0.64,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2017-10-01,0.71,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2017-11-01,0.67,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2017-12-01,0.6,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2018-01-01,,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2018-02-01,0.47,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2018-03-01,0.48,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2018-04-01,0.57,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2018-05-01,0.65,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2018-06-01,0.56,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2018-07-01,0.56,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2018-08-01,0.63,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2018-09-01,0.64,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2018-10-01,0.65,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2018-11-01,0.66,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2018-12-01,0.7,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2019-01-01,0.64,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2019-02-01,0.57,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2019-03-01,0.61,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2019-04-01,,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2019-05-01,0.65,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2019-06-01,0.57,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2019-07-01,0.64,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2019-08-01,0.55,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2019-09-01,,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2019-10-01,0.62,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2019-11-01,0.64,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2019-12-01,0.65,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2020-01-01,0.63,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2020-02-01,0.65,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2020-03-01,0.7,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2020-04-01,,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2020-05-01,,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2020-06-01,0.62,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2020-07-01,0.61,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2020-08-01,0.68,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2020-09-01,0.73,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2020-10-01,0.84,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2020-11-01,0.88,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2020-12-01,0.84,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2021-01-01,0.64,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2021-02-01,0.71,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2021-03-01,0.77,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2021-04-01,0.78,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2021-05-01,0.66,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2021-06-01,,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2021-07-01,,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2021-08-01,,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2021-09-01,0.59,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2021-10-01,0.68,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2021-11-01,,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2021-12-01,,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2022-01-01,0.63,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2022-02-01,0.61,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2022-03-01,0.65,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2022-04-01,0.85,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2022-05-01,0.91,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2022-06-01,0.98,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2022-07-01,0.69,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2022-08-01,0.72,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2022-09-01,0.81,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2022-10-01,0.93,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2022-11-01,1.09,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2022-12-01,1.07,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2023-01-01,1.4,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2023-02-01,1.46,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2023-03-01,1.69,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2023-04-01,1.73,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2023-05-01,1.13,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2023-06-01,0.97,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2023-07-01,0.9,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2023-08-01,0.98,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2023-09-01,1.04,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2023-10-01,1.05,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2023-11-01,1.04,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2023-12-01,0.95,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2024-01-01,0.95,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2024-02-01,0.98,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2024-03-01,1.01,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2024-04-01,1.12,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2024-05-01,1.04,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2024-06-01,0.9,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2024-07-01,0.9,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2024-08-01,1.0,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2024-09-01,1.09,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2024-10-01,1.09,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2024-11-01,1.16,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2024-12-01,1.26,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2025-01-01,1.16,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2025-02-01,1.15,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2025-03-01,1.17,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2025-04-01,1.17,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2025-05-01,1.0,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2025-06-01,0.97,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2025-07-01,0.94,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2025-08-01,0.94,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2025-09-01,0.98,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2025-10-01,1.02,Beans,Burundi,Bujumbura Rural,RETAIL,Kg
+2009-01-01,0.53,Beans,Burundi,Gitega,RETAIL,Kg
+2009-02-01,0.53,Beans,Burundi,Gitega,RETAIL,Kg
+2009-03-01,0.53,Beans,Burundi,Gitega,RETAIL,Kg
+2009-04-01,0.45,Beans,Burundi,Gitega,RETAIL,Kg
+2009-05-01,0.41,Beans,Burundi,Gitega,RETAIL,Kg
+2009-06-01,0.39,Beans,Burundi,Gitega,RETAIL,Kg
+2009-07-01,0.41,Beans,Burundi,Gitega,RETAIL,Kg
+2009-08-01,0.49,Beans,Burundi,Gitega,RETAIL,Kg
+2009-09-01,0.57,Beans,Burundi,Gitega,RETAIL,Kg
+2009-10-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2009-11-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2009-12-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2010-01-01,0.65,Beans,Burundi,Gitega,RETAIL,Kg
+2010-02-01,0.64,Beans,Burundi,Gitega,RETAIL,Kg
+2010-03-01,0.66,Beans,Burundi,Gitega,RETAIL,Kg
+2010-04-01,0.61,Beans,Burundi,Gitega,RETAIL,Kg
+2010-05-01,0.57,Beans,Burundi,Gitega,RETAIL,Kg
+2010-06-01,0.57,Beans,Burundi,Gitega,RETAIL,Kg
+2010-07-01,0.57,Beans,Burundi,Gitega,RETAIL,Kg
+2010-08-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2010-09-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2010-10-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2010-11-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2010-12-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2011-01-01,0.66,Beans,Burundi,Gitega,RETAIL,Kg
+2011-02-01,0.65,Beans,Burundi,Gitega,RETAIL,Kg
+2011-03-01,0.62,Beans,Burundi,Gitega,RETAIL,Kg
+2011-04-01,0.65,Beans,Burundi,Gitega,RETAIL,Kg
+2011-05-01,0.65,Beans,Burundi,Gitega,RETAIL,Kg
+2011-06-01,0.56,Beans,Burundi,Gitega,RETAIL,Kg
+2011-07-01,0.64,Beans,Burundi,Gitega,RETAIL,Kg
+2011-08-01,0.64,Beans,Burundi,Gitega,RETAIL,Kg
+2011-09-01,0.55,Beans,Burundi,Gitega,RETAIL,Kg
+2011-10-01,0.55,Beans,Burundi,Gitega,RETAIL,Kg
+2011-11-01,0.53,Beans,Burundi,Gitega,RETAIL,Kg
+2011-12-01,0.53,Beans,Burundi,Gitega,RETAIL,Kg
+2012-01-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2012-02-01,0.57,Beans,Burundi,Gitega,RETAIL,Kg
+2012-03-01,0.57,Beans,Burundi,Gitega,RETAIL,Kg
+2012-04-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2012-05-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2012-06-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2012-07-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2012-08-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2012-09-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2012-10-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2012-11-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2012-12-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2013-01-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2013-02-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2013-03-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2013-04-01,0.64,Beans,Burundi,Gitega,RETAIL,Kg
+2013-05-01,0.61,Beans,Burundi,Gitega,RETAIL,Kg
+2013-06-01,0.53,Beans,Burundi,Gitega,RETAIL,Kg
+2013-07-01,0.52,Beans,Burundi,Gitega,RETAIL,Kg
+2013-08-01,0.52,Beans,Burundi,Gitega,RETAIL,Kg
+2013-09-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2013-10-01,0.65,Beans,Burundi,Gitega,RETAIL,Kg
+2013-11-01,0.78,Beans,Burundi,Gitega,RETAIL,Kg
+2013-12-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2014-01-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2014-02-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2014-03-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2014-04-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2014-05-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2014-06-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2014-07-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2014-08-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2014-09-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2014-10-01,0.55,Beans,Burundi,Gitega,RETAIL,Kg
+2014-11-01,0.59,Beans,Burundi,Gitega,RETAIL,Kg
+2014-12-01,0.6,Beans,Burundi,Gitega,RETAIL,Kg
+2015-01-01,0.54,Beans,Burundi,Gitega,RETAIL,Kg
+2015-02-01,0.45,Beans,Burundi,Gitega,RETAIL,Kg
+2015-03-01,0.53,Beans,Burundi,Gitega,RETAIL,Kg
+2015-04-01,0.62,Beans,Burundi,Gitega,RETAIL,Kg
+2015-05-01,0.57,Beans,Burundi,Gitega,RETAIL,Kg
+2015-06-01,0.48,Beans,Burundi,Gitega,RETAIL,Kg
+2015-07-01,0.44,Beans,Burundi,Gitega,RETAIL,Kg
+2015-08-01,0.48,Beans,Burundi,Gitega,RETAIL,Kg
+2015-09-01,0.47,Beans,Burundi,Gitega,RETAIL,Kg
+2015-10-01,0.53,Beans,Burundi,Gitega,RETAIL,Kg
+2015-11-01,0.63,Beans,Burundi,Gitega,RETAIL,Kg
+2015-12-01,0.76,Beans,Burundi,Gitega,RETAIL,Kg
+2016-01-01,0.66,Beans,Burundi,Gitega,RETAIL,Kg
+2016-02-01,0.65,Beans,Burundi,Gitega,RETAIL,Kg
+2016-03-01,0.68,Beans,Burundi,Gitega,RETAIL,Kg
+2016-04-01,0.64,Beans,Burundi,Gitega,RETAIL,Kg
+2016-05-01,0.49,Beans,Burundi,Gitega,RETAIL,Kg
+2016-06-01,0.44,Beans,Burundi,Gitega,RETAIL,Kg
+2016-07-01,0.5,Beans,Burundi,Gitega,RETAIL,Kg
+2016-08-01,0.52,Beans,Burundi,Gitega,RETAIL,Kg
+2016-09-01,0.54,Beans,Burundi,Gitega,RETAIL,Kg
+2016-10-01,0.67,Beans,Burundi,Gitega,RETAIL,Kg
+2016-11-01,0.68,Beans,Burundi,Gitega,RETAIL,Kg
+2016-12-01,0.83,Beans,Burundi,Gitega,RETAIL,Kg
+2017-01-01,0.84,Beans,Burundi,Gitega,RETAIL,Kg
+2017-02-01,0.86,Beans,Burundi,Gitega,RETAIL,Kg
+2017-03-01,0.82,Beans,Burundi,Gitega,RETAIL,Kg
+2017-04-01,0.75,Beans,Burundi,Gitega,RETAIL,Kg
+2017-05-01,0.64,Beans,Burundi,Gitega,RETAIL,Kg
+2017-06-01,0.48,Beans,Burundi,Gitega,RETAIL,Kg
+2017-07-01,0.5,Beans,Burundi,Gitega,RETAIL,Kg
+2017-08-01,0.54,Beans,Burundi,Gitega,RETAIL,Kg
+2017-09-01,0.56,Beans,Burundi,Gitega,RETAIL,Kg
+2017-10-01,0.63,Beans,Burundi,Gitega,RETAIL,Kg
+2017-11-01,0.61,Beans,Burundi,Gitega,RETAIL,Kg
+2017-12-01,0.55,Beans,Burundi,Gitega,RETAIL,Kg
+2018-01-01,0.47,Beans,Burundi,Gitega,RETAIL,Kg
+2018-02-01,0.45,Beans,Burundi,Gitega,RETAIL,Kg
+2018-03-01,0.42,Beans,Burundi,Gitega,RETAIL,Kg
+2018-04-01,0.51,Beans,Burundi,Gitega,RETAIL,Kg
+2018-05-01,0.53,Beans,Burundi,Gitega,RETAIL,Kg
+2018-06-01,0.43,Beans,Burundi,Gitega,RETAIL,Kg
+2018-07-01,0.45,Beans,Burundi,Gitega,RETAIL,Kg
+2018-08-01,0.47,Beans,Burundi,Gitega,RETAIL,Kg
+2018-09-01,0.53,Beans,Burundi,Gitega,RETAIL,Kg
+2018-10-01,0.55,Beans,Burundi,Gitega,RETAIL,Kg
+2018-11-01,0.58,Beans,Burundi,Gitega,RETAIL,Kg
+2018-12-01,0.67,Beans,Burundi,Gitega,RETAIL,Kg
+2019-01-01,0.6,Beans,Burundi,Gitega,RETAIL,Kg
+2019-02-01,0.56,Beans,Burundi,Gitega,RETAIL,Kg
+2019-03-01,0.6,Beans,Burundi,Gitega,RETAIL,Kg
+2019-04-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2019-05-01,0.51,Beans,Burundi,Gitega,RETAIL,Kg
+2019-06-01,0.37,Beans,Burundi,Gitega,RETAIL,Kg
+2019-07-01,0.55,Beans,Burundi,Gitega,RETAIL,Kg
+2019-08-01,0.47,Beans,Burundi,Gitega,RETAIL,Kg
+2019-09-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2019-10-01,0.54,Beans,Burundi,Gitega,RETAIL,Kg
+2019-11-01,0.56,Beans,Burundi,Gitega,RETAIL,Kg
+2019-12-01,0.58,Beans,Burundi,Gitega,RETAIL,Kg
+2020-01-01,0.52,Beans,Burundi,Gitega,RETAIL,Kg
+2020-02-01,0.6,Beans,Burundi,Gitega,RETAIL,Kg
+2020-03-01,0.68,Beans,Burundi,Gitega,RETAIL,Kg
+2020-04-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2020-05-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2020-06-01,0.49,Beans,Burundi,Gitega,RETAIL,Kg
+2020-07-01,0.58,Beans,Burundi,Gitega,RETAIL,Kg
+2020-08-01,0.63,Beans,Burundi,Gitega,RETAIL,Kg
+2020-09-01,0.68,Beans,Burundi,Gitega,RETAIL,Kg
+2020-10-01,0.76,Beans,Burundi,Gitega,RETAIL,Kg
+2020-11-01,0.79,Beans,Burundi,Gitega,RETAIL,Kg
+2020-12-01,0.71,Beans,Burundi,Gitega,RETAIL,Kg
+2021-01-01,0.55,Beans,Burundi,Gitega,RETAIL,Kg
+2021-02-01,0.71,Beans,Burundi,Gitega,RETAIL,Kg
+2021-03-01,0.71,Beans,Burundi,Gitega,RETAIL,Kg
+2021-04-01,0.68,Beans,Burundi,Gitega,RETAIL,Kg
+2021-05-01,0.61,Beans,Burundi,Gitega,RETAIL,Kg
+2021-06-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2021-07-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2021-08-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2021-09-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2021-10-01,0.54,Beans,Burundi,Gitega,RETAIL,Kg
+2021-11-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2021-12-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2022-01-01,0.51,Beans,Burundi,Gitega,RETAIL,Kg
+2022-02-01,0.49,Beans,Burundi,Gitega,RETAIL,Kg
+2022-03-01,0.51,Beans,Burundi,Gitega,RETAIL,Kg
+2022-04-01,0.79,Beans,Burundi,Gitega,RETAIL,Kg
+2022-05-01,0.65,Beans,Burundi,Gitega,RETAIL,Kg
+2022-06-01,0.53,Beans,Burundi,Gitega,RETAIL,Kg
+2022-07-01,0.56,Beans,Burundi,Gitega,RETAIL,Kg
+2022-08-01,0.62,Beans,Burundi,Gitega,RETAIL,Kg
+2022-09-01,0.7,Beans,Burundi,Gitega,RETAIL,Kg
+2022-10-01,0.81,Beans,Burundi,Gitega,RETAIL,Kg
+2022-11-01,0.98,Beans,Burundi,Gitega,RETAIL,Kg
+2022-12-01,1.02,Beans,Burundi,Gitega,RETAIL,Kg
+2023-01-01,,Beans,Burundi,Gitega,RETAIL,Kg
+2023-02-01,1.47,Beans,Burundi,Gitega,RETAIL,Kg
+2023-03-01,1.63,Beans,Burundi,Gitega,RETAIL,Kg
+2023-04-01,1.6,Beans,Burundi,Gitega,RETAIL,Kg
+2023-05-01,0.94,Beans,Burundi,Gitega,RETAIL,Kg
+2023-06-01,0.61,Beans,Burundi,Gitega,RETAIL,Kg
+2023-07-01,0.74,Beans,Burundi,Gitega,RETAIL,Kg
+2023-08-01,0.84,Beans,Burundi,Gitega,RETAIL,Kg
+2023-09-01,0.87,Beans,Burundi,Gitega,RETAIL,Kg
+2023-10-01,0.93,Beans,Burundi,Gitega,RETAIL,Kg
+2023-11-01,0.87,Beans,Burundi,Gitega,RETAIL,Kg
+2023-12-01,0.74,Beans,Burundi,Gitega,RETAIL,Kg
+2024-01-01,0.85,Beans,Burundi,Gitega,RETAIL,Kg
+2024-02-01,0.95,Beans,Burundi,Gitega,RETAIL,Kg
+2024-03-01,0.94,Beans,Burundi,Gitega,RETAIL,Kg
+2024-04-01,1.01,Beans,Burundi,Gitega,RETAIL,Kg
+2024-05-01,0.8,Beans,Burundi,Gitega,RETAIL,Kg
+2024-06-01,0.76,Beans,Burundi,Gitega,RETAIL,Kg
+2024-07-01,0.76,Beans,Burundi,Gitega,RETAIL,Kg
+2024-08-01,0.91,Beans,Burundi,Gitega,RETAIL,Kg
+2024-09-01,0.96,Beans,Burundi,Gitega,RETAIL,Kg
+2024-10-01,1.01,Beans,Burundi,Gitega,RETAIL,Kg
+2024-11-01,1.07,Beans,Burundi,Gitega,RETAIL,Kg
+2024-12-01,1.17,Beans,Burundi,Gitega,RETAIL,Kg
+2025-01-01,1.07,Beans,Burundi,Gitega,RETAIL,Kg
+2025-02-01,1.03,Beans,Burundi,Gitega,RETAIL,Kg
+2025-03-01,1.05,Beans,Burundi,Gitega,RETAIL,Kg
+2025-04-01,0.94,Beans,Burundi,Gitega,RETAIL,Kg
+2025-05-01,0.81,Beans,Burundi,Gitega,RETAIL,Kg
+2025-06-01,0.73,Beans,Burundi,Gitega,RETAIL,Kg
+2025-07-01,0.79,Beans,Burundi,Gitega,RETAIL,Kg
+2025-08-01,0.8,Beans,Burundi,Gitega,RETAIL,Kg
+2025-09-01,0.81,Beans,Burundi,Gitega,RETAIL,Kg
+2025-10-01,0.86,Beans,Burundi,Gitega,RETAIL,Kg
+2009-02-01,0.37,Beans,Burundi,Kirundo,RETAIL,Kg
+2009-03-01,0.41,Beans,Burundi,Kirundo,RETAIL,Kg
+2009-04-01,0.41,Beans,Burundi,Kirundo,RETAIL,Kg
+2009-05-01,0.33,Beans,Burundi,Kirundo,RETAIL,Kg
+2009-06-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2009-07-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2009-08-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2009-09-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2009-10-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2009-11-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2009-12-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2010-01-01,0.65,Beans,Burundi,Kirundo,RETAIL,Kg
+2010-02-01,0.63,Beans,Burundi,Kirundo,RETAIL,Kg
+2010-03-01,0.67,Beans,Burundi,Kirundo,RETAIL,Kg
+2010-04-01,0.39,Beans,Burundi,Kirundo,RETAIL,Kg
+2010-05-01,0.33,Beans,Burundi,Kirundo,RETAIL,Kg
+2010-06-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2010-07-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2010-08-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2010-09-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2010-10-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2010-11-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2010-12-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2011-01-01,0.45,Beans,Burundi,Kirundo,RETAIL,Kg
+2011-02-01,0.55,Beans,Burundi,Kirundo,RETAIL,Kg
+2011-03-01,0.54,Beans,Burundi,Kirundo,RETAIL,Kg
+2011-04-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2011-05-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2011-06-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2011-07-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2011-08-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2011-09-01,0.47,Beans,Burundi,Kirundo,RETAIL,Kg
+2011-10-01,0.47,Beans,Burundi,Kirundo,RETAIL,Kg
+2011-11-01,0.41,Beans,Burundi,Kirundo,RETAIL,Kg
+2011-12-01,0.41,Beans,Burundi,Kirundo,RETAIL,Kg
+2012-01-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2012-02-01,0.32,Beans,Burundi,Kirundo,RETAIL,Kg
+2012-03-01,0.5,Beans,Burundi,Kirundo,RETAIL,Kg
+2012-04-01,0.61,Beans,Burundi,Kirundo,RETAIL,Kg
+2012-05-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2012-06-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2012-07-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2012-08-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2012-09-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2012-10-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2012-11-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2012-12-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2013-01-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2013-02-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2013-03-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2013-04-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2013-05-01,0.71,Beans,Burundi,Kirundo,RETAIL,Kg
+2013-06-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2013-07-01,0.42,Beans,Burundi,Kirundo,RETAIL,Kg
+2013-08-01,0.52,Beans,Burundi,Kirundo,RETAIL,Kg
+2013-09-01,0.58,Beans,Burundi,Kirundo,RETAIL,Kg
+2013-10-01,0.65,Beans,Burundi,Kirundo,RETAIL,Kg
+2013-11-01,0.71,Beans,Burundi,Kirundo,RETAIL,Kg
+2013-12-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2014-01-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2014-02-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2014-03-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2014-04-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2014-05-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2014-06-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2014-07-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2014-08-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2014-09-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2014-10-01,0.47,Beans,Burundi,Kirundo,RETAIL,Kg
+2014-11-01,0.5,Beans,Burundi,Kirundo,RETAIL,Kg
+2014-12-01,0.4,Beans,Burundi,Kirundo,RETAIL,Kg
+2015-01-01,0.34,Beans,Burundi,Kirundo,RETAIL,Kg
+2015-02-01,0.38,Beans,Burundi,Kirundo,RETAIL,Kg
+2015-03-01,0.43,Beans,Burundi,Kirundo,RETAIL,Kg
+2015-04-01,0.48,Beans,Burundi,Kirundo,RETAIL,Kg
+2015-05-01,0.5,Beans,Burundi,Kirundo,RETAIL,Kg
+2015-06-01,0.4,Beans,Burundi,Kirundo,RETAIL,Kg
+2015-07-01,0.38,Beans,Burundi,Kirundo,RETAIL,Kg
+2015-08-01,0.46,Beans,Burundi,Kirundo,RETAIL,Kg
+2015-09-01,0.5,Beans,Burundi,Kirundo,RETAIL,Kg
+2015-10-01,0.55,Beans,Burundi,Kirundo,RETAIL,Kg
+2015-11-01,0.7,Beans,Burundi,Kirundo,RETAIL,Kg
+2015-12-01,0.81,Beans,Burundi,Kirundo,RETAIL,Kg
+2016-01-01,0.44,Beans,Burundi,Kirundo,RETAIL,Kg
+2016-02-01,0.59,Beans,Burundi,Kirundo,RETAIL,Kg
+2016-03-01,0.62,Beans,Burundi,Kirundo,RETAIL,Kg
+2016-04-01,0.61,Beans,Burundi,Kirundo,RETAIL,Kg
+2016-05-01,0.46,Beans,Burundi,Kirundo,RETAIL,Kg
+2016-06-01,0.43,Beans,Burundi,Kirundo,RETAIL,Kg
+2016-07-01,0.54,Beans,Burundi,Kirundo,RETAIL,Kg
+2016-08-01,0.58,Beans,Burundi,Kirundo,RETAIL,Kg
+2016-09-01,0.59,Beans,Burundi,Kirundo,RETAIL,Kg
+2016-10-01,0.63,Beans,Burundi,Kirundo,RETAIL,Kg
+2016-11-01,0.75,Beans,Burundi,Kirundo,RETAIL,Kg
+2016-12-01,0.78,Beans,Burundi,Kirundo,RETAIL,Kg
+2017-01-01,0.73,Beans,Burundi,Kirundo,RETAIL,Kg
+2017-02-01,0.66,Beans,Burundi,Kirundo,RETAIL,Kg
+2017-03-01,0.7,Beans,Burundi,Kirundo,RETAIL,Kg
+2017-04-01,0.72,Beans,Burundi,Kirundo,RETAIL,Kg
+2017-05-01,0.53,Beans,Burundi,Kirundo,RETAIL,Kg
+2017-06-01,0.49,Beans,Burundi,Kirundo,RETAIL,Kg
+2017-07-01,0.5,Beans,Burundi,Kirundo,RETAIL,Kg
+2017-08-01,0.57,Beans,Burundi,Kirundo,RETAIL,Kg
+2017-09-01,0.56,Beans,Burundi,Kirundo,RETAIL,Kg
+2017-10-01,0.63,Beans,Burundi,Kirundo,RETAIL,Kg
+2017-11-01,0.6,Beans,Burundi,Kirundo,RETAIL,Kg
+2017-12-01,0.53,Beans,Burundi,Kirundo,RETAIL,Kg
+2018-01-01,0.36,Beans,Burundi,Kirundo,RETAIL,Kg
+2018-02-01,0.41,Beans,Burundi,Kirundo,RETAIL,Kg
+2018-03-01,0.35,Beans,Burundi,Kirundo,RETAIL,Kg
+2018-04-01,0.36,Beans,Burundi,Kirundo,RETAIL,Kg
+2018-05-01,0.43,Beans,Burundi,Kirundo,RETAIL,Kg
+2018-06-01,0.42,Beans,Burundi,Kirundo,RETAIL,Kg
+2018-07-01,0.44,Beans,Burundi,Kirundo,RETAIL,Kg
+2018-08-01,0.45,Beans,Burundi,Kirundo,RETAIL,Kg
+2018-09-01,0.49,Beans,Burundi,Kirundo,RETAIL,Kg
+2018-10-01,0.51,Beans,Burundi,Kirundo,RETAIL,Kg
+2018-11-01,0.54,Beans,Burundi,Kirundo,RETAIL,Kg
+2018-12-01,0.6,Beans,Burundi,Kirundo,RETAIL,Kg
+2019-01-01,0.43,Beans,Burundi,Kirundo,RETAIL,Kg
+2019-02-01,0.53,Beans,Burundi,Kirundo,RETAIL,Kg
+2019-03-01,0.52,Beans,Burundi,Kirundo,RETAIL,Kg
+2019-04-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2019-05-01,0.52,Beans,Burundi,Kirundo,RETAIL,Kg
+2019-06-01,0.4,Beans,Burundi,Kirundo,RETAIL,Kg
+2019-07-01,0.54,Beans,Burundi,Kirundo,RETAIL,Kg
+2019-08-01,0.49,Beans,Burundi,Kirundo,RETAIL,Kg
+2019-09-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2019-10-01,0.54,Beans,Burundi,Kirundo,RETAIL,Kg
+2019-11-01,0.53,Beans,Burundi,Kirundo,RETAIL,Kg
+2019-12-01,0.55,Beans,Burundi,Kirundo,RETAIL,Kg
+2020-01-01,0.43,Beans,Burundi,Kirundo,RETAIL,Kg
+2020-02-01,0.53,Beans,Burundi,Kirundo,RETAIL,Kg
+2020-03-01,0.6,Beans,Burundi,Kirundo,RETAIL,Kg
+2020-04-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2020-05-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2020-06-01,0.51,Beans,Burundi,Kirundo,RETAIL,Kg
+2020-07-01,0.59,Beans,Burundi,Kirundo,RETAIL,Kg
+2020-08-01,0.65,Beans,Burundi,Kirundo,RETAIL,Kg
+2020-09-01,0.67,Beans,Burundi,Kirundo,RETAIL,Kg
+2020-10-01,0.66,Beans,Burundi,Kirundo,RETAIL,Kg
+2020-11-01,0.72,Beans,Burundi,Kirundo,RETAIL,Kg
+2020-12-01,0.64,Beans,Burundi,Kirundo,RETAIL,Kg
+2021-01-01,0.49,Beans,Burundi,Kirundo,RETAIL,Kg
+2021-02-01,0.6,Beans,Burundi,Kirundo,RETAIL,Kg
+2021-03-01,0.56,Beans,Burundi,Kirundo,RETAIL,Kg
+2021-04-01,0.48,Beans,Burundi,Kirundo,RETAIL,Kg
+2021-05-01,0.42,Beans,Burundi,Kirundo,RETAIL,Kg
+2021-06-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2021-07-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2021-08-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2021-09-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2021-10-01,0.5,Beans,Burundi,Kirundo,RETAIL,Kg
+2021-11-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2021-12-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2022-01-01,0.43,Beans,Burundi,Kirundo,RETAIL,Kg
+2022-02-01,0.44,Beans,Burundi,Kirundo,RETAIL,Kg
+2022-03-01,0.46,Beans,Burundi,Kirundo,RETAIL,Kg
+2022-04-01,0.75,Beans,Burundi,Kirundo,RETAIL,Kg
+2022-05-01,0.61,Beans,Burundi,Kirundo,RETAIL,Kg
+2022-06-01,0.51,Beans,Burundi,Kirundo,RETAIL,Kg
+2022-07-01,0.53,Beans,Burundi,Kirundo,RETAIL,Kg
+2022-08-01,0.59,Beans,Burundi,Kirundo,RETAIL,Kg
+2022-09-01,0.68,Beans,Burundi,Kirundo,RETAIL,Kg
+2022-10-01,0.82,Beans,Burundi,Kirundo,RETAIL,Kg
+2022-11-01,0.99,Beans,Burundi,Kirundo,RETAIL,Kg
+2022-12-01,0.96,Beans,Burundi,Kirundo,RETAIL,Kg
+2023-01-01,,Beans,Burundi,Kirundo,RETAIL,Kg
+2023-02-01,1.38,Beans,Burundi,Kirundo,RETAIL,Kg
+2023-03-01,1.53,Beans,Burundi,Kirundo,RETAIL,Kg
+2023-04-01,1.57,Beans,Burundi,Kirundo,RETAIL,Kg
+2023-05-01,0.98,Beans,Burundi,Kirundo,RETAIL,Kg
+2023-06-01,0.63,Beans,Burundi,Kirundo,RETAIL,Kg
+2023-07-01,0.69,Beans,Burundi,Kirundo,RETAIL,Kg
+2023-08-01,0.82,Beans,Burundi,Kirundo,RETAIL,Kg
+2023-09-01,0.87,Beans,Burundi,Kirundo,RETAIL,Kg
+2023-10-01,0.9,Beans,Burundi,Kirundo,RETAIL,Kg
+2023-11-01,0.81,Beans,Burundi,Kirundo,RETAIL,Kg
+2023-12-01,0.67,Beans,Burundi,Kirundo,RETAIL,Kg
+2024-01-01,0.6,Beans,Burundi,Kirundo,RETAIL,Kg
+2024-02-01,0.67,Beans,Burundi,Kirundo,RETAIL,Kg
+2024-03-01,0.7,Beans,Burundi,Kirundo,RETAIL,Kg
+2024-04-01,0.75,Beans,Burundi,Kirundo,RETAIL,Kg
+2024-05-01,0.71,Beans,Burundi,Kirundo,RETAIL,Kg
+2024-06-01,0.72,Beans,Burundi,Kirundo,RETAIL,Kg
+2024-07-01,0.73,Beans,Burundi,Kirundo,RETAIL,Kg
+2024-08-01,0.83,Beans,Burundi,Kirundo,RETAIL,Kg
+2024-09-01,0.9,Beans,Burundi,Kirundo,RETAIL,Kg
+2024-10-01,1.01,Beans,Burundi,Kirundo,RETAIL,Kg
+2024-11-01,1.03,Beans,Burundi,Kirundo,RETAIL,Kg
+2024-12-01,1.2,Beans,Burundi,Kirundo,RETAIL,Kg
+2025-01-01,0.76,Beans,Burundi,Kirundo,RETAIL,Kg
+2025-02-01,0.86,Beans,Burundi,Kirundo,RETAIL,Kg
+2025-03-01,0.88,Beans,Burundi,Kirundo,RETAIL,Kg
+2025-04-01,0.84,Beans,Burundi,Kirundo,RETAIL,Kg
+2025-05-01,0.76,Beans,Burundi,Kirundo,RETAIL,Kg
+2025-06-01,0.72,Beans,Burundi,Kirundo,RETAIL,Kg
+2025-07-01,0.8,Beans,Burundi,Kirundo,RETAIL,Kg
+2025-08-01,0.8,Beans,Burundi,Kirundo,RETAIL,Kg
+2025-09-01,0.8,Beans,Burundi,Kirundo,RETAIL,Kg
+2025-10-01,0.85,Beans,Burundi,Kirundo,RETAIL,Kg
+2014-10-01,0.56,Beans,Burundi,National Average,RETAIL,Kg
+2014-11-01,0.56,Beans,Burundi,National Average,RETAIL,Kg
+2014-12-01,0.53,Beans,Burundi,National Average,RETAIL,Kg
+2015-01-01,0.45,Beans,Burundi,National Average,RETAIL,Kg
+2015-02-01,0.44,Beans,Burundi,National Average,RETAIL,Kg
+2015-03-01,0.46,Beans,Burundi,National Average,RETAIL,Kg
+2015-04-01,0.52,Beans,Burundi,National Average,RETAIL,Kg
+2015-05-01,0.52,Beans,Burundi,National Average,RETAIL,Kg
+2015-06-01,0.43,Beans,Burundi,National Average,RETAIL,Kg
+2015-07-01,0.41,Beans,Burundi,National Average,RETAIL,Kg
+2015-08-01,0.44,Beans,Burundi,National Average,RETAIL,Kg
+2015-09-01,0.48,Beans,Burundi,National Average,RETAIL,Kg
+2015-10-01,0.55,Beans,Burundi,National Average,RETAIL,Kg
+2015-11-01,0.63,Beans,Burundi,National Average,RETAIL,Kg
+2015-12-01,0.76,Beans,Burundi,National Average,RETAIL,Kg
+2016-01-01,0.6,Beans,Burundi,National Average,RETAIL,Kg
+2016-02-01,0.63,Beans,Burundi,National Average,RETAIL,Kg
+2016-03-01,0.67,Beans,Burundi,National Average,RETAIL,Kg
+2016-04-01,0.65,Beans,Burundi,National Average,RETAIL,Kg
+2016-05-01,0.55,Beans,Burundi,National Average,RETAIL,Kg
+2016-06-01,0.47,Beans,Burundi,National Average,RETAIL,Kg
+2016-07-01,0.53,Beans,Burundi,National Average,RETAIL,Kg
+2016-08-01,0.59,Beans,Burundi,National Average,RETAIL,Kg
+2016-09-01,0.59,Beans,Burundi,National Average,RETAIL,Kg
+2016-10-01,0.67,Beans,Burundi,National Average,RETAIL,Kg
+2016-11-01,0.74,Beans,Burundi,National Average,RETAIL,Kg
+2016-12-01,0.86,Beans,Burundi,National Average,RETAIL,Kg
+2017-01-01,0.87,Beans,Burundi,National Average,RETAIL,Kg
+2017-02-01,0.86,Beans,Burundi,National Average,RETAIL,Kg
+2017-03-01,0.82,Beans,Burundi,National Average,RETAIL,Kg
+2017-04-01,0.79,Beans,Burundi,National Average,RETAIL,Kg
+2017-05-01,0.64,Beans,Burundi,National Average,RETAIL,Kg
+2017-06-01,0.55,Beans,Burundi,National Average,RETAIL,Kg
+2017-07-01,0.57,Beans,Burundi,National Average,RETAIL,Kg
+2017-08-01,0.59,Beans,Burundi,National Average,RETAIL,Kg
+2017-09-01,0.63,Beans,Burundi,National Average,RETAIL,Kg
+2017-10-01,0.69,Beans,Burundi,National Average,RETAIL,Kg
+2017-11-01,0.67,Beans,Burundi,National Average,RETAIL,Kg
+2017-12-01,0.61,Beans,Burundi,National Average,RETAIL,Kg
+2018-01-01,0.51,Beans,Burundi,National Average,RETAIL,Kg
+2018-02-01,0.49,Beans,Burundi,National Average,RETAIL,Kg
+2018-03-01,0.49,Beans,Burundi,National Average,RETAIL,Kg
+2018-04-01,0.52,Beans,Burundi,National Average,RETAIL,Kg
+2018-05-01,0.56,Beans,Burundi,National Average,RETAIL,Kg
+2018-06-01,0.5,Beans,Burundi,National Average,RETAIL,Kg
+2018-07-01,0.51,Beans,Burundi,National Average,RETAIL,Kg
+2018-08-01,0.52,Beans,Burundi,National Average,RETAIL,Kg
+2018-09-01,0.57,Beans,Burundi,National Average,RETAIL,Kg
+2018-10-01,0.6,Beans,Burundi,National Average,RETAIL,Kg
+2018-11-01,0.62,Beans,Burundi,National Average,RETAIL,Kg
+2018-12-01,0.69,Beans,Burundi,National Average,RETAIL,Kg
+2019-01-01,0.61,Beans,Burundi,National Average,RETAIL,Kg
+2019-02-01,0.57,Beans,Burundi,National Average,RETAIL,Kg
+2019-03-01,0.62,Beans,Burundi,National Average,RETAIL,Kg
+2019-04-01,,Beans,Burundi,National Average,RETAIL,Kg
+2019-05-01,0.6,Beans,Burundi,National Average,RETAIL,Kg
+2019-06-01,0.46,Beans,Burundi,National Average,RETAIL,Kg
+2019-07-01,0.58,Beans,Burundi,National Average,RETAIL,Kg
+2019-08-01,0.52,Beans,Burundi,National Average,RETAIL,Kg
+2019-09-01,,Beans,Burundi,National Average,RETAIL,Kg
+2019-10-01,0.59,Beans,Burundi,National Average,RETAIL,Kg
+2019-11-01,0.6,Beans,Burundi,National Average,RETAIL,Kg
+2019-12-01,0.62,Beans,Burundi,National Average,RETAIL,Kg
+2020-01-01,0.58,Beans,Burundi,National Average,RETAIL,Kg
+2020-02-01,0.62,Beans,Burundi,National Average,RETAIL,Kg
+2020-03-01,0.7,Beans,Burundi,National Average,RETAIL,Kg
+2020-04-01,,Beans,Burundi,National Average,RETAIL,Kg
+2020-05-01,,Beans,Burundi,National Average,RETAIL,Kg
+2020-06-01,0.56,Beans,Burundi,National Average,RETAIL,Kg
+2020-07-01,0.61,Beans,Burundi,National Average,RETAIL,Kg
+2020-08-01,0.69,Beans,Burundi,National Average,RETAIL,Kg
+2020-09-01,0.73,Beans,Burundi,National Average,RETAIL,Kg
+2020-10-01,0.77,Beans,Burundi,National Average,RETAIL,Kg
+2020-11-01,0.85,Beans,Burundi,National Average,RETAIL,Kg
+2020-12-01,0.82,Beans,Burundi,National Average,RETAIL,Kg
+2021-01-01,0.66,Beans,Burundi,National Average,RETAIL,Kg
+2021-02-01,0.72,Beans,Burundi,National Average,RETAIL,Kg
+2021-03-01,0.74,Beans,Burundi,National Average,RETAIL,Kg
+2021-04-01,0.7,Beans,Burundi,National Average,RETAIL,Kg
+2021-05-01,0.65,Beans,Burundi,National Average,RETAIL,Kg
+2021-06-01,,Beans,Burundi,National Average,RETAIL,Kg
+2021-07-01,,Beans,Burundi,National Average,RETAIL,Kg
+2021-08-01,,Beans,Burundi,National Average,RETAIL,Kg
+2021-09-01,0.65,Beans,Burundi,National Average,RETAIL,Kg
+2021-10-01,0.6,Beans,Burundi,National Average,RETAIL,Kg
+2021-11-01,,Beans,Burundi,National Average,RETAIL,Kg
+2021-12-01,,Beans,Burundi,National Average,RETAIL,Kg
+2022-01-01,0.55,Beans,Burundi,National Average,RETAIL,Kg
+2022-02-01,0.55,Beans,Burundi,National Average,RETAIL,Kg
+2022-03-01,0.57,Beans,Burundi,National Average,RETAIL,Kg
+2022-04-01,0.79,Beans,Burundi,National Average,RETAIL,Kg
+2022-05-01,0.82,Beans,Burundi,National Average,RETAIL,Kg
+2022-06-01,0.72,Beans,Burundi,National Average,RETAIL,Kg
+2022-07-01,0.64,Beans,Burundi,National Average,RETAIL,Kg
+2022-08-01,0.68,Beans,Burundi,National Average,RETAIL,Kg
+2022-09-01,0.77,Beans,Burundi,National Average,RETAIL,Kg
+2022-10-01,0.87,Beans,Burundi,National Average,RETAIL,Kg
+2022-11-01,1.08,Beans,Burundi,National Average,RETAIL,Kg
+2022-12-01,1.1,Beans,Burundi,National Average,RETAIL,Kg
+2023-01-01,1.35,Beans,Burundi,National Average,RETAIL,Kg
+2023-02-01,1.41,Beans,Burundi,National Average,RETAIL,Kg
+2023-03-01,1.6,Beans,Burundi,National Average,RETAIL,Kg
+2023-04-01,1.65,Beans,Burundi,National Average,RETAIL,Kg
+2023-05-01,1.1,Beans,Burundi,National Average,RETAIL,Kg
+2023-06-01,0.76,Beans,Burundi,National Average,RETAIL,Kg
+2023-07-01,0.79,Beans,Burundi,National Average,RETAIL,Kg
+2023-08-01,0.9,Beans,Burundi,National Average,RETAIL,Kg
+2023-09-01,0.94,Beans,Burundi,National Average,RETAIL,Kg
+2023-10-01,0.98,Beans,Burundi,National Average,RETAIL,Kg
+2023-11-01,0.94,Beans,Burundi,National Average,RETAIL,Kg
+2023-12-01,0.91,Beans,Burundi,National Average,RETAIL,Kg
+2024-01-01,0.85,Beans,Burundi,National Average,RETAIL,Kg
+2024-02-01,0.92,Beans,Burundi,National Average,RETAIL,Kg
+2024-03-01,0.97,Beans,Burundi,National Average,RETAIL,Kg
+2024-04-01,1.02,Beans,Burundi,National Average,RETAIL,Kg
+2024-05-01,0.9,Beans,Burundi,National Average,RETAIL,Kg
+2024-06-01,0.81,Beans,Burundi,National Average,RETAIL,Kg
+2024-07-01,0.84,Beans,Burundi,National Average,RETAIL,Kg
+2024-08-01,0.93,Beans,Burundi,National Average,RETAIL,Kg
+2024-09-01,1.02,Beans,Burundi,National Average,RETAIL,Kg
+2024-10-01,1.09,Beans,Burundi,National Average,RETAIL,Kg
+2024-11-01,1.14,Beans,Burundi,National Average,RETAIL,Kg
+2024-12-01,1.24,Beans,Burundi,National Average,RETAIL,Kg
+2025-01-01,1.07,Beans,Burundi,National Average,RETAIL,Kg
+2025-02-01,1.06,Beans,Burundi,National Average,RETAIL,Kg
+2025-03-01,1.11,Beans,Burundi,National Average,RETAIL,Kg
+2025-04-01,1.06,Beans,Burundi,National Average,RETAIL,Kg
+2025-05-01,0.92,Beans,Burundi,National Average,RETAIL,Kg
+2025-06-01,0.85,Beans,Burundi,National Average,RETAIL,Kg
+2025-07-01,0.83,Beans,Burundi,National Average,RETAIL,Kg
+2025-08-01,0.88,Beans,Burundi,National Average,RETAIL,Kg
+2025-09-01,0.9,Beans,Burundi,National Average,RETAIL,Kg
+2025-10-01,0.94,Beans,Burundi,National Average,RETAIL,Kg
+2020-03-01,2.96,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2020-04-01,4.14,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2020-05-01,1.66,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2020-06-01,2.36,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2020-07-01,,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2020-08-01,1.26,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2020-09-01,1.35,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2020-10-01,1.35,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2020-11-01,1.32,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2020-12-01,1.36,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2021-01-01,1.33,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2021-02-01,1.17,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2021-03-01,1.27,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2021-04-01,1.31,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2021-05-01,1.48,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2021-06-01,1.47,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2021-07-01,1.62,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2021-08-01,1.62,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2021-09-01,1.56,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2021-10-01,1.41,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2021-11-01,1.53,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2021-12-01,1.52,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2022-01-01,1.38,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2022-02-01,,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2022-03-01,1.68,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2022-04-01,1.65,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2022-05-01,1.61,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2022-06-01,2.26,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2022-07-01,2.33,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2022-08-01,1.85,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2022-09-01,1.83,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2022-10-01,1.8,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2022-11-01,1.94,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2022-12-01,2.42,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2023-01-01,2.54,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2023-02-01,2.56,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2023-03-01,2.56,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2023-04-01,2.61,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2023-05-01,3.04,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2023-06-01,2.48,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2023-07-01,2.53,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2023-08-01,2.49,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2023-09-01,2.64,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2023-10-01,2.68,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2023-11-01,3.02,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2023-12-01,2.49,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2024-01-01,2.76,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2024-02-01,1.65,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2024-03-01,1.66,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2024-04-01,,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2024-05-01,1.32,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2024-06-01,1.48,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2024-07-01,1.49,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2024-08-01,1.68,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2024-09-01,1.52,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2024-10-01,1.5,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2024-11-01,1.46,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2024-12-01,1.44,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2025-01-01,,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2025-02-01,,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2025-03-01,1.65,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2025-04-01,,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2025-05-01,,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2025-06-01,1.76,Beans,Guinea-Bissau,Bissau-Bandim,RETAIL,Kg
+2020-05-01,1.44,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2020-06-01,1.57,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2020-07-01,1.22,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2020-08-01,0.76,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2020-09-01,0.94,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2020-10-01,1.0,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2020-11-01,1.15,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2020-12-01,1.19,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2021-01-01,1.39,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2021-02-01,1.03,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2021-03-01,1.14,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2021-04-01,1.03,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2021-05-01,0.98,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2021-06-01,1.43,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2021-07-01,1.14,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2021-08-01,1.17,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2021-09-01,1.0,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2021-10-01,0.98,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2021-11-01,1.1,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2021-12-01,1.05,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2022-01-01,,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2022-02-01,1.01,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2022-03-01,0.89,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2022-04-01,1.18,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2022-05-01,1.63,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2022-06-01,1.59,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2022-07-01,2.73,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2022-08-01,1.67,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2022-09-01,1.64,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2022-10-01,1.6,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2022-11-01,1.67,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2022-12-01,1.21,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2023-01-01,1.22,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2023-02-01,1.23,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2023-03-01,1.24,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2023-04-01,1.28,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2023-05-01,2.49,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2023-06-01,2.15,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2023-07-01,1.88,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2023-08-01,2.49,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2023-09-01,2.28,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2023-10-01,2.07,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2023-11-01,1.73,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2023-12-01,1.67,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2024-01-01,1.66,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2024-02-01,1.62,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2024-03-01,1.4,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2024-04-01,1.22,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2024-05-01,1.64,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2024-06-01,1.54,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2024-07-01,1.38,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2024-08-01,1.76,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2024-09-01,1.56,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2024-10-01,1.8,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2024-11-01,1.62,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2024-12-01,2.64,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2025-01-01,,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2025-02-01,,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2025-03-01,1.24,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2025-04-01,,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2025-05-01,,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2025-06-01,1.76,Beans,Guinea-Bissau,Bissora,RETAIL,Kg
+2020-05-01,2.77,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2020-06-01,1.72,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2020-07-01,1.75,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2020-08-01,1.35,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2020-09-01,,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2020-10-01,1.04,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2020-11-01,0.99,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2020-12-01,1.02,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2021-01-01,1.13,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2021-02-01,1.04,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2021-03-01,1.13,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2021-04-01,0.95,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2021-05-01,1.03,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2021-06-01,1.13,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2021-07-01,0.92,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2021-08-01,1.07,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2021-09-01,0.99,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2021-10-01,0.92,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2021-11-01,1.16,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2021-12-01,0.9,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2022-01-01,0.93,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2022-02-01,1.23,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2022-03-01,1.0,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2022-04-01,1.06,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2022-05-01,2.32,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2022-06-01,2.46,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2022-07-01,2.48,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2022-08-01,1.69,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2022-09-01,1.66,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2022-10-01,1.61,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2022-11-01,,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2022-12-01,,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2023-01-01,1.91,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2023-02-01,1.87,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2023-03-01,1.88,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2023-04-01,1.93,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2023-05-01,2.72,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2023-06-01,3.77,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2023-07-01,2.85,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2023-08-01,2.84,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2023-09-01,2.44,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2023-10-01,2.23,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2023-11-01,2.91,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2023-12-01,2.36,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2024-01-01,2.17,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2024-02-01,1.87,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2024-03-01,1.84,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2024-04-01,1.83,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2024-05-01,1.85,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2024-06-01,2.46,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2024-07-01,2.07,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2024-08-01,2.1,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2024-09-01,1.69,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2024-10-01,1.66,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2024-11-01,1.62,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2024-12-01,2.0,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2025-01-01,,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2025-02-01,,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2025-03-01,1.65,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2025-04-01,,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2025-05-01,,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2025-06-01,1.76,Beans,Guinea-Bissau,Cacheu,RETAIL,Kg
+2020-05-01,0.78,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2020-06-01,0.91,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2020-07-01,,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2020-08-01,1.52,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2020-09-01,0.99,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2020-10-01,1.03,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2020-11-01,1.06,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2020-12-01,1.09,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2021-01-01,1.05,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2021-02-01,1.22,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2021-03-01,1.18,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2021-04-01,1.14,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2021-05-01,1.22,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2021-06-01,1.19,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2021-07-01,0.96,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2021-08-01,0.96,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2021-09-01,0.9,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2021-10-01,0.8,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2021-11-01,0.87,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2021-12-01,0.89,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2022-01-01,0.86,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2022-02-01,1.25,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2022-03-01,1.09,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2022-04-01,1.18,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2022-05-01,1.21,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2022-06-01,1.15,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2022-07-01,2.17,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2022-08-01,1.47,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2022-09-01,1.46,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2022-10-01,,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2022-11-01,,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2022-12-01,1.37,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2023-01-01,1.37,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2023-02-01,1.37,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2023-03-01,1.39,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2023-04-01,1.43,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2023-05-01,1.66,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2023-06-01,1.54,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2023-07-01,1.69,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2023-08-01,1.83,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2023-09-01,1.76,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2023-10-01,1.61,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2023-11-01,1.32,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2023-12-01,,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2024-01-01,1.19,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2024-02-01,1.26,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2024-03-01,1.66,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2024-04-01,1.64,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2024-05-01,1.65,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2024-06-01,1.23,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2024-07-01,1.26,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2024-08-01,1.44,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2024-09-01,1.69,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2024-10-01,,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2024-11-01,1.3,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2024-12-01,1.28,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2025-01-01,,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2025-02-01,,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2025-03-01,1.65,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2025-04-01,,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2025-05-01,,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2025-06-01,1.67,Beans,Guinea-Bissau,Catio,RETAIL,Kg
+2020-05-01,1.14,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2020-06-01,1.29,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2020-07-01,1.0,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2020-08-01,1.47,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2020-09-01,1.26,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2020-10-01,0.92,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2020-11-01,1.26,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2020-12-01,1.3,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2021-01-01,1.33,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2021-02-01,1.45,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2021-03-01,1.36,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2021-04-01,1.34,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2021-05-01,1.43,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2021-06-01,1.47,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2021-07-01,1.37,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2021-08-01,1.31,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2021-09-01,1.37,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2021-10-01,1.21,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2021-11-01,1.17,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2021-12-01,1.47,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2022-01-01,1.1,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2022-02-01,1.07,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2022-03-01,1.33,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2022-04-01,1.21,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2022-05-01,1.63,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2022-06-01,1.95,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2022-07-01,1.89,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2022-08-01,1.45,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2022-09-01,1.44,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2022-10-01,1.45,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2022-11-01,1.52,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2022-12-01,1.78,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2023-01-01,1.82,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2023-02-01,1.82,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2023-03-01,1.84,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2023-04-01,1.89,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2023-05-01,2.25,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2023-06-01,2.23,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2023-07-01,2.28,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2023-08-01,2.26,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2023-09-01,2.08,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2023-10-01,2.07,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2023-11-01,2.1,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2023-12-01,2.12,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2024-01-01,1.66,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2024-02-01,2.05,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2024-03-01,1.75,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2024-04-01,,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2024-05-01,1.56,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2024-06-01,1.84,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2024-07-01,1.82,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2024-08-01,1.85,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2024-09-01,1.69,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2024-10-01,1.5,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2024-11-01,1.46,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2024-12-01,1.6,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2025-01-01,,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2025-02-01,,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2025-03-01,1.65,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2025-04-01,,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2025-05-01,,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2025-06-01,1.76,Beans,Guinea-Bissau,Gabu,RETAIL,Kg
+2020-08-01,1.22,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2020-09-01,1.04,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2020-10-01,1.03,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2020-11-01,1.02,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2020-12-01,1.05,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2021-01-01,1.18,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2021-02-01,1.1,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2021-03-01,1.2,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2021-04-01,1.07,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2021-05-01,1.07,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2021-06-01,1.3,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2021-07-01,1.2,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2021-08-01,1.14,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2021-09-01,1.13,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2021-10-01,1.08,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2021-11-01,1.08,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2021-12-01,1.1,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2022-01-01,1.09,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2022-02-01,1.19,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2022-03-01,1.12,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2022-04-01,1.09,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2022-05-01,1.49,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2022-06-01,1.74,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2022-07-01,2.14,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2022-08-01,1.78,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2022-09-01,1.76,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2022-10-01,1.73,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2022-11-01,1.81,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2022-12-01,1.95,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2023-01-01,1.98,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2023-02-01,1.99,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2023-03-01,2.0,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2023-04-01,2.06,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2023-05-01,2.33,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2023-06-01,2.25,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2023-07-01,2.41,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2023-08-01,2.26,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2023-09-01,2.12,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2023-10-01,2.02,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2023-11-01,2.17,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2023-12-01,2.09,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2024-01-01,1.93,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2024-02-01,1.69,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2024-03-01,1.64,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2024-04-01,1.58,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2024-05-01,1.7,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2024-06-01,1.69,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2024-07-01,1.73,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2024-08-01,1.8,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2024-09-01,1.83,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2024-10-01,1.8,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2024-11-01,1.75,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2024-12-01,1.84,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2025-01-01,,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2025-02-01,,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2025-03-01,1.61,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2025-04-01,,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2025-05-01,,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2025-06-01,1.89,Beans,Guinea-Bissau,National Average,RETAIL,Kg
+2017-10-01,2.1,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2017-11-01,2.1,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2017-12-01,2.1,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2018-01-01,1.92,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2018-02-01,2.1,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2018-03-01,2.1,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2018-04-01,2.1,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2018-05-01,2.1,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2018-06-01,2.1,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2018-07-01,2.45,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2018-08-01,2.27,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2018-09-01,2.45,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2018-10-01,2.45,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2018-11-01,,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2018-12-01,2.53,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2019-01-01,2.17,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2019-02-01,2.25,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2019-03-01,2.61,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2019-04-01,2.33,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2019-05-01,2.42,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2019-06-01,2.24,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2019-07-01,2.23,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2019-08-01,2.13,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2019-09-01,2.21,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2019-10-01,2.48,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2019-11-01,2.4,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2019-12-01,2.32,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2020-01-01,2.23,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2020-02-01,2.21,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2020-03-01,,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2020-04-01,2.04,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2020-05-01,2.84,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2020-06-01,2.48,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2020-07-01,2.52,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2020-08-01,2.92,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2020-09-01,2.55,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2020-10-01,2.74,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2020-11-01,2.94,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2020-12-01,2.99,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2021-01-01,0.9,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2021-02-01,0.9,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2021-03-01,0.89,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2021-04-01,0.89,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2021-05-01,0.9,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2021-06-01,0.89,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2021-07-01,0.89,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2021-08-01,0.88,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2021-09-01,0.88,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2021-10-01,0.88,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2021-11-01,0.87,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2021-12-01,0.71,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2022-01-01,0.65,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2022-02-01,0.65,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2022-03-01,0.64,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2022-04-01,0.69,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2022-05-01,0.84,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2022-06-01,0.68,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2022-07-01,,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2022-08-01,,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2022-09-01,0.75,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2022-10-01,0.78,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2022-11-01,0.81,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2022-12-01,0.83,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2023-01-01,,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2023-02-01,,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2023-03-01,,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2023-04-01,,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2023-05-01,,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2023-06-01,,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2023-07-01,0.42,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2023-08-01,0.62,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2023-09-01,0.52,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2023-10-01,0.51,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2023-11-01,0.62,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2023-12-01,0.57,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2024-01-01,0.62,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2024-02-01,0.62,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2024-03-01,0.62,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2024-04-01,,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2024-05-01,0.64,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2024-06-01,0.61,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2024-07-01,0.55,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2024-08-01,0.52,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2024-09-01,0.42,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2024-10-01,0.42,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2024-11-01,0.41,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2024-12-01,0.41,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2025-01-01,0.41,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2025-02-01,0.41,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2025-03-01,0.41,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2025-04-01,0.52,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2025-05-01,0.47,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2025-06-01,0.46,Beans,Libyan Arab Jamahiriya,Algatroun,RETAIL,400 gms
+2018-01-01,2.36,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2018-02-01,2.27,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2018-03-01,2.36,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2018-04-01,2.38,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2018-05-01,2.36,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2018-06-01,2.27,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2018-07-01,2.45,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2018-08-01,2.27,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2018-09-01,2.45,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2018-10-01,2.45,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2018-11-01,,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2018-12-01,2.45,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2019-01-01,2.17,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2019-02-01,2.17,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2019-03-01,1.44,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2019-04-01,1.44,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2019-05-01,1.43,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2019-06-01,1.79,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2019-07-01,1.57,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2019-08-01,1.6,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2019-09-01,1.59,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2019-10-01,1.6,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2019-11-01,1.42,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2019-12-01,1.43,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2020-01-01,1.43,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2020-02-01,1.06,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2020-03-01,,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2020-04-01,1.51,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2020-05-01,1.42,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2020-06-01,1.06,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2020-07-01,1.08,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2020-08-01,1.46,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2020-09-01,1.09,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2020-10-01,1.46,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2020-11-01,1.47,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2020-12-01,1.49,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2021-01-01,0.45,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2021-02-01,0.45,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2021-03-01,0.33,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2021-04-01,0.33,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2021-05-01,0.45,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2021-06-01,0.45,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2021-07-01,0.44,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2021-08-01,0.44,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2021-09-01,0.44,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2021-10-01,0.44,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2021-11-01,0.55,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2021-12-01,0.6,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2022-01-01,0.65,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2022-02-01,0.44,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2022-03-01,0.64,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2022-04-01,0.64,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2022-05-01,0.63,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2022-06-01,0.62,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2022-07-01,,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2022-08-01,,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2022-09-01,0.5,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2022-10-01,0.59,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2022-11-01,0.61,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2022-12-01,0.52,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2023-01-01,0.63,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2023-02-01,,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2023-03-01,0.62,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2023-04-01,,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2023-05-01,,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2023-06-01,,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2023-07-01,0.63,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2023-08-01,0.62,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2023-09-01,0.62,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2023-10-01,0.61,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2023-11-01,0.62,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2023-12-01,0.62,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2024-01-01,0.62,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2024-02-01,0.62,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2024-03-01,0.62,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2024-04-01,,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2024-05-01,0.62,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2024-06-01,0.62,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2024-07-01,0.62,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2024-08-01,0.73,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2024-09-01,0.72,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2024-10-01,0.73,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2024-11-01,0.72,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2024-12-01,0.72,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2025-01-01,0.71,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2025-02-01,0.71,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2025-03-01,0.72,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2025-04-01,0.59,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2025-05-01,0.64,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2025-06-01,0.64,Beans,Libyan Arab Jamahiriya,Alkufra,RETAIL,400 gms
+2018-01-01,1.8,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2018-02-01,1.4,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2018-03-01,1.69,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2018-04-01,1.4,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2018-05-01,1.63,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2018-06-01,1.49,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2018-07-01,1.94,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2018-08-01,1.75,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2018-09-01,1.57,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2018-10-01,1.75,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2018-11-01,,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2018-12-01,1.48,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2019-01-01,1.5,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2019-02-01,2.03,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2019-03-01,0.81,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2019-04-01,1.03,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2019-05-01,1.16,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2019-06-01,0.85,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2019-07-01,0.85,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2019-08-01,1.19,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2019-09-01,0.79,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2019-10-01,0.59,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2019-11-01,0.71,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2019-12-01,0.66,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2020-01-01,0.76,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2020-02-01,0.77,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2020-03-01,1.5,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2020-04-01,2.93,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2020-05-01,3.55,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2020-06-01,2.84,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2020-07-01,2.34,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2020-08-01,3.28,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2020-09-01,2.92,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2020-10-01,2.65,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2020-11-01,2.94,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2020-12-01,3.36,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2021-01-01,0.9,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2021-02-01,0.9,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2021-03-01,0.97,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2021-04-01,0.92,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2021-05-01,0.92,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2021-06-01,0.95,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2021-07-01,0.89,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2021-08-01,1.0,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2021-09-01,0.86,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2021-10-01,0.91,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2021-11-01,,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2021-12-01,0.98,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2022-01-01,0.85,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2022-02-01,0.9,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2022-03-01,0.91,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2022-04-01,0.64,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2022-05-01,0.52,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2022-06-01,0.62,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2022-07-01,,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2022-08-01,,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2022-09-01,0.54,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2022-10-01,0.54,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2022-11-01,0.56,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2022-12-01,0.52,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2023-01-01,0.52,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2023-02-01,,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2023-03-01,0.55,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2023-04-01,0.58,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2023-05-01,,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2023-06-01,,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2023-07-01,0.63,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2023-08-01,0.62,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2023-09-01,0.62,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2023-10-01,0.61,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2023-11-01,0.6,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2023-12-01,0.62,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2024-01-01,0.52,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2024-02-01,0.62,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2024-03-01,0.62,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2024-04-01,,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2024-05-01,0.59,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2024-06-01,0.65,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2024-07-01,0.62,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2024-08-01,0.6,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2024-09-01,0.62,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2024-10-01,0.61,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2024-11-01,0.73,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2024-12-01,0.71,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2025-01-01,0.58,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2025-02-01,0.61,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2025-03-01,0.63,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2025-04-01,0.55,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2025-05-01,0.54,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2025-06-01,0.59,Beans,Libyan Arab Jamahiriya,Benghazi,RETAIL,400 gms
+2018-03-01,2.38,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2018-04-01,2.03,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2018-05-01,2.1,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2018-06-01,2.1,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2018-07-01,1.92,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2018-08-01,2.1,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2018-09-01,1.92,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2018-10-01,1.4,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2018-11-01,,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2018-12-01,1.66,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2019-01-01,1.98,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2019-02-01,1.81,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2019-03-01,1.58,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2019-04-01,1.52,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2019-05-01,1.47,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2019-06-01,1.39,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2019-07-01,1.28,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2019-08-01,1.45,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2019-09-01,1.18,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2019-10-01,1.55,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2019-11-01,1.52,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2019-12-01,0.89,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2020-01-01,,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2020-02-01,1.73,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2020-03-01,1.42,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2020-04-01,1.42,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2020-05-01,1.42,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2020-06-01,1.42,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2020-07-01,1.44,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2020-08-01,1.46,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2020-09-01,1.46,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2020-10-01,1.55,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2020-11-01,1.47,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2020-12-01,1.49,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2021-01-01,0.45,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2021-02-01,0.56,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2021-03-01,0.44,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2021-04-01,0.44,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2021-05-01,0.56,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2021-06-01,0.48,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2021-07-01,0.44,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2021-08-01,0.55,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2021-09-01,0.55,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2021-10-01,0.55,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2021-11-01,0.55,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2021-12-01,0.54,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2022-01-01,0.54,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2022-02-01,0.52,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2022-03-01,0.54,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2022-04-01,0.53,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2022-05-01,0.52,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2022-06-01,0.52,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2022-07-01,,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2022-08-01,,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2022-09-01,0.5,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2022-10-01,0.49,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2022-11-01,0.56,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2022-12-01,0.52,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2023-01-01,0.6,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2023-02-01,0.55,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2023-03-01,0.57,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2023-04-01,,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2023-05-01,,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2023-06-01,,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2023-07-01,0.58,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2023-08-01,0.54,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2023-09-01,0.52,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2023-10-01,0.51,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2023-11-01,0.52,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2023-12-01,0.52,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2024-01-01,0.52,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2024-02-01,0.52,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2024-03-01,0.62,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2024-04-01,,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2024-05-01,0.57,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2024-06-01,0.57,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2024-07-01,0.57,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2024-08-01,0.69,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2024-09-01,0.63,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2024-10-01,0.89,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2024-11-01,0.92,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2024-12-01,0.92,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2025-01-01,0.86,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2025-02-01,0.74,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2025-03-01,0.79,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2025-04-01,0.67,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2025-05-01,0.78,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2025-06-01,1.01,Beans,Libyan Arab Jamahiriya,Misrata,RETAIL,400 gms
+2017-10-01,2.8,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2017-11-01,2.8,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2017-12-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2018-01-01,2.62,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2018-02-01,2.45,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2018-03-01,2.8,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2018-04-01,2.8,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2018-05-01,2.8,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2018-06-01,2.45,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2018-07-01,2.1,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2018-08-01,2.1,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2018-09-01,2.1,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2018-10-01,2.45,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2018-11-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2018-12-01,2.45,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2019-01-01,2.53,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2019-02-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2019-03-01,2.88,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2019-04-01,2.87,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2019-05-01,2.86,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2019-06-01,2.87,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2019-07-01,2.86,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2019-08-01,2.66,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2019-09-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2019-10-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2019-11-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2019-12-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2020-01-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2020-02-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2020-03-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2020-04-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2020-05-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2020-06-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2020-07-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2020-08-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2020-09-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2020-10-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2020-11-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2020-12-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2021-01-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2021-02-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2021-03-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2021-04-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2021-05-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2021-06-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2021-07-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2021-08-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2021-09-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2021-10-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2021-11-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2021-12-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2022-01-01,0.65,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2022-02-01,0.65,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2022-03-01,0.64,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2022-04-01,0.74,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2022-05-01,0.73,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2022-06-01,0.73,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2022-07-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2022-08-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2022-09-01,0.7,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2022-10-01,0.78,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2022-11-01,0.81,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2022-12-01,0.83,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2023-01-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2023-02-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2023-03-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2023-04-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2023-05-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2023-06-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2023-07-01,0.63,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2023-08-01,0.62,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2023-09-01,0.52,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2023-10-01,0.51,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2023-11-01,0.62,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2023-12-01,0.52,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2024-01-01,0.62,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2024-02-01,0.62,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2024-03-01,0.62,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2024-04-01,,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2024-05-01,0.8,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2024-06-01,0.57,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2024-07-01,0.54,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2024-08-01,0.68,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2024-09-01,0.47,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2024-10-01,0.42,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2024-11-01,0.41,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2024-12-01,0.41,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2025-01-01,0.41,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2025-02-01,0.41,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2025-03-01,0.41,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2025-04-01,0.38,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2025-05-01,0.5,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2025-06-01,0.41,Beans,Libyan Arab Jamahiriya,Murzuq,RETAIL,400 gms
+2017-10-01,1.92,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2017-11-01,1.97,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2017-12-01,1.99,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2018-01-01,1.94,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2018-02-01,1.8,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2018-03-01,1.87,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2018-04-01,1.97,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2018-05-01,1.95,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2018-06-01,2.01,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2018-07-01,2.03,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2018-08-01,2.07,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2018-09-01,2.07,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2018-10-01,2.04,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2018-11-01,,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2018-12-01,2.02,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2019-01-01,1.88,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2019-02-01,1.77,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2019-03-01,1.76,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2019-04-01,1.57,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2019-05-01,1.69,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2019-06-01,1.68,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2019-07-01,1.53,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2019-08-01,1.51,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2019-09-01,1.34,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2019-10-01,1.46,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2019-11-01,1.38,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2019-12-01,1.25,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2020-01-01,1.25,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2020-02-01,1.3,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2020-03-01,1.3,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2020-04-01,1.64,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2020-05-01,1.46,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2020-06-01,1.4,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2020-07-01,1.31,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2020-08-01,1.61,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2020-09-01,1.58,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2020-10-01,1.58,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2020-11-01,1.66,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2020-12-01,1.62,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2021-01-01,0.5,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2021-02-01,0.54,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2021-03-01,0.52,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2021-04-01,0.54,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2021-05-01,0.57,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2021-06-01,0.55,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2021-07-01,0.55,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2021-08-01,0.56,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2021-09-01,0.57,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2021-10-01,0.58,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2021-11-01,0.59,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2021-12-01,0.59,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2022-01-01,0.6,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2022-02-01,0.58,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2022-03-01,0.6,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2022-04-01,0.61,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2022-05-01,0.61,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2022-06-01,0.6,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2022-07-01,,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2022-08-01,,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2022-09-01,0.57,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2022-10-01,0.57,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2022-11-01,0.6,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2022-12-01,0.62,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2023-01-01,0.59,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2023-02-01,0.6,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2023-03-01,0.59,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2023-04-01,0.6,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2023-05-01,,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2023-06-01,0.64,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2023-07-01,0.57,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2023-08-01,0.59,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2023-09-01,0.57,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2023-10-01,0.6,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2023-11-01,0.61,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2023-12-01,0.61,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2024-01-01,0.59,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2024-02-01,0.6,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2024-03-01,0.66,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2024-04-01,,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2024-05-01,0.67,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2024-06-01,0.69,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2024-07-01,0.7,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2024-08-01,0.72,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2024-09-01,0.72,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2024-10-01,0.68,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2024-11-01,0.71,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2024-12-01,0.7,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2025-01-01,0.69,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2025-02-01,0.66,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2025-03-01,0.65,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2025-04-01,0.6,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2025-05-01,0.62,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2025-06-01,0.63,Beans,Libyan Arab Jamahiriya,National Average,RETAIL,400 gms
+2017-07-01,1.4,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2017-08-01,1.75,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2017-09-01,1.75,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2017-10-01,1.75,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2017-11-01,1.75,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2017-12-01,1.75,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2018-01-01,1.75,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2018-02-01,1.75,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2018-03-01,1.75,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2018-04-01,1.75,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2018-05-01,1.75,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2018-06-01,1.75,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2018-07-01,1.92,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2018-08-01,2.45,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2018-09-01,2.45,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2018-10-01,2.45,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2018-11-01,,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2018-12-01,2.8,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2019-01-01,1.58,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2019-02-01,1.13,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2019-03-01,1.17,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2019-04-01,1.26,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2019-05-01,1.25,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2019-06-01,1.46,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2019-07-01,1.39,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2019-08-01,1.34,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2019-09-01,1.42,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2019-10-01,1.46,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2019-11-01,1.46,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2019-12-01,1.07,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2020-01-01,1.07,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2020-02-01,1.06,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2020-03-01,1.13,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2020-04-01,2.99,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2020-05-01,1.06,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2020-06-01,1.06,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2020-07-01,1.08,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2020-08-01,1.09,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2020-09-01,1.09,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2020-10-01,1.09,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2020-11-01,1.1,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2020-12-01,1.12,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2021-01-01,0.34,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2021-02-01,0.45,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2021-03-01,0.33,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2021-04-01,0.33,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2021-05-01,0.45,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2021-06-01,0.45,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2021-07-01,0.44,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2021-08-01,0.44,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2021-09-01,0.44,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2021-10-01,0.55,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2021-11-01,0.55,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2021-12-01,0.54,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2022-01-01,0.54,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2022-02-01,0.44,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2022-03-01,0.54,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2022-04-01,0.53,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2022-05-01,0.63,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2022-06-01,0.52,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2022-07-01,,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2022-08-01,,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2022-09-01,0.5,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2022-10-01,0.59,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2022-11-01,0.51,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2022-12-01,0.52,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2023-01-01,,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2023-02-01,0.62,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2023-03-01,0.62,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2023-04-01,0.58,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2023-05-01,,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2023-06-01,0.69,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2023-07-01,0.42,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2023-08-01,0.42,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2023-09-01,0.41,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2023-10-01,0.41,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2023-11-01,0.41,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2023-12-01,0.42,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2024-01-01,0.42,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2024-02-01,0.52,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2024-03-01,0.57,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2024-04-01,,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2024-05-01,0.54,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2024-06-01,0.52,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2024-07-01,0.47,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2024-08-01,0.42,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2024-09-01,0.53,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2024-10-01,0.26,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2024-11-01,0.26,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2024-12-01,0.36,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2025-01-01,0.35,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2025-02-01,0.36,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2025-03-01,0.31,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2025-04-01,0.33,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2025-05-01,0.37,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2025-06-01,0.3,Beans,Libyan Arab Jamahiriya,Sebha,RETAIL,400 gms
+2018-01-01,1.75,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2018-02-01,1.57,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2018-03-01,1.68,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2018-04-01,3.08,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2018-05-01,1.75,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2018-06-01,1.92,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2018-07-01,1.22,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2018-08-01,1.22,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2018-09-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2018-10-01,1.75,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2018-11-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2018-12-01,1.57,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2019-01-01,2.3,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2019-02-01,1.63,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2019-03-01,1.48,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2019-04-01,1.62,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2019-05-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2019-06-01,1.43,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2019-07-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2019-08-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2019-09-01,1.02,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2019-10-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2019-11-01,1.72,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2019-12-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2020-01-01,0.94,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2020-02-01,1.02,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2020-03-01,0.93,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2020-04-01,1.39,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2020-05-01,1.42,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2020-06-01,1.06,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2020-07-01,1.44,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2020-08-01,1.46,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2020-09-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2020-10-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2020-11-01,1.57,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2020-12-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2021-01-01,0.5,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2021-02-01,0.53,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2021-03-01,0.44,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2021-04-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2021-05-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2021-06-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2021-07-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2021-08-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2021-09-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2021-10-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2021-11-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2021-12-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2022-01-01,0.54,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2022-02-01,0.49,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2022-03-01,0.54,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2022-04-01,0.53,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2022-05-01,0.68,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2022-06-01,0.52,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2022-07-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2022-08-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2022-09-01,0.5,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2022-10-01,0.49,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2022-11-01,0.53,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2022-12-01,0.65,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2023-01-01,0.6,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2023-02-01,0.6,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2023-03-01,0.62,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2023-04-01,0.66,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2023-05-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2023-06-01,0.6,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2023-07-01,0.55,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2023-08-01,0.58,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2023-09-01,0.54,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2023-10-01,0.54,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2023-11-01,0.83,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2023-12-01,0.83,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2024-01-01,0.57,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2024-02-01,0.52,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2024-03-01,0.73,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2024-04-01,,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2024-05-01,1.06,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2024-06-01,1.06,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2024-07-01,1.04,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2024-08-01,1.04,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2024-09-01,0.89,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2024-10-01,0.96,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2024-11-01,0.85,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2024-12-01,1.15,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2025-01-01,0.89,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2025-02-01,0.71,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2025-03-01,0.74,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2025-04-01,0.75,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2025-05-01,0.78,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2025-06-01,1.17,Beans,Libyan Arab Jamahiriya,Tripoli center,RETAIL,400 gms
+2008-01-01,0.5,Beans,Rwanda,National Average,RETAIL,Kg
+2008-02-01,0.47,Beans,Rwanda,National Average,RETAIL,Kg
+2008-03-01,0.5,Beans,Rwanda,National Average,RETAIL,Kg
+2008-04-01,0.52,Beans,Rwanda,National Average,RETAIL,Kg
+2008-05-01,0.52,Beans,Rwanda,National Average,RETAIL,Kg
+2008-06-01,0.53,Beans,Rwanda,National Average,RETAIL,Kg
+2008-07-01,0.61,Beans,Rwanda,National Average,RETAIL,Kg
+2008-08-01,0.67,Beans,Rwanda,National Average,RETAIL,Kg
+2008-09-01,0.68,Beans,Rwanda,National Average,RETAIL,Kg
+2008-10-01,0.67,Beans,Rwanda,National Average,RETAIL,Kg
+2008-11-01,0.62,Beans,Rwanda,National Average,RETAIL,Kg
+2008-12-01,0.55,Beans,Rwanda,National Average,RETAIL,Kg
+2009-01-01,0.45,Beans,Rwanda,National Average,RETAIL,Kg
+2009-02-01,0.44,Beans,Rwanda,National Average,RETAIL,Kg
+2009-03-01,0.41,Beans,Rwanda,National Average,RETAIL,Kg
+2009-04-01,0.41,Beans,Rwanda,National Average,RETAIL,Kg
+2009-05-01,0.39,Beans,Rwanda,National Average,RETAIL,Kg
+2009-06-01,0.4,Beans,Rwanda,National Average,RETAIL,Kg
+2009-07-01,0.42,Beans,Rwanda,National Average,RETAIL,Kg
+2009-08-01,0.46,Beans,Rwanda,National Average,RETAIL,Kg
+2009-09-01,0.56,Beans,Rwanda,National Average,RETAIL,Kg
+2009-10-01,0.59,Beans,Rwanda,National Average,RETAIL,Kg
+2009-11-01,0.68,Beans,Rwanda,National Average,RETAIL,Kg
+2009-12-01,0.67,Beans,Rwanda,National Average,RETAIL,Kg
+2010-01-01,0.46,Beans,Rwanda,National Average,RETAIL,Kg
+2010-02-01,0.44,Beans,Rwanda,National Average,RETAIL,Kg
+2010-03-01,0.44,Beans,Rwanda,National Average,RETAIL,Kg
+2010-04-01,0.45,Beans,Rwanda,National Average,RETAIL,Kg
+2010-05-01,0.44,Beans,Rwanda,National Average,RETAIL,Kg
+2010-06-01,0.45,Beans,Rwanda,National Average,RETAIL,Kg
+2010-07-01,0.47,Beans,Rwanda,National Average,RETAIL,Kg
+2010-08-01,0.5,Beans,Rwanda,National Average,RETAIL,Kg
+2010-09-01,0.56,Beans,Rwanda,National Average,RETAIL,Kg
+2010-10-01,0.55,Beans,Rwanda,National Average,RETAIL,Kg
+2010-11-01,0.54,Beans,Rwanda,National Average,RETAIL,Kg
+2010-12-01,0.52,Beans,Rwanda,National Average,RETAIL,Kg
+2011-01-01,0.46,Beans,Rwanda,National Average,RETAIL,Kg
+2011-02-01,0.44,Beans,Rwanda,National Average,RETAIL,Kg
+2011-03-01,0.46,Beans,Rwanda,National Average,RETAIL,Kg
+2011-04-01,0.5,Beans,Rwanda,National Average,RETAIL,Kg
+2011-05-01,0.55,Beans,Rwanda,National Average,RETAIL,Kg
+2011-06-01,0.52,Beans,Rwanda,National Average,RETAIL,Kg
+2011-07-01,0.51,Beans,Rwanda,National Average,RETAIL,Kg
+2011-08-01,0.54,Beans,Rwanda,National Average,RETAIL,Kg
+2011-09-01,0.54,Beans,Rwanda,National Average,RETAIL,Kg
+2011-10-01,0.52,Beans,Rwanda,National Average,RETAIL,Kg
+2011-11-01,0.52,Beans,Rwanda,National Average,RETAIL,Kg
+2011-12-01,0.5,Beans,Rwanda,National Average,RETAIL,Kg
+2012-01-01,0.43,Beans,Rwanda,National Average,RETAIL,Kg
+2012-02-01,0.44,Beans,Rwanda,National Average,RETAIL,Kg
+2012-03-01,0.48,Beans,Rwanda,National Average,RETAIL,Kg
+2012-04-01,0.54,Beans,Rwanda,National Average,RETAIL,Kg
+2012-05-01,0.56,Beans,Rwanda,National Average,RETAIL,Kg
+2012-06-01,0.55,Beans,Rwanda,National Average,RETAIL,Kg
+2012-07-01,0.52,Beans,Rwanda,National Average,RETAIL,Kg
+2012-08-01,0.54,Beans,Rwanda,National Average,RETAIL,Kg
+2012-09-01,0.55,Beans,Rwanda,National Average,RETAIL,Kg
+2012-10-01,0.57,Beans,Rwanda,National Average,RETAIL,Kg
+2012-11-01,0.56,Beans,Rwanda,National Average,RETAIL,Kg
+2012-12-01,0.54,Beans,Rwanda,National Average,RETAIL,Kg
+2013-01-01,0.46,Beans,Rwanda,National Average,RETAIL,Kg
+2013-02-01,0.47,Beans,Rwanda,National Average,RETAIL,Kg
+2013-03-01,0.51,Beans,Rwanda,National Average,RETAIL,Kg
+2013-04-01,0.56,Beans,Rwanda,National Average,RETAIL,Kg
+2013-05-01,0.58,Beans,Rwanda,National Average,RETAIL,Kg
+2013-06-01,0.58,Beans,Rwanda,National Average,RETAIL,Kg
+2013-07-01,0.58,Beans,Rwanda,National Average,RETAIL,Kg
+2013-08-01,0.6,Beans,Rwanda,National Average,RETAIL,Kg
+2013-09-01,0.73,Beans,Rwanda,National Average,RETAIL,Kg
+2013-10-01,0.8,Beans,Rwanda,National Average,RETAIL,Kg
+2013-11-01,0.79,Beans,Rwanda,National Average,RETAIL,Kg
+2013-12-01,0.65,Beans,Rwanda,National Average,RETAIL,Kg
+2014-01-01,0.52,Beans,Rwanda,National Average,RETAIL,Kg
+2014-02-01,0.56,Beans,Rwanda,National Average,RETAIL,Kg
+2014-03-01,0.58,Beans,Rwanda,National Average,RETAIL,Kg
+2014-04-01,0.59,Beans,Rwanda,National Average,RETAIL,Kg
+2014-05-01,0.56,Beans,Rwanda,National Average,RETAIL,Kg
+2014-06-01,0.6,Beans,Rwanda,National Average,RETAIL,Kg
+2014-07-01,0.59,Beans,Rwanda,National Average,RETAIL,Kg
+2014-08-01,0.6,Beans,Rwanda,National Average,RETAIL,Kg
+2014-09-01,0.61,Beans,Rwanda,National Average,RETAIL,Kg
+2014-10-01,0.58,Beans,Rwanda,National Average,RETAIL,Kg
+2014-11-01,0.53,Beans,Rwanda,National Average,RETAIL,Kg
+2014-12-01,0.49,Beans,Rwanda,National Average,RETAIL,Kg
+2015-01-01,0.45,Beans,Rwanda,National Average,RETAIL,Kg
+2015-02-01,0.45,Beans,Rwanda,National Average,RETAIL,Kg
+2015-03-01,0.48,Beans,Rwanda,National Average,RETAIL,Kg
+2015-04-01,0.55,Beans,Rwanda,National Average,RETAIL,Kg
+2015-05-01,0.59,Beans,Rwanda,National Average,RETAIL,Kg
+2015-06-01,0.55,Beans,Rwanda,National Average,RETAIL,Kg
+2015-07-01,0.53,Beans,Rwanda,National Average,RETAIL,Kg
+2015-08-01,0.54,Beans,Rwanda,National Average,RETAIL,Kg
+2015-09-01,0.55,Beans,Rwanda,National Average,RETAIL,Kg
+2015-10-01,0.57,Beans,Rwanda,National Average,RETAIL,Kg
+2015-11-01,0.6,Beans,Rwanda,National Average,RETAIL,Kg
+2015-12-01,0.63,Beans,Rwanda,National Average,RETAIL,Kg
+2016-01-01,,Beans,Rwanda,National Average,RETAIL,Kg
+2016-02-01,,Beans,Rwanda,National Average,RETAIL,Kg
+2016-03-01,,Beans,Rwanda,National Average,RETAIL,Kg
+2016-04-01,,Beans,Rwanda,National Average,RETAIL,Kg
+2016-05-01,,Beans,Rwanda,National Average,RETAIL,Kg
+2016-06-01,,Beans,Rwanda,National Average,RETAIL,Kg
+2016-07-01,,Beans,Rwanda,National Average,RETAIL,Kg
+2016-08-01,0.62,Beans,Rwanda,National Average,RETAIL,Kg
+2016-09-01,0.6,Beans,Rwanda,National Average,RETAIL,Kg
+2016-10-01,0.65,Beans,Rwanda,National Average,RETAIL,Kg
+2016-11-01,0.68,Beans,Rwanda,National Average,RETAIL,Kg
+2016-12-01,0.66,Beans,Rwanda,National Average,RETAIL,Kg
+2017-01-01,0.56,Beans,Rwanda,National Average,RETAIL,Kg
+2017-02-01,0.55,Beans,Rwanda,National Average,RETAIL,Kg
+2017-03-01,0.55,Beans,Rwanda,National Average,RETAIL,Kg
+2017-04-01,0.59,Beans,Rwanda,National Average,RETAIL,Kg
+2017-05-01,0.49,Beans,Rwanda,National Average,RETAIL,Kg
+2017-06-01,0.51,Beans,Rwanda,National Average,RETAIL,Kg
+2017-07-01,0.49,Beans,Rwanda,National Average,RETAIL,Kg
+2017-08-01,0.5,Beans,Rwanda,National Average,RETAIL,Kg
+2017-09-01,0.55,Beans,Rwanda,National Average,RETAIL,Kg
+2017-10-01,0.52,Beans,Rwanda,National Average,RETAIL,Kg
+2017-11-01,0.52,Beans,Rwanda,National Average,RETAIL,Kg
+2017-12-01,0.42,Beans,Rwanda,National Average,RETAIL,Kg
+2018-01-01,0.4,Beans,Rwanda,National Average,RETAIL,Kg
+2018-02-01,0.4,Beans,Rwanda,National Average,RETAIL,Kg
+2018-03-01,0.41,Beans,Rwanda,National Average,RETAIL,Kg
+2018-04-01,0.43,Beans,Rwanda,National Average,RETAIL,Kg
+2018-05-01,0.43,Beans,Rwanda,National Average,RETAIL,Kg
+2018-06-01,0.43,Beans,Rwanda,National Average,RETAIL,Kg
+2018-07-01,0.42,Beans,Rwanda,National Average,RETAIL,Kg
+2018-08-01,0.4,Beans,Rwanda,National Average,RETAIL,Kg
+2018-09-01,0.42,Beans,Rwanda,National Average,RETAIL,Kg
+2018-10-01,0.45,Beans,Rwanda,National Average,RETAIL,Kg
+2018-11-01,0.45,Beans,Rwanda,National Average,RETAIL,Kg
+2018-12-01,0.44,Beans,Rwanda,National Average,RETAIL,Kg
+2019-01-01,0.41,Beans,Rwanda,National Average,RETAIL,Kg
+2019-02-01,0.42,Beans,Rwanda,National Average,RETAIL,Kg
+2019-03-01,0.44,Beans,Rwanda,National Average,RETAIL,Kg
+2019-04-01,0.47,Beans,Rwanda,National Average,RETAIL,Kg
+2019-05-01,0.45,Beans,Rwanda,National Average,RETAIL,Kg
+2019-06-01,0.42,Beans,Rwanda,National Average,RETAIL,Kg
+2019-07-01,0.47,Beans,Rwanda,National Average,RETAIL,Kg
+2019-08-01,0.49,Beans,Rwanda,National Average,RETAIL,Kg
+2019-09-01,0.53,Beans,Rwanda,National Average,RETAIL,Kg
+2019-10-01,0.57,Beans,Rwanda,National Average,RETAIL,Kg
+2019-11-01,0.74,Beans,Rwanda,National Average,RETAIL,Kg
+2019-12-01,0.62,Beans,Rwanda,National Average,RETAIL,Kg
+2020-01-01,0.52,Beans,Rwanda,National Average,RETAIL,Kg
+2020-02-01,0.53,Beans,Rwanda,National Average,RETAIL,Kg
+2020-03-01,0.64,Beans,Rwanda,National Average,RETAIL,Kg
+2020-04-01,0.66,Beans,Rwanda,National Average,RETAIL,Kg
+2020-05-01,0.56,Beans,Rwanda,National Average,RETAIL,Kg
+2020-06-01,0.64,Beans,Rwanda,National Average,RETAIL,Kg
+2020-07-01,0.65,Beans,Rwanda,National Average,RETAIL,Kg
+2020-08-01,0.68,Beans,Rwanda,National Average,RETAIL,Kg
+2020-09-01,0.74,Beans,Rwanda,National Average,RETAIL,Kg
+2020-10-01,0.82,Beans,Rwanda,National Average,RETAIL,Kg
+2020-11-01,0.77,Beans,Rwanda,National Average,RETAIL,Kg
+2020-12-01,0.64,Beans,Rwanda,National Average,RETAIL,Kg
+2021-01-01,0.55,Beans,Rwanda,National Average,RETAIL,Kg
+2021-02-01,0.52,Beans,Rwanda,National Average,RETAIL,Kg
+2021-03-01,0.52,Beans,Rwanda,National Average,RETAIL,Kg
+2021-04-01,0.49,Beans,Rwanda,National Average,RETAIL,Kg
+2021-05-01,0.43,Beans,Rwanda,National Average,RETAIL,Kg
+2021-06-01,0.44,Beans,Rwanda,National Average,RETAIL,Kg
+2021-07-01,0.44,Beans,Rwanda,National Average,RETAIL,Kg
+2021-08-01,0.44,Beans,Rwanda,National Average,RETAIL,Kg
+2021-09-01,0.41,Beans,Rwanda,National Average,RETAIL,Kg
+2021-10-01,0.41,Beans,Rwanda,National Average,RETAIL,Kg
+2021-11-01,0.36,Beans,Rwanda,National Average,RETAIL,Kg
+2021-12-01,0.32,Beans,Rwanda,National Average,RETAIL,Kg
+2022-01-01,0.31,Beans,Rwanda,National Average,RETAIL,Kg
+2022-02-01,0.31,Beans,Rwanda,National Average,RETAIL,Kg
+2022-03-01,0.33,Beans,Rwanda,National Average,RETAIL,Kg
+2022-04-01,0.39,Beans,Rwanda,National Average,RETAIL,Kg
+2022-05-01,0.4,Beans,Rwanda,National Average,RETAIL,Kg
+2022-06-01,0.49,Beans,Rwanda,National Average,RETAIL,Kg
+2022-07-01,0.65,Beans,Rwanda,National Average,RETAIL,Kg
+2022-08-01,0.66,Beans,Rwanda,National Average,RETAIL,Kg
+2022-09-01,0.77,Beans,Rwanda,National Average,RETAIL,Kg
+2022-10-01,0.99,Beans,Rwanda,National Average,RETAIL,Kg
+2022-11-01,0.96,Beans,Rwanda,National Average,RETAIL,Kg
+2022-12-01,0.79,Beans,Rwanda,National Average,RETAIL,Kg
+2023-01-01,0.9,Beans,Rwanda,National Average,RETAIL,Kg
+2023-02-01,1.07,Beans,Rwanda,National Average,RETAIL,Kg
+2023-03-01,1.28,Beans,Rwanda,National Average,RETAIL,Kg
+2023-04-01,1.21,Beans,Rwanda,National Average,RETAIL,Kg
+2023-05-01,1.05,Beans,Rwanda,National Average,RETAIL,Kg
+2023-06-01,1.02,Beans,Rwanda,National Average,RETAIL,Kg
+2023-07-01,0.93,Beans,Rwanda,National Average,RETAIL,Kg
+2023-08-01,0.93,Beans,Rwanda,National Average,RETAIL,Kg
+2023-09-01,0.98,Beans,Rwanda,National Average,RETAIL,Kg
+2023-10-01,0.86,Beans,Rwanda,National Average,RETAIL,Kg
+2023-11-01,0.73,Beans,Rwanda,National Average,RETAIL,Kg
+2023-12-01,0.55,Beans,Rwanda,National Average,RETAIL,Kg
+2024-01-01,0.41,Beans,Rwanda,National Average,RETAIL,Kg
+2024-02-01,0.41,Beans,Rwanda,National Average,RETAIL,Kg
+2024-03-01,0.41,Beans,Rwanda,National Average,RETAIL,Kg
+2024-04-01,0.45,Beans,Rwanda,National Average,RETAIL,Kg
+2024-05-01,0.43,Beans,Rwanda,National Average,RETAIL,Kg
+2024-06-01,0.52,Beans,Rwanda,National Average,RETAIL,Kg
+2024-07-01,0.57,Beans,Rwanda,National Average,RETAIL,Kg
+2024-08-01,0.59,Beans,Rwanda,National Average,RETAIL,Kg
+2024-09-01,0.65,Beans,Rwanda,National Average,RETAIL,Kg
+2024-10-01,0.71,Beans,Rwanda,National Average,RETAIL,Kg
+2024-11-01,0.71,Beans,Rwanda,National Average,RETAIL,Kg
+2024-12-01,0.69,Beans,Rwanda,National Average,RETAIL,Kg
+2025-01-01,0.58,Beans,Rwanda,National Average,RETAIL,Kg
+2025-02-01,0.59,Beans,Rwanda,National Average,RETAIL,Kg
+2025-03-01,0.62,Beans,Rwanda,National Average,RETAIL,Kg
+2025-04-01,0.69,Beans,Rwanda,National Average,RETAIL,Kg
+2025-05-01,0.63,Beans,Rwanda,National Average,RETAIL,Kg
+2025-06-01,0.6,Beans,Rwanda,National Average,RETAIL,Kg
+2025-07-01,0.61,Beans,Rwanda,National Average,RETAIL,Kg
+2025-08-01,0.62,Beans,Rwanda,National Average,RETAIL,Kg
+2025-09-01,0.65,Beans,Rwanda,National Average,RETAIL,Kg
+2025-10-01,0.63,Beans,Rwanda,National Average,RETAIL,Kg
+2010-01-01,0.68,Beans,Uganda,National Average,RETAIL,Kg
+2010-02-01,0.69,Beans,Uganda,National Average,RETAIL,Kg
+2010-03-01,0.68,Beans,Uganda,National Average,RETAIL,Kg
+2010-04-01,0.73,Beans,Uganda,National Average,RETAIL,Kg
+2010-05-01,0.77,Beans,Uganda,National Average,RETAIL,Kg
+2010-06-01,0.68,Beans,Uganda,National Average,RETAIL,Kg
+2010-07-01,0.64,Beans,Uganda,National Average,RETAIL,Kg
+2010-08-01,0.74,Beans,Uganda,National Average,RETAIL,Kg
+2010-09-01,0.75,Beans,Uganda,National Average,RETAIL,Kg
+2010-10-01,0.71,Beans,Uganda,National Average,RETAIL,Kg
+2010-11-01,0.63,Beans,Uganda,National Average,RETAIL,Kg
+2010-12-01,0.62,Beans,Uganda,National Average,RETAIL,Kg
+2011-01-01,0.69,Beans,Uganda,National Average,RETAIL,Kg
+2011-02-01,0.74,Beans,Uganda,National Average,RETAIL,Kg
+2011-03-01,0.78,Beans,Uganda,National Average,RETAIL,Kg
+2011-04-01,0.83,Beans,Uganda,National Average,RETAIL,Kg
+2011-05-01,0.95,Beans,Uganda,National Average,RETAIL,Kg
+2011-06-01,0.87,Beans,Uganda,National Average,RETAIL,Kg
+2011-07-01,0.63,Beans,Uganda,National Average,RETAIL,Kg
+2011-08-01,0.67,Beans,Uganda,National Average,RETAIL,Kg
+2011-09-01,0.62,Beans,Uganda,National Average,RETAIL,Kg
+2011-10-01,0.58,Beans,Uganda,National Average,RETAIL,Kg
+2011-11-01,0.61,Beans,Uganda,National Average,RETAIL,Kg
+2011-12-01,0.66,Beans,Uganda,National Average,RETAIL,Kg
+2012-01-01,0.68,Beans,Uganda,National Average,RETAIL,Kg
+2012-02-01,0.75,Beans,Uganda,National Average,RETAIL,Kg
+2012-03-01,0.73,Beans,Uganda,National Average,RETAIL,Kg
+2012-04-01,0.85,Beans,Uganda,National Average,RETAIL,Kg
+2012-05-01,0.99,Beans,Uganda,National Average,RETAIL,Kg
+2012-06-01,0.93,Beans,Uganda,National Average,RETAIL,Kg
+2012-07-01,0.78,Beans,Uganda,National Average,RETAIL,Kg
+2012-08-01,0.71,Beans,Uganda,National Average,RETAIL,Kg
+2012-09-01,0.73,Beans,Uganda,National Average,RETAIL,Kg
+2012-10-01,0.69,Beans,Uganda,National Average,RETAIL,Kg
+2012-11-01,0.66,Beans,Uganda,National Average,RETAIL,Kg
+2012-12-01,0.67,Beans,Uganda,National Average,RETAIL,Kg
+2013-01-01,0.7,Beans,Uganda,National Average,RETAIL,Kg
+2013-02-01,0.75,Beans,Uganda,National Average,RETAIL,Kg
+2013-03-01,0.82,Beans,Uganda,National Average,RETAIL,Kg
+2013-04-01,0.85,Beans,Uganda,National Average,RETAIL,Kg
+2013-05-01,0.87,Beans,Uganda,National Average,RETAIL,Kg
+2013-06-01,0.82,Beans,Uganda,National Average,RETAIL,Kg
+2013-07-01,0.77,Beans,Uganda,National Average,RETAIL,Kg
+2013-08-01,0.83,Beans,Uganda,National Average,RETAIL,Kg
+2013-09-01,0.92,Beans,Uganda,National Average,RETAIL,Kg
+2013-10-01,0.88,Beans,Uganda,National Average,RETAIL,Kg
+2013-11-01,0.77,Beans,Uganda,National Average,RETAIL,Kg
+2013-12-01,0.71,Beans,Uganda,National Average,RETAIL,Kg
+2014-01-01,0.77,Beans,Uganda,National Average,RETAIL,Kg
+2014-02-01,0.86,Beans,Uganda,National Average,RETAIL,Kg
+2014-03-01,0.85,Beans,Uganda,National Average,RETAIL,Kg
+2014-04-01,0.89,Beans,Uganda,National Average,RETAIL,Kg
+2014-05-01,0.9,Beans,Uganda,National Average,RETAIL,Kg
+2014-06-01,0.81,Beans,Uganda,National Average,RETAIL,Kg
+2014-07-01,0.72,Beans,Uganda,National Average,RETAIL,Kg
+2014-08-01,0.71,Beans,Uganda,National Average,RETAIL,Kg
+2014-09-01,0.74,Beans,Uganda,National Average,RETAIL,Kg
+2014-10-01,0.64,Beans,Uganda,National Average,RETAIL,Kg
+2014-11-01,0.63,Beans,Uganda,National Average,RETAIL,Kg
+2014-12-01,0.59,Beans,Uganda,National Average,RETAIL,Kg
+2015-01-01,0.67,Beans,Uganda,National Average,RETAIL,Kg
+2015-02-01,0.73,Beans,Uganda,National Average,RETAIL,Kg
+2015-03-01,0.77,Beans,Uganda,National Average,RETAIL,Kg
+2015-04-01,0.96,Beans,Uganda,National Average,RETAIL,Kg
+2015-05-01,1.01,Beans,Uganda,National Average,RETAIL,Kg
+2015-06-01,0.78,Beans,Uganda,National Average,RETAIL,Kg
+2015-07-01,0.63,Beans,Uganda,National Average,RETAIL,Kg
+2015-08-01,0.61,Beans,Uganda,National Average,RETAIL,Kg
+2015-09-01,0.65,Beans,Uganda,National Average,RETAIL,Kg
+2015-10-01,0.73,Beans,Uganda,National Average,RETAIL,Kg
+2015-11-01,0.75,Beans,Uganda,National Average,RETAIL,Kg
+2015-12-01,0.68,Beans,Uganda,National Average,RETAIL,Kg
+2016-01-01,0.7,Beans,Uganda,National Average,RETAIL,Kg
+2016-02-01,0.73,Beans,Uganda,National Average,RETAIL,Kg
+2016-03-01,0.77,Beans,Uganda,National Average,RETAIL,Kg
+2016-04-01,0.81,Beans,Uganda,National Average,RETAIL,Kg
+2016-05-01,0.83,Beans,Uganda,National Average,RETAIL,Kg
+2016-06-01,0.77,Beans,Uganda,National Average,RETAIL,Kg
+2016-07-01,0.7,Beans,Uganda,National Average,RETAIL,Kg
+2016-08-01,0.73,Beans,Uganda,National Average,RETAIL,Kg
+2016-09-01,0.75,Beans,Uganda,National Average,RETAIL,Kg
+2016-10-01,0.73,Beans,Uganda,National Average,RETAIL,Kg
+2016-11-01,0.68,Beans,Uganda,National Average,RETAIL,Kg
+2016-12-01,0.7,Beans,Uganda,National Average,RETAIL,Kg
+2017-01-01,0.74,Beans,Uganda,National Average,RETAIL,Kg
+2017-02-01,0.77,Beans,Uganda,National Average,RETAIL,Kg
+2017-03-01,0.8,Beans,Uganda,National Average,RETAIL,Kg
+2017-04-01,0.93,Beans,Uganda,National Average,RETAIL,Kg
+2017-05-01,0.87,Beans,Uganda,National Average,RETAIL,Kg
+2017-06-01,0.76,Beans,Uganda,National Average,RETAIL,Kg
+2017-07-01,0.7,Beans,Uganda,National Average,RETAIL,Kg
+2017-08-01,0.72,Beans,Uganda,National Average,RETAIL,Kg
+2017-09-01,0.72,Beans,Uganda,National Average,RETAIL,Kg
+2017-10-01,0.71,Beans,Uganda,National Average,RETAIL,Kg
+2017-11-01,0.66,Beans,Uganda,National Average,RETAIL,Kg
+2017-12-01,0.67,Beans,Uganda,National Average,RETAIL,Kg
+2018-01-01,0.7,Beans,Uganda,National Average,RETAIL,Kg
+2018-02-01,0.68,Beans,Uganda,National Average,RETAIL,Kg
+2018-03-01,0.71,Beans,Uganda,National Average,RETAIL,Kg
+2018-04-01,0.71,Beans,Uganda,National Average,RETAIL,Kg
+2018-05-01,0.67,Beans,Uganda,National Average,RETAIL,Kg
+2018-06-01,0.67,Beans,Uganda,National Average,RETAIL,Kg
+2018-07-01,0.51,Beans,Uganda,National Average,RETAIL,Kg
+2018-08-01,0.53,Beans,Uganda,National Average,RETAIL,Kg
+2018-09-01,0.54,Beans,Uganda,National Average,RETAIL,Kg
+2018-10-01,0.61,Beans,Uganda,National Average,RETAIL,Kg
+2018-11-01,0.63,Beans,Uganda,National Average,RETAIL,Kg
+2018-12-01,0.66,Beans,Uganda,National Average,RETAIL,Kg
+2019-01-01,0.68,Beans,Uganda,National Average,RETAIL,Kg
+2019-02-01,0.71,Beans,Uganda,National Average,RETAIL,Kg
+2019-03-01,0.73,Beans,Uganda,National Average,RETAIL,Kg
+2019-04-01,0.84,Beans,Uganda,National Average,RETAIL,Kg
+2019-05-01,0.94,Beans,Uganda,National Average,RETAIL,Kg
+2019-06-01,0.9,Beans,Uganda,National Average,RETAIL,Kg
+2019-07-01,0.89,Beans,Uganda,National Average,RETAIL,Kg
+2019-08-01,0.89,Beans,Uganda,National Average,RETAIL,Kg
+2019-09-01,0.88,Beans,Uganda,National Average,RETAIL,Kg
+2019-10-01,0.87,Beans,Uganda,National Average,RETAIL,Kg
+2019-11-01,0.9,Beans,Uganda,National Average,RETAIL,Kg
+2019-12-01,0.92,Beans,Uganda,National Average,RETAIL,Kg
+2020-01-01,0.9,Beans,Uganda,National Average,RETAIL,Kg
+2020-02-01,0.93,Beans,Uganda,National Average,RETAIL,Kg
+2020-03-01,,Beans,Uganda,National Average,RETAIL,Kg
+2020-04-01,1.11,Beans,Uganda,National Average,RETAIL,Kg
+2020-05-01,1.13,Beans,Uganda,National Average,RETAIL,Kg
+2020-06-01,1.0,Beans,Uganda,National Average,RETAIL,Kg
+2020-07-01,0.95,Beans,Uganda,National Average,RETAIL,Kg
+2020-08-01,0.94,Beans,Uganda,National Average,RETAIL,Kg
+2020-09-01,0.98,Beans,Uganda,National Average,RETAIL,Kg
+2020-10-01,0.94,Beans,Uganda,National Average,RETAIL,Kg
+2020-11-01,0.85,Beans,Uganda,National Average,RETAIL,Kg
+2020-12-01,0.78,Beans,Uganda,National Average,RETAIL,Kg
+2021-01-01,0.8,Beans,Uganda,National Average,RETAIL,Kg
+2021-02-01,0.73,Beans,Uganda,National Average,RETAIL,Kg
+2021-03-01,0.81,Beans,Uganda,National Average,RETAIL,Kg
+2021-04-01,0.82,Beans,Uganda,National Average,RETAIL,Kg
+2021-05-01,0.84,Beans,Uganda,National Average,RETAIL,Kg
+2021-06-01,0.76,Beans,Uganda,National Average,RETAIL,Kg
+2021-07-01,0.73,Beans,Uganda,National Average,RETAIL,Kg
+2021-08-01,0.67,Beans,Uganda,National Average,RETAIL,Kg
+2021-09-01,0.68,Beans,Uganda,National Average,RETAIL,Kg
+2021-10-01,0.65,Beans,Uganda,National Average,RETAIL,Kg
+2021-11-01,0.64,Beans,Uganda,National Average,RETAIL,Kg
+2021-12-01,0.63,Beans,Uganda,National Average,RETAIL,Kg
+2022-01-01,0.61,Beans,Uganda,National Average,RETAIL,Kg
+2022-02-01,0.64,Beans,Uganda,National Average,RETAIL,Kg
+2022-03-01,0.71,Beans,Uganda,National Average,RETAIL,Kg
+2022-04-01,0.81,Beans,Uganda,National Average,RETAIL,Kg
+2022-05-01,0.86,Beans,Uganda,National Average,RETAIL,Kg
+2022-06-01,0.86,Beans,Uganda,National Average,RETAIL,Kg
+2022-07-01,0.87,Beans,Uganda,National Average,RETAIL,Kg
+2022-08-01,0.92,Beans,Uganda,National Average,RETAIL,Kg
+2022-09-01,1.03,Beans,Uganda,National Average,RETAIL,Kg
+2022-10-01,1.01,Beans,Uganda,National Average,RETAIL,Kg
+2022-11-01,0.96,Beans,Uganda,National Average,RETAIL,Kg
+2022-12-01,0.92,Beans,Uganda,National Average,RETAIL,Kg
+2023-01-01,1.02,Beans,Uganda,National Average,RETAIL,Kg
+2023-02-01,1.1,Beans,Uganda,National Average,RETAIL,Kg
+2023-03-01,1.13,Beans,Uganda,National Average,RETAIL,Kg
+2023-04-01,1.29,Beans,Uganda,National Average,RETAIL,Kg
+2023-05-01,1.4,Beans,Uganda,National Average,RETAIL,Kg
+2023-06-01,1.32,Beans,Uganda,National Average,RETAIL,Kg
+2023-07-01,1.23,Beans,Uganda,National Average,RETAIL,Kg
+2023-08-01,1.15,Beans,Uganda,National Average,RETAIL,Kg
+2023-09-01,1.17,Beans,Uganda,National Average,RETAIL,Kg
+2023-10-01,1.17,Beans,Uganda,National Average,RETAIL,Kg
+2023-11-01,1.09,Beans,Uganda,National Average,RETAIL,Kg
+2023-12-01,1.01,Beans,Uganda,National Average,RETAIL,Kg
+2024-01-01,0.96,Beans,Uganda,National Average,RETAIL,Kg
+2024-02-01,0.98,Beans,Uganda,National Average,RETAIL,Kg
+2024-03-01,0.98,Beans,Uganda,National Average,RETAIL,Kg
+2024-04-01,1.03,Beans,Uganda,National Average,RETAIL,Kg
+2024-05-01,1.07,Beans,Uganda,National Average,RETAIL,Kg
+2024-06-01,1.07,Beans,Uganda,National Average,RETAIL,Kg
+2024-07-01,1.05,Beans,Uganda,National Average,RETAIL,Kg
+2024-08-01,1.05,Beans,Uganda,National Average,RETAIL,Kg
+2024-09-01,1.09,Beans,Uganda,National Average,RETAIL,Kg
+2024-10-01,1.1,Beans,Uganda,National Average,RETAIL,Kg
+2024-11-01,1.02,Beans,Uganda,National Average,RETAIL,Kg
+2024-12-01,1.05,Beans,Uganda,National Average,RETAIL,Kg
+2025-01-01,1.03,Beans,Uganda,National Average,RETAIL,Kg
+2025-02-01,1.05,Beans,Uganda,National Average,RETAIL,Kg
+2025-03-01,1.08,Beans,Uganda,National Average,RETAIL,Kg
+2025-04-01,1.16,Beans,Uganda,National Average,RETAIL,Kg
+2025-05-01,1.21,Beans,Uganda,National Average,RETAIL,Kg
+2025-06-01,1.18,Beans,Uganda,National Average,RETAIL,Kg
+2025-07-01,1.05,Beans,Uganda,National Average,RETAIL,Kg
+2025-08-01,1.01,Beans,Uganda,National Average,RETAIL,Kg
+2025-09-01,1.03,Beans,Uganda,National Average,RETAIL,Kg
+2006-01-01,52.43,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2006-02-01,53.62,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2006-03-01,52.78,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2006-04-01,50.11,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2006-05-01,47.42,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2006-06-01,42.16,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2006-07-01,44.33,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2006-08-01,40.93,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2006-09-01,41.4,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2006-10-01,46.43,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2006-11-01,46.21,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2006-12-01,50.86,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2007-01-01,47.13,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2007-02-01,41.83,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2007-03-01,40.92,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2007-04-01,41.01,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2007-05-01,38.89,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2007-06-01,41.32,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2007-07-01,41.16,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2007-08-01,42.97,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2007-09-01,46.69,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2007-10-01,55.19,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2007-11-01,57.83,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2007-12-01,62.05,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2008-01-01,78.28,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2008-02-01,74.82,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2008-03-01,66.02,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2008-04-01,59.42,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2008-05-01,57.77,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2008-06-01,69.77,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2008-07-01,70.45,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2008-08-01,74.13,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2008-09-01,85.7,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2008-10-01,84.38,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2008-11-01,81.88,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2008-12-01,80.9,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2009-01-01,83.59,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2009-02-01,80.96,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2009-03-01,79.94,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2009-04-01,66.03,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2009-05-01,63.83,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2009-06-01,68.24,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2009-07-01,79.27,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2009-08-01,75.8,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2009-09-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2009-10-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2009-11-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2009-12-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2010-01-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2010-02-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2010-03-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2010-04-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2010-05-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2010-06-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2010-07-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2010-08-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2010-09-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2010-10-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2010-11-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2010-12-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2011-01-01,77.47,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2011-02-01,84.81,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2011-03-01,77.96,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2011-04-01,65.58,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2011-05-01,58.84,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2011-06-01,63.13,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2011-07-01,71.24,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2011-08-01,72.39,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2011-09-01,72.83,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2011-10-01,74.11,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2011-11-01,78.47,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2011-12-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2012-01-01,83.51,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2012-02-01,79.89,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2012-03-01,76.65,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2012-04-01,76.07,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2012-05-01,80.84,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2012-06-01,82.2,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2012-07-01,79.24,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2012-08-01,80.23,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2012-09-01,79.72,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2012-10-01,82.73,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2012-11-01,85.59,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2012-12-01,88.28,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2013-01-01,93.59,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2013-02-01,84.57,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2013-03-01,78.49,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2013-04-01,80.98,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2013-05-01,78.0,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2013-06-01,79.59,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2013-07-01,76.92,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2013-08-01,76.08,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2013-09-01,77.16,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2013-10-01,81.46,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2013-11-01,83.78,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2013-12-01,85.48,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2014-01-01,85.22,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2014-02-01,84.85,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2014-03-01,86.59,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2014-04-01,83.93,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2014-05-01,86.49,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2014-06-01,83.64,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2014-07-01,79.34,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2014-08-01,78.82,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2014-09-01,80.75,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2014-10-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2014-11-01,82.19,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2014-12-01,85.09,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2015-01-01,87.6,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2015-02-01,85.38,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2015-03-01,83.78,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2015-04-01,83.34,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2015-05-01,80.55,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2015-06-01,79.82,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2015-07-01,75.03,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2015-08-01,74.36,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2015-09-01,72.93,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2015-10-01,75.79,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2015-11-01,79.21,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2015-12-01,79.62,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2016-01-01,78.91,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2016-02-01,78.41,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2016-03-01,72.51,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2016-04-01,68.98,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2016-05-01,68.27,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2016-06-01,67.66,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2016-07-01,68.27,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2016-08-01,67.97,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2016-09-01,69.19,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2016-10-01,75.28,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2016-11-01,79.12,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2016-12-01,79.89,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2017-01-01,78.59,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2017-02-01,81.17,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2017-03-01,79.95,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2017-04-01,79.65,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2017-05-01,80.36,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2017-06-01,75.68,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2017-07-01,74.7,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2017-08-01,75.42,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2017-09-01,73.35,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2017-10-01,75.58,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2017-11-01,80.67,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2017-12-01,80.41,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2018-01-01,79.22,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2018-02-01,79.06,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2018-03-01,74.89,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2018-04-01,77.06,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2018-05-01,78.93,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2018-06-01,73.25,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2018-07-01,71.19,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2018-08-01,67.87,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2018-09-01,68.31,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2018-10-01,68.3,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2018-11-01,68.94,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2018-12-01,68.99,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2019-01-01,70.32,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2019-02-01,71.06,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2019-03-01,70.48,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2019-04-01,70.29,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2019-05-01,71.47,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2019-06-01,71.23,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2019-07-01,70.2,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2019-08-01,70.4,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2019-09-01,73.32,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2019-10-01,78.16,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2019-11-01,85.79,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2019-12-01,91.34,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2020-01-01,94.23,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2020-02-01,89.96,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2020-03-01,78.79,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2020-04-01,82.6,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2020-05-01,89.39,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2020-06-01,89.36,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2020-07-01,83.9,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2020-08-01,84.54,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2020-09-01,86.64,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2020-10-01,86.62,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2020-11-01,90.63,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2020-12-01,89.28,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2021-01-01,86.38,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2021-02-01,85.08,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2021-03-01,77.97,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2021-04-01,78.47,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2021-05-01,76.52,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2021-06-01,75.54,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2021-07-01,74.16,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2021-08-01,75.33,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2021-09-01,73.29,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2021-10-01,73.44,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2021-11-01,76.43,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2021-12-01,78.1,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2022-01-01,81.1,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2022-02-01,80.24,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2022-03-01,81.14,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2022-04-01,81.54,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2022-05-01,81.86,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2022-06-01,82.16,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2022-07-01,83.39,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2022-08-01,89.75,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2022-09-01,99.64,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2022-10-01,114.95,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2022-11-01,115.93,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2022-12-01,125.25,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2023-01-01,127.81,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2023-02-01,127.76,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2023-03-01,123.99,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2023-04-01,119.79,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2023-05-01,118.91,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2023-06-01,114.51,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2023-07-01,110.23,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2023-08-01,105.01,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2023-09-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2023-10-01,105.44,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2023-11-01,108.36,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2023-12-01,,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2024-01-01,106.59,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2024-02-01,104.79,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2024-03-01,98.61,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2024-04-01,96.17,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2024-05-01,102.51,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2024-06-01,99.36,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2024-07-01,98.67,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2024-08-01,96.91,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2024-09-01,96.37,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2024-10-01,98.54,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2024-11-01,103.29,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2024-12-01,111.48,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2025-01-01,112.04,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2025-02-01,108.5,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2025-03-01,104.1,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2025-04-01,104.17,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2025-05-01,102.97,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2025-06-01,102.83,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2025-07-01,98.62,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2025-08-01,100.35,Beans,United Republic of Tanzania,National Average,WHOLESALE,100 kg
+2024-04-01,13.5,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2024-05-01,1.01,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2024-06-01,1.01,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2024-07-01,1.0,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2024-08-01,1.07,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2024-09-01,1.0,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2024-10-01,2.49,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2024-11-01,2.56,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2024-12-01,3.7,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2025-01-01,1.53,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2025-02-01,1.5,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2025-03-01,1.5,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2025-04-01,1.49,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2025-05-01,1.49,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2025-06-01,1.48,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2025-07-01,1.49,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2025-08-01,2.08,Beans,Zimbabwe,Epworth,RETAIL,500 gms
+2025-09-01,1.5,Beans,Zimbabwe,Epworth,RETAIL,500 gms

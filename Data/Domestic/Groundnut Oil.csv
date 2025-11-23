@@ -1,0 +1,523 @@
+date,price_usd,commodity_name,country,market,price_type,unit
+2022-06-01,1.92,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2022-07-01,2.48,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2022-08-01,2.29,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2022-09-01,1.77,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2022-10-01,1.75,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2022-11-01,2.05,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2022-12-01,2.13,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2023-01-01,2.46,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2023-02-01,2.47,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2023-03-01,2.47,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2023-04-01,2.53,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2023-05-01,2.51,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2023-06-01,2.5,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2023-07-01,2.6,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2023-08-01,2.56,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2023-09-01,2.51,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2023-10-01,2.01,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2023-11-01,2.06,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2023-12-01,2.08,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2024-01-01,2.08,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2024-02-01,2.06,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2024-03-01,2.16,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2024-04-01,2.04,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2024-05-01,1.98,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2024-06-01,1.8,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2024-07-01,2.07,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2024-08-01,2.01,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2024-09-01,1.88,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2024-10-01,1.85,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2024-11-01,1.95,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2024-12-01,1.92,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2025-01-01,,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2025-02-01,,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2025-03-01,,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2025-04-01,,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2025-05-01,2.58,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2025-06-01,2.63,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2025-07-01,2.67,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2025-08-01,2.63,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2025-09-01,2.66,Groundnut Oil,Chad,Abeche,RETAIL,Kg
+2022-06-01,1.61,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2022-07-01,1.77,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2022-08-01,1.76,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2022-09-01,1.92,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2022-10-01,1.9,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2022-11-01,2.02,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2022-12-01,2.1,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2023-01-01,2.02,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2023-02-01,1.96,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2023-03-01,1.99,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2023-04-01,,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2023-05-01,2.05,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2023-06-01,2.01,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2023-07-01,2.11,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2023-08-01,2.02,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2023-09-01,1.95,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2023-10-01,1.72,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2023-11-01,1.77,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2023-12-01,1.79,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2024-01-01,1.66,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2024-02-01,1.54,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2024-03-01,1.62,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2024-04-01,,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2024-05-01,1.4,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2024-06-01,1.39,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2024-07-01,1.47,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2024-08-01,1.51,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2024-09-01,1.52,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2024-10-01,1.5,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2024-11-01,1.46,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2024-12-01,1.44,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2025-01-01,,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2025-02-01,,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2025-03-01,,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2025-04-01,,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2025-05-01,1.98,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2025-06-01,2.02,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2025-07-01,2.23,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2025-08-01,2.22,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2025-09-01,2.35,Groundnut Oil,Chad,Am Timan,RETAIL,Kg
+2022-06-01,2.51,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2022-07-01,2.51,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2022-08-01,2.42,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2022-09-01,2.29,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2022-10-01,2.25,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2022-11-01,2.33,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2022-12-01,2.42,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2023-01-01,2.46,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2023-02-01,1.63,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2023-03-01,2.42,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2023-04-01,,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2023-05-01,4.37,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2023-06-01,4.36,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2023-07-01,2.18,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2023-08-01,2.15,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2023-09-01,2.03,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2023-10-01,2.04,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2023-11-01,1.89,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2023-12-01,1.95,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2024-01-01,1.84,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2024-02-01,1.65,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2024-03-01,1.66,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2024-04-01,,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2024-05-01,1.75,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2024-06-01,1.8,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2024-07-01,1.82,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2024-08-01,1.77,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2024-09-01,2.06,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2024-10-01,2.02,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2024-11-01,2.63,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2024-12-01,2.59,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2025-01-01,,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2025-02-01,,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2025-03-01,,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2025-04-01,,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2025-05-01,2.58,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2025-06-01,2.63,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2025-07-01,2.67,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2025-08-01,2.66,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2025-09-01,2.62,Groundnut Oil,Chad,Bol,RETAIL,Kg
+2022-06-01,2.42,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2022-07-01,2.33,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2022-08-01,2.13,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2022-09-01,1.93,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2022-10-01,1.84,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2022-11-01,1.87,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2022-12-01,2.0,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2023-01-01,2.05,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2023-02-01,2.01,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2023-03-01,2.07,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2023-04-01,2.16,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2023-05-01,2.14,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2023-06-01,1.97,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2023-07-01,1.96,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2023-08-01,1.95,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2023-09-01,1.91,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2023-10-01,1.77,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2023-11-01,1.65,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2023-12-01,1.66,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2024-01-01,1.66,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2024-02-01,1.65,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2024-03-01,1.66,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2024-04-01,1.64,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2024-05-01,1.65,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2024-06-01,1.64,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2024-07-01,1.65,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2024-08-01,1.71,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2024-09-01,1.69,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2024-10-01,1.66,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2024-11-01,1.62,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2024-12-01,1.6,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2025-01-01,,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2025-02-01,,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2025-03-01,,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2025-04-01,,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2025-05-01,2.11,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2025-06-01,2.18,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2025-07-01,2.24,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2025-08-01,2.22,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2025-09-01,2.33,Groundnut Oil,Chad,Doba,RETAIL,Kg
+2022-06-01,2.45,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2022-07-01,2.45,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2022-08-01,2.35,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2022-09-01,2.26,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2022-10-01,2.02,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2022-11-01,1.94,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2022-12-01,2.02,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2023-01-01,2.46,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2023-02-01,2.29,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2023-03-01,2.28,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2023-04-01,,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2023-05-01,2.24,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2023-06-01,2.31,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2023-07-01,2.28,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2023-08-01,2.25,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2023-09-01,2.28,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2023-10-01,1.61,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2023-11-01,1.65,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2023-12-01,1.66,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2024-01-01,1.83,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2024-02-01,1.65,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2024-03-01,1.66,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2024-04-01,,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2024-05-01,1.65,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2024-06-01,1.64,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2024-07-01,1.82,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2024-08-01,1.68,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2024-09-01,1.95,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2024-10-01,1.91,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2024-11-01,1.78,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2024-12-01,1.84,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2025-01-01,,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2025-02-01,,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2025-03-01,,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2025-04-01,,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2025-05-01,2.15,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2025-06-01,2.19,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2025-07-01,2.4,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2025-08-01,2.22,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2025-09-01,2.37,Groundnut Oil,Chad,Mongo,RETAIL,Kg
+2022-06-01,2.08,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2022-07-01,2.16,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2022-08-01,1.92,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2022-09-01,1.76,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2022-10-01,1.64,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2022-11-01,1.87,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2022-12-01,1.95,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2023-01-01,2.14,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2023-02-01,1.97,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2023-03-01,2.03,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2023-04-01,2.04,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2023-05-01,1.99,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2023-06-01,1.99,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2023-07-01,2.08,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2023-08-01,1.98,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2023-09-01,1.63,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2023-10-01,1.53,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2023-11-01,1.44,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2023-12-01,1.55,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2024-01-01,1.51,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2024-02-01,1.48,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2024-03-01,1.49,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2024-04-01,1.32,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2024-05-01,2.04,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2024-06-01,1.43,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2024-07-01,1.42,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2024-08-01,1.67,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2024-09-01,1.59,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2024-10-01,1.51,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2024-11-01,1.62,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2024-12-01,1.69,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2025-01-01,,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2025-02-01,,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2025-03-01,,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2025-04-01,,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2025-05-01,2.03,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2025-06-01,2.07,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2025-07-01,2.14,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2025-08-01,2.16,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2025-09-01,2.28,Groundnut Oil,Chad,Moundou,RETAIL,Kg
+2022-06-01,2.21,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2022-07-01,2.22,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2022-08-01,2.25,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2022-09-01,2.1,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2022-10-01,1.89,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2022-11-01,2.03,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2022-12-01,2.1,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2023-01-01,2.2,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2023-02-01,2.21,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2023-03-01,2.19,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2023-04-01,2.24,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2023-05-01,,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2023-06-01,2.22,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2023-07-01,2.2,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2023-08-01,2.15,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2023-09-01,1.95,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2023-10-01,1.78,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2023-11-01,1.77,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2023-12-01,1.8,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2024-01-01,1.78,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2024-02-01,2.47,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2024-03-01,2.49,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2024-04-01,2.44,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2024-05-01,2.47,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2024-06-01,2.46,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2024-07-01,2.49,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2024-08-01,2.71,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2024-09-01,2.76,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2024-10-01,2.56,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2024-11-01,2.56,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2024-12-01,2.83,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2025-01-01,,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2025-02-01,,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2025-03-01,,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2025-04-01,,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2025-05-01,3.14,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2025-06-01,3.25,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2025-07-01,3.41,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2025-08-01,3.48,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2025-09-01,3.45,Groundnut Oil,Chad,N'Djamena,RETAIL,Kg
+2022-06-01,2.34,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2022-07-01,2.3,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2022-08-01,2.23,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2022-09-01,2.18,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2022-10-01,2.19,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2022-11-01,2.23,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2022-12-01,2.29,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2023-01-01,2.46,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2023-02-01,2.45,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2023-03-01,2.45,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2023-04-01,2.51,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2023-05-01,2.49,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2023-06-01,2.48,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2023-07-01,2.02,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2023-08-01,2.16,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2023-09-01,1.63,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2023-10-01,1.61,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2023-11-01,1.65,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2023-12-01,1.25,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2024-01-01,1.25,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2024-02-01,1.65,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2024-03-01,1.66,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2024-04-01,1.64,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2024-05-01,1.65,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2024-06-01,1.8,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2024-07-01,1.82,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2024-08-01,2.01,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2024-09-01,1.27,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2024-10-01,1.83,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2024-11-01,1.22,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2024-12-01,1.2,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2025-01-01,,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2025-02-01,,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2025-03-01,,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2025-04-01,,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2025-05-01,2.34,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2025-06-01,2.41,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2025-07-01,2.47,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2025-08-01,2.46,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2025-09-01,2.5,Groundnut Oil,Chad,Sarh,RETAIL,Kg
+2009-01-01,2.74,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2009-02-01,2.85,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2009-03-01,2.83,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2009-04-01,2.69,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2009-05-01,2.68,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2009-06-01,2.6,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2009-07-01,2.53,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2009-08-01,2.6,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2009-09-01,2.65,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2009-10-01,2.72,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2009-11-01,2.93,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2009-12-01,2.98,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2010-01-01,3.1,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2010-02-01,3.2,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2010-03-01,3.23,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2010-04-01,3.34,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2010-05-01,3.37,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2010-06-01,3.8,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2010-07-01,3.93,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2010-08-01,3.61,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2010-09-01,3.94,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2010-10-01,4.14,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2010-11-01,4.03,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2010-12-01,4.23,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2011-01-01,4.44,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2011-02-01,4.53,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2011-03-01,4.62,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2011-04-01,4.67,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2011-05-01,4.83,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2011-06-01,4.78,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2011-07-01,4.53,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2011-08-01,4.85,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2011-09-01,4.57,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2011-10-01,4.46,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2011-11-01,4.59,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2011-12-01,4.55,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2012-01-01,4.36,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2012-02-01,4.3,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2012-03-01,4.4,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2012-04-01,4.41,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2012-05-01,4.37,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2012-06-01,4.34,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2012-07-01,4.54,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2012-08-01,4.77,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2012-09-01,4.91,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2012-10-01,4.97,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2012-11-01,4.91,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2012-12-01,4.8,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2013-01-01,4.86,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2013-02-01,4.36,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2013-03-01,3.93,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2013-04-01,3.96,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2013-05-01,3.86,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2013-06-01,3.74,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2013-07-01,3.93,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2013-08-01,3.78,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2013-09-01,3.68,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2013-10-01,3.65,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2013-11-01,3.59,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2013-12-01,3.49,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2014-01-01,3.68,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2014-02-01,3.66,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2014-03-01,3.71,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2014-04-01,3.74,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2014-05-01,3.73,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2014-06-01,3.71,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2014-07-01,3.7,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2014-08-01,3.72,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2014-09-01,3.71,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2014-10-01,3.65,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2014-11-01,3.67,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2014-12-01,3.82,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2015-01-01,3.84,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2015-02-01,4.01,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2015-03-01,3.99,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2015-04-01,3.98,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2015-05-01,3.94,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2015-06-01,4.05,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2015-07-01,4.01,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2015-08-01,4.36,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2015-09-01,4.12,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2015-10-01,4.09,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2015-11-01,3.83,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2015-12-01,3.77,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2016-01-01,3.7,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2016-02-01,3.77,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2016-03-01,3.86,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2016-04-01,3.99,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2016-05-01,4.01,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2016-06-01,4.04,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2016-07-01,4.07,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2016-08-01,4.01,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2016-09-01,3.89,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2016-10-01,3.67,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2016-11-01,3.47,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2016-12-01,3.33,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2017-01-01,3.36,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2017-02-01,3.39,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2017-03-01,3.38,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2017-04-01,3.39,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2017-05-01,3.49,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2017-06-01,3.53,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2017-07-01,3.52,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2017-08-01,3.53,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2017-09-01,3.54,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2017-10-01,3.52,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2017-11-01,3.51,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2017-12-01,3.52,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2018-01-01,3.57,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2018-02-01,3.61,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2018-03-01,3.59,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2018-04-01,3.61,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2018-05-01,3.56,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2018-06-01,3.51,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2018-07-01,3.4,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2018-08-01,3.26,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2018-09-01,3.22,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2018-10-01,3.27,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2018-11-01,3.18,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2018-12-01,3.19,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2019-01-01,3.26,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2019-02-01,3.28,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2019-03-01,3.28,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2019-04-01,3.3,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2019-05-01,3.26,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2019-06-01,3.28,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2019-07-01,3.31,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2019-08-01,3.3,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2019-09-01,3.26,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2019-10-01,3.3,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2019-11-01,3.26,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2019-12-01,3.34,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2020-01-01,3.23,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2020-02-01,3.38,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2020-03-01,3.51,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2020-04-01,3.51,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2020-05-01,3.56,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2020-06-01,3.58,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2020-07-01,3.64,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2020-08-01,3.68,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2020-09-01,3.78,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2020-10-01,3.87,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2020-11-01,3.85,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2020-12-01,3.73,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2021-01-01,3.76,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2021-02-01,3.55,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2021-03-01,,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2021-04-01,,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2021-05-01,,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2021-06-01,3.64,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2021-07-01,3.65,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2021-08-01,3.04,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2021-09-01,3.46,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2021-10-01,3.45,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2021-11-01,3.67,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2021-12-01,3.69,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2022-01-01,3.7,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2022-02-01,3.81,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2022-03-01,4.45,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2022-04-01,,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2022-05-01,,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2022-06-01,5.33,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2022-07-01,5.59,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2022-08-01,5.73,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2022-09-01,6.66,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2022-10-01,6.65,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2022-11-01,5.98,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2022-12-01,5.71,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2023-01-01,5.72,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2023-02-01,5.71,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2023-03-01,5.72,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2023-04-01,6.12,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2023-05-01,6.19,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2023-06-01,6.34,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2023-07-01,6.43,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2023-08-01,6.84,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2023-09-01,6.69,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2023-10-01,6.67,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2023-11-01,6.74,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2023-12-01,6.32,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2024-01-01,6.19,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2024-02-01,6.44,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2024-03-01,6.97,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2024-04-01,6.81,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2024-05-01,6.78,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2024-06-01,6.57,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2024-07-01,7.67,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2024-08-01,8.1,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2024-09-01,8.81,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2024-10-01,8.81,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2024-11-01,8.81,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2024-12-01,8.81,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2025-01-01,8.81,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2025-02-01,8.81,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2025-03-01,8.58,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2025-04-01,8.65,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2025-05-01,8.81,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2025-06-01,8.81,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2025-07-01,8.62,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2025-08-01,8.58,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2025-09-01,8.95,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)
+2025-10-01,8.89,Groundnut Oil,Myanmar,Yangon,RETAIL,viss (1.63 kg)

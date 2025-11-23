@@ -1,0 +1,548 @@
+date,price_usd,commodity_name,country,market,price_type,unit
+2016-06-01,1.85,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2016-07-01,,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2016-08-01,,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2016-09-01,,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2016-10-01,,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2016-11-01,,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2016-12-01,,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2017-01-01,1.81,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2017-02-01,1.79,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2017-03-01,1.75,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2017-04-01,1.85,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2017-05-01,1.75,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2017-06-01,1.95,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2017-07-01,2.03,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2017-08-01,2.03,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2017-09-01,2.1,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2017-10-01,2.13,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2017-11-01,2.29,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2017-12-01,1.81,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2018-01-01,2.48,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2018-02-01,2.53,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2018-03-01,2.45,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2018-04-01,2.17,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2018-05-01,2.17,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2018-06-01,2.33,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2018-07-01,2.6,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2018-08-01,2.71,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2018-09-01,3.1,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2018-10-01,2.51,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2018-11-01,1.95,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2018-12-01,1.9,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2019-01-01,1.85,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2019-02-01,1.83,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2019-03-01,1.86,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2019-04-01,1.83,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2019-05-01,1.86,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2019-06-01,2.32,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2019-07-01,1.83,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2019-08-01,1.9,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2019-09-01,1.92,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2019-10-01,1.99,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2019-11-01,2.2,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2019-12-01,1.92,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2020-01-01,2.06,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2020-02-01,1.97,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2020-03-01,2.04,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2020-04-01,2.04,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2020-05-01,2.04,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2020-06-01,2.11,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2020-07-01,2.06,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2020-08-01,2.18,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2020-09-01,2.31,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2020-10-01,2.44,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2020-11-01,2.23,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2020-12-01,1.86,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2021-01-01,1.94,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2021-02-01,1.94,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2021-03-01,1.97,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2021-04-01,1.94,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2021-05-01,1.97,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2021-06-01,1.97,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2021-07-01,2.07,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2021-08-01,3.08,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2021-09-01,2.18,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2021-10-01,2.37,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2021-11-01,2.1,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2021-12-01,1.94,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2022-01-01,1.94,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2022-02-01,1.94,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2022-03-01,1.99,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2022-04-01,1.99,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2022-05-01,2.07,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2022-06-01,2.07,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2022-07-01,2.06,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2022-08-01,1.99,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2022-09-01,2.1,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2022-10-01,2.1,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2022-11-01,1.99,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2022-12-01,1.89,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2023-01-01,1.93,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2023-02-01,1.99,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2023-03-01,1.97,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2023-04-01,2.0,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2023-05-01,2.0,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2023-06-01,2.04,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2023-07-01,2.06,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2023-08-01,2.08,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2023-09-01,2.52,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2023-10-01,2.49,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2023-11-01,2.15,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2023-12-01,2.04,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2024-01-01,1.97,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2024-02-01,2.0,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2024-03-01,2.03,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2024-04-01,2.01,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2024-05-01,2.03,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2024-06-01,2.23,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2024-07-01,2.32,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2024-08-01,2.32,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2024-09-01,2.49,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2024-10-01,2.45,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2024-11-01,2.46,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2024-12-01,2.24,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2025-01-01,2.2,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2025-02-01,1.97,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2025-03-01,1.8,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2025-04-01,1.83,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2025-05-01,2.25,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2025-06-01,2.38,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2025-07-01,2.46,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2025-08-01,2.4,Apples (Red),Jordan,Al Mafraq,RETAIL,Kg
+2016-06-01,2.63,Apples (Red),Jordan,Amman,RETAIL,Kg
+2016-07-01,,Apples (Red),Jordan,Amman,RETAIL,Kg
+2016-08-01,,Apples (Red),Jordan,Amman,RETAIL,Kg
+2016-09-01,,Apples (Red),Jordan,Amman,RETAIL,Kg
+2016-10-01,,Apples (Red),Jordan,Amman,RETAIL,Kg
+2016-11-01,,Apples (Red),Jordan,Amman,RETAIL,Kg
+2016-12-01,,Apples (Red),Jordan,Amman,RETAIL,Kg
+2017-01-01,1.92,Apples (Red),Jordan,Amman,RETAIL,Kg
+2017-02-01,2.37,Apples (Red),Jordan,Amman,RETAIL,Kg
+2017-03-01,2.5,Apples (Red),Jordan,Amman,RETAIL,Kg
+2017-04-01,2.6,Apples (Red),Jordan,Amman,RETAIL,Kg
+2017-05-01,2.5,Apples (Red),Jordan,Amman,RETAIL,Kg
+2017-06-01,2.68,Apples (Red),Jordan,Amman,RETAIL,Kg
+2017-07-01,2.88,Apples (Red),Jordan,Amman,RETAIL,Kg
+2017-08-01,2.93,Apples (Red),Jordan,Amman,RETAIL,Kg
+2017-09-01,3.01,Apples (Red),Jordan,Amman,RETAIL,Kg
+2017-10-01,2.93,Apples (Red),Jordan,Amman,RETAIL,Kg
+2017-11-01,2.54,Apples (Red),Jordan,Amman,RETAIL,Kg
+2017-12-01,2.4,Apples (Red),Jordan,Amman,RETAIL,Kg
+2018-01-01,2.79,Apples (Red),Jordan,Amman,RETAIL,Kg
+2018-02-01,2.82,Apples (Red),Jordan,Amman,RETAIL,Kg
+2018-03-01,2.71,Apples (Red),Jordan,Amman,RETAIL,Kg
+2018-04-01,2.84,Apples (Red),Jordan,Amman,RETAIL,Kg
+2018-05-01,3.08,Apples (Red),Jordan,Amman,RETAIL,Kg
+2018-06-01,3.22,Apples (Red),Jordan,Amman,RETAIL,Kg
+2018-07-01,3.51,Apples (Red),Jordan,Amman,RETAIL,Kg
+2018-08-01,3.56,Apples (Red),Jordan,Amman,RETAIL,Kg
+2018-09-01,3.37,Apples (Red),Jordan,Amman,RETAIL,Kg
+2018-10-01,2.74,Apples (Red),Jordan,Amman,RETAIL,Kg
+2018-11-01,2.62,Apples (Red),Jordan,Amman,RETAIL,Kg
+2018-12-01,2.92,Apples (Red),Jordan,Amman,RETAIL,Kg
+2019-01-01,2.58,Apples (Red),Jordan,Amman,RETAIL,Kg
+2019-02-01,2.41,Apples (Red),Jordan,Amman,RETAIL,Kg
+2019-03-01,2.42,Apples (Red),Jordan,Amman,RETAIL,Kg
+2019-04-01,2.55,Apples (Red),Jordan,Amman,RETAIL,Kg
+2019-05-01,2.73,Apples (Red),Jordan,Amman,RETAIL,Kg
+2019-06-01,3.21,Apples (Red),Jordan,Amman,RETAIL,Kg
+2019-07-01,2.77,Apples (Red),Jordan,Amman,RETAIL,Kg
+2019-08-01,2.75,Apples (Red),Jordan,Amman,RETAIL,Kg
+2019-09-01,2.61,Apples (Red),Jordan,Amman,RETAIL,Kg
+2019-10-01,2.7,Apples (Red),Jordan,Amman,RETAIL,Kg
+2019-11-01,2.85,Apples (Red),Jordan,Amman,RETAIL,Kg
+2019-12-01,2.7,Apples (Red),Jordan,Amman,RETAIL,Kg
+2020-01-01,2.48,Apples (Red),Jordan,Amman,RETAIL,Kg
+2020-02-01,2.58,Apples (Red),Jordan,Amman,RETAIL,Kg
+2020-03-01,2.58,Apples (Red),Jordan,Amman,RETAIL,Kg
+2020-04-01,2.58,Apples (Red),Jordan,Amman,RETAIL,Kg
+2020-05-01,2.58,Apples (Red),Jordan,Amman,RETAIL,Kg
+2020-06-01,3.03,Apples (Red),Jordan,Amman,RETAIL,Kg
+2020-07-01,2.96,Apples (Red),Jordan,Amman,RETAIL,Kg
+2020-08-01,2.96,Apples (Red),Jordan,Amman,RETAIL,Kg
+2020-09-01,3.08,Apples (Red),Jordan,Amman,RETAIL,Kg
+2020-10-01,3.18,Apples (Red),Jordan,Amman,RETAIL,Kg
+2020-11-01,2.92,Apples (Red),Jordan,Amman,RETAIL,Kg
+2020-12-01,2.59,Apples (Red),Jordan,Amman,RETAIL,Kg
+2021-01-01,2.49,Apples (Red),Jordan,Amman,RETAIL,Kg
+2021-02-01,2.55,Apples (Red),Jordan,Amman,RETAIL,Kg
+2021-03-01,2.75,Apples (Red),Jordan,Amman,RETAIL,Kg
+2021-04-01,2.75,Apples (Red),Jordan,Amman,RETAIL,Kg
+2021-05-01,2.66,Apples (Red),Jordan,Amman,RETAIL,Kg
+2021-06-01,2.63,Apples (Red),Jordan,Amman,RETAIL,Kg
+2021-07-01,2.61,Apples (Red),Jordan,Amman,RETAIL,Kg
+2021-08-01,2.73,Apples (Red),Jordan,Amman,RETAIL,Kg
+2021-09-01,2.82,Apples (Red),Jordan,Amman,RETAIL,Kg
+2021-10-01,3.06,Apples (Red),Jordan,Amman,RETAIL,Kg
+2021-11-01,2.85,Apples (Red),Jordan,Amman,RETAIL,Kg
+2021-12-01,2.66,Apples (Red),Jordan,Amman,RETAIL,Kg
+2022-01-01,2.66,Apples (Red),Jordan,Amman,RETAIL,Kg
+2022-02-01,2.66,Apples (Red),Jordan,Amman,RETAIL,Kg
+2022-03-01,2.73,Apples (Red),Jordan,Amman,RETAIL,Kg
+2022-04-01,2.73,Apples (Red),Jordan,Amman,RETAIL,Kg
+2022-05-01,2.73,Apples (Red),Jordan,Amman,RETAIL,Kg
+2022-06-01,2.75,Apples (Red),Jordan,Amman,RETAIL,Kg
+2022-07-01,2.8,Apples (Red),Jordan,Amman,RETAIL,Kg
+2022-08-01,2.79,Apples (Red),Jordan,Amman,RETAIL,Kg
+2022-09-01,2.83,Apples (Red),Jordan,Amman,RETAIL,Kg
+2022-10-01,2.93,Apples (Red),Jordan,Amman,RETAIL,Kg
+2022-11-01,2.89,Apples (Red),Jordan,Amman,RETAIL,Kg
+2022-12-01,2.62,Apples (Red),Jordan,Amman,RETAIL,Kg
+2023-01-01,2.51,Apples (Red),Jordan,Amman,RETAIL,Kg
+2023-02-01,2.61,Apples (Red),Jordan,Amman,RETAIL,Kg
+2023-03-01,2.61,Apples (Red),Jordan,Amman,RETAIL,Kg
+2023-04-01,2.58,Apples (Red),Jordan,Amman,RETAIL,Kg
+2023-05-01,2.63,Apples (Red),Jordan,Amman,RETAIL,Kg
+2023-06-01,2.75,Apples (Red),Jordan,Amman,RETAIL,Kg
+2023-07-01,2.72,Apples (Red),Jordan,Amman,RETAIL,Kg
+2023-08-01,2.79,Apples (Red),Jordan,Amman,RETAIL,Kg
+2023-09-01,3.17,Apples (Red),Jordan,Amman,RETAIL,Kg
+2023-10-01,3.28,Apples (Red),Jordan,Amman,RETAIL,Kg
+2023-11-01,2.79,Apples (Red),Jordan,Amman,RETAIL,Kg
+2023-12-01,2.46,Apples (Red),Jordan,Amman,RETAIL,Kg
+2024-01-01,2.3,Apples (Red),Jordan,Amman,RETAIL,Kg
+2024-02-01,2.44,Apples (Red),Jordan,Amman,RETAIL,Kg
+2024-03-01,2.44,Apples (Red),Jordan,Amman,RETAIL,Kg
+2024-04-01,2.35,Apples (Red),Jordan,Amman,RETAIL,Kg
+2024-05-01,2.76,Apples (Red),Jordan,Amman,RETAIL,Kg
+2024-06-01,2.79,Apples (Red),Jordan,Amman,RETAIL,Kg
+2024-07-01,2.82,Apples (Red),Jordan,Amman,RETAIL,Kg
+2024-08-01,2.86,Apples (Red),Jordan,Amman,RETAIL,Kg
+2024-09-01,2.94,Apples (Red),Jordan,Amman,RETAIL,Kg
+2024-10-01,3.17,Apples (Red),Jordan,Amman,RETAIL,Kg
+2024-11-01,2.68,Apples (Red),Jordan,Amman,RETAIL,Kg
+2024-12-01,2.49,Apples (Red),Jordan,Amman,RETAIL,Kg
+2025-01-01,2.55,Apples (Red),Jordan,Amman,RETAIL,Kg
+2025-02-01,2.52,Apples (Red),Jordan,Amman,RETAIL,Kg
+2025-03-01,2.58,Apples (Red),Jordan,Amman,RETAIL,Kg
+2025-04-01,2.7,Apples (Red),Jordan,Amman,RETAIL,Kg
+2025-05-01,2.79,Apples (Red),Jordan,Amman,RETAIL,Kg
+2025-06-01,2.82,Apples (Red),Jordan,Amman,RETAIL,Kg
+2025-07-01,2.76,Apples (Red),Jordan,Amman,RETAIL,Kg
+2025-08-01,2.85,Apples (Red),Jordan,Amman,RETAIL,Kg
+2016-06-01,1.89,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2016-07-01,,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2016-08-01,,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2016-09-01,,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2016-10-01,,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2016-11-01,,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2016-12-01,,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2017-01-01,2.06,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2017-02-01,1.98,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2017-03-01,1.85,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2017-04-01,1.96,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2017-05-01,1.85,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2017-06-01,2.19,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2017-07-01,2.14,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2017-08-01,2.23,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2017-09-01,2.36,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2017-10-01,2.27,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2017-11-01,2.29,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2017-12-01,2.06,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2018-01-01,2.38,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2018-02-01,2.38,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2018-03-01,2.4,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2018-04-01,2.22,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2018-05-01,2.27,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2018-06-01,2.37,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2018-07-01,2.81,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2018-08-01,2.99,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2018-09-01,3.39,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2018-10-01,2.55,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2018-11-01,1.98,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2018-12-01,1.92,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2019-01-01,1.9,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2019-02-01,1.92,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2019-03-01,1.85,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2019-04-01,1.85,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2019-05-01,1.94,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2019-06-01,2.37,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2019-07-01,1.87,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2019-08-01,1.9,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2019-09-01,1.9,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2019-10-01,2.11,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2019-11-01,2.27,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2019-12-01,2.0,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2020-01-01,2.08,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2020-02-01,2.11,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2020-03-01,2.11,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2020-04-01,2.11,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2020-05-01,2.11,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2020-06-01,2.44,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2020-07-01,2.25,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2020-08-01,2.49,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2020-09-01,2.66,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2020-10-01,2.65,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2020-11-01,2.39,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2020-12-01,2.14,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2021-01-01,2.07,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2021-02-01,2.15,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2021-03-01,2.14,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2021-04-01,2.06,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2021-05-01,2.1,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2021-06-01,2.13,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2021-07-01,2.18,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2021-08-01,2.25,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2021-09-01,2.37,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2021-10-01,2.38,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2021-11-01,2.25,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2021-12-01,2.18,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2022-01-01,2.18,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2022-02-01,2.18,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2022-03-01,2.18,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2022-04-01,2.07,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2022-05-01,2.13,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2022-06-01,2.13,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2022-07-01,2.18,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2022-08-01,2.18,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2022-09-01,2.21,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2022-10-01,2.27,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2022-11-01,2.2,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2022-12-01,2.1,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2023-01-01,2.1,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2023-02-01,2.15,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2023-03-01,2.17,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2023-04-01,2.2,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2023-05-01,2.18,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2023-06-01,2.27,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2023-07-01,2.35,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2023-08-01,2.45,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2023-09-01,2.87,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2023-10-01,2.83,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2023-11-01,2.61,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2023-12-01,2.38,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2024-01-01,2.25,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2024-02-01,2.11,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2024-03-01,2.13,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2024-04-01,2.11,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2024-05-01,2.24,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2024-06-01,2.32,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2024-07-01,2.34,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2024-08-01,2.46,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2024-09-01,2.46,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2024-10-01,2.52,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2024-11-01,2.51,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2024-12-01,2.42,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2025-01-01,2.61,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2025-02-01,2.3,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2025-03-01,2.35,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2025-04-01,2.56,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2025-05-01,2.59,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2025-06-01,2.66,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2025-07-01,2.69,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2025-08-01,2.52,Apples (Red),Jordan,Irbid,RETAIL,Kg
+2017-01-01,1.88,Apples (Red),Jordan,National Average,RETAIL,Kg
+2017-02-01,1.88,Apples (Red),Jordan,National Average,RETAIL,Kg
+2017-03-01,1.89,Apples (Red),Jordan,National Average,RETAIL,Kg
+2017-04-01,1.92,Apples (Red),Jordan,National Average,RETAIL,Kg
+2017-05-01,1.89,Apples (Red),Jordan,National Average,RETAIL,Kg
+2017-06-01,1.98,Apples (Red),Jordan,National Average,RETAIL,Kg
+2017-07-01,2.07,Apples (Red),Jordan,National Average,RETAIL,Kg
+2017-08-01,2.03,Apples (Red),Jordan,National Average,RETAIL,Kg
+2017-09-01,2.13,Apples (Red),Jordan,National Average,RETAIL,Kg
+2017-10-01,2.16,Apples (Red),Jordan,National Average,RETAIL,Kg
+2017-11-01,2.62,Apples (Red),Jordan,National Average,RETAIL,Kg
+2017-12-01,1.92,Apples (Red),Jordan,National Average,RETAIL,Kg
+2018-01-01,2.69,Apples (Red),Jordan,National Average,RETAIL,Kg
+2018-02-01,2.72,Apples (Red),Jordan,National Average,RETAIL,Kg
+2018-03-01,2.77,Apples (Red),Jordan,National Average,RETAIL,Kg
+2018-04-01,2.16,Apples (Red),Jordan,National Average,RETAIL,Kg
+2018-05-01,2.2,Apples (Red),Jordan,National Average,RETAIL,Kg
+2018-06-01,2.29,Apples (Red),Jordan,National Average,RETAIL,Kg
+2018-07-01,2.47,Apples (Red),Jordan,National Average,RETAIL,Kg
+2018-08-01,2.51,Apples (Red),Jordan,National Average,RETAIL,Kg
+2018-09-01,2.61,Apples (Red),Jordan,National Average,RETAIL,Kg
+2018-10-01,2.24,Apples (Red),Jordan,National Average,RETAIL,Kg
+2018-11-01,1.9,Apples (Red),Jordan,National Average,RETAIL,Kg
+2018-12-01,1.85,Apples (Red),Jordan,National Average,RETAIL,Kg
+2019-01-01,1.77,Apples (Red),Jordan,National Average,RETAIL,Kg
+2019-02-01,1.76,Apples (Red),Jordan,National Average,RETAIL,Kg
+2019-03-01,1.79,Apples (Red),Jordan,National Average,RETAIL,Kg
+2019-04-01,1.75,Apples (Red),Jordan,National Average,RETAIL,Kg
+2019-05-01,1.8,Apples (Red),Jordan,National Average,RETAIL,Kg
+2019-06-01,2.28,Apples (Red),Jordan,National Average,RETAIL,Kg
+2019-07-01,1.8,Apples (Red),Jordan,National Average,RETAIL,Kg
+2019-08-01,1.79,Apples (Red),Jordan,National Average,RETAIL,Kg
+2019-09-01,1.86,Apples (Red),Jordan,National Average,RETAIL,Kg
+2019-10-01,2.0,Apples (Red),Jordan,National Average,RETAIL,Kg
+2019-11-01,2.1,Apples (Red),Jordan,National Average,RETAIL,Kg
+2019-12-01,1.92,Apples (Red),Jordan,National Average,RETAIL,Kg
+2020-01-01,1.9,Apples (Red),Jordan,National Average,RETAIL,Kg
+2020-02-01,1.87,Apples (Red),Jordan,National Average,RETAIL,Kg
+2020-03-01,1.96,Apples (Red),Jordan,National Average,RETAIL,Kg
+2020-04-01,1.96,Apples (Red),Jordan,National Average,RETAIL,Kg
+2020-05-01,1.96,Apples (Red),Jordan,National Average,RETAIL,Kg
+2020-06-01,2.11,Apples (Red),Jordan,National Average,RETAIL,Kg
+2020-07-01,2.11,Apples (Red),Jordan,National Average,RETAIL,Kg
+2020-08-01,2.13,Apples (Red),Jordan,National Average,RETAIL,Kg
+2020-09-01,2.1,Apples (Red),Jordan,National Average,RETAIL,Kg
+2020-10-01,2.23,Apples (Red),Jordan,National Average,RETAIL,Kg
+2020-11-01,2.13,Apples (Red),Jordan,National Average,RETAIL,Kg
+2020-12-01,1.93,Apples (Red),Jordan,National Average,RETAIL,Kg
+2021-01-01,1.82,Apples (Red),Jordan,National Average,RETAIL,Kg
+2021-02-01,1.92,Apples (Red),Jordan,National Average,RETAIL,Kg
+2021-03-01,1.92,Apples (Red),Jordan,National Average,RETAIL,Kg
+2021-04-01,1.9,Apples (Red),Jordan,National Average,RETAIL,Kg
+2021-05-01,1.92,Apples (Red),Jordan,National Average,RETAIL,Kg
+2021-06-01,1.9,Apples (Red),Jordan,National Average,RETAIL,Kg
+2021-07-01,2.0,Apples (Red),Jordan,National Average,RETAIL,Kg
+2021-08-01,2.11,Apples (Red),Jordan,National Average,RETAIL,Kg
+2021-09-01,2.08,Apples (Red),Jordan,National Average,RETAIL,Kg
+2021-10-01,2.17,Apples (Red),Jordan,National Average,RETAIL,Kg
+2021-11-01,2.04,Apples (Red),Jordan,National Average,RETAIL,Kg
+2021-12-01,1.83,Apples (Red),Jordan,National Average,RETAIL,Kg
+2022-01-01,1.83,Apples (Red),Jordan,National Average,RETAIL,Kg
+2022-02-01,1.83,Apples (Red),Jordan,National Average,RETAIL,Kg
+2022-03-01,1.92,Apples (Red),Jordan,National Average,RETAIL,Kg
+2022-04-01,1.92,Apples (Red),Jordan,National Average,RETAIL,Kg
+2022-05-01,1.97,Apples (Red),Jordan,National Average,RETAIL,Kg
+2022-06-01,2.03,Apples (Red),Jordan,National Average,RETAIL,Kg
+2022-07-01,2.0,Apples (Red),Jordan,National Average,RETAIL,Kg
+2022-08-01,2.0,Apples (Red),Jordan,National Average,RETAIL,Kg
+2022-09-01,2.04,Apples (Red),Jordan,National Average,RETAIL,Kg
+2022-10-01,2.06,Apples (Red),Jordan,National Average,RETAIL,Kg
+2022-11-01,2.0,Apples (Red),Jordan,National Average,RETAIL,Kg
+2022-12-01,1.87,Apples (Red),Jordan,National Average,RETAIL,Kg
+2023-01-01,1.85,Apples (Red),Jordan,National Average,RETAIL,Kg
+2023-02-01,1.85,Apples (Red),Jordan,National Average,RETAIL,Kg
+2023-03-01,1.92,Apples (Red),Jordan,National Average,RETAIL,Kg
+2023-04-01,1.92,Apples (Red),Jordan,National Average,RETAIL,Kg
+2023-05-01,1.93,Apples (Red),Jordan,National Average,RETAIL,Kg
+2023-06-01,2.01,Apples (Red),Jordan,National Average,RETAIL,Kg
+2023-07-01,2.04,Apples (Red),Jordan,National Average,RETAIL,Kg
+2023-08-01,2.11,Apples (Red),Jordan,National Average,RETAIL,Kg
+2023-09-01,2.27,Apples (Red),Jordan,National Average,RETAIL,Kg
+2023-10-01,2.24,Apples (Red),Jordan,National Average,RETAIL,Kg
+2023-11-01,2.06,Apples (Red),Jordan,National Average,RETAIL,Kg
+2023-12-01,1.96,Apples (Red),Jordan,National Average,RETAIL,Kg
+2024-01-01,1.93,Apples (Red),Jordan,National Average,RETAIL,Kg
+2024-02-01,1.94,Apples (Red),Jordan,National Average,RETAIL,Kg
+2024-03-01,1.94,Apples (Red),Jordan,National Average,RETAIL,Kg
+2024-04-01,1.92,Apples (Red),Jordan,National Average,RETAIL,Kg
+2024-05-01,1.99,Apples (Red),Jordan,National Average,RETAIL,Kg
+2024-06-01,2.08,Apples (Red),Jordan,National Average,RETAIL,Kg
+2024-07-01,2.15,Apples (Red),Jordan,National Average,RETAIL,Kg
+2024-08-01,2.14,Apples (Red),Jordan,National Average,RETAIL,Kg
+2024-09-01,2.15,Apples (Red),Jordan,National Average,RETAIL,Kg
+2024-10-01,2.18,Apples (Red),Jordan,National Average,RETAIL,Kg
+2024-11-01,2.15,Apples (Red),Jordan,National Average,RETAIL,Kg
+2024-12-01,2.08,Apples (Red),Jordan,National Average,RETAIL,Kg
+2025-01-01,2.13,Apples (Red),Jordan,National Average,RETAIL,Kg
+2025-02-01,2.08,Apples (Red),Jordan,National Average,RETAIL,Kg
+2025-03-01,2.07,Apples (Red),Jordan,National Average,RETAIL,Kg
+2025-04-01,2.14,Apples (Red),Jordan,National Average,RETAIL,Kg
+2025-05-01,2.28,Apples (Red),Jordan,National Average,RETAIL,Kg
+2025-06-01,2.32,Apples (Red),Jordan,National Average,RETAIL,Kg
+2025-07-01,2.35,Apples (Red),Jordan,National Average,RETAIL,Kg
+2016-06-01,1.83,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2016-07-01,,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2016-08-01,,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2016-09-01,,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2016-10-01,,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2016-11-01,,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2016-12-01,,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2017-01-01,2.29,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2017-02-01,2.17,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2017-03-01,2.12,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2017-04-01,2.1,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2017-05-01,2.12,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2017-06-01,2.02,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2017-07-01,2.12,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2017-08-01,2.12,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2017-09-01,2.12,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2017-10-01,2.2,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2017-11-01,2.82,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2017-12-01,2.29,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2018-01-01,2.93,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2018-02-01,2.78,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2018-03-01,3.06,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2018-04-01,2.26,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2018-05-01,2.26,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2018-06-01,2.47,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2018-07-01,2.65,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2018-08-01,2.65,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2018-09-01,2.79,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2018-10-01,2.22,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2018-11-01,2.03,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2018-12-01,1.87,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2019-01-01,1.89,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2019-02-01,1.92,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2019-03-01,1.9,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2019-04-01,1.76,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2019-05-01,1.89,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2019-06-01,2.46,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2019-07-01,1.96,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2019-08-01,1.96,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2019-09-01,1.94,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2019-10-01,1.97,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2019-11-01,2.11,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2019-12-01,1.99,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2020-01-01,2.01,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2020-02-01,1.82,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2020-03-01,1.82,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2020-04-01,1.82,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2020-05-01,1.82,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2020-06-01,1.97,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2020-07-01,2.04,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2020-08-01,2.23,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2020-09-01,2.24,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2020-10-01,2.11,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2020-11-01,2.08,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2020-12-01,1.93,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2021-01-01,1.79,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2021-02-01,2.06,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2021-03-01,2.01,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2021-04-01,1.96,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2021-05-01,2.04,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2021-06-01,2.06,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2021-07-01,2.07,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2021-08-01,2.13,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2021-09-01,2.27,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2021-10-01,2.37,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2021-11-01,2.18,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2021-12-01,1.73,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2022-01-01,1.73,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2022-02-01,1.73,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2022-03-01,1.96,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2022-04-01,1.99,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2022-05-01,2.11,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2022-06-01,2.27,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2022-07-01,2.38,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2022-08-01,2.37,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2022-09-01,2.62,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2022-10-01,2.56,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2022-11-01,2.14,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2022-12-01,1.92,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2023-01-01,1.93,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2023-02-01,1.97,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2023-03-01,2.01,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2023-04-01,2.04,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2023-05-01,2.14,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2023-06-01,2.3,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2023-07-01,2.37,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2023-08-01,2.61,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2023-09-01,2.9,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2023-10-01,2.94,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2023-11-01,2.3,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2023-12-01,2.14,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2024-01-01,2.17,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2024-02-01,2.18,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2024-03-01,2.2,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2024-04-01,2.18,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2024-05-01,2.25,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2024-06-01,2.62,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2024-07-01,2.68,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2024-08-01,2.75,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2024-09-01,2.85,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2024-10-01,2.89,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2024-11-01,2.56,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2024-12-01,2.46,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2025-01-01,2.7,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2025-02-01,2.52,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2025-03-01,2.59,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2025-04-01,2.7,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2025-05-01,2.85,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2025-06-01,2.9,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2025-07-01,2.99,Apples (Red),Jordan,Zarqa,RETAIL,Kg
+2025-08-01,2.89,Apples (Red),Jordan,Zarqa,RETAIL,Kg

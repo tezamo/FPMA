@@ -1,0 +1,2405 @@
+date,price_usd,commodity_name,country,market,price_type,unit
+2021-01-01,1.03,Sugar (white),Angola,Bengo,RETAIL,Kg
+2021-02-01,1.04,Sugar (white),Angola,Bengo,RETAIL,Kg
+2021-03-01,1.13,Sugar (white),Angola,Bengo,RETAIL,Kg
+2021-04-01,1.11,Sugar (white),Angola,Bengo,RETAIL,Kg
+2021-05-01,1.13,Sugar (white),Angola,Bengo,RETAIL,Kg
+2021-06-01,1.14,Sugar (white),Angola,Bengo,RETAIL,Kg
+2021-07-01,1.14,Sugar (white),Angola,Bengo,RETAIL,Kg
+2021-08-01,1.16,Sugar (white),Angola,Bengo,RETAIL,Kg
+2021-09-01,1.21,Sugar (white),Angola,Bengo,RETAIL,Kg
+2021-10-01,1.27,Sugar (white),Angola,Bengo,RETAIL,Kg
+2021-11-01,1.3,Sugar (white),Angola,Bengo,RETAIL,Kg
+2021-12-01,1.38,Sugar (white),Angola,Bengo,RETAIL,Kg
+2022-01-01,1.46,Sugar (white),Angola,Bengo,RETAIL,Kg
+2022-02-01,1.52,Sugar (white),Angola,Bengo,RETAIL,Kg
+2022-03-01,1.71,Sugar (white),Angola,Bengo,RETAIL,Kg
+2022-04-01,1.88,Sugar (white),Angola,Bengo,RETAIL,Kg
+2022-05-01,1.92,Sugar (white),Angola,Bengo,RETAIL,Kg
+2022-06-01,1.83,Sugar (white),Angola,Bengo,RETAIL,Kg
+2022-07-01,1.81,Sugar (white),Angola,Bengo,RETAIL,Kg
+2022-08-01,1.82,Sugar (white),Angola,Bengo,RETAIL,Kg
+2022-09-01,1.82,Sugar (white),Angola,Bengo,RETAIL,Kg
+2022-10-01,1.74,Sugar (white),Angola,Bengo,RETAIL,Kg
+2022-11-01,1.58,Sugar (white),Angola,Bengo,RETAIL,Kg
+2022-12-01,1.57,Sugar (white),Angola,Bengo,RETAIL,Kg
+2023-01-01,1.56,Sugar (white),Angola,Bengo,RETAIL,Kg
+2023-02-01,1.56,Sugar (white),Angola,Bengo,RETAIL,Kg
+2023-03-01,1.56,Sugar (white),Angola,Bengo,RETAIL,Kg
+2023-04-01,1.56,Sugar (white),Angola,Bengo,RETAIL,Kg
+2023-05-01,1.48,Sugar (white),Angola,Bengo,RETAIL,Kg
+2023-06-01,1.12,Sugar (white),Angola,Bengo,RETAIL,Kg
+2023-07-01,0.99,Sugar (white),Angola,Bengo,RETAIL,Kg
+2023-08-01,0.99,Sugar (white),Angola,Bengo,RETAIL,Kg
+2023-09-01,1.06,Sugar (white),Angola,Bengo,RETAIL,Kg
+2023-10-01,1.14,Sugar (white),Angola,Bengo,RETAIL,Kg
+2023-11-01,1.15,Sugar (white),Angola,Bengo,RETAIL,Kg
+2023-12-01,1.2,Sugar (white),Angola,Bengo,RETAIL,Kg
+2024-01-01,1.23,Sugar (white),Angola,Bengo,RETAIL,Kg
+2024-02-01,1.3,Sugar (white),Angola,Bengo,RETAIL,Kg
+2024-03-01,1.32,Sugar (white),Angola,Bengo,RETAIL,Kg
+2024-04-01,1.44,Sugar (white),Angola,Bengo,RETAIL,Kg
+2024-05-01,1.42,Sugar (white),Angola,Bengo,RETAIL,Kg
+2024-06-01,1.42,Sugar (white),Angola,Bengo,RETAIL,Kg
+2024-07-01,1.38,Sugar (white),Angola,Bengo,RETAIL,Kg
+2024-08-01,1.39,Sugar (white),Angola,Bengo,RETAIL,Kg
+2024-09-01,1.4,Sugar (white),Angola,Bengo,RETAIL,Kg
+2024-10-01,1.64,Sugar (white),Angola,Bengo,RETAIL,Kg
+2024-11-01,1.66,Sugar (white),Angola,Bengo,RETAIL,Kg
+2024-12-01,1.72,Sugar (white),Angola,Bengo,RETAIL,Kg
+2025-01-01,1.71,Sugar (white),Angola,Bengo,RETAIL,Kg
+2025-02-01,1.74,Sugar (white),Angola,Bengo,RETAIL,Kg
+2025-03-01,1.72,Sugar (white),Angola,Bengo,RETAIL,Kg
+2025-04-01,1.77,Sugar (white),Angola,Bengo,RETAIL,Kg
+2025-05-01,1.78,Sugar (white),Angola,Bengo,RETAIL,Kg
+2025-06-01,1.79,Sugar (white),Angola,Bengo,RETAIL,Kg
+2025-07-01,1.8,Sugar (white),Angola,Bengo,RETAIL,Kg
+2025-08-01,1.8,Sugar (white),Angola,Bengo,RETAIL,Kg
+2021-01-01,0.77,Sugar (white),Angola,Benguela,RETAIL,Kg
+2021-02-01,0.79,Sugar (white),Angola,Benguela,RETAIL,Kg
+2021-03-01,0.85,Sugar (white),Angola,Benguela,RETAIL,Kg
+2021-04-01,0.86,Sugar (white),Angola,Benguela,RETAIL,Kg
+2021-05-01,0.87,Sugar (white),Angola,Benguela,RETAIL,Kg
+2021-06-01,0.89,Sugar (white),Angola,Benguela,RETAIL,Kg
+2021-07-01,0.91,Sugar (white),Angola,Benguela,RETAIL,Kg
+2021-08-01,0.94,Sugar (white),Angola,Benguela,RETAIL,Kg
+2021-09-01,0.98,Sugar (white),Angola,Benguela,RETAIL,Kg
+2021-10-01,1.05,Sugar (white),Angola,Benguela,RETAIL,Kg
+2021-11-01,1.08,Sugar (white),Angola,Benguela,RETAIL,Kg
+2021-12-01,1.16,Sugar (white),Angola,Benguela,RETAIL,Kg
+2022-01-01,1.23,Sugar (white),Angola,Benguela,RETAIL,Kg
+2022-02-01,1.28,Sugar (white),Angola,Benguela,RETAIL,Kg
+2022-03-01,1.45,Sugar (white),Angola,Benguela,RETAIL,Kg
+2022-04-01,1.6,Sugar (white),Angola,Benguela,RETAIL,Kg
+2022-05-01,1.64,Sugar (white),Angola,Benguela,RETAIL,Kg
+2022-06-01,1.57,Sugar (white),Angola,Benguela,RETAIL,Kg
+2022-07-01,1.57,Sugar (white),Angola,Benguela,RETAIL,Kg
+2022-08-01,1.57,Sugar (white),Angola,Benguela,RETAIL,Kg
+2022-09-01,1.58,Sugar (white),Angola,Benguela,RETAIL,Kg
+2022-10-01,1.51,Sugar (white),Angola,Benguela,RETAIL,Kg
+2022-11-01,1.38,Sugar (white),Angola,Benguela,RETAIL,Kg
+2022-12-01,1.39,Sugar (white),Angola,Benguela,RETAIL,Kg
+2023-01-01,1.39,Sugar (white),Angola,Benguela,RETAIL,Kg
+2023-02-01,1.39,Sugar (white),Angola,Benguela,RETAIL,Kg
+2023-03-01,1.4,Sugar (white),Angola,Benguela,RETAIL,Kg
+2023-04-01,1.39,Sugar (white),Angola,Benguela,RETAIL,Kg
+2023-05-01,1.34,Sugar (white),Angola,Benguela,RETAIL,Kg
+2023-06-01,1.0,Sugar (white),Angola,Benguela,RETAIL,Kg
+2023-07-01,0.87,Sugar (white),Angola,Benguela,RETAIL,Kg
+2023-08-01,0.89,Sugar (white),Angola,Benguela,RETAIL,Kg
+2023-09-01,0.92,Sugar (white),Angola,Benguela,RETAIL,Kg
+2023-10-01,0.96,Sugar (white),Angola,Benguela,RETAIL,Kg
+2023-11-01,1.17,Sugar (white),Angola,Benguela,RETAIL,Kg
+2023-12-01,1.17,Sugar (white),Angola,Benguela,RETAIL,Kg
+2024-01-01,1.17,Sugar (white),Angola,Benguela,RETAIL,Kg
+2024-02-01,1.26,Sugar (white),Angola,Benguela,RETAIL,Kg
+2024-03-01,1.28,Sugar (white),Angola,Benguela,RETAIL,Kg
+2024-04-01,1.32,Sugar (white),Angola,Benguela,RETAIL,Kg
+2024-05-01,1.31,Sugar (white),Angola,Benguela,RETAIL,Kg
+2024-06-01,1.3,Sugar (white),Angola,Benguela,RETAIL,Kg
+2024-07-01,1.28,Sugar (white),Angola,Benguela,RETAIL,Kg
+2024-08-01,1.24,Sugar (white),Angola,Benguela,RETAIL,Kg
+2024-09-01,1.21,Sugar (white),Angola,Benguela,RETAIL,Kg
+2024-10-01,1.27,Sugar (white),Angola,Benguela,RETAIL,Kg
+2024-11-01,1.31,Sugar (white),Angola,Benguela,RETAIL,Kg
+2024-12-01,1.31,Sugar (white),Angola,Benguela,RETAIL,Kg
+2025-01-01,1.31,Sugar (white),Angola,Benguela,RETAIL,Kg
+2025-02-01,1.34,Sugar (white),Angola,Benguela,RETAIL,Kg
+2025-03-01,1.37,Sugar (white),Angola,Benguela,RETAIL,Kg
+2025-04-01,1.36,Sugar (white),Angola,Benguela,RETAIL,Kg
+2025-05-01,1.39,Sugar (white),Angola,Benguela,RETAIL,Kg
+2025-06-01,1.37,Sugar (white),Angola,Benguela,RETAIL,Kg
+2025-07-01,1.36,Sugar (white),Angola,Benguela,RETAIL,Kg
+2025-08-01,1.32,Sugar (white),Angola,Benguela,RETAIL,Kg
+2021-01-01,0.8,Sugar (white),Angola,Bié,RETAIL,Kg
+2021-02-01,0.85,Sugar (white),Angola,Bié,RETAIL,Kg
+2021-03-01,0.9,Sugar (white),Angola,Bié,RETAIL,Kg
+2021-04-01,0.92,Sugar (white),Angola,Bié,RETAIL,Kg
+2021-05-01,0.96,Sugar (white),Angola,Bié,RETAIL,Kg
+2021-06-01,0.96,Sugar (white),Angola,Bié,RETAIL,Kg
+2021-07-01,0.97,Sugar (white),Angola,Bié,RETAIL,Kg
+2021-08-01,0.99,Sugar (white),Angola,Bié,RETAIL,Kg
+2021-09-01,1.03,Sugar (white),Angola,Bié,RETAIL,Kg
+2021-10-01,1.09,Sugar (white),Angola,Bié,RETAIL,Kg
+2021-11-01,1.1,Sugar (white),Angola,Bié,RETAIL,Kg
+2021-12-01,1.19,Sugar (white),Angola,Bié,RETAIL,Kg
+2022-01-01,1.26,Sugar (white),Angola,Bié,RETAIL,Kg
+2022-02-01,1.31,Sugar (white),Angola,Bié,RETAIL,Kg
+2022-03-01,1.47,Sugar (white),Angola,Bié,RETAIL,Kg
+2022-04-01,1.63,Sugar (white),Angola,Bié,RETAIL,Kg
+2022-05-01,1.65,Sugar (white),Angola,Bié,RETAIL,Kg
+2022-06-01,1.62,Sugar (white),Angola,Bié,RETAIL,Kg
+2022-07-01,1.63,Sugar (white),Angola,Bié,RETAIL,Kg
+2022-08-01,1.63,Sugar (white),Angola,Bié,RETAIL,Kg
+2022-09-01,1.63,Sugar (white),Angola,Bié,RETAIL,Kg
+2022-10-01,1.55,Sugar (white),Angola,Bié,RETAIL,Kg
+2022-11-01,1.4,Sugar (white),Angola,Bié,RETAIL,Kg
+2022-12-01,1.39,Sugar (white),Angola,Bié,RETAIL,Kg
+2023-01-01,1.39,Sugar (white),Angola,Bié,RETAIL,Kg
+2023-02-01,1.39,Sugar (white),Angola,Bié,RETAIL,Kg
+2023-03-01,1.39,Sugar (white),Angola,Bié,RETAIL,Kg
+2023-04-01,1.39,Sugar (white),Angola,Bié,RETAIL,Kg
+2023-05-01,1.34,Sugar (white),Angola,Bié,RETAIL,Kg
+2023-06-01,1.02,Sugar (white),Angola,Bié,RETAIL,Kg
+2023-07-01,0.89,Sugar (white),Angola,Bié,RETAIL,Kg
+2023-08-01,0.92,Sugar (white),Angola,Bié,RETAIL,Kg
+2023-09-01,0.95,Sugar (white),Angola,Bié,RETAIL,Kg
+2023-10-01,0.95,Sugar (white),Angola,Bié,RETAIL,Kg
+2023-11-01,0.99,Sugar (white),Angola,Bié,RETAIL,Kg
+2023-12-01,1.0,Sugar (white),Angola,Bié,RETAIL,Kg
+2024-01-01,1.02,Sugar (white),Angola,Bié,RETAIL,Kg
+2024-02-01,1.02,Sugar (white),Angola,Bié,RETAIL,Kg
+2024-03-01,1.05,Sugar (white),Angola,Bié,RETAIL,Kg
+2024-04-01,1.08,Sugar (white),Angola,Bié,RETAIL,Kg
+2024-05-01,1.07,Sugar (white),Angola,Bié,RETAIL,Kg
+2024-06-01,1.06,Sugar (white),Angola,Bié,RETAIL,Kg
+2024-07-01,1.06,Sugar (white),Angola,Bié,RETAIL,Kg
+2024-08-01,1.04,Sugar (white),Angola,Bié,RETAIL,Kg
+2024-09-01,1.06,Sugar (white),Angola,Bié,RETAIL,Kg
+2024-10-01,1.1,Sugar (white),Angola,Bié,RETAIL,Kg
+2024-11-01,1.17,Sugar (white),Angola,Bié,RETAIL,Kg
+2024-12-01,1.18,Sugar (white),Angola,Bié,RETAIL,Kg
+2025-01-01,1.23,Sugar (white),Angola,Bié,RETAIL,Kg
+2025-02-01,1.23,Sugar (white),Angola,Bié,RETAIL,Kg
+2025-03-01,1.23,Sugar (white),Angola,Bié,RETAIL,Kg
+2025-04-01,1.27,Sugar (white),Angola,Bié,RETAIL,Kg
+2025-05-01,1.3,Sugar (white),Angola,Bié,RETAIL,Kg
+2025-06-01,1.29,Sugar (white),Angola,Bié,RETAIL,Kg
+2025-07-01,1.29,Sugar (white),Angola,Bié,RETAIL,Kg
+2025-08-01,1.29,Sugar (white),Angola,Bié,RETAIL,Kg
+2021-01-01,1.0,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2021-02-01,1.03,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2021-03-01,1.08,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2021-04-01,1.06,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2021-05-01,1.06,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2021-06-01,1.06,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2021-07-01,1.08,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2021-08-01,1.12,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2021-09-01,1.17,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2021-10-01,1.23,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2021-11-01,1.26,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2021-12-01,1.33,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2022-01-01,1.44,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2022-02-01,1.52,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2022-03-01,1.76,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2022-04-01,1.94,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2022-05-01,1.95,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2022-06-01,1.86,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2022-07-01,1.82,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2022-08-01,1.83,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2022-09-01,1.84,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2022-10-01,1.75,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2022-11-01,1.56,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2022-12-01,1.55,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2023-01-01,1.55,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2023-02-01,1.53,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2023-03-01,1.53,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2023-04-01,1.53,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2023-05-01,1.46,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2023-06-01,1.14,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2023-07-01,0.99,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2023-08-01,1.03,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2023-09-01,1.09,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2023-10-01,1.11,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2023-11-01,1.19,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2023-12-01,1.21,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2024-01-01,1.24,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2024-02-01,1.27,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2024-03-01,1.4,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2024-04-01,1.49,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2024-05-01,1.48,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2024-06-01,1.46,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2024-07-01,1.45,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2024-08-01,1.51,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2024-09-01,1.48,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2024-10-01,1.51,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2024-11-01,1.59,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2024-12-01,1.67,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2025-01-01,1.64,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2025-02-01,1.64,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2025-03-01,1.69,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2025-04-01,1.72,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2025-05-01,1.82,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2025-06-01,1.83,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2025-07-01,1.83,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2025-08-01,1.83,Sugar (white),Angola,Cabinda,RETAIL,Kg
+2021-01-01,0.86,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2021-02-01,0.88,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2021-03-01,0.93,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2021-04-01,0.92,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2021-05-01,0.95,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2021-06-01,0.99,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2021-07-01,0.99,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2021-08-01,1.03,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2021-09-01,1.07,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2021-10-01,1.13,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2021-11-01,1.18,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2021-12-01,1.25,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2022-01-01,1.33,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2022-02-01,1.41,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2022-03-01,1.58,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2022-04-01,1.75,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2022-05-01,1.77,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2022-06-01,1.69,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2022-07-01,1.67,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2022-08-01,1.67,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2022-09-01,1.65,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2022-10-01,1.58,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2022-11-01,1.43,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2022-12-01,1.43,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2023-01-01,1.44,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2023-02-01,1.44,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2023-03-01,1.44,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2023-04-01,1.43,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2023-05-01,1.37,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2023-06-01,1.07,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2023-07-01,0.96,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2023-08-01,0.96,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2023-09-01,1.03,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2023-10-01,1.06,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2023-11-01,1.09,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2023-12-01,1.13,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2024-01-01,1.13,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2024-02-01,1.13,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2024-03-01,1.2,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2024-04-01,1.3,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2024-05-01,1.29,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2024-06-01,1.39,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2024-07-01,1.39,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2024-08-01,1.4,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2024-09-01,1.34,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2024-10-01,1.38,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2024-11-01,1.41,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2024-12-01,1.42,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2025-01-01,1.45,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2025-02-01,1.47,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2025-03-01,1.47,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2025-04-01,1.27,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2025-05-01,1.31,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2025-06-01,1.32,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2025-07-01,1.3,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2025-08-01,1.31,Sugar (white),Angola,Cuando Cubango,RETAIL,Kg
+2021-01-01,1.06,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2021-02-01,1.09,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2021-03-01,1.14,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2021-04-01,1.12,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2021-05-01,1.11,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2021-06-01,1.12,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2021-07-01,1.12,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2021-08-01,1.13,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2021-09-01,1.16,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2021-10-01,1.22,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2021-11-01,1.24,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2021-12-01,1.31,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2022-01-01,1.43,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2022-02-01,1.49,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2022-03-01,1.67,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2022-04-01,1.85,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2022-05-01,1.91,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2022-06-01,1.82,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2022-07-01,1.82,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2022-08-01,1.83,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2022-09-01,1.82,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2022-10-01,1.75,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2022-11-01,1.58,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2022-12-01,1.55,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2023-01-01,1.54,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2023-02-01,1.57,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2023-03-01,1.57,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2023-04-01,1.56,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2023-05-01,1.49,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2023-06-01,1.12,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2023-07-01,1.06,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2023-08-01,1.1,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2023-09-01,1.15,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2023-10-01,1.24,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2023-11-01,1.32,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2023-12-01,1.43,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2024-01-01,1.43,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2024-02-01,1.43,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2024-03-01,1.52,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2024-04-01,1.62,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2024-05-01,1.61,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2024-06-01,1.58,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2024-07-01,1.59,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2024-08-01,1.6,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2024-09-01,1.6,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2024-10-01,1.63,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2024-11-01,1.64,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2024-12-01,1.63,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2025-01-01,1.66,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2025-02-01,1.66,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2025-03-01,1.72,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2025-04-01,1.73,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2025-05-01,1.65,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2025-06-01,1.64,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2025-07-01,1.56,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2025-08-01,1.57,Sugar (white),Angola,Cuanza Norte,RETAIL,Kg
+2021-01-01,0.8,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2021-02-01,0.84,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2021-03-01,0.92,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2021-04-01,0.93,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2021-05-01,0.95,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2021-06-01,0.97,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2021-07-01,1.03,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2021-08-01,1.05,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2021-09-01,1.09,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2021-10-01,1.14,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2021-11-01,1.2,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2021-12-01,1.3,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2022-01-01,1.39,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2022-02-01,1.5,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2022-03-01,1.71,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2022-04-01,1.85,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2022-05-01,1.93,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2022-06-01,1.85,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2022-07-01,1.83,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2022-08-01,1.84,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2022-09-01,1.83,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2022-10-01,1.75,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2022-11-01,1.61,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2022-12-01,1.61,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2023-01-01,1.62,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2023-02-01,1.65,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2023-03-01,1.66,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2023-04-01,1.66,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2023-05-01,1.6,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2023-06-01,1.19,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2023-07-01,1.08,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2023-08-01,1.11,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2023-09-01,1.16,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2023-10-01,1.16,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2023-11-01,1.17,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2023-12-01,1.19,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2024-01-01,1.27,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2024-02-01,1.29,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2024-03-01,1.29,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2024-04-01,1.29,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2024-05-01,1.27,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2024-06-01,1.27,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2024-07-01,1.26,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2024-08-01,1.29,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2024-09-01,1.24,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2024-10-01,1.26,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2024-11-01,1.32,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2024-12-01,1.36,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2025-01-01,1.39,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2025-02-01,1.52,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2025-03-01,1.51,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2025-04-01,1.51,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2025-05-01,1.54,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2025-06-01,1.55,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2025-07-01,1.55,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2025-08-01,1.57,Sugar (white),Angola,Cuanza Sul,RETAIL,Kg
+2021-01-01,0.82,Sugar (white),Angola,Cunene,RETAIL,Kg
+2021-02-01,0.86,Sugar (white),Angola,Cunene,RETAIL,Kg
+2021-03-01,0.9,Sugar (white),Angola,Cunene,RETAIL,Kg
+2021-04-01,0.9,Sugar (white),Angola,Cunene,RETAIL,Kg
+2021-05-01,0.92,Sugar (white),Angola,Cunene,RETAIL,Kg
+2021-06-01,0.96,Sugar (white),Angola,Cunene,RETAIL,Kg
+2021-07-01,0.99,Sugar (white),Angola,Cunene,RETAIL,Kg
+2021-08-01,1.0,Sugar (white),Angola,Cunene,RETAIL,Kg
+2021-09-01,1.08,Sugar (white),Angola,Cunene,RETAIL,Kg
+2021-10-01,1.12,Sugar (white),Angola,Cunene,RETAIL,Kg
+2021-11-01,1.15,Sugar (white),Angola,Cunene,RETAIL,Kg
+2021-12-01,1.22,Sugar (white),Angola,Cunene,RETAIL,Kg
+2022-01-01,1.29,Sugar (white),Angola,Cunene,RETAIL,Kg
+2022-02-01,1.34,Sugar (white),Angola,Cunene,RETAIL,Kg
+2022-03-01,1.52,Sugar (white),Angola,Cunene,RETAIL,Kg
+2022-04-01,1.67,Sugar (white),Angola,Cunene,RETAIL,Kg
+2022-05-01,1.71,Sugar (white),Angola,Cunene,RETAIL,Kg
+2022-06-01,1.65,Sugar (white),Angola,Cunene,RETAIL,Kg
+2022-07-01,1.64,Sugar (white),Angola,Cunene,RETAIL,Kg
+2022-08-01,1.64,Sugar (white),Angola,Cunene,RETAIL,Kg
+2022-09-01,1.65,Sugar (white),Angola,Cunene,RETAIL,Kg
+2022-10-01,1.57,Sugar (white),Angola,Cunene,RETAIL,Kg
+2022-11-01,1.42,Sugar (white),Angola,Cunene,RETAIL,Kg
+2022-12-01,1.41,Sugar (white),Angola,Cunene,RETAIL,Kg
+2023-01-01,1.42,Sugar (white),Angola,Cunene,RETAIL,Kg
+2023-02-01,1.47,Sugar (white),Angola,Cunene,RETAIL,Kg
+2023-03-01,1.47,Sugar (white),Angola,Cunene,RETAIL,Kg
+2023-04-01,1.49,Sugar (white),Angola,Cunene,RETAIL,Kg
+2023-05-01,1.42,Sugar (white),Angola,Cunene,RETAIL,Kg
+2023-06-01,1.11,Sugar (white),Angola,Cunene,RETAIL,Kg
+2023-07-01,1.0,Sugar (white),Angola,Cunene,RETAIL,Kg
+2023-08-01,1.03,Sugar (white),Angola,Cunene,RETAIL,Kg
+2023-09-01,1.1,Sugar (white),Angola,Cunene,RETAIL,Kg
+2023-10-01,1.2,Sugar (white),Angola,Cunene,RETAIL,Kg
+2023-11-01,1.35,Sugar (white),Angola,Cunene,RETAIL,Kg
+2023-12-01,1.46,Sugar (white),Angola,Cunene,RETAIL,Kg
+2024-01-01,1.54,Sugar (white),Angola,Cunene,RETAIL,Kg
+2024-02-01,1.61,Sugar (white),Angola,Cunene,RETAIL,Kg
+2024-03-01,1.66,Sugar (white),Angola,Cunene,RETAIL,Kg
+2024-04-01,1.77,Sugar (white),Angola,Cunene,RETAIL,Kg
+2024-05-01,1.75,Sugar (white),Angola,Cunene,RETAIL,Kg
+2024-06-01,1.75,Sugar (white),Angola,Cunene,RETAIL,Kg
+2024-07-01,1.75,Sugar (white),Angola,Cunene,RETAIL,Kg
+2024-08-01,1.73,Sugar (white),Angola,Cunene,RETAIL,Kg
+2024-09-01,1.74,Sugar (white),Angola,Cunene,RETAIL,Kg
+2024-10-01,1.77,Sugar (white),Angola,Cunene,RETAIL,Kg
+2024-11-01,1.82,Sugar (white),Angola,Cunene,RETAIL,Kg
+2024-12-01,1.84,Sugar (white),Angola,Cunene,RETAIL,Kg
+2025-01-01,1.87,Sugar (white),Angola,Cunene,RETAIL,Kg
+2025-02-01,1.89,Sugar (white),Angola,Cunene,RETAIL,Kg
+2025-03-01,1.92,Sugar (white),Angola,Cunene,RETAIL,Kg
+2025-04-01,1.92,Sugar (white),Angola,Cunene,RETAIL,Kg
+2025-05-01,1.9,Sugar (white),Angola,Cunene,RETAIL,Kg
+2025-06-01,1.89,Sugar (white),Angola,Cunene,RETAIL,Kg
+2025-07-01,1.89,Sugar (white),Angola,Cunene,RETAIL,Kg
+2025-08-01,1.9,Sugar (white),Angola,Cunene,RETAIL,Kg
+2021-01-01,0.76,Sugar (white),Angola,Huambo,RETAIL,Kg
+2021-02-01,0.79,Sugar (white),Angola,Huambo,RETAIL,Kg
+2021-03-01,0.84,Sugar (white),Angola,Huambo,RETAIL,Kg
+2021-04-01,0.83,Sugar (white),Angola,Huambo,RETAIL,Kg
+2021-05-01,0.84,Sugar (white),Angola,Huambo,RETAIL,Kg
+2021-06-01,0.86,Sugar (white),Angola,Huambo,RETAIL,Kg
+2021-07-01,0.9,Sugar (white),Angola,Huambo,RETAIL,Kg
+2021-08-01,0.9,Sugar (white),Angola,Huambo,RETAIL,Kg
+2021-09-01,0.96,Sugar (white),Angola,Huambo,RETAIL,Kg
+2021-10-01,0.99,Sugar (white),Angola,Huambo,RETAIL,Kg
+2021-11-01,1.02,Sugar (white),Angola,Huambo,RETAIL,Kg
+2021-12-01,1.1,Sugar (white),Angola,Huambo,RETAIL,Kg
+2022-01-01,1.18,Sugar (white),Angola,Huambo,RETAIL,Kg
+2022-02-01,1.26,Sugar (white),Angola,Huambo,RETAIL,Kg
+2022-03-01,1.46,Sugar (white),Angola,Huambo,RETAIL,Kg
+2022-04-01,1.56,Sugar (white),Angola,Huambo,RETAIL,Kg
+2022-05-01,1.6,Sugar (white),Angola,Huambo,RETAIL,Kg
+2022-06-01,1.53,Sugar (white),Angola,Huambo,RETAIL,Kg
+2022-07-01,1.53,Sugar (white),Angola,Huambo,RETAIL,Kg
+2022-08-01,1.58,Sugar (white),Angola,Huambo,RETAIL,Kg
+2022-09-01,1.58,Sugar (white),Angola,Huambo,RETAIL,Kg
+2022-10-01,1.5,Sugar (white),Angola,Huambo,RETAIL,Kg
+2022-11-01,1.36,Sugar (white),Angola,Huambo,RETAIL,Kg
+2022-12-01,1.35,Sugar (white),Angola,Huambo,RETAIL,Kg
+2023-01-01,1.37,Sugar (white),Angola,Huambo,RETAIL,Kg
+2023-02-01,1.37,Sugar (white),Angola,Huambo,RETAIL,Kg
+2023-03-01,1.37,Sugar (white),Angola,Huambo,RETAIL,Kg
+2023-04-01,1.36,Sugar (white),Angola,Huambo,RETAIL,Kg
+2023-05-01,1.28,Sugar (white),Angola,Huambo,RETAIL,Kg
+2023-06-01,1.01,Sugar (white),Angola,Huambo,RETAIL,Kg
+2023-07-01,0.9,Sugar (white),Angola,Huambo,RETAIL,Kg
+2023-08-01,0.9,Sugar (white),Angola,Huambo,RETAIL,Kg
+2023-09-01,0.94,Sugar (white),Angola,Huambo,RETAIL,Kg
+2023-10-01,0.99,Sugar (white),Angola,Huambo,RETAIL,Kg
+2023-11-01,1.01,Sugar (white),Angola,Huambo,RETAIL,Kg
+2023-12-01,1.05,Sugar (white),Angola,Huambo,RETAIL,Kg
+2024-01-01,1.07,Sugar (white),Angola,Huambo,RETAIL,Kg
+2024-02-01,1.07,Sugar (white),Angola,Huambo,RETAIL,Kg
+2024-03-01,1.18,Sugar (white),Angola,Huambo,RETAIL,Kg
+2024-04-01,1.19,Sugar (white),Angola,Huambo,RETAIL,Kg
+2024-05-01,1.18,Sugar (white),Angola,Huambo,RETAIL,Kg
+2024-06-01,1.16,Sugar (white),Angola,Huambo,RETAIL,Kg
+2024-07-01,1.21,Sugar (white),Angola,Huambo,RETAIL,Kg
+2024-08-01,1.18,Sugar (white),Angola,Huambo,RETAIL,Kg
+2024-09-01,1.16,Sugar (white),Angola,Huambo,RETAIL,Kg
+2024-10-01,1.18,Sugar (white),Angola,Huambo,RETAIL,Kg
+2024-11-01,1.26,Sugar (white),Angola,Huambo,RETAIL,Kg
+2024-12-01,1.26,Sugar (white),Angola,Huambo,RETAIL,Kg
+2025-01-01,1.29,Sugar (white),Angola,Huambo,RETAIL,Kg
+2025-02-01,1.34,Sugar (white),Angola,Huambo,RETAIL,Kg
+2025-03-01,1.34,Sugar (white),Angola,Huambo,RETAIL,Kg
+2025-04-01,1.36,Sugar (white),Angola,Huambo,RETAIL,Kg
+2025-05-01,1.36,Sugar (white),Angola,Huambo,RETAIL,Kg
+2025-06-01,1.38,Sugar (white),Angola,Huambo,RETAIL,Kg
+2025-07-01,1.38,Sugar (white),Angola,Huambo,RETAIL,Kg
+2025-08-01,1.38,Sugar (white),Angola,Huambo,RETAIL,Kg
+2021-01-01,0.73,Sugar (white),Angola,Huíla,RETAIL,Kg
+2021-02-01,0.75,Sugar (white),Angola,Huíla,RETAIL,Kg
+2021-03-01,0.81,Sugar (white),Angola,Huíla,RETAIL,Kg
+2021-04-01,0.81,Sugar (white),Angola,Huíla,RETAIL,Kg
+2021-05-01,0.82,Sugar (white),Angola,Huíla,RETAIL,Kg
+2021-06-01,0.83,Sugar (white),Angola,Huíla,RETAIL,Kg
+2021-07-01,0.86,Sugar (white),Angola,Huíla,RETAIL,Kg
+2021-08-01,0.89,Sugar (white),Angola,Huíla,RETAIL,Kg
+2021-09-01,0.92,Sugar (white),Angola,Huíla,RETAIL,Kg
+2021-10-01,1.01,Sugar (white),Angola,Huíla,RETAIL,Kg
+2021-11-01,1.02,Sugar (white),Angola,Huíla,RETAIL,Kg
+2021-12-01,1.09,Sugar (white),Angola,Huíla,RETAIL,Kg
+2022-01-01,1.17,Sugar (white),Angola,Huíla,RETAIL,Kg
+2022-02-01,1.23,Sugar (white),Angola,Huíla,RETAIL,Kg
+2022-03-01,1.38,Sugar (white),Angola,Huíla,RETAIL,Kg
+2022-04-01,1.52,Sugar (white),Angola,Huíla,RETAIL,Kg
+2022-05-01,1.55,Sugar (white),Angola,Huíla,RETAIL,Kg
+2022-06-01,1.49,Sugar (white),Angola,Huíla,RETAIL,Kg
+2022-07-01,1.51,Sugar (white),Angola,Huíla,RETAIL,Kg
+2022-08-01,1.51,Sugar (white),Angola,Huíla,RETAIL,Kg
+2022-09-01,1.52,Sugar (white),Angola,Huíla,RETAIL,Kg
+2022-10-01,1.45,Sugar (white),Angola,Huíla,RETAIL,Kg
+2022-11-01,1.31,Sugar (white),Angola,Huíla,RETAIL,Kg
+2022-12-01,1.3,Sugar (white),Angola,Huíla,RETAIL,Kg
+2023-01-01,1.31,Sugar (white),Angola,Huíla,RETAIL,Kg
+2023-02-01,1.31,Sugar (white),Angola,Huíla,RETAIL,Kg
+2023-03-01,1.3,Sugar (white),Angola,Huíla,RETAIL,Kg
+2023-04-01,1.29,Sugar (white),Angola,Huíla,RETAIL,Kg
+2023-05-01,1.23,Sugar (white),Angola,Huíla,RETAIL,Kg
+2023-06-01,0.94,Sugar (white),Angola,Huíla,RETAIL,Kg
+2023-07-01,0.83,Sugar (white),Angola,Huíla,RETAIL,Kg
+2023-08-01,0.87,Sugar (white),Angola,Huíla,RETAIL,Kg
+2023-09-01,0.95,Sugar (white),Angola,Huíla,RETAIL,Kg
+2023-10-01,0.97,Sugar (white),Angola,Huíla,RETAIL,Kg
+2023-11-01,1.06,Sugar (white),Angola,Huíla,RETAIL,Kg
+2023-12-01,1.13,Sugar (white),Angola,Huíla,RETAIL,Kg
+2024-01-01,1.25,Sugar (white),Angola,Huíla,RETAIL,Kg
+2024-02-01,1.27,Sugar (white),Angola,Huíla,RETAIL,Kg
+2024-03-01,1.37,Sugar (white),Angola,Huíla,RETAIL,Kg
+2024-04-01,1.47,Sugar (white),Angola,Huíla,RETAIL,Kg
+2024-05-01,1.45,Sugar (white),Angola,Huíla,RETAIL,Kg
+2024-06-01,1.44,Sugar (white),Angola,Huíla,RETAIL,Kg
+2024-07-01,1.5,Sugar (white),Angola,Huíla,RETAIL,Kg
+2024-08-01,1.46,Sugar (white),Angola,Huíla,RETAIL,Kg
+2024-09-01,1.48,Sugar (white),Angola,Huíla,RETAIL,Kg
+2024-10-01,1.54,Sugar (white),Angola,Huíla,RETAIL,Kg
+2024-11-01,1.56,Sugar (white),Angola,Huíla,RETAIL,Kg
+2024-12-01,1.61,Sugar (white),Angola,Huíla,RETAIL,Kg
+2025-01-01,1.63,Sugar (white),Angola,Huíla,RETAIL,Kg
+2025-02-01,1.68,Sugar (white),Angola,Huíla,RETAIL,Kg
+2025-03-01,1.7,Sugar (white),Angola,Huíla,RETAIL,Kg
+2025-04-01,1.7,Sugar (white),Angola,Huíla,RETAIL,Kg
+2025-05-01,1.76,Sugar (white),Angola,Huíla,RETAIL,Kg
+2025-06-01,1.79,Sugar (white),Angola,Huíla,RETAIL,Kg
+2025-07-01,1.94,Sugar (white),Angola,Huíla,RETAIL,Kg
+2025-08-01,1.94,Sugar (white),Angola,Huíla,RETAIL,Kg
+2021-01-01,0.83,Sugar (white),Angola,Luanda,RETAIL,Kg
+2021-02-01,0.85,Sugar (white),Angola,Luanda,RETAIL,Kg
+2021-03-01,0.94,Sugar (white),Angola,Luanda,RETAIL,Kg
+2021-04-01,0.93,Sugar (white),Angola,Luanda,RETAIL,Kg
+2021-05-01,0.95,Sugar (white),Angola,Luanda,RETAIL,Kg
+2021-06-01,0.99,Sugar (white),Angola,Luanda,RETAIL,Kg
+2021-07-01,1.02,Sugar (white),Angola,Luanda,RETAIL,Kg
+2021-08-01,1.07,Sugar (white),Angola,Luanda,RETAIL,Kg
+2021-09-01,1.13,Sugar (white),Angola,Luanda,RETAIL,Kg
+2021-10-01,1.21,Sugar (white),Angola,Luanda,RETAIL,Kg
+2021-11-01,1.24,Sugar (white),Angola,Luanda,RETAIL,Kg
+2021-12-01,1.32,Sugar (white),Angola,Luanda,RETAIL,Kg
+2022-01-01,1.43,Sugar (white),Angola,Luanda,RETAIL,Kg
+2022-02-01,1.51,Sugar (white),Angola,Luanda,RETAIL,Kg
+2022-03-01,1.71,Sugar (white),Angola,Luanda,RETAIL,Kg
+2022-04-01,1.88,Sugar (white),Angola,Luanda,RETAIL,Kg
+2022-05-01,1.86,Sugar (white),Angola,Luanda,RETAIL,Kg
+2022-06-01,1.76,Sugar (white),Angola,Luanda,RETAIL,Kg
+2022-07-01,1.77,Sugar (white),Angola,Luanda,RETAIL,Kg
+2022-08-01,1.77,Sugar (white),Angola,Luanda,RETAIL,Kg
+2022-09-01,1.77,Sugar (white),Angola,Luanda,RETAIL,Kg
+2022-10-01,1.68,Sugar (white),Angola,Luanda,RETAIL,Kg
+2022-11-01,1.52,Sugar (white),Angola,Luanda,RETAIL,Kg
+2022-12-01,1.51,Sugar (white),Angola,Luanda,RETAIL,Kg
+2023-01-01,1.52,Sugar (white),Angola,Luanda,RETAIL,Kg
+2023-02-01,1.52,Sugar (white),Angola,Luanda,RETAIL,Kg
+2023-03-01,1.53,Sugar (white),Angola,Luanda,RETAIL,Kg
+2023-04-01,1.52,Sugar (white),Angola,Luanda,RETAIL,Kg
+2023-05-01,1.45,Sugar (white),Angola,Luanda,RETAIL,Kg
+2023-06-01,1.1,Sugar (white),Angola,Luanda,RETAIL,Kg
+2023-07-01,1.06,Sugar (white),Angola,Luanda,RETAIL,Kg
+2023-08-01,1.2,Sugar (white),Angola,Luanda,RETAIL,Kg
+2023-09-01,1.39,Sugar (white),Angola,Luanda,RETAIL,Kg
+2023-10-01,1.6,Sugar (white),Angola,Luanda,RETAIL,Kg
+2023-11-01,1.8,Sugar (white),Angola,Luanda,RETAIL,Kg
+2023-12-01,1.99,Sugar (white),Angola,Luanda,RETAIL,Kg
+2024-01-01,2.06,Sugar (white),Angola,Luanda,RETAIL,Kg
+2024-02-01,2.13,Sugar (white),Angola,Luanda,RETAIL,Kg
+2024-03-01,2.18,Sugar (white),Angola,Luanda,RETAIL,Kg
+2024-04-01,2.24,Sugar (white),Angola,Luanda,RETAIL,Kg
+2024-05-01,2.22,Sugar (white),Angola,Luanda,RETAIL,Kg
+2024-06-01,2.18,Sugar (white),Angola,Luanda,RETAIL,Kg
+2024-07-01,1.62,Sugar (white),Angola,Luanda,RETAIL,Kg
+2024-08-01,1.62,Sugar (white),Angola,Luanda,RETAIL,Kg
+2024-09-01,1.61,Sugar (white),Angola,Luanda,RETAIL,Kg
+2024-10-01,1.66,Sugar (white),Angola,Luanda,RETAIL,Kg
+2024-11-01,1.69,Sugar (white),Angola,Luanda,RETAIL,Kg
+2024-12-01,1.7,Sugar (white),Angola,Luanda,RETAIL,Kg
+2025-01-01,1.7,Sugar (white),Angola,Luanda,RETAIL,Kg
+2025-02-01,1.69,Sugar (white),Angola,Luanda,RETAIL,Kg
+2025-03-01,1.65,Sugar (white),Angola,Luanda,RETAIL,Kg
+2025-04-01,1.67,Sugar (white),Angola,Luanda,RETAIL,Kg
+2025-05-01,1.66,Sugar (white),Angola,Luanda,RETAIL,Kg
+2025-06-01,1.68,Sugar (white),Angola,Luanda,RETAIL,Kg
+2025-07-01,1.69,Sugar (white),Angola,Luanda,RETAIL,Kg
+2025-08-01,1.69,Sugar (white),Angola,Luanda,RETAIL,Kg
+2021-01-01,0.98,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2021-02-01,0.99,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2021-03-01,1.07,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2021-04-01,1.12,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2021-05-01,1.08,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2021-06-01,1.11,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2021-07-01,1.15,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2021-08-01,1.18,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2021-09-01,1.24,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2021-10-01,1.35,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2021-11-01,1.37,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2021-12-01,1.57,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2022-01-01,1.68,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2022-02-01,1.79,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2022-03-01,2.05,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2022-04-01,2.33,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2022-05-01,2.38,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2022-06-01,2.31,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2022-07-01,2.31,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2022-08-01,2.3,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2022-09-01,2.31,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2022-10-01,2.23,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2022-11-01,2.03,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2022-12-01,1.99,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2023-01-01,2.05,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2023-02-01,2.05,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2023-03-01,2.06,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2023-04-01,2.05,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2023-05-01,1.95,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2023-06-01,1.46,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2023-07-01,1.28,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2023-08-01,1.3,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2023-09-01,1.29,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2023-10-01,1.37,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2023-11-01,1.44,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2023-12-01,1.56,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2024-01-01,1.7,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2024-02-01,1.82,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2024-03-01,1.91,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2024-04-01,1.98,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2024-05-01,1.96,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2024-06-01,1.93,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2024-07-01,1.89,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2024-08-01,1.87,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2024-09-01,1.82,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2024-10-01,1.9,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2024-11-01,1.96,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2024-12-01,2.02,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2025-01-01,2.08,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2025-02-01,2.13,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2025-03-01,2.14,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2025-04-01,2.14,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2025-05-01,2.15,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2025-06-01,2.15,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2025-07-01,2.18,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2025-08-01,2.17,Sugar (white),Angola,Lunda Norte,RETAIL,Kg
+2021-01-01,0.94,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2021-02-01,1.0,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2021-03-01,1.09,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2021-04-01,1.08,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2021-05-01,1.12,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2021-06-01,1.16,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2021-07-01,1.19,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2021-08-01,1.24,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2021-09-01,1.28,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2021-10-01,1.42,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2021-11-01,1.43,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2021-12-01,1.54,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2022-01-01,1.66,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2022-02-01,1.73,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2022-03-01,1.34,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2022-04-01,2.15,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2022-05-01,2.2,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2022-06-01,2.1,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2022-07-01,2.11,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2022-08-01,2.13,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2022-09-01,2.13,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2022-10-01,2.03,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2022-11-01,1.84,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2022-12-01,1.86,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2023-01-01,1.86,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2023-02-01,1.86,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2023-03-01,1.87,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2023-04-01,1.86,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2023-05-01,1.78,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2023-06-01,1.33,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2023-07-01,1.18,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2023-08-01,1.2,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2023-09-01,1.3,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2023-10-01,1.32,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2023-11-01,1.33,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2023-12-01,1.34,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2024-01-01,1.34,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2024-02-01,1.47,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2024-03-01,1.57,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2024-04-01,1.72,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2024-05-01,1.7,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2024-06-01,1.72,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2024-07-01,1.69,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2024-08-01,1.66,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2024-09-01,1.6,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2024-10-01,1.62,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2024-11-01,1.65,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2024-12-01,1.68,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2025-01-01,1.69,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2025-02-01,1.69,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2025-03-01,1.72,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2025-04-01,1.71,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2025-05-01,1.73,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2025-06-01,1.75,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2025-07-01,1.75,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2025-08-01,1.75,Sugar (white),Angola,Lunda Sul,RETAIL,Kg
+2021-01-01,0.8,Sugar (white),Angola,Malanje,RETAIL,Kg
+2021-02-01,0.8,Sugar (white),Angola,Malanje,RETAIL,Kg
+2021-03-01,0.86,Sugar (white),Angola,Malanje,RETAIL,Kg
+2021-04-01,0.84,Sugar (white),Angola,Malanje,RETAIL,Kg
+2021-05-01,0.83,Sugar (white),Angola,Malanje,RETAIL,Kg
+2021-06-01,0.87,Sugar (white),Angola,Malanje,RETAIL,Kg
+2021-07-01,0.89,Sugar (white),Angola,Malanje,RETAIL,Kg
+2021-08-01,0.93,Sugar (white),Angola,Malanje,RETAIL,Kg
+2021-09-01,0.96,Sugar (white),Angola,Malanje,RETAIL,Kg
+2021-10-01,1.03,Sugar (white),Angola,Malanje,RETAIL,Kg
+2021-11-01,1.07,Sugar (white),Angola,Malanje,RETAIL,Kg
+2021-12-01,1.13,Sugar (white),Angola,Malanje,RETAIL,Kg
+2022-01-01,1.23,Sugar (white),Angola,Malanje,RETAIL,Kg
+2022-02-01,1.4,Sugar (white),Angola,Malanje,RETAIL,Kg
+2022-03-01,1.1,Sugar (white),Angola,Malanje,RETAIL,Kg
+2022-04-01,1.78,Sugar (white),Angola,Malanje,RETAIL,Kg
+2022-05-01,1.67,Sugar (white),Angola,Malanje,RETAIL,Kg
+2022-06-01,1.6,Sugar (white),Angola,Malanje,RETAIL,Kg
+2022-07-01,1.62,Sugar (white),Angola,Malanje,RETAIL,Kg
+2022-08-01,1.62,Sugar (white),Angola,Malanje,RETAIL,Kg
+2022-09-01,1.62,Sugar (white),Angola,Malanje,RETAIL,Kg
+2022-10-01,1.54,Sugar (white),Angola,Malanje,RETAIL,Kg
+2022-11-01,1.4,Sugar (white),Angola,Malanje,RETAIL,Kg
+2022-12-01,1.4,Sugar (white),Angola,Malanje,RETAIL,Kg
+2023-01-01,1.42,Sugar (white),Angola,Malanje,RETAIL,Kg
+2023-02-01,1.44,Sugar (white),Angola,Malanje,RETAIL,Kg
+2023-03-01,1.44,Sugar (white),Angola,Malanje,RETAIL,Kg
+2023-04-01,1.42,Sugar (white),Angola,Malanje,RETAIL,Kg
+2023-05-01,1.35,Sugar (white),Angola,Malanje,RETAIL,Kg
+2023-06-01,1.08,Sugar (white),Angola,Malanje,RETAIL,Kg
+2023-07-01,1.01,Sugar (white),Angola,Malanje,RETAIL,Kg
+2023-08-01,1.07,Sugar (white),Angola,Malanje,RETAIL,Kg
+2023-09-01,1.13,Sugar (white),Angola,Malanje,RETAIL,Kg
+2023-10-01,1.19,Sugar (white),Angola,Malanje,RETAIL,Kg
+2023-11-01,1.3,Sugar (white),Angola,Malanje,RETAIL,Kg
+2023-12-01,1.41,Sugar (white),Angola,Malanje,RETAIL,Kg
+2024-01-01,1.42,Sugar (white),Angola,Malanje,RETAIL,Kg
+2024-02-01,1.48,Sugar (white),Angola,Malanje,RETAIL,Kg
+2024-03-01,1.5,Sugar (white),Angola,Malanje,RETAIL,Kg
+2024-04-01,1.54,Sugar (white),Angola,Malanje,RETAIL,Kg
+2024-05-01,1.52,Sugar (white),Angola,Malanje,RETAIL,Kg
+2024-06-01,1.52,Sugar (white),Angola,Malanje,RETAIL,Kg
+2024-07-01,1.54,Sugar (white),Angola,Malanje,RETAIL,Kg
+2024-08-01,1.55,Sugar (white),Angola,Malanje,RETAIL,Kg
+2024-09-01,1.52,Sugar (white),Angola,Malanje,RETAIL,Kg
+2024-10-01,1.54,Sugar (white),Angola,Malanje,RETAIL,Kg
+2024-11-01,1.56,Sugar (white),Angola,Malanje,RETAIL,Kg
+2024-12-01,1.56,Sugar (white),Angola,Malanje,RETAIL,Kg
+2025-01-01,1.58,Sugar (white),Angola,Malanje,RETAIL,Kg
+2025-02-01,1.7,Sugar (white),Angola,Malanje,RETAIL,Kg
+2025-03-01,1.72,Sugar (white),Angola,Malanje,RETAIL,Kg
+2025-04-01,1.66,Sugar (white),Angola,Malanje,RETAIL,Kg
+2025-05-01,1.66,Sugar (white),Angola,Malanje,RETAIL,Kg
+2025-06-01,1.66,Sugar (white),Angola,Malanje,RETAIL,Kg
+2025-07-01,1.68,Sugar (white),Angola,Malanje,RETAIL,Kg
+2025-08-01,1.7,Sugar (white),Angola,Malanje,RETAIL,Kg
+2021-01-01,0.76,Sugar (white),Angola,Moxico,RETAIL,Kg
+2021-02-01,0.77,Sugar (white),Angola,Moxico,RETAIL,Kg
+2021-03-01,0.84,Sugar (white),Angola,Moxico,RETAIL,Kg
+2021-04-01,0.86,Sugar (white),Angola,Moxico,RETAIL,Kg
+2021-05-01,0.88,Sugar (white),Angola,Moxico,RETAIL,Kg
+2021-06-01,0.95,Sugar (white),Angola,Moxico,RETAIL,Kg
+2021-07-01,1.02,Sugar (white),Angola,Moxico,RETAIL,Kg
+2021-08-01,1.04,Sugar (white),Angola,Moxico,RETAIL,Kg
+2021-09-01,1.12,Sugar (white),Angola,Moxico,RETAIL,Kg
+2021-10-01,1.17,Sugar (white),Angola,Moxico,RETAIL,Kg
+2021-11-01,1.19,Sugar (white),Angola,Moxico,RETAIL,Kg
+2021-12-01,1.27,Sugar (white),Angola,Moxico,RETAIL,Kg
+2022-01-01,1.38,Sugar (white),Angola,Moxico,RETAIL,Kg
+2022-02-01,1.43,Sugar (white),Angola,Moxico,RETAIL,Kg
+2022-03-01,1.06,Sugar (white),Angola,Moxico,RETAIL,Kg
+2022-04-01,1.76,Sugar (white),Angola,Moxico,RETAIL,Kg
+2022-05-01,1.81,Sugar (white),Angola,Moxico,RETAIL,Kg
+2022-06-01,1.73,Sugar (white),Angola,Moxico,RETAIL,Kg
+2022-07-01,1.74,Sugar (white),Angola,Moxico,RETAIL,Kg
+2022-08-01,1.74,Sugar (white),Angola,Moxico,RETAIL,Kg
+2022-09-01,1.74,Sugar (white),Angola,Moxico,RETAIL,Kg
+2022-10-01,1.66,Sugar (white),Angola,Moxico,RETAIL,Kg
+2022-11-01,1.5,Sugar (white),Angola,Moxico,RETAIL,Kg
+2022-12-01,1.49,Sugar (white),Angola,Moxico,RETAIL,Kg
+2023-01-01,1.49,Sugar (white),Angola,Moxico,RETAIL,Kg
+2023-02-01,1.49,Sugar (white),Angola,Moxico,RETAIL,Kg
+2023-03-01,1.49,Sugar (white),Angola,Moxico,RETAIL,Kg
+2023-04-01,1.48,Sugar (white),Angola,Moxico,RETAIL,Kg
+2023-05-01,1.42,Sugar (white),Angola,Moxico,RETAIL,Kg
+2023-06-01,1.09,Sugar (white),Angola,Moxico,RETAIL,Kg
+2023-07-01,0.99,Sugar (white),Angola,Moxico,RETAIL,Kg
+2023-08-01,0.98,Sugar (white),Angola,Moxico,RETAIL,Kg
+2023-09-01,1.07,Sugar (white),Angola,Moxico,RETAIL,Kg
+2023-10-01,1.13,Sugar (white),Angola,Moxico,RETAIL,Kg
+2023-11-01,1.21,Sugar (white),Angola,Moxico,RETAIL,Kg
+2023-12-01,1.21,Sugar (white),Angola,Moxico,RETAIL,Kg
+2024-01-01,1.32,Sugar (white),Angola,Moxico,RETAIL,Kg
+2024-02-01,1.38,Sugar (white),Angola,Moxico,RETAIL,Kg
+2024-03-01,1.45,Sugar (white),Angola,Moxico,RETAIL,Kg
+2024-04-01,1.55,Sugar (white),Angola,Moxico,RETAIL,Kg
+2024-05-01,1.53,Sugar (white),Angola,Moxico,RETAIL,Kg
+2024-06-01,1.56,Sugar (white),Angola,Moxico,RETAIL,Kg
+2024-07-01,1.55,Sugar (white),Angola,Moxico,RETAIL,Kg
+2024-08-01,1.56,Sugar (white),Angola,Moxico,RETAIL,Kg
+2024-09-01,1.49,Sugar (white),Angola,Moxico,RETAIL,Kg
+2024-10-01,1.58,Sugar (white),Angola,Moxico,RETAIL,Kg
+2024-11-01,1.63,Sugar (white),Angola,Moxico,RETAIL,Kg
+2024-12-01,1.65,Sugar (white),Angola,Moxico,RETAIL,Kg
+2025-01-01,1.67,Sugar (white),Angola,Moxico,RETAIL,Kg
+2025-02-01,1.7,Sugar (white),Angola,Moxico,RETAIL,Kg
+2025-03-01,1.7,Sugar (white),Angola,Moxico,RETAIL,Kg
+2025-04-01,1.67,Sugar (white),Angola,Moxico,RETAIL,Kg
+2025-05-01,1.68,Sugar (white),Angola,Moxico,RETAIL,Kg
+2025-06-01,1.65,Sugar (white),Angola,Moxico,RETAIL,Kg
+2025-07-01,1.65,Sugar (white),Angola,Moxico,RETAIL,Kg
+2025-08-01,1.65,Sugar (white),Angola,Moxico,RETAIL,Kg
+2021-01-01,0.54,Sugar (white),Angola,Namibe,RETAIL,Kg
+2021-02-01,0.55,Sugar (white),Angola,Namibe,RETAIL,Kg
+2021-03-01,0.58,Sugar (white),Angola,Namibe,RETAIL,Kg
+2021-04-01,0.58,Sugar (white),Angola,Namibe,RETAIL,Kg
+2021-05-01,0.6,Sugar (white),Angola,Namibe,RETAIL,Kg
+2021-06-01,0.6,Sugar (white),Angola,Namibe,RETAIL,Kg
+2021-07-01,0.63,Sugar (white),Angola,Namibe,RETAIL,Kg
+2021-08-01,0.67,Sugar (white),Angola,Namibe,RETAIL,Kg
+2021-09-01,0.71,Sugar (white),Angola,Namibe,RETAIL,Kg
+2021-10-01,0.78,Sugar (white),Angola,Namibe,RETAIL,Kg
+2021-11-01,0.82,Sugar (white),Angola,Namibe,RETAIL,Kg
+2021-12-01,0.9,Sugar (white),Angola,Namibe,RETAIL,Kg
+2022-01-01,1.0,Sugar (white),Angola,Namibe,RETAIL,Kg
+2022-02-01,1.06,Sugar (white),Angola,Namibe,RETAIL,Kg
+2022-03-01,1.2,Sugar (white),Angola,Namibe,RETAIL,Kg
+2022-04-01,1.33,Sugar (white),Angola,Namibe,RETAIL,Kg
+2022-05-01,1.36,Sugar (white),Angola,Namibe,RETAIL,Kg
+2022-06-01,1.3,Sugar (white),Angola,Namibe,RETAIL,Kg
+2022-07-01,1.33,Sugar (white),Angola,Namibe,RETAIL,Kg
+2022-08-01,1.38,Sugar (white),Angola,Namibe,RETAIL,Kg
+2022-09-01,1.38,Sugar (white),Angola,Namibe,RETAIL,Kg
+2022-10-01,1.35,Sugar (white),Angola,Namibe,RETAIL,Kg
+2022-11-01,1.21,Sugar (white),Angola,Namibe,RETAIL,Kg
+2022-12-01,1.21,Sugar (white),Angola,Namibe,RETAIL,Kg
+2023-01-01,1.23,Sugar (white),Angola,Namibe,RETAIL,Kg
+2023-02-01,1.26,Sugar (white),Angola,Namibe,RETAIL,Kg
+2023-03-01,1.27,Sugar (white),Angola,Namibe,RETAIL,Kg
+2023-04-01,1.26,Sugar (white),Angola,Namibe,RETAIL,Kg
+2023-05-01,1.2,Sugar (white),Angola,Namibe,RETAIL,Kg
+2023-06-01,0.9,Sugar (white),Angola,Namibe,RETAIL,Kg
+2023-07-01,0.83,Sugar (white),Angola,Namibe,RETAIL,Kg
+2023-08-01,0.88,Sugar (white),Angola,Namibe,RETAIL,Kg
+2023-09-01,0.96,Sugar (white),Angola,Namibe,RETAIL,Kg
+2023-10-01,1.05,Sugar (white),Angola,Namibe,RETAIL,Kg
+2023-11-01,1.12,Sugar (white),Angola,Namibe,RETAIL,Kg
+2023-12-01,1.23,Sugar (white),Angola,Namibe,RETAIL,Kg
+2024-01-01,1.23,Sugar (white),Angola,Namibe,RETAIL,Kg
+2024-02-01,1.23,Sugar (white),Angola,Namibe,RETAIL,Kg
+2024-03-01,1.29,Sugar (white),Angola,Namibe,RETAIL,Kg
+2024-04-01,1.31,Sugar (white),Angola,Namibe,RETAIL,Kg
+2024-05-01,1.29,Sugar (white),Angola,Namibe,RETAIL,Kg
+2024-06-01,1.34,Sugar (white),Angola,Namibe,RETAIL,Kg
+2024-07-01,1.41,Sugar (white),Angola,Namibe,RETAIL,Kg
+2024-08-01,1.42,Sugar (white),Angola,Namibe,RETAIL,Kg
+2024-09-01,1.37,Sugar (white),Angola,Namibe,RETAIL,Kg
+2024-10-01,1.44,Sugar (white),Angola,Namibe,RETAIL,Kg
+2024-11-01,1.47,Sugar (white),Angola,Namibe,RETAIL,Kg
+2024-12-01,1.49,Sugar (white),Angola,Namibe,RETAIL,Kg
+2025-01-01,1.55,Sugar (white),Angola,Namibe,RETAIL,Kg
+2025-02-01,1.57,Sugar (white),Angola,Namibe,RETAIL,Kg
+2025-03-01,1.58,Sugar (white),Angola,Namibe,RETAIL,Kg
+2025-04-01,1.56,Sugar (white),Angola,Namibe,RETAIL,Kg
+2025-05-01,1.5,Sugar (white),Angola,Namibe,RETAIL,Kg
+2025-06-01,1.58,Sugar (white),Angola,Namibe,RETAIL,Kg
+2025-07-01,1.58,Sugar (white),Angola,Namibe,RETAIL,Kg
+2025-08-01,1.58,Sugar (white),Angola,Namibe,RETAIL,Kg
+2021-01-01,0.81,Sugar (white),Angola,Uíge,RETAIL,Kg
+2021-02-01,0.81,Sugar (white),Angola,Uíge,RETAIL,Kg
+2021-03-01,0.85,Sugar (white),Angola,Uíge,RETAIL,Kg
+2021-04-01,0.85,Sugar (white),Angola,Uíge,RETAIL,Kg
+2021-05-01,0.85,Sugar (white),Angola,Uíge,RETAIL,Kg
+2021-06-01,0.9,Sugar (white),Angola,Uíge,RETAIL,Kg
+2021-07-01,0.95,Sugar (white),Angola,Uíge,RETAIL,Kg
+2021-08-01,0.99,Sugar (white),Angola,Uíge,RETAIL,Kg
+2021-09-01,1.03,Sugar (white),Angola,Uíge,RETAIL,Kg
+2021-10-01,1.08,Sugar (white),Angola,Uíge,RETAIL,Kg
+2021-11-01,1.09,Sugar (white),Angola,Uíge,RETAIL,Kg
+2021-12-01,1.23,Sugar (white),Angola,Uíge,RETAIL,Kg
+2022-01-01,1.34,Sugar (white),Angola,Uíge,RETAIL,Kg
+2022-02-01,1.39,Sugar (white),Angola,Uíge,RETAIL,Kg
+2022-03-01,1.15,Sugar (white),Angola,Uíge,RETAIL,Kg
+2022-04-01,1.71,Sugar (white),Angola,Uíge,RETAIL,Kg
+2022-05-01,1.75,Sugar (white),Angola,Uíge,RETAIL,Kg
+2022-06-01,1.67,Sugar (white),Angola,Uíge,RETAIL,Kg
+2022-07-01,1.67,Sugar (white),Angola,Uíge,RETAIL,Kg
+2022-08-01,1.68,Sugar (white),Angola,Uíge,RETAIL,Kg
+2022-09-01,1.67,Sugar (white),Angola,Uíge,RETAIL,Kg
+2022-10-01,1.6,Sugar (white),Angola,Uíge,RETAIL,Kg
+2022-11-01,1.44,Sugar (white),Angola,Uíge,RETAIL,Kg
+2022-12-01,1.44,Sugar (white),Angola,Uíge,RETAIL,Kg
+2023-01-01,1.47,Sugar (white),Angola,Uíge,RETAIL,Kg
+2023-02-01,1.47,Sugar (white),Angola,Uíge,RETAIL,Kg
+2023-03-01,1.47,Sugar (white),Angola,Uíge,RETAIL,Kg
+2023-04-01,1.46,Sugar (white),Angola,Uíge,RETAIL,Kg
+2023-05-01,1.41,Sugar (white),Angola,Uíge,RETAIL,Kg
+2023-06-01,1.06,Sugar (white),Angola,Uíge,RETAIL,Kg
+2023-07-01,0.95,Sugar (white),Angola,Uíge,RETAIL,Kg
+2023-08-01,0.96,Sugar (white),Angola,Uíge,RETAIL,Kg
+2023-09-01,1.02,Sugar (white),Angola,Uíge,RETAIL,Kg
+2023-10-01,1.03,Sugar (white),Angola,Uíge,RETAIL,Kg
+2023-11-01,1.07,Sugar (white),Angola,Uíge,RETAIL,Kg
+2023-12-01,1.15,Sugar (white),Angola,Uíge,RETAIL,Kg
+2024-01-01,1.15,Sugar (white),Angola,Uíge,RETAIL,Kg
+2024-02-01,1.16,Sugar (white),Angola,Uíge,RETAIL,Kg
+2024-03-01,1.17,Sugar (white),Angola,Uíge,RETAIL,Kg
+2024-04-01,1.19,Sugar (white),Angola,Uíge,RETAIL,Kg
+2024-05-01,1.18,Sugar (white),Angola,Uíge,RETAIL,Kg
+2024-06-01,1.16,Sugar (white),Angola,Uíge,RETAIL,Kg
+2024-07-01,1.14,Sugar (white),Angola,Uíge,RETAIL,Kg
+2024-08-01,1.16,Sugar (white),Angola,Uíge,RETAIL,Kg
+2024-09-01,1.12,Sugar (white),Angola,Uíge,RETAIL,Kg
+2024-10-01,1.14,Sugar (white),Angola,Uíge,RETAIL,Kg
+2024-11-01,1.14,Sugar (white),Angola,Uíge,RETAIL,Kg
+2024-12-01,1.2,Sugar (white),Angola,Uíge,RETAIL,Kg
+2025-01-01,1.31,Sugar (white),Angola,Uíge,RETAIL,Kg
+2025-02-01,1.34,Sugar (white),Angola,Uíge,RETAIL,Kg
+2025-03-01,1.35,Sugar (white),Angola,Uíge,RETAIL,Kg
+2025-04-01,1.39,Sugar (white),Angola,Uíge,RETAIL,Kg
+2025-05-01,1.41,Sugar (white),Angola,Uíge,RETAIL,Kg
+2025-06-01,1.39,Sugar (white),Angola,Uíge,RETAIL,Kg
+2025-07-01,1.4,Sugar (white),Angola,Uíge,RETAIL,Kg
+2025-08-01,1.53,Sugar (white),Angola,Uíge,RETAIL,Kg
+2021-01-01,0.82,Sugar (white),Angola,Zaire,RETAIL,Kg
+2021-02-01,0.85,Sugar (white),Angola,Zaire,RETAIL,Kg
+2021-03-01,0.88,Sugar (white),Angola,Zaire,RETAIL,Kg
+2021-04-01,0.89,Sugar (white),Angola,Zaire,RETAIL,Kg
+2021-05-01,0.88,Sugar (white),Angola,Zaire,RETAIL,Kg
+2021-06-01,0.94,Sugar (white),Angola,Zaire,RETAIL,Kg
+2021-07-01,0.97,Sugar (white),Angola,Zaire,RETAIL,Kg
+2021-08-01,0.98,Sugar (white),Angola,Zaire,RETAIL,Kg
+2021-09-01,1.02,Sugar (white),Angola,Zaire,RETAIL,Kg
+2021-10-01,1.08,Sugar (white),Angola,Zaire,RETAIL,Kg
+2021-11-01,1.14,Sugar (white),Angola,Zaire,RETAIL,Kg
+2021-12-01,1.2,Sugar (white),Angola,Zaire,RETAIL,Kg
+2022-01-01,1.27,Sugar (white),Angola,Zaire,RETAIL,Kg
+2022-02-01,1.34,Sugar (white),Angola,Zaire,RETAIL,Kg
+2022-03-01,1.17,Sugar (white),Angola,Zaire,RETAIL,Kg
+2022-04-01,1.66,Sugar (white),Angola,Zaire,RETAIL,Kg
+2022-05-01,1.7,Sugar (white),Angola,Zaire,RETAIL,Kg
+2022-06-01,1.63,Sugar (white),Angola,Zaire,RETAIL,Kg
+2022-07-01,1.63,Sugar (white),Angola,Zaire,RETAIL,Kg
+2022-08-01,1.63,Sugar (white),Angola,Zaire,RETAIL,Kg
+2022-09-01,1.71,Sugar (white),Angola,Zaire,RETAIL,Kg
+2022-10-01,1.63,Sugar (white),Angola,Zaire,RETAIL,Kg
+2022-11-01,1.49,Sugar (white),Angola,Zaire,RETAIL,Kg
+2022-12-01,1.48,Sugar (white),Angola,Zaire,RETAIL,Kg
+2023-01-01,1.48,Sugar (white),Angola,Zaire,RETAIL,Kg
+2023-02-01,1.5,Sugar (white),Angola,Zaire,RETAIL,Kg
+2023-03-01,1.53,Sugar (white),Angola,Zaire,RETAIL,Kg
+2023-04-01,1.54,Sugar (white),Angola,Zaire,RETAIL,Kg
+2023-05-01,1.47,Sugar (white),Angola,Zaire,RETAIL,Kg
+2023-06-01,1.12,Sugar (white),Angola,Zaire,RETAIL,Kg
+2023-07-01,0.98,Sugar (white),Angola,Zaire,RETAIL,Kg
+2023-08-01,1.05,Sugar (white),Angola,Zaire,RETAIL,Kg
+2023-09-01,1.14,Sugar (white),Angola,Zaire,RETAIL,Kg
+2023-10-01,1.16,Sugar (white),Angola,Zaire,RETAIL,Kg
+2023-11-01,1.2,Sugar (white),Angola,Zaire,RETAIL,Kg
+2023-12-01,1.32,Sugar (white),Angola,Zaire,RETAIL,Kg
+2024-01-01,1.32,Sugar (white),Angola,Zaire,RETAIL,Kg
+2024-02-01,1.39,Sugar (white),Angola,Zaire,RETAIL,Kg
+2024-03-01,1.46,Sugar (white),Angola,Zaire,RETAIL,Kg
+2024-04-01,1.53,Sugar (white),Angola,Zaire,RETAIL,Kg
+2024-05-01,1.52,Sugar (white),Angola,Zaire,RETAIL,Kg
+2024-06-01,1.69,Sugar (white),Angola,Zaire,RETAIL,Kg
+2024-07-01,1.72,Sugar (white),Angola,Zaire,RETAIL,Kg
+2024-08-01,1.64,Sugar (white),Angola,Zaire,RETAIL,Kg
+2024-09-01,1.59,Sugar (white),Angola,Zaire,RETAIL,Kg
+2024-10-01,1.69,Sugar (white),Angola,Zaire,RETAIL,Kg
+2024-11-01,1.7,Sugar (white),Angola,Zaire,RETAIL,Kg
+2024-12-01,1.69,Sugar (white),Angola,Zaire,RETAIL,Kg
+2025-01-01,1.72,Sugar (white),Angola,Zaire,RETAIL,Kg
+2025-02-01,1.76,Sugar (white),Angola,Zaire,RETAIL,Kg
+2025-03-01,1.75,Sugar (white),Angola,Zaire,RETAIL,Kg
+2025-04-01,1.74,Sugar (white),Angola,Zaire,RETAIL,Kg
+2025-05-01,1.75,Sugar (white),Angola,Zaire,RETAIL,Kg
+2025-06-01,1.73,Sugar (white),Angola,Zaire,RETAIL,Kg
+2025-07-01,1.73,Sugar (white),Angola,Zaire,RETAIL,Kg
+2025-08-01,1.78,Sugar (white),Angola,Zaire,RETAIL,Kg
+2007-01-01,2.14,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2007-02-01,2.18,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2007-03-01,2.15,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2007-04-01,2.21,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2007-05-01,2.22,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2007-06-01,2.19,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2007-07-01,2.23,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2007-08-01,2.19,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2007-09-01,2.27,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2007-10-01,2.37,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2007-11-01,2.41,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2007-12-01,2.4,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2008-01-01,2.38,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2008-02-01,2.27,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2008-03-01,2.24,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2008-04-01,2.28,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2008-05-01,2.31,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2008-06-01,2.27,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2008-07-01,2.38,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2008-08-01,2.38,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2008-09-01,2.32,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2008-10-01,2.05,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2008-11-01,1.99,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2008-12-01,2.02,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2009-01-01,2.03,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2009-02-01,2.02,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2009-03-01,2.04,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2009-04-01,2.18,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2009-05-01,2.31,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2009-06-01,2.4,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2009-07-01,2.47,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2009-08-01,2.48,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2009-09-01,2.59,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2009-10-01,2.6,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2009-11-01,2.6,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2009-12-01,2.59,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2010-01-01,2.58,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2010-02-01,2.5,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2010-03-01,2.54,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2010-04-01,2.68,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2010-05-01,2.68,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2010-06-01,2.69,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2010-07-01,2.75,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2010-08-01,2.82,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2010-09-01,2.9,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2010-10-01,3.01,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2010-11-01,2.98,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2010-12-01,3.0,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2011-01-01,2.99,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2011-02-01,2.97,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2011-03-01,3.18,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2011-04-01,3.37,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2011-05-01,3.38,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2011-06-01,3.45,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2011-07-01,3.45,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2011-08-01,3.41,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2011-09-01,3.31,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2011-10-01,3.23,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2011-11-01,3.19,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2011-12-01,3.18,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2012-01-01,3.21,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2012-02-01,3.31,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2012-03-01,3.33,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2012-04-01,3.33,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2012-05-01,3.27,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2012-06-01,3.22,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2012-07-01,3.26,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2012-08-01,3.26,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2012-09-01,3.29,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2012-10-01,3.21,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2012-11-01,3.2,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2012-12-01,3.27,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2013-01-01,3.24,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2013-02-01,3.23,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2013-03-01,3.2,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2013-04-01,3.22,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2013-05-01,3.18,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2013-06-01,3.07,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2013-07-01,3.09,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2013-08-01,3.11,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2013-09-01,3.14,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2013-10-01,3.17,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2013-11-01,3.12,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2013-12-01,3.09,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2014-01-01,3.01,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2014-02-01,3.0,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2014-03-01,3.04,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2014-04-01,3.08,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2014-05-01,3.13,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2014-06-01,3.08,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2014-07-01,3.09,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2014-08-01,3.07,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2014-09-01,3.0,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2014-10-01,2.97,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2014-11-01,2.95,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2014-12-01,2.89,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2015-01-01,2.85,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2015-02-01,2.85,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2015-03-01,2.78,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2015-04-01,2.83,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2015-05-01,2.85,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2015-06-01,2.84,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2015-07-01,2.83,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2015-08-01,2.79,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2015-09-01,2.75,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2015-10-01,2.77,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2015-11-01,2.67,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2015-12-01,2.6,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2016-01-01,2.48,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2016-02-01,2.55,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2016-03-01,2.59,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2016-04-01,2.69,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2016-05-01,2.63,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2016-06-01,2.64,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2016-07-01,2.68,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2016-08-01,2.83,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2016-09-01,2.95,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2016-10-01,2.98,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2016-11-01,2.99,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2016-12-01,2.99,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2017-01-01,3.06,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2017-02-01,3.15,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2017-03-01,3.24,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2017-04-01,3.23,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2017-05-01,3.38,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2017-06-01,3.47,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2017-07-01,3.47,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2017-08-01,3.47,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2017-09-01,3.52,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2017-10-01,3.42,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2017-11-01,3.38,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2017-12-01,3.46,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2018-01-01,3.62,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2018-02-01,3.7,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2018-03-01,3.69,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2018-04-01,3.64,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2018-05-01,3.54,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2018-06-01,3.4,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2018-07-01,3.38,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2018-08-01,3.29,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2018-09-01,3.21,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2018-10-01,3.22,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2018-11-01,3.29,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2018-12-01,3.38,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2019-01-01,3.5,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2019-02-01,3.49,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2019-03-01,3.43,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2019-04-01,3.43,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2019-05-01,3.39,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2019-06-01,3.37,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2019-07-01,3.42,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2019-08-01,3.29,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2019-09-01,3.29,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2019-10-01,3.28,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2019-11-01,3.28,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2019-12-01,3.33,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2020-01-01,3.35,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2020-02-01,3.27,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2020-03-01,3.13,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2020-04-01,2.96,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2020-05-01,3.0,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2020-06-01,3.1,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2020-07-01,3.13,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2020-08-01,3.12,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2020-09-01,3.16,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2020-10-01,3.16,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2020-11-01,3.23,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2020-12-01,3.32,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2021-01-01,3.27,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2021-02-01,3.29,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2021-03-01,3.24,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2021-04-01,3.32,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2021-05-01,3.37,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2021-06-01,3.4,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2021-07-01,3.32,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2021-08-01,3.27,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2021-09-01,3.29,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2021-10-01,3.27,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2021-11-01,3.2,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2021-12-01,3.15,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2022-01-01,3.2,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2022-02-01,3.23,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2022-03-01,3.22,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2022-04-01,3.21,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2022-05-01,3.1,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2022-06-01,3.13,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2022-07-01,3.01,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2022-08-01,3.02,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2022-09-01,2.93,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2022-10-01,2.89,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2022-11-01,2.95,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2022-12-01,3.01,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2023-01-01,3.05,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2023-02-01,2.98,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2023-03-01,2.96,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2023-04-01,3.0,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2023-05-01,2.93,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2023-06-01,2.96,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2023-07-01,3.03,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2023-08-01,3.01,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2023-09-01,3.03,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2023-10-01,3.01,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2023-11-01,3.13,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2023-12-01,3.13,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2024-01-01,3.15,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2024-02-01,3.15,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2024-03-01,3.18,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2024-04-01,3.18,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2024-05-01,3.23,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2024-06-01,3.24,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2024-07-01,3.3,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2024-08-01,3.34,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2024-09-01,3.38,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2024-10-01,3.38,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2024-11-01,3.4,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2024-12-01,3.39,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2025-01-01,3.35,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2025-02-01,3.4,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2025-03-01,3.41,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2025-04-01,3.37,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2025-05-01,3.44,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2025-06-01,3.5,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2025-07-01,47.04,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2025-08-01,3.5,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2025-09-01,3.68,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2025-10-01,3.73,Sugar (white),Botswana,National Average,RETAIL,2.5 kg
+2000-01-01,0.39,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2000-02-01,0.42,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2000-03-01,0.39,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2000-04-01,0.39,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2000-05-01,0.4,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2000-06-01,0.45,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2000-07-01,0.45,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2000-08-01,0.45,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2000-09-01,0.47,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2000-10-01,0.47,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2000-11-01,0.49,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2000-12-01,0.49,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2001-01-01,0.5,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2001-02-01,0.49,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2001-03-01,0.48,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2001-04-01,0.47,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2001-05-01,0.48,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2001-06-01,0.52,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2001-07-01,0.52,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2001-08-01,0.51,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2001-09-01,0.5,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2001-10-01,0.49,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2001-11-01,0.5,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2001-12-01,0.49,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2002-01-01,0.5,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2002-02-01,0.51,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2002-03-01,0.51,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2002-04-01,0.5,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2002-05-01,0.48,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2002-06-01,0.47,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2002-07-01,0.45,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2002-08-01,0.42,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2002-09-01,0.4,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2002-10-01,0.39,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2002-11-01,0.39,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2002-12-01,0.41,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2003-01-01,0.44,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2003-02-01,0.41,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2003-03-01,0.39,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2003-04-01,0.39,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2003-05-01,0.41,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2003-06-01,0.37,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2003-07-01,0.36,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2003-08-01,0.35,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2003-09-01,0.36,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2003-10-01,0.34,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2003-11-01,0.37,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2003-12-01,0.39,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2004-01-01,0.38,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2004-02-01,0.36,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2004-03-01,0.37,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2004-04-01,0.37,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2004-05-01,0.33,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2004-06-01,0.33,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2004-07-01,0.35,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2004-08-01,0.38,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2004-09-01,0.42,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2004-10-01,0.42,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2004-11-01,0.38,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2004-12-01,0.39,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2005-01-01,0.43,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2005-02-01,0.45,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2005-03-01,0.46,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2005-04-01,0.45,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2005-05-01,0.48,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2005-06-01,0.49,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2005-07-01,0.5,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2005-08-01,0.5,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2005-09-01,0.51,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2005-10-01,0.47,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2005-11-01,0.44,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2005-12-01,0.54,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2006-01-01,0.55,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2006-02-01,0.57,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2006-03-01,0.57,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2006-04-01,0.7,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2006-05-01,0.65,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2006-06-01,0.58,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2006-07-01,0.68,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2006-08-01,0.73,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2006-09-01,0.56,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2006-10-01,0.53,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2006-11-01,0.55,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2006-12-01,0.67,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2007-01-01,0.53,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2007-02-01,0.5,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2007-03-01,0.56,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2007-04-01,0.61,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2007-05-01,0.64,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2007-06-01,0.68,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2007-07-01,0.55,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2007-08-01,0.48,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2007-09-01,0.47,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2007-10-01,0.5,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2007-11-01,0.54,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2007-12-01,0.6,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2008-01-01,0.61,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2008-02-01,0.62,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2008-03-01,0.62,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2008-04-01,0.58,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2008-05-01,0.59,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2008-06-01,0.66,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2008-07-01,0.67,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2008-08-01,0.7,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2008-09-01,0.63,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2008-10-01,0.67,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2008-11-01,0.66,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2008-12-01,0.66,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2009-01-01,0.62,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2009-02-01,0.6,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2009-03-01,0.63,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2009-04-01,0.65,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2009-05-01,0.71,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2009-06-01,0.74,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2009-07-01,0.73,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2009-08-01,0.75,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2009-09-01,0.75,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2009-10-01,0.79,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2009-11-01,0.8,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2009-12-01,0.78,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2010-01-01,0.92,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2010-02-01,0.96,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2010-03-01,0.98,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2010-04-01,0.99,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2010-05-01,1.06,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2010-06-01,1.07,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2010-07-01,1.09,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2010-08-01,1.07,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2010-09-01,0.94,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2010-10-01,0.93,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2010-11-01,1.02,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2010-12-01,1.1,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2011-01-01,1.09,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2011-02-01,1.02,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2011-03-01,1.02,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2011-04-01,1.07,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2011-05-01,1.12,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2011-06-01,1.03,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2011-07-01,1.04,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2011-08-01,1.02,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2011-09-01,0.99,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2011-10-01,0.95,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2011-11-01,0.96,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2011-12-01,0.95,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2012-01-01,,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2012-02-01,,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2012-03-01,,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2012-04-01,,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2012-05-01,,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2012-06-01,0.89,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2012-07-01,0.86,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2012-08-01,0.86,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2012-09-01,0.83,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2012-10-01,0.82,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2012-11-01,0.82,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2012-12-01,0.82,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2013-01-01,0.77,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2013-02-01,0.76,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2013-03-01,0.77,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2013-04-01,0.78,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2013-05-01,0.84,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2013-06-01,0.8,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2013-07-01,0.77,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2013-08-01,0.77,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2013-09-01,0.78,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2013-10-01,0.72,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2013-11-01,0.7,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2013-12-01,0.69,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2014-01-01,0.7,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2014-02-01,0.68,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2014-03-01,0.72,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2014-04-01,0.76,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2014-05-01,0.79,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2014-06-01,0.79,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2014-07-01,0.8,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2014-08-01,0.78,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2014-09-01,0.73,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2014-10-01,0.7,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2014-11-01,0.66,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2014-12-01,0.62,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2015-01-01,0.64,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2015-02-01,0.63,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2015-03-01,0.62,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2015-04-01,0.69,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2015-05-01,0.77,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2015-06-01,0.74,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2015-07-01,0.68,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2015-08-01,0.62,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2015-09-01,0.62,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2015-10-01,0.67,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2015-11-01,0.74,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2015-12-01,0.74,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2016-01-01,0.78,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2016-02-01,0.75,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2016-03-01,0.77,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2016-04-01,0.8,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2016-05-01,0.87,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2016-06-01,0.9,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2016-07-01,0.93,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2016-08-01,0.87,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2016-09-01,0.79,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2016-10-01,0.75,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2016-11-01,0.72,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2016-12-01,0.73,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2017-01-01,0.74,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2017-02-01,0.75,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2017-03-01,0.72,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2017-04-01,0.71,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2017-05-01,0.81,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2017-06-01,0.79,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2017-07-01,0.69,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2017-08-01,0.69,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2017-09-01,0.66,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2017-10-01,0.64,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2017-11-01,0.63,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2017-12-01,0.65,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2018-01-01,0.68,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2018-02-01,0.67,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2018-03-01,0.66,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2018-04-01,0.64,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2018-05-01,0.61,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2018-06-01,0.59,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2018-07-01,0.55,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2018-08-01,0.51,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2018-09-01,0.51,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2018-10-01,0.51,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2018-11-01,0.54,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2018-12-01,0.58,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2019-01-01,0.57,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2019-02-01,0.56,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2019-03-01,0.56,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2019-04-01,0.65,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2019-05-01,0.73,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2019-06-01,0.68,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2019-07-01,0.68,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2019-08-01,0.63,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2019-09-01,0.6,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2019-10-01,0.57,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2019-11-01,0.6,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2019-12-01,0.63,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2020-01-01,0.64,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2020-02-01,0.62,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2020-03-01,0.55,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2020-04-01,0.57,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2020-05-01,0.61,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2020-06-01,0.64,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2020-07-01,0.65,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2020-08-01,0.58,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2020-09-01,0.55,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2020-10-01,0.53,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2020-11-01,0.56,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2020-12-01,0.59,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2021-01-01,0.58,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2021-02-01,0.58,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2021-03-01,0.58,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2021-04-01,0.69,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2021-05-01,0.79,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2021-06-01,0.94,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2021-07-01,0.76,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2021-08-01,0.77,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2021-09-01,0.77,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2021-10-01,0.77,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2021-11-01,0.75,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2021-12-01,0.76,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2022-01-01,0.73,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2022-02-01,0.72,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2022-03-01,0.8,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2022-04-01,0.84,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2022-05-01,0.95,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2022-06-01,1.01,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2022-07-01,0.99,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2022-08-01,1.02,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2022-09-01,0.98,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2022-10-01,0.9,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2022-11-01,0.81,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2022-12-01,0.84,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2023-01-01,0.85,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2023-02-01,0.84,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2023-03-01,0.82,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2023-04-01,0.86,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2023-05-01,0.86,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2023-06-01,0.93,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2023-07-01,0.96,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2023-08-01,0.97,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2023-09-01,0.97,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2023-10-01,0.89,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2023-11-01,0.93,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2023-12-01,1.03,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2024-01-01,1.06,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2024-02-01,1.06,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2024-03-01,1.07,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2024-04-01,1.02,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2024-05-01,0.98,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2024-06-01,0.93,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2024-07-01,0.94,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2024-08-01,0.92,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2024-09-01,0.88,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2024-10-01,0.87,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2024-11-01,0.84,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2024-12-01,0.85,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2025-01-01,0.86,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2025-02-01,0.89,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2025-03-01,0.88,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2025-04-01,0.86,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2025-05-01,0.85,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2025-06-01,0.87,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2025-07-01,0.88,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2025-08-01,0.86,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2025-09-01,0.85,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2025-10-01,0.8,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2025-11-01,3070.5,Sugar (white),Colombia,Barranquilla,WHOLESALE,Kg
+2000-01-01,0.41,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2000-02-01,0.42,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2000-03-01,0.42,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2000-04-01,0.41,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2000-05-01,0.41,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2000-06-01,0.45,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2000-07-01,0.45,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2000-08-01,0.46,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2000-09-01,0.47,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2000-10-01,0.49,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2000-11-01,0.5,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2000-12-01,0.5,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2001-01-01,0.5,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2001-02-01,0.51,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2001-03-01,0.5,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2001-04-01,0.49,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2001-05-01,0.49,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2001-06-01,0.52,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2001-07-01,0.52,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2001-08-01,0.52,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2001-09-01,0.5,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2001-10-01,0.5,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2001-11-01,0.5,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2001-12-01,0.51,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2002-01-01,0.51,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2002-02-01,0.51,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2002-03-01,0.52,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2002-04-01,0.53,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2002-05-01,0.51,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2002-06-01,0.5,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2002-07-01,0.47,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2002-08-01,0.44,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2002-09-01,0.42,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2002-10-01,0.41,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2002-11-01,0.42,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2002-12-01,0.41,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2003-01-01,0.44,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2003-02-01,0.44,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2003-03-01,0.44,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2003-04-01,0.44,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2003-05-01,0.44,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2003-06-01,0.44,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2003-07-01,0.43,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2003-08-01,0.41,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2003-09-01,0.41,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2003-10-01,0.4,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2003-11-01,0.41,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2003-12-01,0.42,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2004-01-01,0.42,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2004-02-01,0.42,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2004-03-01,0.44,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2004-04-01,0.45,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2004-05-01,0.44,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2004-06-01,0.42,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2004-07-01,0.43,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2004-08-01,0.44,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2004-09-01,0.43,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2004-10-01,0.44,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2004-11-01,0.46,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2004-12-01,0.46,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2005-01-01,0.47,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2005-02-01,0.47,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2005-03-01,0.47,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2005-04-01,0.47,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2005-05-01,0.5,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2005-06-01,0.51,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2005-07-01,0.51,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2005-08-01,0.51,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2005-09-01,0.51,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2005-10-01,0.52,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2005-11-01,0.51,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2005-12-01,0.57,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2006-01-01,0.64,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2006-02-01,0.58,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2006-03-01,0.62,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2006-04-01,0.71,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2006-05-01,0.71,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2006-06-01,0.64,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2006-07-01,0.71,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2006-08-01,0.75,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2006-09-01,0.65,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2006-10-01,0.59,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2006-11-01,0.61,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2006-12-01,0.74,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2007-01-01,0.64,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2007-02-01,0.58,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2007-03-01,0.61,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2007-04-01,0.68,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2007-05-01,0.71,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2007-06-01,0.75,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2007-07-01,0.71,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2007-08-01,0.58,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2007-09-01,0.57,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2007-10-01,0.57,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2007-11-01,0.58,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2007-12-01,0.63,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2008-01-01,0.63,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2008-02-01,0.64,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2008-03-01,0.67,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2008-04-01,0.67,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2008-05-01,0.66,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2008-06-01,0.74,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2008-07-01,0.7,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2008-08-01,0.66,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2008-09-01,0.63,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2008-10-01,0.69,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2008-11-01,0.68,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2008-12-01,0.66,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2009-01-01,0.64,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2009-02-01,0.6,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2009-03-01,0.63,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2009-04-01,0.64,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2009-05-01,0.72,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2009-06-01,0.75,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2009-07-01,0.76,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2009-08-01,0.75,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2009-09-01,0.75,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2009-10-01,0.8,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2009-11-01,0.81,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2009-12-01,0.77,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2010-01-01,0.9,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2010-02-01,0.95,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2010-03-01,0.98,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2010-04-01,0.97,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2010-05-01,1.04,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2010-06-01,1.08,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2010-07-01,1.13,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2010-08-01,1.15,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2010-09-01,1.02,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2010-10-01,0.98,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2010-11-01,1.04,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2010-12-01,1.13,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2011-01-01,1.17,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2011-02-01,1.1,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2011-03-01,1.06,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2011-04-01,1.12,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2011-05-01,1.17,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2011-06-01,1.08,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2011-07-01,1.09,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2011-08-01,1.07,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2011-09-01,1.02,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2011-10-01,1.01,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2011-11-01,1.04,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2011-12-01,0.99,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2012-01-01,,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2012-02-01,,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2012-03-01,,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2012-04-01,,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2012-05-01,,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2012-06-01,0.93,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2012-07-01,0.89,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2012-08-01,0.88,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2012-09-01,0.88,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2012-10-01,0.83,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2012-11-01,0.85,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2012-12-01,0.85,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2013-01-01,0.82,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2013-02-01,0.79,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2013-03-01,0.79,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2013-04-01,0.87,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2013-05-01,0.9,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2013-06-01,0.8,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2013-07-01,0.77,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2013-08-01,0.75,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2013-09-01,0.75,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2013-10-01,0.73,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2013-11-01,0.74,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2013-12-01,0.74,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2014-01-01,0.74,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2014-02-01,0.71,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2014-03-01,0.77,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2014-04-01,0.84,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2014-05-01,0.83,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2014-06-01,0.84,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2014-07-01,0.84,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2014-08-01,0.82,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2014-09-01,0.78,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2014-10-01,0.74,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2014-11-01,0.74,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2014-12-01,0.72,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2015-01-01,0.72,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2015-02-01,0.71,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2015-03-01,0.68,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2015-04-01,0.77,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2015-05-01,0.85,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2015-06-01,0.76,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2015-07-01,0.7,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2015-08-01,0.65,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2015-09-01,0.67,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2015-10-01,0.71,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2015-11-01,0.75,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2015-12-01,0.73,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2016-01-01,0.78,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2016-02-01,0.76,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2016-03-01,0.8,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2016-04-01,0.83,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2016-05-01,0.91,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2016-06-01,0.95,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2016-07-01,0.94,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2016-08-01,0.91,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2016-09-01,0.82,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2016-10-01,0.81,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2016-11-01,0.75,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2016-12-01,0.75,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2017-01-01,0.78,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2017-02-01,0.81,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2017-03-01,0.75,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2017-04-01,0.75,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2017-05-01,0.85,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2017-06-01,0.78,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2017-07-01,0.71,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2017-08-01,0.69,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2017-09-01,0.69,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2017-10-01,0.71,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2017-11-01,0.69,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2017-12-01,0.68,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2018-01-01,0.71,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2018-02-01,0.69,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2018-03-01,0.66,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2018-04-01,0.68,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2018-05-01,0.65,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2018-06-01,0.63,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2018-07-01,0.6,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2018-08-01,0.58,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2018-09-01,0.55,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2018-10-01,0.57,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2018-11-01,0.61,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2018-12-01,0.63,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2019-01-01,0.62,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2019-02-01,0.63,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2019-03-01,0.61,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2019-04-01,0.69,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2019-05-01,0.73,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2019-06-01,0.71,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2019-07-01,0.71,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2019-08-01,0.66,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2019-09-01,0.65,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2019-10-01,0.64,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2019-11-01,0.68,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2019-12-01,0.66,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2020-01-01,0.65,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2020-02-01,0.68,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2020-03-01,0.6,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2020-04-01,0.61,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2020-05-01,0.63,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2020-06-01,0.68,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2020-07-01,0.64,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2020-08-01,0.61,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2020-09-01,0.61,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2020-10-01,0.58,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2020-11-01,0.68,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2020-12-01,0.71,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2021-01-01,0.68,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2021-02-01,0.64,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2021-03-01,0.67,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2021-04-01,0.73,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2021-05-01,0.72,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2021-06-01,1.0,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2021-07-01,0.81,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2021-08-01,0.79,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2021-09-01,0.79,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2021-10-01,0.8,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2021-11-01,0.76,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2021-12-01,0.76,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2022-01-01,0.75,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2022-02-01,0.77,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2022-03-01,0.8,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2022-04-01,0.85,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2022-05-01,0.92,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2022-06-01,1.06,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2022-07-01,0.98,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2022-08-01,1.02,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2022-09-01,1.0,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2022-10-01,0.96,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2022-11-01,0.89,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2022-12-01,0.89,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2023-01-01,0.89,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2023-02-01,0.9,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2023-03-01,0.96,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2023-04-01,0.99,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2023-05-01,0.96,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2023-06-01,1.02,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2023-07-01,1.08,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2023-08-01,,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2023-09-01,1.0,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2023-10-01,0.95,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2023-11-01,1.12,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2023-12-01,1.17,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2024-01-01,1.09,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2024-02-01,1.05,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2024-03-01,1.03,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2024-04-01,1.04,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2024-05-01,1.05,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2024-06-01,0.98,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2024-07-01,0.96,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2024-08-01,0.94,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2024-09-01,0.9,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2024-10-01,0.88,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2024-11-01,0.81,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2024-12-01,0.83,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2025-01-01,0.83,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2025-02-01,0.86,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2025-03-01,0.78,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2025-04-01,0.8,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2025-05-01,0.86,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2025-06-01,0.95,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2025-07-01,0.91,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2025-08-01,0.85,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2025-09-01,0.85,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2025-10-01,0.79,Sugar (white),Colombia,Bogotá,WHOLESALE,Kg
+2012-10-01,0.81,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2012-11-01,0.8,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2012-12-01,0.81,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2013-01-01,0.79,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2013-02-01,0.75,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2013-03-01,0.75,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2013-04-01,0.81,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2013-05-01,0.85,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2013-06-01,0.77,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2013-07-01,0.77,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2013-08-01,0.76,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2013-09-01,0.78,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2013-10-01,0.73,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2013-11-01,0.71,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2013-12-01,0.72,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2014-01-01,0.7,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2014-02-01,0.67,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2014-03-01,0.69,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2014-04-01,0.73,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2014-05-01,0.77,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2014-06-01,0.77,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2014-07-01,0.81,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2014-08-01,0.78,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2014-09-01,0.74,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2014-10-01,0.71,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2014-11-01,0.68,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2014-12-01,0.63,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2015-01-01,0.62,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2015-02-01,0.63,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2015-03-01,0.64,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2015-04-01,0.7,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2015-05-01,0.78,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2015-06-01,0.74,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2015-07-01,0.67,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2015-08-01,0.61,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2015-09-01,0.64,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2015-10-01,0.71,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2015-11-01,0.77,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2015-12-01,0.75,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2016-01-01,0.77,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2016-02-01,0.74,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2016-03-01,0.78,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2016-04-01,0.8,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2016-05-01,0.86,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2016-06-01,0.91,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2016-07-01,0.93,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2016-08-01,0.9,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2016-09-01,0.79,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2016-10-01,0.75,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2016-11-01,0.72,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2016-12-01,0.72,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2017-01-01,0.73,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2017-02-01,0.75,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2017-03-01,0.73,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2017-04-01,0.72,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2017-05-01,0.8,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2017-06-01,0.81,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2017-07-01,0.69,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2017-08-01,0.68,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2017-09-01,0.69,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2017-10-01,0.67,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2017-11-01,0.67,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2017-12-01,0.65,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2018-01-01,0.67,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2018-02-01,0.65,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2018-03-01,0.58,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2018-04-01,0.59,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2018-05-01,0.6,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2018-06-01,0.6,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2018-07-01,0.57,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2018-08-01,0.54,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2018-09-01,0.53,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2018-10-01,0.52,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2018-11-01,0.53,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2018-12-01,0.56,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2019-01-01,0.57,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2019-02-01,0.58,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2019-03-01,0.59,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2019-04-01,0.63,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2019-05-01,0.7,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2019-06-01,0.71,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2019-07-01,0.67,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2019-08-01,0.62,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2019-09-01,0.6,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2019-10-01,0.59,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2019-11-01,0.66,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2019-12-01,0.62,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2020-01-01,0.61,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2020-02-01,0.63,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2020-03-01,0.58,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2020-04-01,0.61,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2020-05-01,0.58,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2020-06-01,0.59,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2020-07-01,0.6,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2020-08-01,0.55,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2020-09-01,0.56,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2020-10-01,0.54,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2020-11-01,0.56,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2020-12-01,0.58,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2021-01-01,0.57,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2021-02-01,0.55,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2021-03-01,0.62,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2021-04-01,0.68,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2021-05-01,0.78,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2021-06-01,0.91,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2021-07-01,0.77,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2021-08-01,0.78,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2021-09-01,0.75,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2021-10-01,0.74,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2021-11-01,0.72,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2021-12-01,0.74,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2022-01-01,0.73,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2022-02-01,0.72,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2022-03-01,0.81,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2022-04-01,0.88,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2022-05-01,0.95,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2022-06-01,1.01,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2022-07-01,0.98,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2022-08-01,1.03,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2022-09-01,0.97,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2022-10-01,0.85,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2022-11-01,0.81,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2022-12-01,0.84,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2023-01-01,0.85,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2023-02-01,0.83,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2023-03-01,0.82,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2023-04-01,0.86,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2023-05-01,0.91,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2023-06-01,0.96,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2023-07-01,0.95,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2023-08-01,0.93,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2023-09-01,0.94,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2023-10-01,0.91,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2023-11-01,1.1,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2023-12-01,1.03,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2024-01-01,0.99,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2024-02-01,0.96,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2024-03-01,0.95,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2024-04-01,0.98,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2024-05-01,0.95,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2024-06-01,0.87,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2024-07-01,0.9,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2024-08-01,0.89,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2024-09-01,0.81,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2024-10-01,0.78,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2024-11-01,0.76,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2024-12-01,0.71,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2025-01-01,0.68,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2025-02-01,0.7,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2025-03-01,0.75,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2025-04-01,0.81,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2025-05-01,0.88,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2025-06-01,0.88,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2025-07-01,0.84,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2025-08-01,0.8,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2025-09-01,0.82,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2025-10-01,0.75,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2025-11-01,2920.0,Sugar (white),Colombia,Cartagena,WHOLESALE,Kg
+2019-01-01,0.37,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2019-02-01,0.37,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2019-03-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2019-04-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2019-05-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2019-06-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2019-07-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2019-08-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2019-09-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2019-10-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2019-11-01,0.37,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2019-12-01,0.37,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2020-01-01,0.37,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2020-02-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2020-03-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2020-04-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2020-05-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2020-06-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2020-07-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2020-08-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2020-09-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2020-10-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2020-11-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2020-12-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2021-01-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2021-02-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2021-03-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2021-04-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2021-05-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2021-06-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2021-07-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2021-08-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2021-09-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2021-10-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2021-11-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2021-12-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2022-01-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2022-02-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2022-03-01,0.38,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2022-04-01,0.39,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2022-05-01,0.39,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2022-06-01,0.39,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2022-07-01,0.39,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2022-08-01,0.39,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2022-09-01,0.39,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2022-10-01,0.39,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2022-11-01,0.4,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2022-12-01,0.39,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2023-01-01,0.39,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2023-02-01,0.4,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2023-03-01,0.4,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2023-04-01,0.4,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2023-05-01,0.4,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2023-06-01,0.4,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2023-07-01,0.41,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2023-08-01,0.41,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2023-09-01,0.41,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2023-10-01,0.41,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2023-11-01,0.41,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2023-12-01,0.42,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2024-01-01,0.42,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2024-02-01,0.42,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2024-03-01,0.42,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2024-04-01,0.42,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2024-05-01,0.42,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2024-06-01,0.42,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2024-07-01,0.43,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2024-08-01,0.43,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2024-09-01,0.43,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2024-10-01,0.43,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2024-11-01,0.43,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2024-12-01,0.43,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2025-01-01,0.43,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2025-02-01,0.43,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2025-03-01,0.43,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2025-04-01,0.44,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2025-05-01,0.44,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2025-06-01,0.44,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2025-07-01,0.44,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2025-08-01,0.44,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2025-09-01,0.44,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2025-10-01,0.44,Sugar (white),Nicaragua,National Average,RETAIL,Libra
+2000-01-01,1.54,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2000-02-01,1.52,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2000-03-01,1.52,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2000-04-01,1.5,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2000-05-01,1.42,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2000-06-01,1.45,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2000-07-01,1.46,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2000-08-01,1.45,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2000-09-01,1.4,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2000-10-01,1.35,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2000-11-01,1.31,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2000-12-01,1.32,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2001-01-01,1.3,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2001-02-01,1.3,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2001-03-01,1.3,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2001-04-01,1.3,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2001-05-01,1.33,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2001-06-01,1.31,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2001-07-01,1.31,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2001-08-01,1.28,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2001-09-01,1.24,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2001-10-01,1.15,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2001-11-01,1.1,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2001-12-01,0.93,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2002-01-01,0.93,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2002-02-01,0.95,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2002-03-01,0.98,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2002-04-01,1.04,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2002-05-01,1.14,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2002-06-01,1.15,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2002-07-01,1.17,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2002-08-01,1.13,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2002-09-01,1.15,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2002-10-01,1.16,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2002-11-01,1.23,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2002-12-01,1.36,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2003-01-01,1.41,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2003-02-01,1.48,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2003-03-01,1.51,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2003-04-01,1.61,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2003-05-01,1.63,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2003-06-01,1.57,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2003-07-01,1.64,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2003-08-01,1.71,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2003-09-01,1.72,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2003-10-01,1.81,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2003-11-01,1.86,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2003-12-01,1.86,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2004-01-01,1.78,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2004-02-01,1.83,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2004-03-01,1.86,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2004-04-01,1.87,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2004-05-01,1.83,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2004-06-01,1.9,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2004-07-01,2.01,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2004-08-01,1.9,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2004-09-01,1.88,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2004-10-01,1.91,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2004-11-01,2.07,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2004-12-01,2.2,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2005-01-01,2.13,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2005-02-01,2.08,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2005-03-01,2.08,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2005-04-01,2.11,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2005-05-01,2.05,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2005-06-01,1.93,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2005-07-01,1.94,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2005-08-01,1.95,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2005-09-01,1.99,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2005-10-01,1.93,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2005-11-01,1.9,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2005-12-01,2.01,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2006-01-01,2.19,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2006-02-01,2.22,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2006-03-01,2.17,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2006-04-01,2.23,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2006-05-01,2.14,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2006-06-01,1.98,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2006-07-01,1.93,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2006-08-01,1.99,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2006-09-01,1.84,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2006-10-01,1.79,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2006-11-01,1.91,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2006-12-01,2.0,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2007-01-01,2.01,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2007-02-01,1.99,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2007-03-01,1.91,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2007-04-01,1.99,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2007-05-01,2.02,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2007-06-01,1.97,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2007-07-01,2.05,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2007-08-01,2.01,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2007-09-01,2.11,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2007-10-01,2.24,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2007-11-01,2.27,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2007-12-01,2.17,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2008-01-01,2.11,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2008-02-01,1.92,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2008-03-01,1.81,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2008-04-01,1.89,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2008-05-01,1.97,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2008-06-01,1.91,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2008-07-01,2.06,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2008-08-01,2.17,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2008-09-01,2.02,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2008-10-01,1.71,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2008-11-01,1.66,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2008-12-01,1.64,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2009-01-01,1.69,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2009-02-01,1.67,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2009-03-01,1.62,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2009-04-01,1.96,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2009-05-01,2.15,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2009-06-01,2.24,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2009-07-01,2.27,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2009-08-01,2.29,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2009-09-01,2.41,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2009-10-01,2.43,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2009-11-01,2.42,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2009-12-01,2.43,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2010-01-01,2.43,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2010-02-01,2.36,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2010-03-01,2.57,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2010-04-01,2.57,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2010-05-01,2.52,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2010-06-01,2.5,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2010-07-01,2.5,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2010-08-01,2.59,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2010-09-01,2.66,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2010-10-01,2.72,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2010-11-01,2.72,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2010-12-01,2.7,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2011-01-01,2.77,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2011-02-01,2.81,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2011-03-01,3.0,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2011-04-01,3.09,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2011-05-01,3.03,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2011-06-01,3.07,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2011-07-01,3.06,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2011-08-01,2.97,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2011-09-01,2.93,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2011-10-01,2.81,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2011-11-01,2.71,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2011-12-01,2.63,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2012-01-01,2.82,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2012-02-01,2.89,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2012-03-01,3.06,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2012-04-01,2.91,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2012-05-01,2.8,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2012-06-01,2.74,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2012-07-01,2.82,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2012-08-01,2.76,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2012-09-01,2.83,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2012-10-01,2.7,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2012-11-01,2.62,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2012-12-01,2.64,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2013-01-01,2.73,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2013-02-01,2.72,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2013-03-01,2.7,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2013-04-01,2.71,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2013-05-01,2.65,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2013-06-01,2.54,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2013-07-01,2.54,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2013-08-01,2.49,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2013-09-01,2.54,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2013-10-01,2.53,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2013-11-01,2.46,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2013-12-01,2.38,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2014-01-01,2.32,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2014-02-01,2.27,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2014-03-01,2.44,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2014-04-01,2.48,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2014-05-01,2.55,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2014-06-01,2.5,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2014-07-01,2.52,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2014-08-01,2.51,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2014-09-01,2.46,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2014-10-01,2.37,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2014-11-01,2.36,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2014-12-01,2.27,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2015-01-01,2.27,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2015-02-01,2.28,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2015-03-01,2.29,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2015-04-01,2.32,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2015-05-01,2.39,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2015-06-01,2.3,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2015-07-01,2.29,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2015-08-01,2.19,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2015-09-01,2.09,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2015-10-01,2.12,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2015-11-01,2.03,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2015-12-01,1.87,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2016-01-01,1.75,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2016-02-01,1.9,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2016-03-01,2.01,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2016-04-01,2.16,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2016-05-01,2.04,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2016-06-01,2.12,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2016-07-01,2.31,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2016-08-01,2.65,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2016-09-01,2.63,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2016-10-01,2.65,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2016-11-01,2.65,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2016-12-01,2.66,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2017-01-01,2.75,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2017-02-01,2.79,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2017-03-01,3.02,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2017-04-01,2.92,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2017-05-01,2.99,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2017-06-01,3.07,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2017-07-01,3.02,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2017-08-01,2.96,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2017-09-01,2.94,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2017-10-01,2.82,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2017-11-01,2.72,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2017-12-01,2.8,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2018-01-01,3.13,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2018-02-01,3.25,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2018-03-01,3.24,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2018-04-01,3.1,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2018-05-01,2.88,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2018-06-01,2.71,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2018-07-01,2.67,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2018-08-01,2.49,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2018-09-01,2.53,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2018-10-01,2.69,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2018-11-01,2.81,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2018-12-01,2.75,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2019-01-01,2.86,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2019-02-01,2.91,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2019-03-01,2.76,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2019-04-01,2.8,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2019-05-01,2.72,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2019-06-01,2.71,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2019-07-01,2.83,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2019-08-01,2.64,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2019-09-01,2.67,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2019-10-01,2.68,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2019-11-01,2.72,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2019-12-01,2.85,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2020-01-01,2.93,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2020-02-01,2.84,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2020-03-01,2.56,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2020-04-01,2.19,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2020-05-01,2.25,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2020-06-01,2.44,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2020-07-01,2.52,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2020-08-01,2.53,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2020-09-01,2.61,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2020-10-01,2.68,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2020-11-01,2.87,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2020-12-01,3.0,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2021-01-01,2.88,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2021-02-01,3.07,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2021-03-01,3.07,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2021-04-01,3.19,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2021-05-01,3.27,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2021-06-01,3.31,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2021-07-01,3.17,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2021-08-01,3.05,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2021-09-01,3.25,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2021-10-01,3.15,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2021-11-01,3.06,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2021-12-01,2.96,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2022-01-01,2.99,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2022-02-01,3.08,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2022-03-01,3.14,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2022-04-01,3.24,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2022-05-01,3.12,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2022-06-01,3.1,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2022-07-01,2.86,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2022-08-01,2.92,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2022-09-01,2.83,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2022-10-01,2.76,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2022-11-01,2.81,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2022-12-01,2.91,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2023-01-01,2.91,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2023-02-01,2.8,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2023-03-01,2.82,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2023-04-01,2.8,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2023-05-01,2.78,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2023-06-01,3.08,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2023-07-01,3.33,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2023-08-01,3.23,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2023-09-01,3.22,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2023-10-01,3.26,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2023-11-01,3.35,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2023-12-01,3.3,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2024-01-01,3.3,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2024-02-01,3.28,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2024-03-01,3.33,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2024-04-01,3.35,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2024-05-01,3.47,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2024-06-01,3.52,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2024-07-01,3.55,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2024-08-01,3.55,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2024-09-01,3.68,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2024-10-01,3.73,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2024-11-01,3.62,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2024-12-01,3.55,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2025-01-01,3.49,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2025-02-01,3.55,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2025-03-01,3.58,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2025-04-01,3.48,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2025-05-01,3.65,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2025-06-01,3.72,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2025-07-01,3.75,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2025-08-01,3.77,Sugar (white),South Africa,National Average,RETAIL,2.5 kg
+2025-09-01,3.82,Sugar (white),South Africa,National Average,RETAIL,2.5 kg

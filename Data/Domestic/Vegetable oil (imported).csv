@@ -1,0 +1,592 @@
+date,price_usd,commodity_name,country,market,price_type,unit
+2007-06-01,1.43,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2007-07-01,1.46,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2007-08-01,1.56,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2007-09-01,1.59,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2007-10-01,1.63,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2007-11-01,1.68,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2007-12-01,1.67,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2008-01-01,2.02,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2008-02-01,2.25,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2008-03-01,2.37,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2008-04-01,2.4,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2008-05-01,2.37,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2008-06-01,2.37,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2008-07-01,2.4,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2008-08-01,2.05,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2008-09-01,2.19,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2008-10-01,2.03,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2008-11-01,1.94,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2008-12-01,2.08,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2009-01-01,1.82,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2009-02-01,1.95,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2009-03-01,1.99,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2009-04-01,1.81,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2009-05-01,1.64,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2009-06-01,1.6,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2009-07-01,1.72,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2009-08-01,1.63,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2009-09-01,1.66,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2009-10-01,1.69,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2009-11-01,1.71,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2009-12-01,1.67,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2010-01-01,1.71,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2010-02-01,1.88,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2010-03-01,1.8,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2010-04-01,1.74,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2010-05-01,1.65,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2010-06-01,1.67,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2010-07-01,1.8,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2010-08-01,1.81,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2010-09-01,1.79,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2010-10-01,1.91,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2010-11-01,1.87,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2010-12-01,1.81,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2011-01-01,1.83,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2011-02-01,1.87,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2011-03-01,1.92,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2011-04-01,2.09,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2011-05-01,2.41,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2011-06-01,2.49,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2011-07-01,2.61,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2011-08-01,2.33,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2011-09-01,2.1,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2011-10-01,2.09,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2011-11-01,2.07,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2011-12-01,2.01,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2012-01-01,1.97,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2012-02-01,2.02,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2012-03-01,2.01,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2012-04-01,2.01,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2012-05-01,2.08,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2012-06-01,1.91,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2012-07-01,1.87,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2012-08-01,1.89,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2012-09-01,1.96,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2012-10-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2012-11-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2012-12-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2013-01-01,2.03,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2013-02-01,2.04,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2013-03-01,1.98,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2013-04-01,1.99,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2013-05-01,1.98,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2013-06-01,2.01,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2013-07-01,2.39,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2013-08-01,2.03,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2013-09-01,2.03,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2013-10-01,2.08,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2013-11-01,2.06,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2013-12-01,2.09,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2014-01-01,2.07,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2014-02-01,2.08,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2014-03-01,2.11,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2014-04-01,2.11,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2014-05-01,2.07,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2014-06-01,2.07,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2014-07-01,2.06,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2014-08-01,2.03,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2014-09-01,1.97,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2014-10-01,1.93,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2014-11-01,2.0,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2014-12-01,1.88,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2015-01-01,1.77,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2015-02-01,1.73,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2015-03-01,1.65,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2015-04-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2015-05-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2015-06-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2015-07-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2015-08-01,1.7,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2015-09-01,1.71,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2015-10-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2015-11-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2015-12-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2016-01-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2016-02-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2016-03-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2016-04-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2016-05-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2016-06-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2016-07-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2016-08-01,1.71,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2016-09-01,1.71,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2016-10-01,1.68,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2016-11-01,1.65,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2016-12-01,1.61,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2017-01-01,1.62,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2017-02-01,1.62,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2017-03-01,1.63,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2017-04-01,1.63,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2017-05-01,1.69,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2017-06-01,1.71,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2017-07-01,1.75,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2017-08-01,1.8,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2017-09-01,1.82,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2017-10-01,1.79,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2017-11-01,1.79,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2017-12-01,1.8,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2018-01-01,1.86,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2018-02-01,1.88,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2018-03-01,1.88,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2018-04-01,1.87,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2018-05-01,1.8,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2018-06-01,1.96,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2018-07-01,1.78,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2018-08-01,1.76,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2018-09-01,1.78,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2018-10-01,1.75,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2018-11-01,1.73,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2018-12-01,1.74,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2019-01-01,1.74,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2019-02-01,1.73,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2019-03-01,1.72,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2019-04-01,1.71,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2019-05-01,1.71,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2019-06-01,1.72,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2019-07-01,1.71,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2019-08-01,1.7,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2019-09-01,1.68,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2019-10-01,1.68,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2019-11-01,1.68,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2019-12-01,1.69,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2020-01-01,1.69,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2020-02-01,1.66,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2020-03-01,1.75,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2020-04-01,1.57,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2020-05-01,1.5,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2020-06-01,2.0,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2020-07-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2020-08-01,2.15,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2020-09-01,1.8,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2020-10-01,1.8,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2020-11-01,1.75,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2020-12-01,1.79,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2021-01-01,1.86,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2021-02-01,1.84,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2021-03-01,1.81,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2021-04-01,1.83,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2021-05-01,2.22,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2021-06-01,2.14,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2021-07-01,2.43,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2021-08-01,2.39,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2021-09-01,2.45,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2021-10-01,2.48,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2021-11-01,2.26,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2021-12-01,2.24,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2022-01-01,2.3,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2022-02-01,2.19,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2022-03-01,2.46,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2022-04-01,2.42,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2022-05-01,2.31,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2022-06-01,2.42,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2022-07-01,2.72,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2022-08-01,2.7,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2022-09-01,2.64,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2022-10-01,2.64,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2022-11-01,2.72,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2022-12-01,2.74,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2023-01-01,2.82,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2023-02-01,2.83,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2023-03-01,2.83,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2023-04-01,2.91,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2023-05-01,2.54,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2023-06-01,2.48,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2023-07-01,2.53,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2023-08-01,2.33,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2023-09-01,2.44,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2023-10-01,2.25,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2023-11-01,2.31,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2023-12-01,2.38,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2024-01-01,2.49,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2024-02-01,1.86,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2024-03-01,1.82,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2024-04-01,1.75,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2024-05-01,1.76,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2024-06-01,1.64,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2024-07-01,1.65,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2024-08-01,1.68,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2024-09-01,1.69,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2024-10-01,1.66,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2024-11-01,1.62,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2024-12-01,1.6,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2025-01-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2025-02-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2025-03-01,1.65,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2025-04-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2025-05-01,,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2025-06-01,1.76,Vegetable oil (imported),Guinea-Bissau,Bissau-Bandim,RETAIL,Liter
+2020-05-01,1.66,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2020-06-01,1.72,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2020-07-01,1.75,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2020-08-01,1.8,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2020-09-01,1.8,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2020-10-01,1.8,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2020-11-01,1.8,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2020-12-01,1.86,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2021-01-01,1.86,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2021-02-01,1.84,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2021-03-01,1.81,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2021-04-01,2.22,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2021-05-01,2.31,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2021-06-01,2.66,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2021-07-01,2.61,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2021-08-01,2.9,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2021-09-01,2.51,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2021-10-01,2.3,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2021-11-01,2.26,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2021-12-01,2.36,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2022-01-01,2.24,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2022-02-01,2.22,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2022-03-01,2.46,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2022-04-01,2.47,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2022-05-01,2.42,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2022-06-01,2.47,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2022-07-01,2.3,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2022-08-01,2.32,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2022-09-01,2.28,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2022-10-01,2.27,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2022-11-01,2.38,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2022-12-01,2.91,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2023-01-01,2.96,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2023-02-01,2.95,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2023-03-01,2.96,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2023-04-01,3.03,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2023-05-01,2.82,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2023-06-01,2.84,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2023-07-01,3.01,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2023-08-01,2.99,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2023-09-01,2.44,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2023-10-01,2.42,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2023-11-01,2.36,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2023-12-01,2.49,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2024-01-01,2.41,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2024-02-01,2.47,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2024-03-01,2.38,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2024-04-01,2.34,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2024-05-01,2.36,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2024-06-01,2.38,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2024-07-01,2.31,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2024-08-01,2.35,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2024-09-01,2.37,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2024-10-01,2.33,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2024-11-01,2.11,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2024-12-01,2.32,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2025-01-01,,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2025-02-01,,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2025-03-01,2.14,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2025-04-01,,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2025-05-01,,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2025-06-01,2.63,Vegetable oil (imported),Guinea-Bissau,Bissora,RETAIL,Liter
+2020-05-01,1.74,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2020-06-01,1.83,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2020-07-01,1.92,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2020-08-01,1.8,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2020-09-01,,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2020-10-01,1.8,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2020-11-01,1.8,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2020-12-01,1.86,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2021-01-01,1.86,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2021-02-01,1.84,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2021-03-01,1.81,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2021-04-01,1.83,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2021-05-01,2.78,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2021-06-01,2.39,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2021-07-01,2.7,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2021-08-01,2.69,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2021-09-01,2.45,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2021-10-01,2.36,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2021-11-01,2.44,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2021-12-01,2.41,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2022-01-01,2.41,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2022-02-01,2.25,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2022-03-01,2.52,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2022-04-01,2.47,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2022-05-01,2.42,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2022-06-01,2.82,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2022-07-01,2.72,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2022-08-01,2.7,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2022-09-01,2.64,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2022-10-01,2.62,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2022-11-01,2.72,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2022-12-01,2.82,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2023-01-01,2.88,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2023-02-01,2.86,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2023-03-01,2.87,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2023-04-01,2.93,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2023-05-01,2.73,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2023-06-01,2.73,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2023-07-01,2.78,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2023-08-01,2.72,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2023-09-01,2.8,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2023-10-01,2.58,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2023-11-01,2.47,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2023-12-01,2.66,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2024-01-01,2.49,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2024-02-01,2.47,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2024-03-01,2.49,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2024-04-01,2.45,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2024-05-01,2.06,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2024-06-01,2.05,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2024-07-01,2.07,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2024-08-01,2.01,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2024-09-01,2.03,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2024-10-01,1.99,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2024-11-01,2.11,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2024-12-01,1.92,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2025-01-01,,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2025-02-01,,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2025-03-01,1.98,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2025-04-01,,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2025-05-01,,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2025-06-01,2.28,Vegetable oil (imported),Guinea-Bissau,Cacheu,RETAIL,Liter
+2020-05-01,1.94,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2020-06-01,2.0,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2020-07-01,1.75,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2020-08-01,2.02,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2020-09-01,1.8,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2020-10-01,1.8,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2020-11-01,1.8,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2020-12-01,1.86,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2021-01-01,1.86,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2021-02-01,1.84,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2021-03-01,1.81,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2021-04-01,1.83,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2021-05-01,2.1,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2021-06-01,2.6,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2021-07-01,2.7,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2021-08-01,2.69,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2021-09-01,2.69,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2021-10-01,2.65,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2021-11-01,2.49,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2021-12-01,2.3,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2022-01-01,2.36,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2022-02-01,2.3,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2022-03-01,2.27,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2022-04-01,2.61,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2022-05-01,2.53,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2022-06-01,2.79,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2022-07-01,2.84,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2022-08-01,2.83,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2022-09-01,2.77,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2022-10-01,2.75,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2022-11-01,2.85,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2022-12-01,2.82,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2023-01-01,2.82,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2023-02-01,2.83,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2023-03-01,2.84,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2023-04-01,2.89,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2023-05-01,3.06,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2023-06-01,3.0,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2023-07-01,3.03,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2023-08-01,3.05,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2023-09-01,2.8,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2023-10-01,2.95,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2023-11-01,2.97,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2023-12-01,2.96,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2024-01-01,3.05,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2024-02-01,2.99,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2024-03-01,2.79,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2024-04-01,2.67,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2024-05-01,2.36,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2024-06-01,2.46,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2024-07-01,2.48,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2024-08-01,2.52,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2024-09-01,2.37,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2024-10-01,2.33,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2024-11-01,2.59,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2024-12-01,2.4,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2025-01-01,,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2025-02-01,,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2025-03-01,2.47,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2025-04-01,,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2025-05-01,,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2025-06-01,2.46,Vegetable oil (imported),Guinea-Bissau,Catio,RETAIL,Liter
+2020-05-01,1.66,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2020-06-01,1.72,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2020-07-01,2.01,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2020-08-01,1.8,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2020-09-01,1.8,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2020-10-01,1.8,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2020-11-01,1.8,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2020-12-01,1.86,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2021-01-01,1.86,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2021-02-01,1.84,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2021-03-01,1.81,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2021-04-01,1.83,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2021-05-01,2.25,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2021-06-01,2.3,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2021-07-01,2.76,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2021-08-01,2.51,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2021-09-01,2.39,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2021-10-01,2.48,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2021-11-01,2.35,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2021-12-01,2.36,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2022-01-01,2.41,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2022-02-01,2.3,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2022-03-01,2.3,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2022-04-01,2.25,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2022-05-01,2.31,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2022-06-01,2.63,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2022-07-01,2.72,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2022-08-01,2.68,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2022-09-01,2.63,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2022-10-01,2.65,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2022-11-01,2.64,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2022-12-01,2.69,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2023-01-01,2.82,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2023-02-01,2.81,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2023-03-01,2.83,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2023-04-01,2.89,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2023-05-01,2.65,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2023-06-01,2.59,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2023-07-01,2.84,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2023-08-01,2.77,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2023-09-01,2.33,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2023-10-01,2.42,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2023-11-01,2.47,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2023-12-01,2.11,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2024-01-01,2.11,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2024-02-01,2.06,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2024-03-01,2.07,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2024-04-01,2.04,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2024-05-01,2.06,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2024-06-01,2.05,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2024-07-01,2.07,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2024-08-01,2.1,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2024-09-01,2.12,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2024-10-01,2.08,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2024-11-01,2.03,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2024-12-01,2.0,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2025-01-01,,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2025-02-01,,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2025-03-01,2.47,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2025-04-01,,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2025-05-01,,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2025-06-01,2.11,Vegetable oil (imported),Guinea-Bissau,Gabu,RETAIL,Liter
+2020-05-01,1.69,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2020-06-01,1.79,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2020-07-01,1.82,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2020-08-01,1.85,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2020-09-01,1.83,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2020-10-01,1.83,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2020-11-01,1.84,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2020-12-01,1.9,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2021-01-01,1.92,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2021-02-01,1.9,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2021-03-01,1.89,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2021-04-01,1.96,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2021-05-01,2.27,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2021-06-01,2.54,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2021-07-01,2.66,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2021-08-01,2.65,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2021-09-01,2.53,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2021-10-01,2.51,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2021-11-01,2.45,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2021-12-01,2.42,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2022-01-01,2.43,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2022-02-01,2.41,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2022-03-01,2.45,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2022-04-01,2.47,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2022-05-01,2.45,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2022-06-01,2.67,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2022-07-01,2.65,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2022-08-01,2.66,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2022-09-01,2.62,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2022-10-01,2.6,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2022-11-01,2.7,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2022-12-01,2.88,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2023-01-01,2.91,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2023-02-01,2.9,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2023-03-01,2.9,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2023-04-01,2.98,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2023-05-01,2.86,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2023-06-01,2.81,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2023-07-01,3.08,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2023-08-01,2.78,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2023-09-01,2.53,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2023-10-01,2.52,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2023-11-01,2.53,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2023-12-01,2.5,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2024-01-01,2.46,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2024-02-01,2.45,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2024-03-01,2.45,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2024-04-01,2.39,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2024-05-01,2.33,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2024-06-01,2.13,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2024-07-01,2.14,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2024-08-01,2.21,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2024-09-01,2.21,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2024-10-01,2.12,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2024-11-01,2.1,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2024-12-01,2.1,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2025-01-01,,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2025-02-01,,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2025-03-01,2.21,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2025-04-01,,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2025-05-01,,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2025-06-01,2.41,Vegetable oil (imported),Guinea-Bissau,National Average,RETAIL,Liter
+2020-06-01,1.05,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2020-07-01,1.08,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2020-08-01,1.04,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2020-09-01,1.07,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2020-10-01,1.09,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2020-11-01,1.09,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2020-12-01,1.1,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2021-01-01,1.16,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2021-02-01,1.19,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2021-03-01,1.2,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2021-04-01,1.24,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2021-05-01,1.24,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2021-06-01,1.23,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2021-07-01,1.28,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2021-08-01,1.29,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2021-09-01,1.32,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2021-10-01,1.4,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2021-11-01,1.43,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2021-12-01,1.51,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2022-01-01,1.6,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2022-02-01,1.59,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2022-03-01,1.63,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2022-04-01,1.91,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2022-05-01,2.64,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2022-06-01,2.79,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2022-07-01,2.36,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2022-08-01,2.13,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2022-09-01,1.86,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2022-10-01,1.72,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2022-11-01,1.7,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2022-12-01,1.7,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2023-01-01,1.63,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2023-02-01,1.6,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2023-03-01,1.63,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2023-04-01,1.46,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2023-05-01,1.41,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2023-06-01,1.65,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2023-07-01,1.63,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2023-08-01,1.61,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2023-09-01,1.55,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2023-10-01,1.5,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2023-11-01,1.45,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2023-12-01,1.47,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2024-01-01,,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2024-02-01,1.41,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2024-03-01,1.39,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2024-04-01,1.24,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2024-05-01,1.28,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2024-06-01,1.34,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2024-07-01,1.29,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2024-08-01,1.24,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2024-09-01,1.33,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2024-10-01,1.43,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2024-11-01,1.36,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2024-12-01,1.47,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2025-01-01,1.32,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2025-02-01,1.41,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2025-03-01,1.44,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2025-04-01,1.48,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2025-05-01,1.69,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2025-06-01,1.59,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2025-07-01,1.52,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2025-08-01,1.49,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter
+2025-09-01,1.51,Vegetable oil (imported),Timor-Leste,National Average,RETAIL,Liter

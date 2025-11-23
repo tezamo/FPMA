@@ -1,0 +1,1304 @@
+date,price_usd,commodity_name,country,market,price_type,unit
+2019-01-01,0.5,Cabbage,Belize,Belize City,RETAIL,lb
+2019-02-01,0.5,Cabbage,Belize,Belize City,RETAIL,lb
+2019-03-01,0.5,Cabbage,Belize,Belize City,RETAIL,lb
+2019-04-01,0.5,Cabbage,Belize,Belize City,RETAIL,lb
+2019-05-01,0.5,Cabbage,Belize,Belize City,RETAIL,lb
+2019-06-01,0.5,Cabbage,Belize,Belize City,RETAIL,lb
+2019-07-01,0.7,Cabbage,Belize,Belize City,RETAIL,lb
+2019-08-01,0.72,Cabbage,Belize,Belize City,RETAIL,lb
+2019-09-01,0.75,Cabbage,Belize,Belize City,RETAIL,lb
+2019-10-01,0.78,Cabbage,Belize,Belize City,RETAIL,lb
+2019-11-01,0.81,Cabbage,Belize,Belize City,RETAIL,lb
+2019-12-01,1.0,Cabbage,Belize,Belize City,RETAIL,lb
+2020-01-01,0.36,Cabbage,Belize,Belize City,RETAIL,lb
+2020-02-01,0.5,Cabbage,Belize,Belize City,RETAIL,lb
+2020-03-01,0.56,Cabbage,Belize,Belize City,RETAIL,lb
+2020-04-01,,Cabbage,Belize,Belize City,RETAIL,lb
+2020-05-01,0.5,Cabbage,Belize,Belize City,RETAIL,lb
+2020-06-01,1.2,Cabbage,Belize,Belize City,RETAIL,lb
+2020-07-01,0.81,Cabbage,Belize,Belize City,RETAIL,lb
+2020-08-01,0.88,Cabbage,Belize,Belize City,RETAIL,lb
+2020-09-01,0.9,Cabbage,Belize,Belize City,RETAIL,lb
+2020-10-01,0.75,Cabbage,Belize,Belize City,RETAIL,lb
+2020-11-01,0.88,Cabbage,Belize,Belize City,RETAIL,lb
+2020-12-01,1.25,Cabbage,Belize,Belize City,RETAIL,lb
+2021-01-01,1.19,Cabbage,Belize,Belize City,RETAIL,lb
+2021-02-01,1.0,Cabbage,Belize,Belize City,RETAIL,lb
+2021-03-01,0.63,Cabbage,Belize,Belize City,RETAIL,lb
+2021-04-01,0.44,Cabbage,Belize,Belize City,RETAIL,lb
+2021-05-01,0.41,Cabbage,Belize,Belize City,RETAIL,lb
+2021-06-01,0.4,Cabbage,Belize,Belize City,RETAIL,lb
+2021-07-01,0.85,Cabbage,Belize,Belize City,RETAIL,lb
+2021-08-01,1.4,Cabbage,Belize,Belize City,RETAIL,lb
+2021-09-01,1.0,Cabbage,Belize,Belize City,RETAIL,lb
+2021-10-01,1.28,Cabbage,Belize,Belize City,RETAIL,lb
+2021-11-01,0.68,Cabbage,Belize,Belize City,RETAIL,lb
+2021-12-01,0.5,Cabbage,Belize,Belize City,RETAIL,lb
+2022-01-01,0.4,Cabbage,Belize,Belize City,RETAIL,lb
+2022-02-01,0.25,Cabbage,Belize,Belize City,RETAIL,lb
+2022-03-01,0.45,Cabbage,Belize,Belize City,RETAIL,lb
+2022-04-01,1.0,Cabbage,Belize,Belize City,RETAIL,lb
+2022-05-01,1.15,Cabbage,Belize,Belize City,RETAIL,lb
+2022-06-01,0.88,Cabbage,Belize,Belize City,RETAIL,lb
+2022-07-01,0.54,Cabbage,Belize,Belize City,RETAIL,lb
+2022-08-01,0.75,Cabbage,Belize,Belize City,RETAIL,lb
+2022-09-01,0.88,Cabbage,Belize,Belize City,RETAIL,lb
+2022-10-01,1.19,Cabbage,Belize,Belize City,RETAIL,lb
+2022-11-01,1.35,Cabbage,Belize,Belize City,RETAIL,lb
+2022-12-01,1.34,Cabbage,Belize,Belize City,RETAIL,lb
+2023-01-01,0.85,Cabbage,Belize,Belize City,RETAIL,lb
+2023-02-01,0.56,Cabbage,Belize,Belize City,RETAIL,lb
+2023-03-01,0.5,Cabbage,Belize,Belize City,RETAIL,lb
+2023-04-01,0.65,Cabbage,Belize,Belize City,RETAIL,lb
+2023-05-01,0.5,Cabbage,Belize,Belize City,RETAIL,lb
+2023-06-01,0.88,Cabbage,Belize,Belize City,RETAIL,lb
+2023-07-01,1.31,Cabbage,Belize,Belize City,RETAIL,lb
+2023-08-01,1.33,Cabbage,Belize,Belize City,RETAIL,lb
+2023-09-01,1.31,Cabbage,Belize,Belize City,RETAIL,lb
+2023-10-01,0.9,Cabbage,Belize,Belize City,RETAIL,lb
+2023-11-01,0.69,Cabbage,Belize,Belize City,RETAIL,lb
+2023-12-01,1.06,Cabbage,Belize,Belize City,RETAIL,lb
+2024-01-01,1.25,Cabbage,Belize,Belize City,RETAIL,lb
+2024-02-01,1.13,Cabbage,Belize,Belize City,RETAIL,lb
+2024-03-01,1.25,Cabbage,Belize,Belize City,RETAIL,lb
+2024-04-01,1.2,Cabbage,Belize,Belize City,RETAIL,lb
+2024-05-01,1.25,Cabbage,Belize,Belize City,RETAIL,lb
+2024-06-01,1.56,Cabbage,Belize,Belize City,RETAIL,lb
+2024-07-01,1.8,Cabbage,Belize,Belize City,RETAIL,lb
+2024-08-01,1.38,Cabbage,Belize,Belize City,RETAIL,lb
+2024-09-01,1.38,Cabbage,Belize,Belize City,RETAIL,lb
+2024-10-01,1.4,Cabbage,Belize,Belize City,RETAIL,lb
+2024-11-01,1.38,Cabbage,Belize,Belize City,RETAIL,lb
+2024-12-01,1.45,Cabbage,Belize,Belize City,RETAIL,lb
+2025-01-01,1.31,Cabbage,Belize,Belize City,RETAIL,lb
+2025-02-01,0.88,Cabbage,Belize,Belize City,RETAIL,lb
+2025-03-01,1.03,Cabbage,Belize,Belize City,RETAIL,lb
+2025-04-01,1.05,Cabbage,Belize,Belize City,RETAIL,lb
+2025-05-01,1.17,Cabbage,Belize,Belize City,RETAIL,lb
+2025-06-01,1.13,Cabbage,Belize,Belize City,RETAIL,lb
+2025-07-01,1.45,Cabbage,Belize,Belize City,RETAIL,lb
+2025-08-01,1.74,Cabbage,Belize,Belize City,RETAIL,lb
+2019-01-01,0.6,Cabbage,Belize,Orange Walk,RETAIL,lb
+2019-02-01,0.5,Cabbage,Belize,Orange Walk,RETAIL,lb
+2019-03-01,0.53,Cabbage,Belize,Orange Walk,RETAIL,lb
+2019-04-01,0.63,Cabbage,Belize,Orange Walk,RETAIL,lb
+2019-05-01,0.63,Cabbage,Belize,Orange Walk,RETAIL,lb
+2019-06-01,0.63,Cabbage,Belize,Orange Walk,RETAIL,lb
+2019-07-01,0.8,Cabbage,Belize,Orange Walk,RETAIL,lb
+2019-08-01,0.53,Cabbage,Belize,Orange Walk,RETAIL,lb
+2019-09-01,0.66,Cabbage,Belize,Orange Walk,RETAIL,lb
+2019-10-01,0.75,Cabbage,Belize,Orange Walk,RETAIL,lb
+2019-11-01,0.75,Cabbage,Belize,Orange Walk,RETAIL,lb
+2019-12-01,0.75,Cabbage,Belize,Orange Walk,RETAIL,lb
+2020-01-01,0.5,Cabbage,Belize,Orange Walk,RETAIL,lb
+2020-02-01,0.46,Cabbage,Belize,Orange Walk,RETAIL,lb
+2020-03-01,0.38,Cabbage,Belize,Orange Walk,RETAIL,lb
+2020-04-01,,Cabbage,Belize,Orange Walk,RETAIL,lb
+2020-05-01,0.75,Cabbage,Belize,Orange Walk,RETAIL,lb
+2020-06-01,0.8,Cabbage,Belize,Orange Walk,RETAIL,lb
+2020-07-01,0.85,Cabbage,Belize,Orange Walk,RETAIL,lb
+2020-08-01,0.61,Cabbage,Belize,Orange Walk,RETAIL,lb
+2020-09-01,0.75,Cabbage,Belize,Orange Walk,RETAIL,lb
+2020-10-01,0.88,Cabbage,Belize,Orange Walk,RETAIL,lb
+2020-11-01,1.03,Cabbage,Belize,Orange Walk,RETAIL,lb
+2020-12-01,1.13,Cabbage,Belize,Orange Walk,RETAIL,lb
+2021-01-01,1.25,Cabbage,Belize,Orange Walk,RETAIL,lb
+2021-02-01,1.0,Cabbage,Belize,Orange Walk,RETAIL,lb
+2021-03-01,0.95,Cabbage,Belize,Orange Walk,RETAIL,lb
+2021-04-01,0.31,Cabbage,Belize,Orange Walk,RETAIL,lb
+2021-05-01,0.41,Cabbage,Belize,Orange Walk,RETAIL,lb
+2021-06-01,0.5,Cabbage,Belize,Orange Walk,RETAIL,lb
+2021-07-01,0.56,Cabbage,Belize,Orange Walk,RETAIL,lb
+2021-08-01,0.85,Cabbage,Belize,Orange Walk,RETAIL,lb
+2021-09-01,1.19,Cabbage,Belize,Orange Walk,RETAIL,lb
+2021-10-01,1.25,Cabbage,Belize,Orange Walk,RETAIL,lb
+2021-11-01,1.1,Cabbage,Belize,Orange Walk,RETAIL,lb
+2021-12-01,0.46,Cabbage,Belize,Orange Walk,RETAIL,lb
+2022-01-01,0.28,Cabbage,Belize,Orange Walk,RETAIL,lb
+2022-02-01,0.35,Cabbage,Belize,Orange Walk,RETAIL,lb
+2022-03-01,0.41,Cabbage,Belize,Orange Walk,RETAIL,lb
+2022-04-01,0.6,Cabbage,Belize,Orange Walk,RETAIL,lb
+2022-05-01,1.08,Cabbage,Belize,Orange Walk,RETAIL,lb
+2022-06-01,1.0,Cabbage,Belize,Orange Walk,RETAIL,lb
+2022-07-01,1.04,Cabbage,Belize,Orange Walk,RETAIL,lb
+2022-08-01,0.75,Cabbage,Belize,Orange Walk,RETAIL,lb
+2022-09-01,0.79,Cabbage,Belize,Orange Walk,RETAIL,lb
+2022-10-01,0.85,Cabbage,Belize,Orange Walk,RETAIL,lb
+2022-11-01,1.15,Cabbage,Belize,Orange Walk,RETAIL,lb
+2022-12-01,1.42,Cabbage,Belize,Orange Walk,RETAIL,lb
+2023-01-01,0.95,Cabbage,Belize,Orange Walk,RETAIL,lb
+2023-02-01,0.6,Cabbage,Belize,Orange Walk,RETAIL,lb
+2023-03-01,0.69,Cabbage,Belize,Orange Walk,RETAIL,lb
+2023-04-01,0.73,Cabbage,Belize,Orange Walk,RETAIL,lb
+2023-05-01,0.78,Cabbage,Belize,Orange Walk,RETAIL,lb
+2023-06-01,0.75,Cabbage,Belize,Orange Walk,RETAIL,lb
+2023-07-01,0.91,Cabbage,Belize,Orange Walk,RETAIL,lb
+2023-08-01,1.1,Cabbage,Belize,Orange Walk,RETAIL,lb
+2023-09-01,1.1,Cabbage,Belize,Orange Walk,RETAIL,lb
+2023-10-01,1.0,Cabbage,Belize,Orange Walk,RETAIL,lb
+2023-11-01,1.0,Cabbage,Belize,Orange Walk,RETAIL,lb
+2023-12-01,1.05,Cabbage,Belize,Orange Walk,RETAIL,lb
+2024-01-01,1.19,Cabbage,Belize,Orange Walk,RETAIL,lb
+2024-02-01,1.13,Cabbage,Belize,Orange Walk,RETAIL,lb
+2024-03-01,1.06,Cabbage,Belize,Orange Walk,RETAIL,lb
+2024-04-01,1.2,Cabbage,Belize,Orange Walk,RETAIL,lb
+2024-05-01,1.17,Cabbage,Belize,Orange Walk,RETAIL,lb
+2024-06-01,1.25,Cabbage,Belize,Orange Walk,RETAIL,lb
+2024-07-01,1.25,Cabbage,Belize,Orange Walk,RETAIL,lb
+2024-08-01,1.25,Cabbage,Belize,Orange Walk,RETAIL,lb
+2024-09-01,1.38,Cabbage,Belize,Orange Walk,RETAIL,lb
+2024-10-01,1.34,Cabbage,Belize,Orange Walk,RETAIL,lb
+2024-11-01,1.5,Cabbage,Belize,Orange Walk,RETAIL,lb
+2024-12-01,1.45,Cabbage,Belize,Orange Walk,RETAIL,lb
+2025-01-01,1.04,Cabbage,Belize,Orange Walk,RETAIL,lb
+2025-02-01,0.75,Cabbage,Belize,Orange Walk,RETAIL,lb
+2025-03-01,1.0,Cabbage,Belize,Orange Walk,RETAIL,lb
+2025-04-01,0.72,Cabbage,Belize,Orange Walk,RETAIL,lb
+2025-05-01,0.92,Cabbage,Belize,Orange Walk,RETAIL,lb
+2025-06-01,1.13,Cabbage,Belize,Orange Walk,RETAIL,lb
+2025-07-01,1.69,Cabbage,Belize,Orange Walk,RETAIL,lb
+2025-08-01,1.66,Cabbage,Belize,Orange Walk,RETAIL,lb
+2019-01-01,0.75,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2019-02-01,0.53,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2019-03-01,0.63,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2019-04-01,0.75,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2019-05-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2019-06-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2019-07-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2019-08-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2019-09-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2019-10-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2019-11-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2019-12-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2020-01-01,0.88,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2020-02-01,0.75,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2020-03-01,0.75,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2020-04-01,,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2020-05-01,1.25,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2020-06-01,1.05,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2020-07-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2020-08-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2020-09-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2020-10-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2020-11-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2020-12-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2021-01-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2021-02-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2021-03-01,1.05,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2021-04-01,0.78,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2021-05-01,0.75,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2021-06-01,0.8,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2021-07-01,0.75,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2021-08-01,0.93,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2021-09-01,1.06,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2021-10-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2021-11-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2021-12-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2022-01-01,0.88,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2022-02-01,0.81,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2022-03-01,0.75,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2022-04-01,0.85,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2022-05-01,0.93,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2022-06-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2022-07-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2022-08-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2022-09-01,1.1,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2022-10-01,1.19,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2022-11-01,1.5,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2022-12-01,1.5,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2023-01-01,1.5,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2023-02-01,1.5,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2023-03-01,1.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2023-04-01,1.25,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2023-05-01,1.25,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2023-06-01,1.31,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2023-07-01,1.5,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2023-08-01,1.8,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2023-09-01,1.81,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2023-10-01,1.75,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2023-11-01,1.63,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2023-12-01,1.56,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2024-01-01,1.75,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2024-02-01,1.63,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2024-03-01,1.5,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2024-04-01,1.5,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2024-05-01,1.63,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2024-06-01,1.88,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2024-07-01,2.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2024-08-01,2.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2024-09-01,1.94,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2024-10-01,2.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2024-11-01,2.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2024-12-01,2.0,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2025-01-01,1.69,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2025-02-01,1.41,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2025-03-01,1.44,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2025-04-01,1.5,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2025-05-01,1.5,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2025-06-01,1.56,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2025-07-01,1.75,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2025-08-01,1.74,Cabbage,Belize,Punta Gorda,RETAIL,lb
+2014-03-01,1.8,Cabbage,Japan,Osaka,RETAIL,Kg
+2014-04-01,1.8,Cabbage,Japan,Osaka,RETAIL,Kg
+2014-05-01,1.75,Cabbage,Japan,Osaka,RETAIL,Kg
+2014-06-01,1.46,Cabbage,Japan,Osaka,RETAIL,Kg
+2014-07-01,1.59,Cabbage,Japan,Osaka,RETAIL,Kg
+2014-08-01,1.56,Cabbage,Japan,Osaka,RETAIL,Kg
+2014-09-01,2.14,Cabbage,Japan,Osaka,RETAIL,Kg
+2014-10-01,2.32,Cabbage,Japan,Osaka,RETAIL,Kg
+2014-11-01,1.28,Cabbage,Japan,Osaka,RETAIL,Kg
+2014-12-01,1.34,Cabbage,Japan,Osaka,RETAIL,Kg
+2015-01-01,1.83,Cabbage,Japan,Osaka,RETAIL,Kg
+2015-02-01,1.64,Cabbage,Japan,Osaka,RETAIL,Kg
+2015-03-01,1.35,Cabbage,Japan,Osaka,RETAIL,Kg
+2015-04-01,1.94,Cabbage,Japan,Osaka,RETAIL,Kg
+2015-05-01,3.03,Cabbage,Japan,Osaka,RETAIL,Kg
+2015-06-01,1.58,Cabbage,Japan,Osaka,RETAIL,Kg
+2015-07-01,1.49,Cabbage,Japan,Osaka,RETAIL,Kg
+2015-08-01,1.74,Cabbage,Japan,Osaka,RETAIL,Kg
+2015-09-01,1.96,Cabbage,Japan,Osaka,RETAIL,Kg
+2015-10-01,2.57,Cabbage,Japan,Osaka,RETAIL,Kg
+2015-11-01,1.69,Cabbage,Japan,Osaka,RETAIL,Kg
+2015-12-01,1.19,Cabbage,Japan,Osaka,RETAIL,Kg
+2016-01-01,1.17,Cabbage,Japan,Osaka,RETAIL,Kg
+2016-02-01,1.27,Cabbage,Japan,Osaka,RETAIL,Kg
+2016-03-01,1.35,Cabbage,Japan,Osaka,RETAIL,Kg
+2016-04-01,1.72,Cabbage,Japan,Osaka,RETAIL,Kg
+2016-05-01,2.04,Cabbage,Japan,Osaka,RETAIL,Kg
+2016-06-01,1.95,Cabbage,Japan,Osaka,RETAIL,Kg
+2016-07-01,1.63,Cabbage,Japan,Osaka,RETAIL,Kg
+2016-08-01,1.66,Cabbage,Japan,Osaka,RETAIL,Kg
+2016-09-01,1.67,Cabbage,Japan,Osaka,RETAIL,Kg
+2016-10-01,2.45,Cabbage,Japan,Osaka,RETAIL,Kg
+2016-11-01,3.54,Cabbage,Japan,Osaka,RETAIL,Kg
+2016-12-01,2.09,Cabbage,Japan,Osaka,RETAIL,Kg
+2017-01-01,2.13,Cabbage,Japan,Osaka,RETAIL,Kg
+2017-02-01,2.11,Cabbage,Japan,Osaka,RETAIL,Kg
+2017-03-01,1.96,Cabbage,Japan,Osaka,RETAIL,Kg
+2017-04-01,2.22,Cabbage,Japan,Osaka,RETAIL,Kg
+2017-05-01,2.07,Cabbage,Japan,Osaka,RETAIL,Kg
+2017-06-01,1.61,Cabbage,Japan,Osaka,RETAIL,Kg
+2017-07-01,1.53,Cabbage,Japan,Osaka,RETAIL,Kg
+2017-08-01,1.46,Cabbage,Japan,Osaka,RETAIL,Kg
+2017-09-01,1.81,Cabbage,Japan,Osaka,RETAIL,Kg
+2017-10-01,1.65,Cabbage,Japan,Osaka,RETAIL,Kg
+2017-11-01,1.98,Cabbage,Japan,Osaka,RETAIL,Kg
+2017-12-01,2.39,Cabbage,Japan,Osaka,RETAIL,Kg
+2018-01-01,3.49,Cabbage,Japan,Osaka,RETAIL,Kg
+2018-02-01,3.94,Cabbage,Japan,Osaka,RETAIL,Kg
+2018-03-01,3.32,Cabbage,Japan,Osaka,RETAIL,Kg
+2018-04-01,2.45,Cabbage,Japan,Osaka,RETAIL,Kg
+2018-05-01,2.02,Cabbage,Japan,Osaka,RETAIL,Kg
+2018-06-01,1.54,Cabbage,Japan,Osaka,RETAIL,Kg
+2018-07-01,1.83,Cabbage,Japan,Osaka,RETAIL,Kg
+2018-08-01,2.24,Cabbage,Japan,Osaka,RETAIL,Kg
+2018-09-01,1.54,Cabbage,Japan,Osaka,RETAIL,Kg
+2018-10-01,1.76,Cabbage,Japan,Osaka,RETAIL,Kg
+2018-11-01,1.98,Cabbage,Japan,Osaka,RETAIL,Kg
+2018-12-01,1.59,Cabbage,Japan,Osaka,RETAIL,Kg
+2019-01-01,1.74,Cabbage,Japan,Osaka,RETAIL,Kg
+2019-02-01,1.83,Cabbage,Japan,Osaka,RETAIL,Kg
+2019-03-01,1.38,Cabbage,Japan,Osaka,RETAIL,Kg
+2019-04-01,1.7,Cabbage,Japan,Osaka,RETAIL,Kg
+2019-05-01,2.15,Cabbage,Japan,Osaka,RETAIL,Kg
+2019-06-01,1.98,Cabbage,Japan,Osaka,RETAIL,Kg
+2019-07-01,1.78,Cabbage,Japan,Osaka,RETAIL,Kg
+2019-08-01,2.02,Cabbage,Japan,Osaka,RETAIL,Kg
+2019-09-01,1.85,Cabbage,Japan,Osaka,RETAIL,Kg
+2019-10-01,1.85,Cabbage,Japan,Osaka,RETAIL,Kg
+2019-11-01,1.62,Cabbage,Japan,Osaka,RETAIL,Kg
+2019-12-01,1.47,Cabbage,Japan,Osaka,RETAIL,Kg
+2020-01-01,1.42,Cabbage,Japan,Osaka,RETAIL,Kg
+2020-02-01,1.13,Cabbage,Japan,Osaka,RETAIL,Kg
+2020-03-01,1.37,Cabbage,Japan,Osaka,RETAIL,Kg
+2020-04-01,2.37,Cabbage,Japan,Osaka,RETAIL,Kg
+2020-05-01,2.93,Cabbage,Japan,Osaka,RETAIL,Kg
+2020-06-01,2.04,Cabbage,Japan,Osaka,RETAIL,Kg
+2020-07-01,1.77,Cabbage,Japan,Osaka,RETAIL,Kg
+2020-08-01,2.79,Cabbage,Japan,Osaka,RETAIL,Kg
+2020-09-01,2.28,Cabbage,Japan,Osaka,RETAIL,Kg
+2020-10-01,1.89,Cabbage,Japan,Osaka,RETAIL,Kg
+2020-11-01,1.7,Cabbage,Japan,Osaka,RETAIL,Kg
+2020-12-01,1.3,Cabbage,Japan,Osaka,RETAIL,Kg
+2021-01-01,1.65,Cabbage,Japan,Osaka,RETAIL,Kg
+2021-02-01,1.47,Cabbage,Japan,Osaka,RETAIL,Kg
+2021-03-01,1.16,Cabbage,Japan,Osaka,RETAIL,Kg
+2021-04-01,1.39,Cabbage,Japan,Osaka,RETAIL,Kg
+2021-05-01,1.62,Cabbage,Japan,Osaka,RETAIL,Kg
+2021-06-01,1.67,Cabbage,Japan,Osaka,RETAIL,Kg
+2021-07-01,1.64,Cabbage,Japan,Osaka,RETAIL,Kg
+2021-08-01,1.43,Cabbage,Japan,Osaka,RETAIL,Kg
+2021-09-01,1.63,Cabbage,Japan,Osaka,RETAIL,Kg
+2021-10-01,1.73,Cabbage,Japan,Osaka,RETAIL,Kg
+2021-11-01,1.48,Cabbage,Japan,Osaka,RETAIL,Kg
+2021-12-01,1.25,Cabbage,Japan,Osaka,RETAIL,Kg
+2022-01-01,1.32,Cabbage,Japan,Osaka,RETAIL,Kg
+2022-02-01,1.56,Cabbage,Japan,Osaka,RETAIL,Kg
+2022-03-01,1.82,Cabbage,Japan,Osaka,RETAIL,Kg
+2022-04-01,1.89,Cabbage,Japan,Osaka,RETAIL,Kg
+2022-05-01,1.64,Cabbage,Japan,Osaka,RETAIL,Kg
+2022-06-01,1.62,Cabbage,Japan,Osaka,RETAIL,Kg
+2022-07-01,1.44,Cabbage,Japan,Osaka,RETAIL,Kg
+2022-08-01,1.17,Cabbage,Japan,Osaka,RETAIL,Kg
+2022-09-01,1.03,Cabbage,Japan,Osaka,RETAIL,Kg
+2022-10-01,1.3,Cabbage,Japan,Osaka,RETAIL,Kg
+2022-11-01,1.34,Cabbage,Japan,Osaka,RETAIL,Kg
+2022-12-01,1.12,Cabbage,Japan,Osaka,RETAIL,Kg
+2023-01-01,1.4,Cabbage,Japan,Osaka,RETAIL,Kg
+2023-02-01,1.48,Cabbage,Japan,Osaka,RETAIL,Kg
+2023-03-01,1.31,Cabbage,Japan,Osaka,RETAIL,Kg
+2023-04-01,1.42,Cabbage,Japan,Osaka,RETAIL,Kg
+2023-05-01,1.87,Cabbage,Japan,Osaka,RETAIL,Kg
+2023-06-01,1.35,Cabbage,Japan,Osaka,RETAIL,Kg
+2023-07-01,1.6,Cabbage,Japan,Osaka,RETAIL,Kg
+2023-08-01,1.18,Cabbage,Japan,Osaka,RETAIL,Kg
+2023-09-01,1.1,Cabbage,Japan,Osaka,RETAIL,Kg
+2023-10-01,1.29,Cabbage,Japan,Osaka,RETAIL,Kg
+2023-11-01,1.63,Cabbage,Japan,Osaka,RETAIL,Kg
+2023-12-01,1.37,Cabbage,Japan,Osaka,RETAIL,Kg
+2024-01-01,1.22,Cabbage,Japan,Osaka,RETAIL,Kg
+2024-02-01,1.2,Cabbage,Japan,Osaka,RETAIL,Kg
+2024-03-01,1.34,Cabbage,Japan,Osaka,RETAIL,Kg
+2024-04-01,1.81,Cabbage,Japan,Osaka,RETAIL,Kg
+2024-05-01,2.38,Cabbage,Japan,Osaka,RETAIL,Kg
+2024-06-01,1.76,Cabbage,Japan,Osaka,RETAIL,Kg
+2024-07-01,1.18,Cabbage,Japan,Osaka,RETAIL,Kg
+2024-08-01,1.31,Cabbage,Japan,Osaka,RETAIL,Kg
+2024-09-01,1.22,Cabbage,Japan,Osaka,RETAIL,Kg
+2024-10-01,1.61,Cabbage,Japan,Osaka,RETAIL,Kg
+2024-11-01,2.79,Cabbage,Japan,Osaka,RETAIL,Kg
+2024-12-01,3.38,Cabbage,Japan,Osaka,RETAIL,Kg
+2025-01-01,3.99,Cabbage,Japan,Osaka,RETAIL,Kg
+2025-02-01,2.68,Cabbage,Japan,Osaka,RETAIL,Kg
+2025-03-01,2.68,Cabbage,Japan,Osaka,RETAIL,Kg
+2025-04-01,1.97,Cabbage,Japan,Osaka,RETAIL,Kg
+2025-05-01,1.66,Cabbage,Japan,Osaka,RETAIL,Kg
+2025-06-01,1.28,Cabbage,Japan,Osaka,RETAIL,Kg
+2025-07-01,1.29,Cabbage,Japan,Osaka,RETAIL,Kg
+2025-08-01,1.08,Cabbage,Japan,Osaka,RETAIL,Kg
+2025-09-01,1.08,Cabbage,Japan,Osaka,RETAIL,Kg
+2014-03-01,1.96,Cabbage,Japan,Tokyo,RETAIL,Kg
+2014-04-01,2.01,Cabbage,Japan,Tokyo,RETAIL,Kg
+2014-05-01,1.72,Cabbage,Japan,Tokyo,RETAIL,Kg
+2014-06-01,1.44,Cabbage,Japan,Tokyo,RETAIL,Kg
+2014-07-01,1.66,Cabbage,Japan,Tokyo,RETAIL,Kg
+2014-08-01,1.47,Cabbage,Japan,Tokyo,RETAIL,Kg
+2014-09-01,2.13,Cabbage,Japan,Tokyo,RETAIL,Kg
+2014-10-01,1.93,Cabbage,Japan,Tokyo,RETAIL,Kg
+2014-11-01,1.05,Cabbage,Japan,Tokyo,RETAIL,Kg
+2014-12-01,1.32,Cabbage,Japan,Tokyo,RETAIL,Kg
+2015-01-01,1.94,Cabbage,Japan,Tokyo,RETAIL,Kg
+2015-02-01,1.7,Cabbage,Japan,Tokyo,RETAIL,Kg
+2015-03-01,1.4,Cabbage,Japan,Tokyo,RETAIL,Kg
+2015-04-01,2.13,Cabbage,Japan,Tokyo,RETAIL,Kg
+2015-05-01,2.26,Cabbage,Japan,Tokyo,RETAIL,Kg
+2015-06-01,1.52,Cabbage,Japan,Tokyo,RETAIL,Kg
+2015-07-01,1.36,Cabbage,Japan,Tokyo,RETAIL,Kg
+2015-08-01,1.53,Cabbage,Japan,Tokyo,RETAIL,Kg
+2015-09-01,1.88,Cabbage,Japan,Tokyo,RETAIL,Kg
+2015-10-01,2.31,Cabbage,Japan,Tokyo,RETAIL,Kg
+2015-11-01,1.57,Cabbage,Japan,Tokyo,RETAIL,Kg
+2015-12-01,1.11,Cabbage,Japan,Tokyo,RETAIL,Kg
+2016-01-01,1.06,Cabbage,Japan,Tokyo,RETAIL,Kg
+2016-02-01,1.2,Cabbage,Japan,Tokyo,RETAIL,Kg
+2016-03-01,1.41,Cabbage,Japan,Tokyo,RETAIL,Kg
+2016-04-01,1.91,Cabbage,Japan,Tokyo,RETAIL,Kg
+2016-05-01,1.9,Cabbage,Japan,Tokyo,RETAIL,Kg
+2016-06-01,1.8,Cabbage,Japan,Tokyo,RETAIL,Kg
+2016-07-01,1.42,Cabbage,Japan,Tokyo,RETAIL,Kg
+2016-08-01,1.31,Cabbage,Japan,Tokyo,RETAIL,Kg
+2016-09-01,1.63,Cabbage,Japan,Tokyo,RETAIL,Kg
+2016-10-01,2.51,Cabbage,Japan,Tokyo,RETAIL,Kg
+2016-11-01,3.22,Cabbage,Japan,Tokyo,RETAIL,Kg
+2016-12-01,2.01,Cabbage,Japan,Tokyo,RETAIL,Kg
+2017-01-01,1.86,Cabbage,Japan,Tokyo,RETAIL,Kg
+2017-02-01,1.94,Cabbage,Japan,Tokyo,RETAIL,Kg
+2017-03-01,2.03,Cabbage,Japan,Tokyo,RETAIL,Kg
+2017-04-01,2.22,Cabbage,Japan,Tokyo,RETAIL,Kg
+2017-05-01,1.75,Cabbage,Japan,Tokyo,RETAIL,Kg
+2017-06-01,1.42,Cabbage,Japan,Tokyo,RETAIL,Kg
+2017-07-01,1.29,Cabbage,Japan,Tokyo,RETAIL,Kg
+2017-08-01,1.26,Cabbage,Japan,Tokyo,RETAIL,Kg
+2017-09-01,1.54,Cabbage,Japan,Tokyo,RETAIL,Kg
+2017-10-01,1.27,Cabbage,Japan,Tokyo,RETAIL,Kg
+2017-11-01,1.64,Cabbage,Japan,Tokyo,RETAIL,Kg
+2017-12-01,2.26,Cabbage,Japan,Tokyo,RETAIL,Kg
+2018-01-01,3.26,Cabbage,Japan,Tokyo,RETAIL,Kg
+2018-02-01,3.72,Cabbage,Japan,Tokyo,RETAIL,Kg
+2018-03-01,2.92,Cabbage,Japan,Tokyo,RETAIL,Kg
+2018-04-01,1.76,Cabbage,Japan,Tokyo,RETAIL,Kg
+2018-05-01,1.32,Cabbage,Japan,Tokyo,RETAIL,Kg
+2018-06-01,1.35,Cabbage,Japan,Tokyo,RETAIL,Kg
+2018-07-01,1.56,Cabbage,Japan,Tokyo,RETAIL,Kg
+2018-08-01,1.94,Cabbage,Japan,Tokyo,RETAIL,Kg
+2018-09-01,1.31,Cabbage,Japan,Tokyo,RETAIL,Kg
+2018-10-01,1.51,Cabbage,Japan,Tokyo,RETAIL,Kg
+2018-11-01,1.53,Cabbage,Japan,Tokyo,RETAIL,Kg
+2018-12-01,1.23,Cabbage,Japan,Tokyo,RETAIL,Kg
+2019-01-01,1.63,Cabbage,Japan,Tokyo,RETAIL,Kg
+2019-02-01,1.69,Cabbage,Japan,Tokyo,RETAIL,Kg
+2019-03-01,1.25,Cabbage,Japan,Tokyo,RETAIL,Kg
+2019-04-01,1.59,Cabbage,Japan,Tokyo,RETAIL,Kg
+2019-05-01,1.74,Cabbage,Japan,Tokyo,RETAIL,Kg
+2019-06-01,1.55,Cabbage,Japan,Tokyo,RETAIL,Kg
+2019-07-01,1.42,Cabbage,Japan,Tokyo,RETAIL,Kg
+2019-08-01,1.77,Cabbage,Japan,Tokyo,RETAIL,Kg
+2019-09-01,1.65,Cabbage,Japan,Tokyo,RETAIL,Kg
+2019-10-01,1.42,Cabbage,Japan,Tokyo,RETAIL,Kg
+2019-11-01,1.48,Cabbage,Japan,Tokyo,RETAIL,Kg
+2019-12-01,1.41,Cabbage,Japan,Tokyo,RETAIL,Kg
+2020-01-01,1.39,Cabbage,Japan,Tokyo,RETAIL,Kg
+2020-02-01,1.16,Cabbage,Japan,Tokyo,RETAIL,Kg
+2020-03-01,1.39,Cabbage,Japan,Tokyo,RETAIL,Kg
+2020-04-01,2.45,Cabbage,Japan,Tokyo,RETAIL,Kg
+2020-05-01,2.48,Cabbage,Japan,Tokyo,RETAIL,Kg
+2020-06-01,1.75,Cabbage,Japan,Tokyo,RETAIL,Kg
+2020-07-01,1.6,Cabbage,Japan,Tokyo,RETAIL,Kg
+2020-08-01,2.48,Cabbage,Japan,Tokyo,RETAIL,Kg
+2020-09-01,2.14,Cabbage,Japan,Tokyo,RETAIL,Kg
+2020-10-01,1.75,Cabbage,Japan,Tokyo,RETAIL,Kg
+2020-11-01,1.44,Cabbage,Japan,Tokyo,RETAIL,Kg
+2020-12-01,1.17,Cabbage,Japan,Tokyo,RETAIL,Kg
+2021-01-01,1.77,Cabbage,Japan,Tokyo,RETAIL,Kg
+2021-02-01,1.5,Cabbage,Japan,Tokyo,RETAIL,Kg
+2021-03-01,1.33,Cabbage,Japan,Tokyo,RETAIL,Kg
+2021-04-01,1.38,Cabbage,Japan,Tokyo,RETAIL,Kg
+2021-05-01,1.43,Cabbage,Japan,Tokyo,RETAIL,Kg
+2021-06-01,1.56,Cabbage,Japan,Tokyo,RETAIL,Kg
+2021-07-01,1.46,Cabbage,Japan,Tokyo,RETAIL,Kg
+2021-08-01,1.29,Cabbage,Japan,Tokyo,RETAIL,Kg
+2021-09-01,1.61,Cabbage,Japan,Tokyo,RETAIL,Kg
+2021-10-01,1.53,Cabbage,Japan,Tokyo,RETAIL,Kg
+2021-11-01,1.41,Cabbage,Japan,Tokyo,RETAIL,Kg
+2021-12-01,1.19,Cabbage,Japan,Tokyo,RETAIL,Kg
+2022-01-01,1.38,Cabbage,Japan,Tokyo,RETAIL,Kg
+2022-02-01,1.61,Cabbage,Japan,Tokyo,RETAIL,Kg
+2022-03-01,1.76,Cabbage,Japan,Tokyo,RETAIL,Kg
+2022-04-01,1.86,Cabbage,Japan,Tokyo,RETAIL,Kg
+2022-05-01,1.71,Cabbage,Japan,Tokyo,RETAIL,Kg
+2022-06-01,1.52,Cabbage,Japan,Tokyo,RETAIL,Kg
+2022-07-01,1.36,Cabbage,Japan,Tokyo,RETAIL,Kg
+2022-08-01,1.1,Cabbage,Japan,Tokyo,RETAIL,Kg
+2022-09-01,0.93,Cabbage,Japan,Tokyo,RETAIL,Kg
+2022-10-01,1.1,Cabbage,Japan,Tokyo,RETAIL,Kg
+2022-11-01,1.25,Cabbage,Japan,Tokyo,RETAIL,Kg
+2022-12-01,1.12,Cabbage,Japan,Tokyo,RETAIL,Kg
+2023-01-01,1.49,Cabbage,Japan,Tokyo,RETAIL,Kg
+2023-02-01,1.43,Cabbage,Japan,Tokyo,RETAIL,Kg
+2023-03-01,1.38,Cabbage,Japan,Tokyo,RETAIL,Kg
+2023-04-01,1.54,Cabbage,Japan,Tokyo,RETAIL,Kg
+2023-05-01,1.47,Cabbage,Japan,Tokyo,RETAIL,Kg
+2023-06-01,1.42,Cabbage,Japan,Tokyo,RETAIL,Kg
+2023-07-01,1.5,Cabbage,Japan,Tokyo,RETAIL,Kg
+2023-08-01,1.22,Cabbage,Japan,Tokyo,RETAIL,Kg
+2023-09-01,1.14,Cabbage,Japan,Tokyo,RETAIL,Kg
+2023-10-01,1.4,Cabbage,Japan,Tokyo,RETAIL,Kg
+2023-11-01,1.47,Cabbage,Japan,Tokyo,RETAIL,Kg
+2023-12-01,1.37,Cabbage,Japan,Tokyo,RETAIL,Kg
+2024-01-01,1.24,Cabbage,Japan,Tokyo,RETAIL,Kg
+2024-02-01,1.2,Cabbage,Japan,Tokyo,RETAIL,Kg
+2024-03-01,1.33,Cabbage,Japan,Tokyo,RETAIL,Kg
+2024-04-01,1.83,Cabbage,Japan,Tokyo,RETAIL,Kg
+2024-05-01,2.16,Cabbage,Japan,Tokyo,RETAIL,Kg
+2024-06-01,1.5,Cabbage,Japan,Tokyo,RETAIL,Kg
+2024-07-01,1.11,Cabbage,Japan,Tokyo,RETAIL,Kg
+2024-08-01,1.22,Cabbage,Japan,Tokyo,RETAIL,Kg
+2024-09-01,1.19,Cabbage,Japan,Tokyo,RETAIL,Kg
+2024-10-01,1.47,Cabbage,Japan,Tokyo,RETAIL,Kg
+2024-11-01,2.31,Cabbage,Japan,Tokyo,RETAIL,Kg
+2024-12-01,2.68,Cabbage,Japan,Tokyo,RETAIL,Kg
+2025-01-01,3.38,Cabbage,Japan,Tokyo,RETAIL,Kg
+2025-02-01,2.36,Cabbage,Japan,Tokyo,RETAIL,Kg
+2025-03-01,2.51,Cabbage,Japan,Tokyo,RETAIL,Kg
+2025-04-01,1.94,Cabbage,Japan,Tokyo,RETAIL,Kg
+2025-05-01,1.5,Cabbage,Japan,Tokyo,RETAIL,Kg
+2025-06-01,1.19,Cabbage,Japan,Tokyo,RETAIL,Kg
+2025-07-01,1.17,Cabbage,Japan,Tokyo,RETAIL,Kg
+2025-08-01,1.14,Cabbage,Japan,Tokyo,RETAIL,Kg
+2025-09-01,1.07,Cabbage,Japan,Tokyo,RETAIL,Kg
+2013-10-01,0.37,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2013-11-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2013-12-01,0.62,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2014-01-01,0.51,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2014-02-01,,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2014-03-01,0.45,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2014-04-01,0.48,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2014-05-01,,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2014-06-01,0.4,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2014-07-01,0.4,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2014-08-01,0.44,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2014-09-01,0.64,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2014-10-01,0.67,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2014-11-01,0.58,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2014-12-01,0.52,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2015-01-01,0.35,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2015-02-01,0.41,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2015-03-01,0.41,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2015-04-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2015-05-01,0.6,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2015-06-01,0.46,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2015-07-01,0.33,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2015-08-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2015-09-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2015-10-01,0.44,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2015-11-01,0.46,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2015-12-01,0.41,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2016-01-01,0.41,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2016-02-01,0.45,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2016-03-01,0.4,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2016-04-01,0.36,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2016-05-01,0.33,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2016-06-01,0.41,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2016-07-01,0.42,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2016-08-01,0.53,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2016-09-01,0.66,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2016-10-01,0.6,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2016-11-01,0.48,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2016-12-01,0.63,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2017-01-01,0.63,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2017-02-01,0.58,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2017-03-01,0.58,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2017-04-01,0.66,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2017-05-01,0.52,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2017-06-01,0.44,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2017-07-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2017-08-01,0.33,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2017-09-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2017-10-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2017-11-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2017-12-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2018-01-01,0.33,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2018-02-01,0.33,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2018-03-01,0.33,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2018-04-01,0.33,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2018-05-01,0.33,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2018-06-01,0.33,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2018-07-01,0.33,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2018-08-01,0.33,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2018-09-01,0.41,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2018-10-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2018-11-01,0.41,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2018-12-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2019-01-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2019-02-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2019-03-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2019-04-01,0.33,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2019-05-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2019-06-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2019-07-01,0.41,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2019-08-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2019-09-01,0.46,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2019-10-01,0.51,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2019-11-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2019-12-01,0.41,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2020-01-01,0.41,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2020-02-01,0.41,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2020-03-01,0.43,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2020-04-01,0.42,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2020-05-01,0.38,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2020-06-01,0.38,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2020-07-01,0.38,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2020-08-01,0.33,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2020-09-01,,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2020-10-01,1.99,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2020-11-01,1.99,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2020-12-01,1.74,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2021-01-01,1.33,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2021-02-01,0.69,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2021-03-01,0.66,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2021-04-01,0.58,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2021-05-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2021-06-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2021-07-01,,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2021-08-01,,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2021-09-01,,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2021-10-01,3.1,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2021-11-01,2.87,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2021-12-01,2.87,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2022-01-01,2.62,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2022-02-01,2.39,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2022-03-01,2.65,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2022-04-01,4.64,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2022-05-01,,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2022-06-01,4.64,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2022-07-01,6.63,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2022-08-01,,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2022-09-01,,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2022-10-01,9.29,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2022-11-01,8.62,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2022-12-01,8.29,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2023-01-01,9.95,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2023-02-01,1.4,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2023-03-01,1.67,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2023-04-01,2.0,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2023-05-01,1.0,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2023-06-01,1.22,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2023-07-01,1.27,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2023-08-01,2.13,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2023-09-01,3.32,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2023-10-01,3.01,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2023-11-01,3.09,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2023-12-01,2.65,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2024-01-01,2.47,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2024-02-01,3.58,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2024-03-01,0.38,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2024-04-01,0.37,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2024-05-01,0.39,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2024-06-01,0.32,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2024-07-01,0.36,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2024-08-01,0.45,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2024-09-01,0.4,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2024-10-01,0.36,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2024-11-01,0.4,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2024-12-01,0.49,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2025-01-01,0.42,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2025-02-01,0.49,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2025-03-01,0.52,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2025-04-01,0.52,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2025-05-01,0.51,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2025-06-01,0.46,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2025-07-01,0.5,Cabbage,Lebanon,Akkar,RETAIL,Kg
+2023-06-01,1.02,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2023-07-01,1.37,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2023-08-01,3.6,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2023-09-01,5.8,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2023-10-01,4.06,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2023-11-01,3.77,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2023-12-01,4.09,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2024-01-01,3.52,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2024-02-01,4.91,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2024-03-01,0.5,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2024-04-01,0.59,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2024-05-01,0.58,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2024-06-01,0.63,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2024-07-01,0.59,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2024-08-01,0.63,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2024-09-01,0.59,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2024-10-01,0.63,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2024-11-01,0.7,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2024-12-01,0.53,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2025-01-01,0.56,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2025-02-01,0.48,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2025-03-01,0.48,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2025-04-01,0.48,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2025-05-01,0.63,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2025-06-01,0.55,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2025-07-01,0.57,Cabbage,Lebanon,Beirut,RETAIL,Kg
+2022-10-01,6.63,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2022-11-01,7.08,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2022-12-01,6.63,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2023-01-01,7.96,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2023-02-01,0.87,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2023-03-01,1.33,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2023-04-01,1.22,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2023-05-01,0.78,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2023-06-01,1.16,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2023-07-01,1.54,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2023-08-01,3.27,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2023-09-01,5.16,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2023-10-01,3.98,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2023-11-01,3.38,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2023-12-01,3.46,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2024-01-01,3.21,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2024-02-01,4.59,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2024-03-01,0.43,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2024-04-01,0.45,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2024-05-01,0.5,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2024-06-01,0.41,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2024-07-01,0.41,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2024-08-01,0.49,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2024-09-01,0.46,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2024-10-01,0.51,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2024-11-01,0.52,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2024-12-01,0.51,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2025-01-01,0.49,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2025-02-01,0.5,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2025-03-01,0.67,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2025-04-01,0.67,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2025-05-01,0.68,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2025-06-01,0.6,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2025-07-01,0.59,Cabbage,Lebanon,El Nabatieh,RETAIL,Kg
+2013-09-01,0.56,Cabbage,Lebanon,National Average,RETAIL,Kg
+2013-10-01,0.5,Cabbage,Lebanon,National Average,RETAIL,Kg
+2013-11-01,0.55,Cabbage,Lebanon,National Average,RETAIL,Kg
+2013-12-01,0.55,Cabbage,Lebanon,National Average,RETAIL,Kg
+2014-01-01,0.52,Cabbage,Lebanon,National Average,RETAIL,Kg
+2014-02-01,0.53,Cabbage,Lebanon,National Average,RETAIL,Kg
+2014-03-01,0.56,Cabbage,Lebanon,National Average,RETAIL,Kg
+2014-04-01,0.47,Cabbage,Lebanon,National Average,RETAIL,Kg
+2014-05-01,,Cabbage,Lebanon,National Average,RETAIL,Kg
+2014-06-01,0.42,Cabbage,Lebanon,National Average,RETAIL,Kg
+2014-07-01,0.41,Cabbage,Lebanon,National Average,RETAIL,Kg
+2014-08-01,0.54,Cabbage,Lebanon,National Average,RETAIL,Kg
+2014-09-01,0.87,Cabbage,Lebanon,National Average,RETAIL,Kg
+2014-10-01,0.87,Cabbage,Lebanon,National Average,RETAIL,Kg
+2014-11-01,0.57,Cabbage,Lebanon,National Average,RETAIL,Kg
+2014-12-01,0.52,Cabbage,Lebanon,National Average,RETAIL,Kg
+2015-01-01,0.43,Cabbage,Lebanon,National Average,RETAIL,Kg
+2015-02-01,0.48,Cabbage,Lebanon,National Average,RETAIL,Kg
+2015-03-01,0.43,Cabbage,Lebanon,National Average,RETAIL,Kg
+2015-04-01,0.68,Cabbage,Lebanon,National Average,RETAIL,Kg
+2015-05-01,0.73,Cabbage,Lebanon,National Average,RETAIL,Kg
+2015-06-01,0.59,Cabbage,Lebanon,National Average,RETAIL,Kg
+2015-07-01,0.48,Cabbage,Lebanon,National Average,RETAIL,Kg
+2015-08-01,0.51,Cabbage,Lebanon,National Average,RETAIL,Kg
+2015-09-01,0.51,Cabbage,Lebanon,National Average,RETAIL,Kg
+2015-10-01,0.58,Cabbage,Lebanon,National Average,RETAIL,Kg
+2015-11-01,0.53,Cabbage,Lebanon,National Average,RETAIL,Kg
+2015-12-01,0.53,Cabbage,Lebanon,National Average,RETAIL,Kg
+2016-01-01,0.57,Cabbage,Lebanon,National Average,RETAIL,Kg
+2016-02-01,0.53,Cabbage,Lebanon,National Average,RETAIL,Kg
+2016-03-01,0.49,Cabbage,Lebanon,National Average,RETAIL,Kg
+2016-04-01,0.42,Cabbage,Lebanon,National Average,RETAIL,Kg
+2016-05-01,0.4,Cabbage,Lebanon,National Average,RETAIL,Kg
+2016-06-01,0.4,Cabbage,Lebanon,National Average,RETAIL,Kg
+2016-07-01,0.46,Cabbage,Lebanon,National Average,RETAIL,Kg
+2016-08-01,0.61,Cabbage,Lebanon,National Average,RETAIL,Kg
+2016-09-01,0.65,Cabbage,Lebanon,National Average,RETAIL,Kg
+2016-10-01,0.67,Cabbage,Lebanon,National Average,RETAIL,Kg
+2016-11-01,0.58,Cabbage,Lebanon,National Average,RETAIL,Kg
+2016-12-01,0.63,Cabbage,Lebanon,National Average,RETAIL,Kg
+2017-01-01,0.65,Cabbage,Lebanon,National Average,RETAIL,Kg
+2017-02-01,0.64,Cabbage,Lebanon,National Average,RETAIL,Kg
+2017-03-01,0.61,Cabbage,Lebanon,National Average,RETAIL,Kg
+2017-04-01,0.56,Cabbage,Lebanon,National Average,RETAIL,Kg
+2017-05-01,0.57,Cabbage,Lebanon,National Average,RETAIL,Kg
+2017-06-01,0.95,Cabbage,Lebanon,National Average,RETAIL,Kg
+2017-07-01,0.54,Cabbage,Lebanon,National Average,RETAIL,Kg
+2017-08-01,0.46,Cabbage,Lebanon,National Average,RETAIL,Kg
+2017-09-01,0.52,Cabbage,Lebanon,National Average,RETAIL,Kg
+2017-10-01,0.52,Cabbage,Lebanon,National Average,RETAIL,Kg
+2017-11-01,0.53,Cabbage,Lebanon,National Average,RETAIL,Kg
+2017-12-01,0.5,Cabbage,Lebanon,National Average,RETAIL,Kg
+2018-01-01,0.39,Cabbage,Lebanon,National Average,RETAIL,Kg
+2018-02-01,0.42,Cabbage,Lebanon,National Average,RETAIL,Kg
+2018-03-01,0.39,Cabbage,Lebanon,National Average,RETAIL,Kg
+2018-04-01,0.38,Cabbage,Lebanon,National Average,RETAIL,Kg
+2018-05-01,0.46,Cabbage,Lebanon,National Average,RETAIL,Kg
+2018-06-01,0.46,Cabbage,Lebanon,National Average,RETAIL,Kg
+2018-07-01,0.44,Cabbage,Lebanon,National Average,RETAIL,Kg
+2018-08-01,0.44,Cabbage,Lebanon,National Average,RETAIL,Kg
+2018-09-01,0.47,Cabbage,Lebanon,National Average,RETAIL,Kg
+2018-10-01,0.5,Cabbage,Lebanon,National Average,RETAIL,Kg
+2018-11-01,0.47,Cabbage,Lebanon,National Average,RETAIL,Kg
+2018-12-01,0.5,Cabbage,Lebanon,National Average,RETAIL,Kg
+2019-01-01,0.44,Cabbage,Lebanon,National Average,RETAIL,Kg
+2019-02-01,0.52,Cabbage,Lebanon,National Average,RETAIL,Kg
+2019-03-01,0.5,Cabbage,Lebanon,National Average,RETAIL,Kg
+2019-04-01,0.5,Cabbage,Lebanon,National Average,RETAIL,Kg
+2019-05-01,0.55,Cabbage,Lebanon,National Average,RETAIL,Kg
+2019-06-01,0.5,Cabbage,Lebanon,National Average,RETAIL,Kg
+2019-07-01,0.44,Cabbage,Lebanon,National Average,RETAIL,Kg
+2019-08-01,0.5,Cabbage,Lebanon,National Average,RETAIL,Kg
+2019-09-01,0.46,Cabbage,Lebanon,National Average,RETAIL,Kg
+2019-10-01,0.54,Cabbage,Lebanon,National Average,RETAIL,Kg
+2019-11-01,0.53,Cabbage,Lebanon,National Average,RETAIL,Kg
+2019-12-01,0.44,Cabbage,Lebanon,National Average,RETAIL,Kg
+2020-01-01,0.42,Cabbage,Lebanon,National Average,RETAIL,Kg
+2020-02-01,0.45,Cabbage,Lebanon,National Average,RETAIL,Kg
+2020-03-01,0.46,Cabbage,Lebanon,National Average,RETAIL,Kg
+2020-04-01,0.51,Cabbage,Lebanon,National Average,RETAIL,Kg
+2020-05-01,0.52,Cabbage,Lebanon,National Average,RETAIL,Kg
+2020-06-01,0.47,Cabbage,Lebanon,National Average,RETAIL,Kg
+2020-07-01,0.48,Cabbage,Lebanon,National Average,RETAIL,Kg
+2020-08-01,0.42,Cabbage,Lebanon,National Average,RETAIL,Kg
+2020-09-01,0.53,Cabbage,Lebanon,National Average,RETAIL,Kg
+2020-10-01,2.03,Cabbage,Lebanon,National Average,RETAIL,Kg
+2020-11-01,1.63,Cabbage,Lebanon,National Average,RETAIL,Kg
+2020-12-01,1.47,Cabbage,Lebanon,National Average,RETAIL,Kg
+2021-01-01,1.26,Cabbage,Lebanon,National Average,RETAIL,Kg
+2021-02-01,0.9,Cabbage,Lebanon,National Average,RETAIL,Kg
+2021-03-01,0.86,Cabbage,Lebanon,National Average,RETAIL,Kg
+2021-04-01,0.83,Cabbage,Lebanon,National Average,RETAIL,Kg
+2021-05-01,0.83,Cabbage,Lebanon,National Average,RETAIL,Kg
+2021-06-01,0.77,Cabbage,Lebanon,National Average,RETAIL,Kg
+2021-07-01,1.08,Cabbage,Lebanon,National Average,RETAIL,Kg
+2021-08-01,1.33,Cabbage,Lebanon,National Average,RETAIL,Kg
+2021-09-01,6.35,Cabbage,Lebanon,National Average,RETAIL,Kg
+2021-10-01,3.06,Cabbage,Lebanon,National Average,RETAIL,Kg
+2021-11-01,2.86,Cabbage,Lebanon,National Average,RETAIL,Kg
+2021-12-01,2.69,Cabbage,Lebanon,National Average,RETAIL,Kg
+2022-01-01,2.76,Cabbage,Lebanon,National Average,RETAIL,Kg
+2022-02-01,2.74,Cabbage,Lebanon,National Average,RETAIL,Kg
+2022-03-01,2.9,Cabbage,Lebanon,National Average,RETAIL,Kg
+2022-04-01,4.29,Cabbage,Lebanon,National Average,RETAIL,Kg
+2022-05-01,4.85,Cabbage,Lebanon,National Average,RETAIL,Kg
+2022-06-01,5.72,Cabbage,Lebanon,National Average,RETAIL,Kg
+2022-07-01,6.47,Cabbage,Lebanon,National Average,RETAIL,Kg
+2022-08-01,6.09,Cabbage,Lebanon,National Average,RETAIL,Kg
+2022-09-01,6.97,Cabbage,Lebanon,National Average,RETAIL,Kg
+2022-10-01,8.43,Cabbage,Lebanon,National Average,RETAIL,Kg
+2022-11-01,7.03,Cabbage,Lebanon,National Average,RETAIL,Kg
+2022-12-01,7.87,Cabbage,Lebanon,National Average,RETAIL,Kg
+2023-01-01,8.2,Cabbage,Lebanon,National Average,RETAIL,Kg
+2023-02-01,1.2,Cabbage,Lebanon,National Average,RETAIL,Kg
+2023-03-01,1.61,Cabbage,Lebanon,National Average,RETAIL,Kg
+2023-04-01,1.37,Cabbage,Lebanon,National Average,RETAIL,Kg
+2023-05-01,0.97,Cabbage,Lebanon,National Average,RETAIL,Kg
+2023-06-01,1.08,Cabbage,Lebanon,National Average,RETAIL,Kg
+2023-07-01,1.42,Cabbage,Lebanon,National Average,RETAIL,Kg
+2023-08-01,2.93,Cabbage,Lebanon,National Average,RETAIL,Kg
+2023-09-01,4.52,Cabbage,Lebanon,National Average,RETAIL,Kg
+2023-10-01,3.62,Cabbage,Lebanon,National Average,RETAIL,Kg
+2023-11-01,3.38,Cabbage,Lebanon,National Average,RETAIL,Kg
+2023-12-01,3.24,Cabbage,Lebanon,National Average,RETAIL,Kg
+2024-01-01,2.9,Cabbage,Lebanon,National Average,RETAIL,Kg
+2024-02-01,4.0,Cabbage,Lebanon,National Average,RETAIL,Kg
+2024-03-01,0.44,Cabbage,Lebanon,National Average,RETAIL,Kg
+2024-04-01,0.44,Cabbage,Lebanon,National Average,RETAIL,Kg
+2024-05-01,0.45,Cabbage,Lebanon,National Average,RETAIL,Kg
+2024-06-01,0.44,Cabbage,Lebanon,National Average,RETAIL,Kg
+2024-07-01,0.45,Cabbage,Lebanon,National Average,RETAIL,Kg
+2024-08-01,0.49,Cabbage,Lebanon,National Average,RETAIL,Kg
+2024-09-01,0.48,Cabbage,Lebanon,National Average,RETAIL,Kg
+2024-10-01,0.48,Cabbage,Lebanon,National Average,RETAIL,Kg
+2024-11-01,0.48,Cabbage,Lebanon,National Average,RETAIL,Kg
+2024-12-01,0.46,Cabbage,Lebanon,National Average,RETAIL,Kg
+2025-01-01,0.44,Cabbage,Lebanon,National Average,RETAIL,Kg
+2025-02-01,0.45,Cabbage,Lebanon,National Average,RETAIL,Kg
+2025-03-01,0.49,Cabbage,Lebanon,National Average,RETAIL,Kg
+2025-04-01,0.49,Cabbage,Lebanon,National Average,RETAIL,Kg
+2025-05-01,0.6,Cabbage,Lebanon,National Average,RETAIL,Kg
+2025-06-01,0.53,Cabbage,Lebanon,National Average,RETAIL,Kg
+2025-07-01,0.54,Cabbage,Lebanon,National Average,RETAIL,Kg
+2023-06-01,0.97,Cabbage,Lebanon,North,RETAIL,Kg
+2023-07-01,1.44,Cabbage,Lebanon,North,RETAIL,Kg
+2023-08-01,3.61,Cabbage,Lebanon,North,RETAIL,Kg
+2023-09-01,4.51,Cabbage,Lebanon,North,RETAIL,Kg
+2023-10-01,3.27,Cabbage,Lebanon,North,RETAIL,Kg
+2023-11-01,3.36,Cabbage,Lebanon,North,RETAIL,Kg
+2023-12-01,2.9,Cabbage,Lebanon,North,RETAIL,Kg
+2024-01-01,2.37,Cabbage,Lebanon,North,RETAIL,Kg
+2024-02-01,3.61,Cabbage,Lebanon,North,RETAIL,Kg
+2024-03-01,0.43,Cabbage,Lebanon,North,RETAIL,Kg
+2024-04-01,0.41,Cabbage,Lebanon,North,RETAIL,Kg
+2024-05-01,0.42,Cabbage,Lebanon,North,RETAIL,Kg
+2024-06-01,0.43,Cabbage,Lebanon,North,RETAIL,Kg
+2024-07-01,0.46,Cabbage,Lebanon,North,RETAIL,Kg
+2024-08-01,0.49,Cabbage,Lebanon,North,RETAIL,Kg
+2024-09-01,0.49,Cabbage,Lebanon,North,RETAIL,Kg
+2024-10-01,0.48,Cabbage,Lebanon,North,RETAIL,Kg
+2024-11-01,0.45,Cabbage,Lebanon,North,RETAIL,Kg
+2024-12-01,0.39,Cabbage,Lebanon,North,RETAIL,Kg
+2025-01-01,0.33,Cabbage,Lebanon,North,RETAIL,Kg
+2025-02-01,0.47,Cabbage,Lebanon,North,RETAIL,Kg
+2025-03-01,0.49,Cabbage,Lebanon,North,RETAIL,Kg
+2025-04-01,0.49,Cabbage,Lebanon,North,RETAIL,Kg
+2025-05-01,0.57,Cabbage,Lebanon,North,RETAIL,Kg
+2025-06-01,0.49,Cabbage,Lebanon,North,RETAIL,Kg
+2025-07-01,0.45,Cabbage,Lebanon,North,RETAIL,Kg
+2023-06-01,1.09,Cabbage,Lebanon,South,RETAIL,Kg
+2023-07-01,1.38,Cabbage,Lebanon,South,RETAIL,Kg
+2023-08-01,2.91,Cabbage,Lebanon,South,RETAIL,Kg
+2023-09-01,5.41,Cabbage,Lebanon,South,RETAIL,Kg
+2023-10-01,3.98,Cabbage,Lebanon,South,RETAIL,Kg
+2023-11-01,3.74,Cabbage,Lebanon,South,RETAIL,Kg
+2023-12-01,3.27,Cabbage,Lebanon,South,RETAIL,Kg
+2024-01-01,3.0,Cabbage,Lebanon,South,RETAIL,Kg
+2024-02-01,3.96,Cabbage,Lebanon,South,RETAIL,Kg
+2024-03-01,0.44,Cabbage,Lebanon,South,RETAIL,Kg
+2024-04-01,0.41,Cabbage,Lebanon,South,RETAIL,Kg
+2024-05-01,0.44,Cabbage,Lebanon,South,RETAIL,Kg
+2024-06-01,0.46,Cabbage,Lebanon,South,RETAIL,Kg
+2024-07-01,0.46,Cabbage,Lebanon,South,RETAIL,Kg
+2024-08-01,0.4,Cabbage,Lebanon,South,RETAIL,Kg
+2024-09-01,0.39,Cabbage,Lebanon,South,RETAIL,Kg
+2024-10-01,0.38,Cabbage,Lebanon,South,RETAIL,Kg
+2024-11-01,0.36,Cabbage,Lebanon,South,RETAIL,Kg
+2024-12-01,0.35,Cabbage,Lebanon,South,RETAIL,Kg
+2025-01-01,0.33,Cabbage,Lebanon,South,RETAIL,Kg
+2025-02-01,0.41,Cabbage,Lebanon,South,RETAIL,Kg
+2025-03-01,0.43,Cabbage,Lebanon,South,RETAIL,Kg
+2025-04-01,0.43,Cabbage,Lebanon,South,RETAIL,Kg
+2025-05-01,0.61,Cabbage,Lebanon,South,RETAIL,Kg
+2025-06-01,0.55,Cabbage,Lebanon,South,RETAIL,Kg
+2025-07-01,0.55,Cabbage,Lebanon,South,RETAIL,Kg
+2022-01-01,0.66,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2022-02-01,0.67,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2022-03-01,0.66,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2022-04-01,0.7,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2022-05-01,0.72,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2022-06-01,0.58,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2022-07-01,0.69,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2022-08-01,0.64,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2022-09-01,0.54,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2022-10-01,0.44,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2022-11-01,0.37,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2022-12-01,0.34,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2023-01-01,0.34,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2023-02-01,0.37,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2023-03-01,0.43,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2023-04-01,0.6,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2023-05-01,0.83,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2023-06-01,0.59,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2023-07-01,0.45,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2023-08-01,0.38,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2023-09-01,0.42,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2023-10-01,0.36,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2023-11-01,0.33,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2023-12-01,0.31,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2024-01-01,0.33,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2024-02-01,0.37,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2024-03-01,0.4,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2024-04-01,0.75,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2024-05-01,0.59,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2024-06-01,0.41,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2024-07-01,0.46,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2024-08-01,0.77,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2024-09-01,0.76,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2024-10-01,0.67,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2024-11-01,0.56,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2024-12-01,0.64,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2025-01-01,0.79,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2025-02-01,0.91,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2025-03-01,1.14,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2025-04-01,1.44,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2025-05-01,1.37,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2025-06-01,0.78,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2025-07-01,0.76,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2025-08-01,0.73,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2025-09-01,0.69,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2025-10-01,0.53,Cabbage,Republic of Moldova,National Average,RETAIL,Kg
+2010-03-01,2.19,Cabbage,Tonga,National Average,RETAIL,Kg
+2010-04-01,1.96,Cabbage,Tonga,National Average,RETAIL,Kg
+2010-05-01,1.35,Cabbage,Tonga,National Average,RETAIL,Kg
+2010-06-01,0.99,Cabbage,Tonga,National Average,RETAIL,Kg
+2010-07-01,0.89,Cabbage,Tonga,National Average,RETAIL,Kg
+2010-08-01,0.82,Cabbage,Tonga,National Average,RETAIL,Kg
+2010-09-01,0.92,Cabbage,Tonga,National Average,RETAIL,Kg
+2010-10-01,1.04,Cabbage,Tonga,National Average,RETAIL,Kg
+2010-11-01,0.7,Cabbage,Tonga,National Average,RETAIL,Kg
+2010-12-01,0.7,Cabbage,Tonga,National Average,RETAIL,Kg
+2011-01-01,1.08,Cabbage,Tonga,National Average,RETAIL,Kg
+2011-02-01,2.1,Cabbage,Tonga,National Average,RETAIL,Kg
+2011-03-01,2.12,Cabbage,Tonga,National Average,RETAIL,Kg
+2011-04-01,3.67,Cabbage,Tonga,National Average,RETAIL,Kg
+2011-05-01,1.72,Cabbage,Tonga,National Average,RETAIL,Kg
+2011-06-01,0.79,Cabbage,Tonga,National Average,RETAIL,Kg
+2011-07-01,1.21,Cabbage,Tonga,National Average,RETAIL,Kg
+2011-08-01,1.28,Cabbage,Tonga,National Average,RETAIL,Kg
+2011-09-01,0.93,Cabbage,Tonga,National Average,RETAIL,Kg
+2011-10-01,0.58,Cabbage,Tonga,National Average,RETAIL,Kg
+2011-11-01,0.61,Cabbage,Tonga,National Average,RETAIL,Kg
+2011-12-01,0.64,Cabbage,Tonga,National Average,RETAIL,Kg
+2012-01-01,1.06,Cabbage,Tonga,National Average,RETAIL,Kg
+2012-02-01,2.85,Cabbage,Tonga,National Average,RETAIL,Kg
+2012-03-01,2.07,Cabbage,Tonga,National Average,RETAIL,Kg
+2012-04-01,2.13,Cabbage,Tonga,National Average,RETAIL,Kg
+2012-05-01,2.21,Cabbage,Tonga,National Average,RETAIL,Kg
+2012-06-01,1.28,Cabbage,Tonga,National Average,RETAIL,Kg
+2012-07-01,0.93,Cabbage,Tonga,National Average,RETAIL,Kg
+2012-08-01,0.78,Cabbage,Tonga,National Average,RETAIL,Kg
+2012-09-01,0.77,Cabbage,Tonga,National Average,RETAIL,Kg
+2012-10-01,0.59,Cabbage,Tonga,National Average,RETAIL,Kg
+2012-11-01,0.4,Cabbage,Tonga,National Average,RETAIL,Kg
+2012-12-01,0.58,Cabbage,Tonga,National Average,RETAIL,Kg
+2013-01-01,0.78,Cabbage,Tonga,National Average,RETAIL,Kg
+2013-02-01,1.7,Cabbage,Tonga,National Average,RETAIL,Kg
+2013-03-01,1.43,Cabbage,Tonga,National Average,RETAIL,Kg
+2013-04-01,3.37,Cabbage,Tonga,National Average,RETAIL,Kg
+2013-05-01,2.93,Cabbage,Tonga,National Average,RETAIL,Kg
+2013-06-01,2.58,Cabbage,Tonga,National Average,RETAIL,Kg
+2013-07-01,2.18,Cabbage,Tonga,National Average,RETAIL,Kg
+2013-08-01,0.93,Cabbage,Tonga,National Average,RETAIL,Kg
+2013-09-01,0.49,Cabbage,Tonga,National Average,RETAIL,Kg
+2013-10-01,0.48,Cabbage,Tonga,National Average,RETAIL,Kg
+2013-11-01,0.44,Cabbage,Tonga,National Average,RETAIL,Kg
+2013-12-01,1.03,Cabbage,Tonga,National Average,RETAIL,Kg
+2014-01-01,1.44,Cabbage,Tonga,National Average,RETAIL,Kg
+2014-02-01,2.74,Cabbage,Tonga,National Average,RETAIL,Kg
+2014-03-01,3.43,Cabbage,Tonga,National Average,RETAIL,Kg
+2014-04-01,2.01,Cabbage,Tonga,National Average,RETAIL,Kg
+2014-05-01,1.83,Cabbage,Tonga,National Average,RETAIL,Kg
+2014-06-01,0.91,Cabbage,Tonga,National Average,RETAIL,Kg
+2014-07-01,0.67,Cabbage,Tonga,National Average,RETAIL,Kg
+2014-08-01,0.58,Cabbage,Tonga,National Average,RETAIL,Kg
+2014-09-01,0.88,Cabbage,Tonga,National Average,RETAIL,Kg
+2014-10-01,1.15,Cabbage,Tonga,National Average,RETAIL,Kg
+2014-11-01,1.23,Cabbage,Tonga,National Average,RETAIL,Kg
+2014-12-01,1.59,Cabbage,Tonga,National Average,RETAIL,Kg
+2015-01-01,2.12,Cabbage,Tonga,National Average,RETAIL,Kg
+2015-02-01,1.85,Cabbage,Tonga,National Average,RETAIL,Kg
+2015-03-01,2.27,Cabbage,Tonga,National Average,RETAIL,Kg
+2015-04-01,1.94,Cabbage,Tonga,National Average,RETAIL,Kg
+2015-05-01,1.89,Cabbage,Tonga,National Average,RETAIL,Kg
+2015-06-01,1.14,Cabbage,Tonga,National Average,RETAIL,Kg
+2015-07-01,1.05,Cabbage,Tonga,National Average,RETAIL,Kg
+2015-08-01,0.43,Cabbage,Tonga,National Average,RETAIL,Kg
+2015-09-01,0.52,Cabbage,Tonga,National Average,RETAIL,Kg
+2015-10-01,0.43,Cabbage,Tonga,National Average,RETAIL,Kg
+2015-11-01,0.62,Cabbage,Tonga,National Average,RETAIL,Kg
+2015-12-01,0.56,Cabbage,Tonga,National Average,RETAIL,Kg
+2016-01-01,1.84,Cabbage,Tonga,National Average,RETAIL,Kg
+2016-02-01,1.6,Cabbage,Tonga,National Average,RETAIL,Kg
+2016-03-01,2.03,Cabbage,Tonga,National Average,RETAIL,Kg
+2016-04-01,1.54,Cabbage,Tonga,National Average,RETAIL,Kg
+2016-05-01,1.07,Cabbage,Tonga,National Average,RETAIL,Kg
+2016-06-01,0.64,Cabbage,Tonga,National Average,RETAIL,Kg
+2016-07-01,0.55,Cabbage,Tonga,National Average,RETAIL,Kg
+2016-08-01,0.76,Cabbage,Tonga,National Average,RETAIL,Kg
+2016-09-01,0.84,Cabbage,Tonga,National Average,RETAIL,Kg
+2016-10-01,0.6,Cabbage,Tonga,National Average,RETAIL,Kg
+2016-11-01,0.47,Cabbage,Tonga,National Average,RETAIL,Kg
+2016-12-01,0.75,Cabbage,Tonga,National Average,RETAIL,Kg
+2017-01-01,1.17,Cabbage,Tonga,National Average,RETAIL,Kg
+2017-02-01,1.86,Cabbage,Tonga,National Average,RETAIL,Kg
+2017-03-01,2.39,Cabbage,Tonga,National Average,RETAIL,Kg
+2017-04-01,2.38,Cabbage,Tonga,National Average,RETAIL,Kg
+2017-05-01,2.0,Cabbage,Tonga,National Average,RETAIL,Kg
+2017-06-01,1.5,Cabbage,Tonga,National Average,RETAIL,Kg
+2017-07-01,0.77,Cabbage,Tonga,National Average,RETAIL,Kg
+2017-08-01,0.53,Cabbage,Tonga,National Average,RETAIL,Kg
+2017-09-01,0.51,Cabbage,Tonga,National Average,RETAIL,Kg
+2017-10-01,0.41,Cabbage,Tonga,National Average,RETAIL,Kg
+2017-11-01,0.48,Cabbage,Tonga,National Average,RETAIL,Kg
+2017-12-01,0.79,Cabbage,Tonga,National Average,RETAIL,Kg
+2018-01-01,0.57,Cabbage,Tonga,National Average,RETAIL,Kg
+2018-02-01,0.75,Cabbage,Tonga,National Average,RETAIL,Kg
+2018-03-01,3.8,Cabbage,Tonga,National Average,RETAIL,Kg
+2018-04-01,3.74,Cabbage,Tonga,National Average,RETAIL,Kg
+2018-05-01,1.55,Cabbage,Tonga,National Average,RETAIL,Kg
+2018-06-01,1.02,Cabbage,Tonga,National Average,RETAIL,Kg
+2018-07-01,0.99,Cabbage,Tonga,National Average,RETAIL,Kg
+2018-08-01,0.83,Cabbage,Tonga,National Average,RETAIL,Kg
+2018-09-01,0.72,Cabbage,Tonga,National Average,RETAIL,Kg
+2018-10-01,0.7,Cabbage,Tonga,National Average,RETAIL,Kg
+2018-11-01,0.74,Cabbage,Tonga,National Average,RETAIL,Kg
+2018-12-01,1.09,Cabbage,Tonga,National Average,RETAIL,Kg
+2019-01-01,2.18,Cabbage,Tonga,National Average,RETAIL,Kg
+2019-02-01,2.36,Cabbage,Tonga,National Average,RETAIL,Kg
+2019-03-01,2.78,Cabbage,Tonga,National Average,RETAIL,Kg
+2019-04-01,1.65,Cabbage,Tonga,National Average,RETAIL,Kg
+2019-05-01,1.35,Cabbage,Tonga,National Average,RETAIL,Kg
+2019-06-01,0.59,Cabbage,Tonga,National Average,RETAIL,Kg
+2019-07-01,0.62,Cabbage,Tonga,National Average,RETAIL,Kg
+2019-08-01,0.9,Cabbage,Tonga,National Average,RETAIL,Kg
+2019-09-01,0.98,Cabbage,Tonga,National Average,RETAIL,Kg
+2019-10-01,0.88,Cabbage,Tonga,National Average,RETAIL,Kg
+2019-11-01,0.85,Cabbage,Tonga,National Average,RETAIL,Kg
+2019-12-01,1.63,Cabbage,Tonga,National Average,RETAIL,Kg
+2020-01-01,1.3,Cabbage,Tonga,National Average,RETAIL,Kg
+2020-02-01,2.4,Cabbage,Tonga,National Average,RETAIL,Kg
+2020-03-01,2.36,Cabbage,Tonga,National Average,RETAIL,Kg
+2020-04-01,2.38,Cabbage,Tonga,National Average,RETAIL,Kg
+2020-05-01,2.1,Cabbage,Tonga,National Average,RETAIL,Kg
+2020-06-01,1.34,Cabbage,Tonga,National Average,RETAIL,Kg
+2020-07-01,0.75,Cabbage,Tonga,National Average,RETAIL,Kg
+2020-08-01,0.59,Cabbage,Tonga,National Average,RETAIL,Kg
+2020-09-01,0.39,Cabbage,Tonga,National Average,RETAIL,Kg
+2020-10-01,0.38,Cabbage,Tonga,National Average,RETAIL,Kg
+2020-11-01,0.8,Cabbage,Tonga,National Average,RETAIL,Kg
+2020-12-01,1.05,Cabbage,Tonga,National Average,RETAIL,Kg
+2021-01-01,1.21,Cabbage,Tonga,National Average,RETAIL,Kg
+2021-02-01,1.23,Cabbage,Tonga,National Average,RETAIL,Kg
+2021-03-01,2.8,Cabbage,Tonga,National Average,RETAIL,Kg
+2021-04-01,2.99,Cabbage,Tonga,National Average,RETAIL,Kg
+2021-05-01,1.57,Cabbage,Tonga,National Average,RETAIL,Kg
+2021-06-01,1.65,Cabbage,Tonga,National Average,RETAIL,Kg
+2021-07-01,1.17,Cabbage,Tonga,National Average,RETAIL,Kg
+2021-08-01,1.63,Cabbage,Tonga,National Average,RETAIL,Kg
+2021-09-01,0.7,Cabbage,Tonga,National Average,RETAIL,Kg
+2021-10-01,0.96,Cabbage,Tonga,National Average,RETAIL,Kg
+2021-11-01,0.96,Cabbage,Tonga,National Average,RETAIL,Kg
+2021-12-01,1.66,Cabbage,Tonga,National Average,RETAIL,Kg
+2022-01-01,0.8,Cabbage,Tonga,National Average,RETAIL,Kg
+2022-02-01,2.85,Cabbage,Tonga,National Average,RETAIL,Kg
+2022-03-01,2.46,Cabbage,Tonga,National Average,RETAIL,Kg
+2022-04-01,3.29,Cabbage,Tonga,National Average,RETAIL,Kg
+2022-05-01,2.38,Cabbage,Tonga,National Average,RETAIL,Kg
+2022-06-01,2.53,Cabbage,Tonga,National Average,RETAIL,Kg
+2022-07-01,1.12,Cabbage,Tonga,National Average,RETAIL,Kg
+2022-08-01,1.05,Cabbage,Tonga,National Average,RETAIL,Kg
+2022-09-01,1.1,Cabbage,Tonga,National Average,RETAIL,Kg
+2022-10-01,1.12,Cabbage,Tonga,National Average,RETAIL,Kg
+2022-11-01,1.12,Cabbage,Tonga,National Average,RETAIL,Kg
+2022-12-01,1.25,Cabbage,Tonga,National Average,RETAIL,Kg
+2023-01-01,1.79,Cabbage,Tonga,National Average,RETAIL,Kg
+2023-02-01,1.83,Cabbage,Tonga,National Average,RETAIL,Kg
+2023-03-01,4.63,Cabbage,Tonga,National Average,RETAIL,Kg
+2023-04-01,4.06,Cabbage,Tonga,National Average,RETAIL,Kg
+2023-05-01,2.13,Cabbage,Tonga,National Average,RETAIL,Kg
+2023-06-01,2.84,Cabbage,Tonga,National Average,RETAIL,Kg
+2023-07-01,1.95,Cabbage,Tonga,National Average,RETAIL,Kg
+2023-08-01,0.92,Cabbage,Tonga,National Average,RETAIL,Kg
+2023-09-01,1.23,Cabbage,Tonga,National Average,RETAIL,Kg
+2023-10-01,1.77,Cabbage,Tonga,National Average,RETAIL,Kg
+2023-11-01,2.26,Cabbage,Tonga,National Average,RETAIL,Kg
+2023-12-01,3.08,Cabbage,Tonga,National Average,RETAIL,Kg
+2024-01-01,2.44,Cabbage,Tonga,National Average,RETAIL,Kg
+2024-02-01,2.12,Cabbage,Tonga,National Average,RETAIL,Kg
+2024-03-01,3.52,Cabbage,Tonga,National Average,RETAIL,Kg
+2024-04-01,4.82,Cabbage,Tonga,National Average,RETAIL,Kg
+2024-05-01,5.57,Cabbage,Tonga,National Average,RETAIL,Kg
+2024-06-01,5.68,Cabbage,Tonga,National Average,RETAIL,Kg
+2024-07-01,2.19,Cabbage,Tonga,National Average,RETAIL,Kg
+2024-08-01,1.5,Cabbage,Tonga,National Average,RETAIL,Kg
+2024-09-01,0.72,Cabbage,Tonga,National Average,RETAIL,Kg
+2024-10-01,0.72,Cabbage,Tonga,National Average,RETAIL,Kg
+2024-11-01,0.92,Cabbage,Tonga,National Average,RETAIL,Kg
+2024-12-01,2.11,Cabbage,Tonga,National Average,RETAIL,Kg
+2019-01-01,0.26,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2019-02-01,0.27,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2019-03-01,0.33,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2019-04-01,0.39,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2019-05-01,0.35,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2019-06-01,0.24,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2019-07-01,0.19,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2019-08-01,0.23,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2019-09-01,0.27,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2019-10-01,0.26,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2019-11-01,0.22,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2019-12-01,0.2,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2020-01-01,0.2,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2020-02-01,0.2,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2020-03-01,0.2,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2020-04-01,0.2,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2020-05-01,0.13,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2020-06-01,0.1,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2020-07-01,0.13,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2020-08-01,0.2,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2020-09-01,0.2,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2020-10-01,0.18,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2020-11-01,0.18,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2020-12-01,0.19,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2021-01-01,0.19,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2021-02-01,0.2,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2021-03-01,0.2,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2021-04-01,0.23,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2021-05-01,0.19,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2021-06-01,0.15,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2021-07-01,0.16,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2021-08-01,0.18,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2021-09-01,0.22,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2021-10-01,0.26,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2021-11-01,0.3,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2021-12-01,0.35,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2022-01-01,0.41,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2022-02-01,0.44,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2022-03-01,0.44,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2022-04-01,0.43,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2022-05-01,0.36,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2022-06-01,0.32,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2022-07-01,0.28,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2022-08-01,0.27,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2022-09-01,0.26,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2022-10-01,0.25,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2022-11-01,0.25,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2022-12-01,0.25,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2023-01-01,0.28,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2023-02-01,0.33,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2023-03-01,0.32,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2023-04-01,0.37,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2023-05-01,0.38,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2023-06-01,0.28,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2023-07-01,0.28,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2023-08-01,0.42,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2023-09-01,0.45,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2023-10-01,0.35,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2023-11-01,0.27,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2023-12-01,0.24,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2024-01-01,0.24,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2024-02-01,0.22,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2024-03-01,0.23,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2024-04-01,0.24,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2024-05-01,0.21,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2024-06-01,0.17,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2024-07-01,0.18,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2024-08-01,0.2,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2024-09-01,0.2,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2024-10-01,0.21,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2024-11-01,0.22,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2024-12-01,0.23,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2025-01-01,0.26,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2025-02-01,0.33,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2025-03-01,0.39,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2025-04-01,0.45,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2025-05-01,0.39,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2025-06-01,0.32,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2025-07-01,0.37,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2025-08-01,0.49,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2025-09-01,0.44,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2025-10-01,0.41,Cabbage,Uzbekistan,National Average,RETAIL,Kg
+2019-01-01,0.24,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2019-02-01,0.25,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2019-03-01,0.3,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2019-04-01,0.4,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2019-05-01,0.39,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2019-06-01,0.27,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2019-07-01,0.13,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2019-08-01,0.26,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2019-09-01,0.29,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2019-10-01,0.27,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2019-11-01,0.21,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2019-12-01,0.19,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2020-01-01,0.19,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2020-02-01,0.2,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2020-03-01,0.2,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2020-04-01,0.2,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2020-05-01,0.15,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2020-06-01,0.08,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2020-07-01,0.08,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2020-08-01,0.19,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2020-09-01,0.19,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2020-10-01,0.18,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2020-11-01,0.18,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2020-12-01,0.18,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2021-01-01,0.19,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2021-02-01,0.21,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2021-03-01,0.23,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2021-04-01,0.31,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2021-05-01,0.19,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2021-06-01,0.14,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2021-07-01,0.17,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2021-08-01,0.23,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2021-09-01,0.27,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2021-10-01,0.31,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2021-11-01,0.35,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2021-12-01,0.33,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2022-01-01,0.48,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2022-02-01,0.52,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2022-03-01,0.55,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2022-04-01,0.58,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2022-05-01,0.4,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2022-06-01,0.36,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2022-07-01,0.31,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2022-08-01,0.3,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2022-09-01,0.27,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2022-10-01,0.27,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2022-11-01,0.27,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2022-12-01,0.26,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2023-01-01,0.29,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2023-02-01,0.34,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2023-03-01,0.35,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2023-04-01,0.43,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2023-05-01,0.43,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2023-06-01,0.3,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2023-07-01,0.35,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2023-08-01,0.49,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2023-09-01,0.47,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2023-10-01,0.35,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2023-11-01,0.25,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2023-12-01,0.23,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2024-01-01,0.25,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2024-02-01,0.24,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2024-03-01,0.25,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2024-04-01,0.26,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2024-05-01,0.22,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2024-06-01,0.19,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2024-07-01,0.21,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2024-08-01,0.23,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2024-09-01,0.23,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2024-10-01,0.23,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2024-11-01,0.23,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2024-12-01,0.24,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2025-01-01,0.25,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2025-02-01,0.31,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2025-03-01,0.36,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2025-04-01,0.46,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2025-05-01,0.41,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2025-06-01,0.34,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2025-07-01,0.38,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2025-08-01,0.48,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2025-09-01,0.45,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg
+2025-10-01,0.4,Cabbage,Uzbekistan,Tashkent Region,RETAIL,Kg

@@ -1,0 +1,2468 @@
+date,price_usd,commodity_name,country,market,price_type,unit
+2021-01-01,1.21,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2021-02-01,1.26,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2021-03-01,1.38,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2021-04-01,1.38,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2021-05-01,1.41,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2021-06-01,1.48,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2021-07-01,1.53,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2021-08-01,1.54,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2021-09-01,1.63,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2021-10-01,1.73,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2021-11-01,1.78,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2021-12-01,1.92,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2022-01-01,2.04,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2022-02-01,2.11,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2022-03-01,2.41,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2022-04-01,2.64,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2022-05-01,2.68,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2022-06-01,2.53,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2022-07-01,2.53,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2022-08-01,2.54,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2022-09-01,2.55,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2022-10-01,2.41,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2022-11-01,2.18,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2022-12-01,2.17,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2023-01-01,2.16,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2023-02-01,2.2,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2023-03-01,2.2,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2023-04-01,2.19,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2023-05-01,2.09,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2023-06-01,1.57,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2023-07-01,1.37,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2023-08-01,1.37,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2023-09-01,1.39,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2023-10-01,1.4,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2023-11-01,1.44,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2023-12-01,1.44,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2024-01-01,1.46,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2024-02-01,1.52,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2024-03-01,1.72,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2024-04-01,1.74,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2024-05-01,1.72,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2024-06-01,1.76,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2024-07-01,1.73,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2024-08-01,1.71,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2024-09-01,1.61,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2024-10-01,1.65,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2024-11-01,1.73,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2024-12-01,1.73,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2025-01-01,1.8,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2025-02-01,1.84,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2025-03-01,1.72,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2025-04-01,1.83,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2025-05-01,1.88,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2025-06-01,1.88,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2025-07-01,1.89,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2025-08-01,1.9,Rice (long grain),Angola,Bengo,RETAIL,Kg
+2021-01-01,0.91,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2021-02-01,0.95,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2021-03-01,1.01,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2021-04-01,1.0,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2021-05-01,1.02,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2021-06-01,1.06,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2021-07-01,1.11,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2021-08-01,1.16,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2021-09-01,1.25,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2021-10-01,1.31,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2021-11-01,1.36,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2021-12-01,1.48,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2022-01-01,1.64,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2022-02-01,1.78,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2022-03-01,2.03,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2022-04-01,2.24,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2022-05-01,2.29,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2022-06-01,2.2,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2022-07-01,2.17,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2022-08-01,2.16,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2022-09-01,2.16,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2022-10-01,2.07,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2022-11-01,1.89,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2022-12-01,1.88,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2023-01-01,1.9,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2023-02-01,1.9,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2023-03-01,1.9,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2023-04-01,1.89,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2023-05-01,1.82,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2023-06-01,1.4,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2023-07-01,1.23,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2023-08-01,1.27,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2023-09-01,1.31,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2023-10-01,1.31,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2023-11-01,1.45,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2023-12-01,1.47,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2024-01-01,1.52,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2024-02-01,1.46,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2024-03-01,1.5,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2024-04-01,1.59,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2024-05-01,1.57,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2024-06-01,1.58,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2024-07-01,1.6,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2024-08-01,1.57,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2024-09-01,1.51,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2024-10-01,1.54,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2024-11-01,1.58,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2024-12-01,1.63,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2025-01-01,1.67,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2025-02-01,1.7,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2025-03-01,1.71,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2025-04-01,1.7,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2025-05-01,1.71,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2025-06-01,1.66,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2025-07-01,1.59,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2025-08-01,1.71,Rice (long grain),Angola,Benguela,RETAIL,Kg
+2021-01-01,1.21,Rice (long grain),Angola,Bié,RETAIL,Kg
+2021-02-01,1.22,Rice (long grain),Angola,Bié,RETAIL,Kg
+2021-03-01,1.29,Rice (long grain),Angola,Bié,RETAIL,Kg
+2021-04-01,1.27,Rice (long grain),Angola,Bié,RETAIL,Kg
+2021-05-01,1.26,Rice (long grain),Angola,Bié,RETAIL,Kg
+2021-06-01,1.29,Rice (long grain),Angola,Bié,RETAIL,Kg
+2021-07-01,1.33,Rice (long grain),Angola,Bié,RETAIL,Kg
+2021-08-01,1.34,Rice (long grain),Angola,Bié,RETAIL,Kg
+2021-09-01,1.4,Rice (long grain),Angola,Bié,RETAIL,Kg
+2021-10-01,1.48,Rice (long grain),Angola,Bié,RETAIL,Kg
+2021-11-01,1.5,Rice (long grain),Angola,Bié,RETAIL,Kg
+2021-12-01,1.61,Rice (long grain),Angola,Bié,RETAIL,Kg
+2022-01-01,1.71,Rice (long grain),Angola,Bié,RETAIL,Kg
+2022-02-01,1.78,Rice (long grain),Angola,Bié,RETAIL,Kg
+2022-03-01,2.0,Rice (long grain),Angola,Bié,RETAIL,Kg
+2022-04-01,2.2,Rice (long grain),Angola,Bié,RETAIL,Kg
+2022-05-01,2.25,Rice (long grain),Angola,Bié,RETAIL,Kg
+2022-06-01,2.1,Rice (long grain),Angola,Bié,RETAIL,Kg
+2022-07-01,2.1,Rice (long grain),Angola,Bié,RETAIL,Kg
+2022-08-01,2.1,Rice (long grain),Angola,Bié,RETAIL,Kg
+2022-09-01,2.09,Rice (long grain),Angola,Bié,RETAIL,Kg
+2022-10-01,2.01,Rice (long grain),Angola,Bié,RETAIL,Kg
+2022-11-01,1.81,Rice (long grain),Angola,Bié,RETAIL,Kg
+2022-12-01,1.8,Rice (long grain),Angola,Bié,RETAIL,Kg
+2023-01-01,1.81,Rice (long grain),Angola,Bié,RETAIL,Kg
+2023-02-01,1.81,Rice (long grain),Angola,Bié,RETAIL,Kg
+2023-03-01,1.81,Rice (long grain),Angola,Bié,RETAIL,Kg
+2023-04-01,1.82,Rice (long grain),Angola,Bié,RETAIL,Kg
+2023-05-01,1.76,Rice (long grain),Angola,Bié,RETAIL,Kg
+2023-06-01,1.31,Rice (long grain),Angola,Bié,RETAIL,Kg
+2023-07-01,1.15,Rice (long grain),Angola,Bié,RETAIL,Kg
+2023-08-01,1.17,Rice (long grain),Angola,Bié,RETAIL,Kg
+2023-09-01,1.19,Rice (long grain),Angola,Bié,RETAIL,Kg
+2023-10-01,1.23,Rice (long grain),Angola,Bié,RETAIL,Kg
+2023-11-01,1.25,Rice (long grain),Angola,Bié,RETAIL,Kg
+2023-12-01,1.26,Rice (long grain),Angola,Bié,RETAIL,Kg
+2024-01-01,1.26,Rice (long grain),Angola,Bié,RETAIL,Kg
+2024-02-01,1.29,Rice (long grain),Angola,Bié,RETAIL,Kg
+2024-03-01,1.31,Rice (long grain),Angola,Bié,RETAIL,Kg
+2024-04-01,1.33,Rice (long grain),Angola,Bié,RETAIL,Kg
+2024-05-01,1.32,Rice (long grain),Angola,Bié,RETAIL,Kg
+2024-06-01,1.29,Rice (long grain),Angola,Bié,RETAIL,Kg
+2024-07-01,1.29,Rice (long grain),Angola,Bié,RETAIL,Kg
+2024-08-01,1.3,Rice (long grain),Angola,Bié,RETAIL,Kg
+2024-09-01,1.27,Rice (long grain),Angola,Bié,RETAIL,Kg
+2024-10-01,1.31,Rice (long grain),Angola,Bié,RETAIL,Kg
+2024-11-01,1.31,Rice (long grain),Angola,Bié,RETAIL,Kg
+2024-12-01,1.32,Rice (long grain),Angola,Bié,RETAIL,Kg
+2025-01-01,1.33,Rice (long grain),Angola,Bié,RETAIL,Kg
+2025-02-01,1.33,Rice (long grain),Angola,Bié,RETAIL,Kg
+2025-03-01,1.34,Rice (long grain),Angola,Bié,RETAIL,Kg
+2025-04-01,1.39,Rice (long grain),Angola,Bié,RETAIL,Kg
+2025-05-01,1.39,Rice (long grain),Angola,Bié,RETAIL,Kg
+2025-06-01,1.4,Rice (long grain),Angola,Bié,RETAIL,Kg
+2025-07-01,1.42,Rice (long grain),Angola,Bié,RETAIL,Kg
+2025-08-01,1.47,Rice (long grain),Angola,Bié,RETAIL,Kg
+2021-01-01,0.69,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2021-02-01,0.72,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2021-03-01,0.77,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2021-04-01,0.77,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2021-05-01,0.8,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2021-06-01,0.82,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2021-07-01,0.86,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2021-08-01,0.92,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2021-09-01,1.0,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2021-10-01,1.08,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2021-11-01,1.11,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2021-12-01,1.24,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2022-01-01,1.35,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2022-02-01,1.45,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2022-03-01,1.74,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2022-04-01,1.95,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2022-05-01,2.06,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2022-06-01,2.01,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2022-07-01,2.12,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2022-08-01,2.17,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2022-09-01,2.18,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2022-10-01,2.11,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2022-11-01,1.94,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2022-12-01,1.94,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2023-01-01,1.98,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2023-02-01,2.06,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2023-03-01,2.08,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2023-04-01,2.09,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2023-05-01,2.0,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2023-06-01,1.52,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2023-07-01,1.34,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2023-08-01,1.36,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2023-09-01,1.4,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2023-10-01,1.5,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2023-11-01,1.52,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2023-12-01,1.55,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2024-01-01,1.57,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2024-02-01,1.67,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2024-03-01,1.82,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2024-04-01,1.84,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2024-05-01,1.82,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2024-06-01,1.87,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2024-07-01,1.86,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2024-08-01,1.89,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2024-09-01,1.85,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2024-10-01,2.01,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2024-11-01,2.16,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2024-12-01,2.29,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2025-01-01,2.51,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2025-02-01,2.65,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2025-03-01,2.69,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2025-04-01,2.81,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2025-05-01,2.9,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2025-06-01,2.92,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2025-07-01,3.12,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2025-08-01,3.3,Rice (long grain),Angola,Cabinda,RETAIL,Kg
+2021-01-01,1.02,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2021-02-01,1.04,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2021-03-01,1.1,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2021-04-01,1.1,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2021-05-01,1.11,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2021-06-01,1.15,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2021-07-01,1.19,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2021-08-01,1.25,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2021-09-01,1.31,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2021-10-01,1.41,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2021-11-01,1.48,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2021-12-01,1.56,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2022-01-01,1.69,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2022-02-01,1.81,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2022-03-01,2.04,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2022-04-01,2.23,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2022-05-01,2.27,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2022-06-01,2.17,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2022-07-01,2.14,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2022-08-01,2.15,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2022-09-01,2.13,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2022-10-01,2.02,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2022-11-01,1.87,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2022-12-01,1.85,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2023-01-01,1.87,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2023-02-01,1.87,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2023-03-01,1.87,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2023-04-01,1.9,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2023-05-01,1.82,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2023-06-01,1.36,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2023-07-01,1.21,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2023-08-01,1.27,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2023-09-01,1.29,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2023-10-01,1.31,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2023-11-01,1.3,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2023-12-01,1.36,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2024-01-01,1.42,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2024-02-01,1.52,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2024-03-01,1.53,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2024-04-01,1.57,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2024-05-01,1.55,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2024-06-01,1.53,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2024-07-01,1.56,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2024-08-01,1.58,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2024-09-01,1.53,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2024-10-01,1.61,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2024-11-01,1.62,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2024-12-01,1.74,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2025-01-01,1.78,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2025-02-01,1.84,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2025-03-01,1.88,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2025-04-01,1.9,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2025-05-01,1.89,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2025-06-01,1.88,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2025-07-01,1.87,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2025-08-01,1.88,Rice (long grain),Angola,Cuando Cubango,RETAIL,Kg
+2021-01-01,0.98,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2021-02-01,1.01,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2021-03-01,1.09,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2021-04-01,1.08,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2021-05-01,1.08,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2021-06-01,1.11,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2021-07-01,1.15,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2021-08-01,1.2,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2021-09-01,1.27,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2021-10-01,1.37,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2021-11-01,1.4,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2021-12-01,1.51,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2022-01-01,1.65,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2022-02-01,1.74,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2022-03-01,1.99,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2022-04-01,2.24,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2022-05-01,2.29,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2022-06-01,2.2,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2022-07-01,2.2,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2022-08-01,2.2,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2022-09-01,2.22,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2022-10-01,2.16,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2022-11-01,1.95,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2022-12-01,1.92,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2023-01-01,1.95,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2023-02-01,1.95,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2023-03-01,1.96,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2023-04-01,1.95,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2023-05-01,1.86,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2023-06-01,1.41,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2023-07-01,1.24,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2023-08-01,1.29,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2023-09-01,1.33,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2023-10-01,1.34,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2023-11-01,1.37,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2023-12-01,1.37,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2024-01-01,1.47,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2024-02-01,1.55,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2024-03-01,1.64,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2024-04-01,1.65,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2024-05-01,1.63,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2024-06-01,1.66,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2024-07-01,1.66,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2024-08-01,1.66,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2024-09-01,1.59,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2024-10-01,1.71,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2024-11-01,1.71,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2024-12-01,1.71,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2025-01-01,1.77,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2025-02-01,1.79,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2025-03-01,1.77,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2025-04-01,1.8,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2025-05-01,1.79,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2025-06-01,1.81,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2025-07-01,1.81,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2025-08-01,1.78,Rice (long grain),Angola,Cuanza Norte,RETAIL,Kg
+2021-01-01,1.27,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2021-02-01,1.32,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2021-03-01,1.4,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2021-04-01,1.38,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2021-05-01,1.47,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2021-06-01,1.53,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2021-07-01,1.53,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2021-08-01,1.57,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2021-09-01,1.63,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2021-10-01,1.74,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2021-11-01,1.8,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2021-12-01,2.0,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2022-01-01,2.11,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2022-02-01,2.26,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2022-03-01,2.58,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2022-04-01,2.76,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2022-05-01,2.82,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2022-06-01,2.66,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2022-07-01,2.64,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2022-08-01,2.67,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2022-09-01,2.67,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2022-10-01,2.55,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2022-11-01,2.3,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2022-12-01,2.28,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2023-01-01,2.29,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2023-02-01,2.29,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2023-03-01,2.3,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2023-04-01,2.32,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2023-05-01,2.26,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2023-06-01,1.7,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2023-07-01,1.48,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2023-08-01,1.48,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2023-09-01,1.48,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2023-10-01,1.51,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2023-11-01,1.55,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2023-12-01,1.57,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2024-01-01,1.61,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2024-02-01,1.65,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2024-03-01,1.66,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2024-04-01,1.75,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2024-05-01,1.73,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2024-06-01,1.74,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2024-07-01,1.71,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2024-08-01,1.66,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2024-09-01,1.59,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2024-10-01,1.69,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2024-11-01,1.71,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2024-12-01,1.74,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2025-01-01,1.77,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2025-02-01,1.8,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2025-03-01,1.87,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2025-04-01,1.9,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2025-05-01,1.94,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2025-06-01,2.0,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2025-07-01,2.05,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2025-08-01,2.0,Rice (long grain),Angola,Cuanza Sul,RETAIL,Kg
+2021-01-01,0.9,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2021-02-01,0.94,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2021-03-01,1.02,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2021-04-01,1.0,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2021-05-01,1.0,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2021-06-01,1.04,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2021-07-01,1.09,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2021-08-01,1.11,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2021-09-01,1.17,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2021-10-01,1.24,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2021-11-01,1.29,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2021-12-01,1.38,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2022-01-01,1.5,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2022-02-01,1.65,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2022-03-01,1.9,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2022-04-01,2.14,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2022-05-01,2.19,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2022-06-01,2.09,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2022-07-01,2.09,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2022-08-01,2.09,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2022-09-01,2.09,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2022-10-01,1.99,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2022-11-01,1.8,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2022-12-01,1.79,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2023-01-01,1.79,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2023-02-01,1.78,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2023-03-01,1.78,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2023-04-01,1.77,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2023-05-01,1.7,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2023-06-01,1.29,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2023-07-01,1.12,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2023-08-01,1.17,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2023-09-01,1.18,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2023-10-01,1.22,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2023-11-01,1.22,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2023-12-01,1.26,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2024-01-01,1.3,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2024-02-01,1.39,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2024-03-01,1.47,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2024-04-01,1.48,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2024-05-01,1.46,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2024-06-01,1.45,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2024-07-01,1.44,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2024-08-01,1.45,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2024-09-01,1.43,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2024-10-01,1.46,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2024-11-01,1.59,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2024-12-01,1.63,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2025-01-01,1.64,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2025-02-01,1.65,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2025-03-01,1.64,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2025-04-01,1.68,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2025-05-01,1.67,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2025-06-01,1.7,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2025-07-01,1.71,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2025-08-01,1.72,Rice (long grain),Angola,Cunene,RETAIL,Kg
+2021-01-01,1.03,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2021-02-01,1.06,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2021-03-01,1.13,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2021-04-01,1.13,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2021-05-01,1.13,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2021-06-01,1.17,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2021-07-01,1.18,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2021-08-01,1.23,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2021-09-01,1.29,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2021-10-01,1.36,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2021-11-01,1.42,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2021-12-01,1.51,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2022-01-01,1.61,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2022-02-01,1.69,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2022-03-01,1.9,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2022-04-01,2.08,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2022-05-01,2.12,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2022-06-01,2.04,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2022-07-01,2.08,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2022-08-01,2.11,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2022-09-01,2.1,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2022-10-01,2.0,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2022-11-01,1.81,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2022-12-01,1.79,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2023-01-01,1.8,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2023-02-01,1.81,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2023-03-01,1.84,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2023-04-01,1.85,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2023-05-01,1.78,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2023-06-01,1.33,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2023-07-01,1.17,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2023-08-01,1.22,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2023-09-01,1.26,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2023-10-01,1.33,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2023-11-01,1.35,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2023-12-01,1.37,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2024-01-01,1.52,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2024-02-01,1.59,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2024-03-01,1.58,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2024-04-01,1.62,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2024-05-01,1.6,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2024-06-01,1.62,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2024-07-01,1.64,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2024-08-01,1.64,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2024-09-01,1.57,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2024-10-01,1.65,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2024-11-01,1.64,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2024-12-01,1.65,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2025-01-01,1.7,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2025-02-01,1.74,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2025-03-01,1.74,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2025-04-01,1.84,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2025-05-01,1.84,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2025-06-01,1.83,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2025-07-01,1.83,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2025-08-01,1.84,Rice (long grain),Angola,Huambo,RETAIL,Kg
+2021-01-01,0.97,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2021-02-01,0.99,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2021-03-01,1.06,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2021-04-01,1.06,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2021-05-01,1.08,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2021-06-01,1.11,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2021-07-01,1.14,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2021-08-01,1.19,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2021-09-01,1.23,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2021-10-01,1.31,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2021-11-01,1.42,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2021-12-01,1.53,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2022-01-01,1.66,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2022-02-01,1.74,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2022-03-01,2.01,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2022-04-01,2.21,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2022-05-01,2.26,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2022-06-01,2.13,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2022-07-01,2.08,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2022-08-01,2.08,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2022-09-01,2.07,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2022-10-01,1.96,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2022-11-01,1.76,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2022-12-01,1.75,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2023-01-01,1.76,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2023-02-01,1.76,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2023-03-01,1.76,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2023-04-01,1.78,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2023-05-01,1.69,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2023-06-01,1.26,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2023-07-01,1.11,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2023-08-01,1.13,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2023-09-01,1.18,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2023-10-01,1.26,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2023-11-01,1.31,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2023-12-01,1.3,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2024-01-01,1.38,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2024-02-01,1.41,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2024-03-01,1.46,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2024-04-01,1.49,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2024-05-01,1.48,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2024-06-01,1.46,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2024-07-01,1.5,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2024-08-01,1.46,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2024-09-01,1.4,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2024-10-01,1.45,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2024-11-01,1.49,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2024-12-01,1.52,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2025-01-01,1.57,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2025-02-01,1.59,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2025-03-01,1.61,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2025-04-01,1.69,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2025-05-01,1.69,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2025-06-01,1.71,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2025-07-01,1.65,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2025-08-01,1.65,Rice (long grain),Angola,Huíla,RETAIL,Kg
+2021-01-01,1.02,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2021-02-01,1.05,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2021-03-01,1.12,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2021-04-01,1.1,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2021-05-01,1.1,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2021-06-01,1.14,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2021-07-01,1.2,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2021-08-01,1.26,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2021-09-01,1.33,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2021-10-01,1.41,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2021-11-01,1.46,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2021-12-01,1.61,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2022-01-01,1.74,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2022-02-01,1.84,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2022-03-01,2.09,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2022-04-01,2.09,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2022-05-01,2.19,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2022-06-01,2.09,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2022-07-01,2.09,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2022-08-01,2.09,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2022-09-01,2.08,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2022-10-01,1.99,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2022-11-01,1.8,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2022-12-01,1.8,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2023-01-01,1.8,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2023-02-01,1.8,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2023-03-01,1.81,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2023-04-01,1.82,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2023-05-01,1.74,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2023-06-01,1.33,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2023-07-01,1.16,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2023-08-01,1.19,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2023-09-01,1.27,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2023-10-01,1.36,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2023-11-01,1.39,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2023-12-01,1.42,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2024-01-01,1.46,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2024-02-01,1.55,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2024-03-01,1.61,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2024-04-01,1.65,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2024-05-01,1.63,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2024-06-01,1.63,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2024-07-01,1.62,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2024-08-01,1.59,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2024-09-01,1.54,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2024-10-01,1.61,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2024-11-01,1.64,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2024-12-01,1.64,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2025-01-01,1.67,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2025-02-01,1.67,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2025-03-01,1.66,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2025-04-01,1.61,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2025-05-01,1.6,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2025-06-01,1.57,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2025-07-01,1.56,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2025-08-01,1.57,Rice (long grain),Angola,Luanda,RETAIL,Kg
+2021-01-01,2.53,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2021-02-01,2.57,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2021-03-01,2.73,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2021-04-01,2.74,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2021-05-01,2.79,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2021-06-01,2.89,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2021-07-01,3.01,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2021-08-01,3.11,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2021-09-01,3.28,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2021-10-01,3.4,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2021-11-01,3.43,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2021-12-01,3.72,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2022-01-01,3.93,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2022-02-01,4.08,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2022-03-01,4.66,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2022-04-01,5.11,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2022-05-01,5.19,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2022-06-01,4.96,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2022-07-01,4.96,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2022-08-01,5.04,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2022-09-01,5.06,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2022-10-01,4.83,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2022-11-01,4.09,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2022-12-01,4.02,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2023-01-01,4.02,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2023-02-01,4.04,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2023-03-01,4.03,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2023-04-01,4.09,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2023-05-01,3.9,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2023-06-01,2.96,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2023-07-01,2.61,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2023-08-01,2.65,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2023-09-01,2.7,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2023-10-01,2.74,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2023-11-01,2.79,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2023-12-01,2.81,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2024-01-01,2.81,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2024-02-01,2.82,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2024-03-01,2.88,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2024-04-01,2.94,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2024-05-01,2.91,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2024-06-01,2.87,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2024-07-01,2.85,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2024-08-01,2.74,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2024-09-01,2.68,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2024-10-01,2.81,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2024-11-01,2.87,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2024-12-01,2.94,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2025-01-01,2.98,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2025-02-01,3.04,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2025-03-01,3.06,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2025-04-01,3.05,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2025-05-01,3.07,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2025-06-01,3.06,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2025-07-01,3.06,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2025-08-01,3.09,Rice (long grain),Angola,Lunda Norte,RETAIL,Kg
+2021-01-01,1.4,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2021-02-01,1.44,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2021-03-01,1.54,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2021-04-01,1.57,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2021-05-01,1.57,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2021-06-01,1.59,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2021-07-01,1.69,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2021-08-01,1.71,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2021-09-01,1.76,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2021-10-01,1.87,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2021-11-01,1.89,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2021-12-01,2.04,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2022-01-01,2.25,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2022-02-01,2.34,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2022-03-01,1.94,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2022-04-01,2.96,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2022-05-01,3.02,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2022-06-01,2.86,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2022-07-01,2.86,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2022-08-01,2.87,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2022-09-01,2.86,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2022-10-01,2.72,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2022-11-01,2.48,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2022-12-01,2.46,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2023-01-01,2.43,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2023-02-01,2.43,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2023-03-01,2.43,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2023-04-01,2.47,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2023-05-01,2.36,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2023-06-01,1.81,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2023-07-01,1.59,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2023-08-01,1.63,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2023-09-01,1.65,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2023-10-01,1.7,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2023-11-01,1.84,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2023-12-01,1.88,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2024-01-01,1.91,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2024-02-01,1.91,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2024-03-01,1.91,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2024-04-01,1.91,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2024-05-01,1.89,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2024-06-01,1.91,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2024-07-01,1.91,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2024-08-01,1.87,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2024-09-01,1.77,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2024-10-01,1.79,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2024-11-01,1.8,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2024-12-01,1.84,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2025-01-01,1.92,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2025-02-01,1.96,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2025-03-01,1.99,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2025-04-01,2.03,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2025-05-01,2.04,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2025-06-01,2.12,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2025-07-01,2.13,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2025-08-01,2.13,Rice (long grain),Angola,Lunda Sul,RETAIL,Kg
+2021-01-01,0.93,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2021-02-01,0.98,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2021-03-01,1.02,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2021-04-01,1.0,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2021-05-01,1.02,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2021-06-01,1.04,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2021-07-01,1.09,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2021-08-01,1.1,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2021-09-01,1.13,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2021-10-01,1.22,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2021-11-01,1.31,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2021-12-01,1.43,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2022-01-01,1.56,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2022-02-01,1.63,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2022-03-01,1.32,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2022-04-01,2.02,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2022-05-01,2.07,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2022-06-01,1.98,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2022-07-01,1.98,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2022-08-01,2.01,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2022-09-01,2.0,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2022-10-01,1.9,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2022-11-01,1.71,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2022-12-01,1.71,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2023-01-01,1.73,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2023-02-01,1.72,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2023-03-01,1.7,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2023-04-01,1.71,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2023-05-01,1.62,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2023-06-01,1.23,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2023-07-01,1.08,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2023-08-01,1.08,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2023-09-01,1.12,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2023-10-01,1.13,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2023-11-01,1.16,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2023-12-01,1.2,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2024-01-01,1.38,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2024-02-01,1.4,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2024-03-01,1.41,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2024-04-01,1.46,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2024-05-01,1.44,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2024-06-01,1.45,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2024-07-01,1.42,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2024-08-01,1.44,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2024-09-01,1.42,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2024-10-01,1.53,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2024-11-01,1.54,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2024-12-01,1.6,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2025-01-01,1.6,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2025-02-01,1.6,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2025-03-01,1.61,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2025-04-01,1.61,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2025-05-01,1.61,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2025-06-01,1.63,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2025-07-01,1.66,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2025-08-01,1.67,Rice (long grain),Angola,Malanje,RETAIL,Kg
+2021-01-01,0.76,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2021-02-01,0.76,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2021-03-01,0.85,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2021-04-01,0.86,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2021-05-01,0.89,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2021-06-01,0.96,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2021-07-01,0.99,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2021-08-01,1.06,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2021-09-01,1.12,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2021-10-01,1.19,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2021-11-01,1.21,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2021-12-01,1.29,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2022-01-01,1.4,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2022-02-01,1.46,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2022-03-01,1.01,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2022-04-01,1.83,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2022-05-01,1.86,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2022-06-01,1.78,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2022-07-01,1.76,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2022-08-01,1.76,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2022-09-01,1.77,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2022-10-01,1.71,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2022-11-01,1.54,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2022-12-01,1.53,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2023-01-01,1.53,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2023-02-01,1.53,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2023-03-01,1.57,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2023-04-01,1.58,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2023-05-01,1.5,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2023-06-01,1.17,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2023-07-01,1.02,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2023-08-01,1.17,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2023-09-01,1.21,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2023-10-01,1.25,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2023-11-01,1.28,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2023-12-01,1.41,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2024-01-01,1.41,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2024-02-01,1.41,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2024-03-01,1.43,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2024-04-01,1.44,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2024-05-01,1.43,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2024-06-01,1.41,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2024-07-01,1.36,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2024-08-01,1.42,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2024-09-01,1.4,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2024-10-01,1.49,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2024-11-01,1.54,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2024-12-01,1.57,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2025-01-01,1.65,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2025-02-01,1.66,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2025-03-01,1.66,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2025-04-01,1.65,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2025-05-01,1.65,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2025-06-01,1.47,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2025-07-01,1.45,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2025-08-01,1.47,Rice (long grain),Angola,Moxico,RETAIL,Kg
+2021-01-01,0.86,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2021-02-01,0.9,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2021-03-01,0.97,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2021-04-01,0.99,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2021-05-01,1.0,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2021-06-01,1.01,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2021-07-01,1.06,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2021-08-01,1.09,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2021-09-01,1.16,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2021-10-01,1.29,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2021-11-01,1.37,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2021-12-01,1.45,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2022-01-01,1.53,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2022-02-01,1.62,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2022-03-01,1.82,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2022-04-01,1.95,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2022-05-01,1.98,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2022-06-01,1.89,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2022-07-01,1.89,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2022-08-01,1.87,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2022-09-01,1.9,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2022-10-01,1.82,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2022-11-01,1.66,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2022-12-01,1.65,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2023-01-01,1.68,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2023-02-01,1.67,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2023-03-01,1.67,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2023-04-01,1.68,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2023-05-01,1.62,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2023-06-01,1.22,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2023-07-01,1.07,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2023-08-01,1.11,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2023-09-01,1.14,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2023-10-01,1.17,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2023-11-01,1.22,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2023-12-01,1.26,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2024-01-01,1.29,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2024-02-01,1.33,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2024-03-01,1.43,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2024-04-01,1.5,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2024-05-01,1.49,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2024-06-01,1.5,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2024-07-01,1.55,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2024-08-01,1.53,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2024-09-01,1.47,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2024-10-01,1.49,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2024-11-01,1.58,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2024-12-01,1.68,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2025-01-01,1.7,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2025-02-01,1.71,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2025-03-01,1.71,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2025-04-01,1.76,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2025-05-01,2.05,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2025-06-01,2.14,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2025-07-01,2.13,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2025-08-01,2.18,Rice (long grain),Angola,Namibe,RETAIL,Kg
+2021-01-01,1.17,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2021-02-01,1.24,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2021-03-01,1.29,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2021-04-01,1.29,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2021-05-01,1.31,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2021-06-01,1.35,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2021-07-01,1.38,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2021-08-01,1.44,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2021-09-01,1.54,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2021-10-01,1.64,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2021-11-01,1.66,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2021-12-01,1.81,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2022-01-01,1.96,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2022-02-01,2.03,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2022-03-01,1.65,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2022-04-01,2.5,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2022-05-01,2.54,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2022-06-01,2.43,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2022-07-01,2.43,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2022-08-01,2.44,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2022-09-01,2.43,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2022-10-01,2.31,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2022-11-01,2.13,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2022-12-01,2.12,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2023-01-01,2.14,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2023-02-01,2.18,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2023-03-01,2.2,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2023-04-01,2.24,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2023-05-01,2.19,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2023-06-01,1.63,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2023-07-01,1.44,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2023-08-01,1.44,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2023-09-01,1.45,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2023-10-01,1.47,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2023-11-01,1.47,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2023-12-01,1.47,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2024-01-01,1.52,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2024-02-01,1.58,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2024-03-01,1.6,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2024-04-01,1.65,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2024-05-01,1.63,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2024-06-01,1.61,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2024-07-01,1.58,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2024-08-01,1.5,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2024-09-01,1.48,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2024-10-01,1.55,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2024-11-01,1.67,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2024-12-01,1.68,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2025-01-01,1.71,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2025-02-01,1.75,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2025-03-01,1.79,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2025-04-01,1.8,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2025-05-01,1.76,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2025-06-01,1.8,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2025-07-01,1.94,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2025-08-01,1.61,Rice (long grain),Angola,Uíge,RETAIL,Kg
+2021-01-01,1.3,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2021-02-01,1.36,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2021-03-01,1.43,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2021-04-01,1.47,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2021-05-01,1.49,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2021-06-01,1.54,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2021-07-01,1.61,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2021-08-01,1.64,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2021-09-01,1.73,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2021-10-01,1.83,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2021-11-01,1.94,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2021-12-01,2.14,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2022-01-01,2.31,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2022-02-01,2.44,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2022-03-01,1.85,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2022-04-01,3.12,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2022-05-01,3.21,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2022-06-01,3.1,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2022-07-01,3.1,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2022-08-01,3.1,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2022-09-01,3.07,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2022-10-01,2.94,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2022-11-01,2.62,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2022-12-01,2.62,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2023-01-01,2.62,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2023-02-01,2.18,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2023-03-01,2.7,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2023-04-01,2.74,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2023-05-01,2.64,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2023-06-01,2.0,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2023-07-01,1.77,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2023-08-01,1.77,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2023-09-01,1.85,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2023-10-01,1.88,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2023-11-01,1.94,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2023-12-01,1.94,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2024-01-01,1.99,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2024-02-01,2.0,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2024-03-01,1.99,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2024-04-01,2.0,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2024-05-01,1.97,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2024-06-01,1.99,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2024-07-01,1.95,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2024-08-01,1.99,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2024-09-01,1.95,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2024-10-01,2.01,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2024-11-01,2.05,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2024-12-01,2.16,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2025-01-01,2.2,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2025-02-01,2.22,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2025-03-01,2.26,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2025-04-01,2.26,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2025-05-01,2.3,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2025-06-01,2.28,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2025-07-01,2.28,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2025-08-01,2.31,Rice (long grain),Angola,Zaire,RETAIL,Kg
+2006-01-01,0.62,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2006-02-01,0.61,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2006-03-01,0.63,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2006-04-01,0.64,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2006-05-01,0.67,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2006-06-01,0.69,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2006-07-01,0.7,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2006-08-01,0.72,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2006-09-01,0.71,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2006-10-01,0.69,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2006-11-01,0.68,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2006-12-01,0.68,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2007-01-01,0.63,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2007-02-01,0.72,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2007-03-01,0.7,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2007-04-01,0.75,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2007-05-01,0.74,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2007-06-01,0.73,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2007-07-01,0.77,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2007-08-01,0.77,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2007-09-01,0.77,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2007-10-01,0.79,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2007-11-01,0.81,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2007-12-01,0.81,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2008-01-01,0.88,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2008-02-01,0.87,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2008-03-01,0.93,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2008-04-01,1.01,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2008-05-01,1.19,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2008-06-01,1.24,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2008-07-01,1.24,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2008-08-01,1.25,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2008-09-01,1.32,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2008-10-01,1.35,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2008-11-01,1.03,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2008-12-01,1.08,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2009-01-01,1.06,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2009-02-01,1.04,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2009-03-01,1.08,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2009-04-01,1.09,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2009-05-01,1.13,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2009-06-01,1.16,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2009-07-01,1.16,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2009-08-01,1.17,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2009-09-01,1.19,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2009-10-01,1.22,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2009-11-01,1.22,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2009-12-01,1.2,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2010-01-01,1.17,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2010-02-01,1.13,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2010-03-01,1.12,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2010-04-01,1.1,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2010-05-01,1.04,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2010-06-01,1.01,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2010-07-01,1.05,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2010-08-01,1.06,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2010-09-01,0.97,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2010-10-01,1.13,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2010-11-01,1.11,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2010-12-01,1.09,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2011-01-01,1.09,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2011-02-01,1.12,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2011-03-01,1.14,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2011-04-01,1.19,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2011-05-01,1.19,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2011-06-01,1.19,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2011-07-01,1.18,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2011-08-01,1.19,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2011-09-01,1.14,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2011-10-01,1.19,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2011-11-01,1.18,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2011-12-01,1.21,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2012-01-01,1.19,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2012-02-01,1.22,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2012-03-01,1.32,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2012-04-01,1.22,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2012-05-01,1.17,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2012-06-01,1.12,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2012-07-01,1.11,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2012-08-01,1.13,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2012-09-01,1.16,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2012-10-01,1.17,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2012-11-01,1.12,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2012-12-01,1.16,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2013-01-01,1.2,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2013-02-01,1.26,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2013-03-01,1.24,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2013-04-01,1.18,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2013-05-01,1.18,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2013-06-01,1.14,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2013-07-01,1.15,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2013-08-01,1.2,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2013-09-01,1.17,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2013-10-01,1.18,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2013-11-01,1.16,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2013-12-01,1.17,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2014-01-01,1.15,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2014-02-01,1.18,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2014-03-01,1.2,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2014-04-01,1.18,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2014-05-01,1.17,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2014-06-01,1.17,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2014-07-01,,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2014-08-01,,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2014-09-01,1.09,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2014-10-01,1.04,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2014-11-01,1.02,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2014-12-01,1.01,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2015-01-01,,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2015-02-01,0.9,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2015-03-01,0.86,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2015-04-01,0.85,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2015-05-01,0.88,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2015-06-01,0.89,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2015-07-01,0.88,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2015-08-01,0.89,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2015-09-01,,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2015-10-01,0.9,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2015-11-01,0.86,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2015-12-01,0.91,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2016-01-01,0.88,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2016-02-01,0.9,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2016-03-01,0.9,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2016-04-01,,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2016-05-01,0.91,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2016-06-01,0.89,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2016-07-01,0.88,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2016-08-01,0.89,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2016-09-01,0.89,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2016-10-01,0.87,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2016-11-01,0.86,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2016-12-01,0.84,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2017-01-01,,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2017-02-01,0.85,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2017-03-01,0.85,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2017-04-01,0.83,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2017-05-01,0.84,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2017-06-01,0.88,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2017-07-01,0.89,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2017-08-01,0.9,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2017-09-01,0.91,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2017-10-01,0.9,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2017-11-01,0.9,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2017-12-01,0.9,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2018-01-01,0.94,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2018-02-01,0.97,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2018-03-01,0.98,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2018-04-01,0.97,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2018-05-01,0.91,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2018-06-01,0.91,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2018-07-01,0.92,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2018-08-01,0.89,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2018-09-01,0.9,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2018-10-01,0.89,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2018-11-01,0.87,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2018-12-01,0.87,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2019-01-01,0.89,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2019-02-01,0.87,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2019-03-01,0.89,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2019-04-01,0.88,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2019-05-01,0.88,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2019-06-01,0.89,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2019-07-01,0.88,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2019-08-01,0.88,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2019-09-01,0.86,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2019-10-01,0.86,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2019-11-01,0.87,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2019-12-01,0.87,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2020-01-01,0.88,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2020-02-01,0.86,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2020-03-01,1.03,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2020-04-01,0.88,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2020-05-01,0.85,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2020-06-01,0.87,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2020-07-01,0.88,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2020-08-01,0.91,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2020-09-01,0.91,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2020-10-01,0.97,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2020-11-01,0.95,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2020-12-01,0.98,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2021-01-01,0.98,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2021-02-01,0.97,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2021-03-01,0.97,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2021-04-01,0.99,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2021-05-01,1.02,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2021-06-01,1.04,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2021-07-01,1.02,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2021-08-01,1.0,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2021-09-01,1.01,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2021-10-01,1.06,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2021-11-01,1.07,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2021-12-01,1.08,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2022-01-01,1.14,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2022-02-01,1.17,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2022-03-01,1.19,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2022-04-01,1.16,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2022-05-01,1.12,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2022-06-01,1.12,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2022-07-01,1.08,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2022-08-01,1.06,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2022-09-01,1.09,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2022-10-01,1.02,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2022-11-01,0.98,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2022-12-01,1.03,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2023-01-01,1.06,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2023-02-01,1.09,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2023-03-01,1.06,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2023-04-01,1.05,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2023-05-01,1.06,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2023-06-01,1.05,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2023-07-01,1.05,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2023-08-01,1.06,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2023-09-01,1.05,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2023-10-01,1.03,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2023-11-01,1.02,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2023-12-01,1.05,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2024-01-01,1.05,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2024-02-01,1.04,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2024-03-01,1.05,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2024-04-01,1.05,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2024-05-01,1.04,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2024-06-01,1.07,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2024-07-01,1.12,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2024-08-01,1.14,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2024-09-01,1.16,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2024-10-01,1.16,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2024-11-01,1.14,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2024-12-01,1.12,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2025-01-01,1.12,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2025-02-01,1.1,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2025-03-01,1.28,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2025-04-01,1.42,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2025-05-01,1.43,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2025-06-01,1.45,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2025-07-01,1.46,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2025-08-01,1.49,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2025-09-01,1.41,Rice (long grain),Cabo Verde,S.Antão,RETAIL,Kg
+2006-01-01,0.61,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2006-02-01,0.58,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2006-03-01,0.59,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2006-04-01,0.7,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2006-05-01,0.72,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2006-06-01,0.71,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2006-07-01,0.68,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2006-08-01,0.71,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2006-09-01,0.7,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2006-10-01,0.68,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2006-11-01,0.68,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2006-12-01,0.71,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2007-01-01,0.72,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2007-02-01,0.77,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2007-03-01,0.78,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2007-04-01,0.81,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2007-05-01,0.78,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2007-06-01,0.77,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2007-07-01,0.79,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2007-08-01,0.78,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2007-09-01,0.8,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2007-10-01,0.81,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2007-11-01,0.84,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2007-12-01,0.85,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2008-01-01,0.73,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2008-02-01,0.73,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2008-03-01,0.83,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2008-04-01,0.83,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2008-05-01,1.03,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2008-06-01,1.13,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2008-07-01,1.29,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2008-08-01,1.04,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2008-09-01,0.87,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2008-10-01,0.91,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2008-11-01,0.83,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2008-12-01,0.94,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2009-01-01,1.05,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2009-02-01,1.0,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2009-03-01,0.92,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2009-04-01,0.94,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2009-05-01,0.87,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2009-06-01,0.86,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2009-07-01,0.86,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2009-08-01,0.93,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2009-09-01,1.14,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2009-10-01,1.1,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2009-11-01,1.09,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2009-12-01,1.05,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2010-01-01,0.95,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2010-02-01,0.95,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2010-03-01,0.98,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2010-04-01,1.01,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2010-05-01,0.99,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2010-06-01,0.94,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2010-07-01,0.99,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2010-08-01,0.97,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2010-09-01,0.97,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2010-10-01,1.05,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2010-11-01,1.03,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2010-12-01,1.01,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2011-01-01,1.02,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2011-02-01,1.02,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2011-03-01,1.02,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2011-04-01,1.07,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2011-05-01,1.06,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2011-06-01,1.03,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2011-07-01,1.07,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2011-08-01,1.11,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2011-09-01,0.99,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2011-10-01,1.1,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2011-11-01,1.12,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2011-12-01,1.03,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2012-01-01,0.98,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2012-02-01,1.0,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2012-03-01,0.98,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2012-04-01,0.96,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2012-05-01,0.95,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2012-06-01,1.0,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2012-07-01,0.91,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2012-08-01,0.93,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2012-09-01,0.99,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2012-10-01,1.05,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2012-11-01,1.04,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2012-12-01,1.05,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2013-01-01,1.03,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2013-02-01,1.12,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2013-03-01,1.09,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2013-04-01,1.07,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2013-05-01,1.01,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2013-06-01,1.09,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2013-07-01,1.09,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2013-08-01,1.08,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2013-09-01,1.09,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2013-10-01,1.09,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2013-11-01,1.02,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2013-12-01,1.1,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2014-01-01,1.1,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2014-02-01,1.02,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2014-03-01,1.03,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2014-04-01,1.07,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2014-05-01,1.01,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2014-06-01,0.98,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2014-07-01,,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2014-08-01,,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2014-09-01,0.93,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2014-10-01,0.92,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2014-11-01,0.9,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2014-12-01,0.89,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2015-01-01,,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2015-02-01,0.77,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2015-03-01,0.75,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2015-04-01,0.76,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2015-05-01,0.77,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2015-06-01,0.79,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2015-07-01,0.8,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2015-08-01,0.75,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2015-09-01,,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2015-10-01,0.85,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2015-11-01,0.78,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2015-12-01,0.76,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2016-01-01,0.77,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2016-02-01,0.8,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2016-03-01,0.81,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2016-04-01,,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2016-05-01,0.81,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2016-06-01,0.76,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2016-07-01,0.75,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2016-08-01,0.76,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2016-09-01,0.76,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2016-10-01,0.76,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2016-11-01,0.74,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2016-12-01,0.72,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2017-01-01,0.72,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2017-02-01,0.72,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2017-03-01,0.72,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2017-04-01,0.74,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2017-05-01,0.75,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2017-06-01,0.75,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2017-07-01,0.76,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2017-08-01,0.81,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2017-09-01,0.8,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2017-10-01,0.79,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2017-11-01,0.8,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2017-12-01,0.81,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2018-01-01,0.82,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2018-02-01,0.84,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2018-03-01,0.84,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2018-04-01,0.84,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2018-05-01,0.82,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2018-06-01,0.79,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2018-07-01,0.81,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2018-08-01,0.79,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2018-09-01,0.82,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2018-10-01,0.78,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2018-11-01,0.77,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2018-12-01,0.77,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2019-01-01,0.83,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2019-02-01,0.79,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2019-03-01,0.78,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2019-04-01,0.77,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2019-05-01,0.79,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2019-06-01,0.79,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2019-07-01,0.78,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2019-08-01,0.78,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2019-09-01,0.77,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2019-10-01,0.78,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2019-11-01,0.78,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2019-12-01,0.79,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2020-01-01,0.77,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2020-02-01,0.76,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2020-03-01,0.77,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2020-04-01,0.82,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2020-05-01,0.79,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2020-06-01,0.81,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2020-07-01,0.86,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2020-08-01,0.9,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2020-09-01,0.89,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2020-10-01,0.89,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2020-11-01,0.9,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2020-12-01,0.93,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2021-01-01,0.95,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2021-02-01,0.94,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2021-03-01,0.92,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2021-04-01,0.89,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2021-05-01,0.91,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2021-06-01,0.91,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2021-07-01,0.89,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2021-08-01,0.92,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2021-09-01,0.91,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2021-10-01,0.91,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2021-11-01,0.92,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2021-12-01,0.91,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2022-01-01,0.99,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2022-02-01,1.07,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2022-03-01,1.04,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2022-04-01,1.02,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2022-05-01,1.0,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2022-06-01,1.0,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2022-07-01,0.97,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2022-08-01,0.96,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2022-09-01,0.94,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2022-10-01,0.93,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2022-11-01,0.94,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2022-12-01,0.97,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2023-01-01,1.01,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2023-02-01,1.03,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2023-03-01,1.04,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2023-04-01,0.99,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2023-05-01,1.03,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2023-06-01,1.02,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2023-07-01,1.01,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2023-08-01,1.02,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2023-09-01,1.0,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2023-10-01,0.99,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2023-11-01,0.99,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2023-12-01,1.05,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2024-01-01,1.05,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2024-02-01,1.02,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2024-03-01,1.05,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2024-04-01,1.04,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2024-05-01,1.04,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2024-06-01,1.05,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2024-07-01,1.13,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2024-08-01,1.15,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2024-09-01,1.17,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2024-10-01,1.15,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2024-11-01,1.12,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2024-12-01,1.12,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2025-01-01,1.11,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2025-02-01,1.12,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2025-03-01,1.2,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2025-04-01,1.46,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2025-05-01,1.42,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2025-06-01,1.47,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2025-07-01,1.4,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2025-08-01,1.4,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2025-09-01,1.4,Rice (long grain),Cabo Verde,S.Vincente,RETAIL,Kg
+2006-01-01,0.64,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2006-02-01,0.63,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2006-03-01,0.63,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2006-04-01,0.64,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2006-05-01,0.67,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2006-06-01,0.68,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2006-07-01,0.69,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2006-08-01,0.7,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2006-09-01,0.69,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2006-10-01,0.68,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2006-11-01,0.69,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2006-12-01,0.71,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2007-01-01,0.72,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2007-02-01,0.77,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2007-03-01,0.78,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2007-04-01,0.81,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2007-05-01,0.78,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2007-06-01,0.77,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2007-07-01,0.79,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2007-08-01,0.78,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2007-09-01,0.8,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2007-10-01,0.81,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2007-11-01,0.84,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2007-12-01,0.85,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2008-01-01,0.78,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2008-02-01,0.69,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2008-03-01,0.82,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2008-04-01,0.85,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2008-05-01,0.95,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2008-06-01,0.9,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2008-07-01,1.1,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2008-08-01,0.98,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2008-09-01,0.99,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2008-10-01,0.94,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2008-11-01,0.94,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2008-12-01,0.98,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2009-01-01,1.0,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2009-02-01,1.0,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2009-03-01,1.02,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2009-04-01,1.04,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2009-05-01,1.08,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2009-06-01,1.11,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2009-07-01,1.13,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2009-08-01,1.13,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2009-09-01,1.16,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2009-10-01,1.17,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2009-11-01,1.18,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2009-12-01,1.2,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2010-01-01,1.2,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2010-02-01,1.19,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2010-03-01,1.14,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2010-04-01,1.13,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2010-05-01,1.03,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2010-06-01,1.02,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2010-07-01,1.07,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2010-08-01,1.07,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2010-09-01,1.1,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2010-10-01,1.18,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2010-11-01,1.18,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2010-12-01,1.13,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2011-01-01,1.16,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2011-02-01,1.17,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2011-03-01,1.18,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2011-04-01,1.27,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2011-05-01,1.24,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2011-06-01,1.24,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2011-07-01,1.23,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2011-08-01,1.27,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2011-09-01,1.19,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2011-10-01,1.16,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2011-11-01,1.17,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2011-12-01,1.12,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2012-01-01,1.08,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2012-02-01,1.11,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2012-03-01,1.11,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2012-04-01,1.2,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2012-05-01,1.24,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2012-06-01,1.22,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2012-07-01,1.22,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2012-08-01,1.23,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2012-09-01,1.19,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2012-10-01,1.24,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2012-11-01,1.21,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2012-12-01,1.23,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2013-01-01,1.17,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2013-02-01,1.16,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2013-03-01,1.11,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2013-04-01,1.1,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2013-05-01,1.15,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2013-06-01,1.21,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2013-07-01,1.19,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2013-08-01,1.18,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2013-09-01,1.14,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2013-10-01,1.15,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2013-11-01,1.11,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2013-12-01,1.14,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2014-01-01,1.09,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2014-02-01,1.1,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2014-03-01,1.11,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2014-04-01,1.12,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2014-05-01,1.09,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2014-06-01,1.18,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2014-07-01,,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2014-08-01,,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2014-09-01,1.08,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2014-10-01,1.05,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2014-11-01,1.05,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2014-12-01,1.02,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2015-01-01,,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2015-02-01,0.95,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2015-03-01,0.86,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2015-04-01,0.87,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2015-05-01,0.9,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2015-06-01,0.88,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2015-07-01,0.87,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2015-08-01,0.88,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2015-09-01,,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2015-10-01,0.89,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2015-11-01,0.84,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2015-12-01,0.86,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2016-01-01,0.87,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2016-02-01,0.85,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2016-03-01,0.88,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2016-04-01,,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2016-05-01,0.87,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2016-06-01,0.86,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2016-07-01,0.84,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2016-08-01,0.86,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2016-09-01,0.86,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2016-10-01,0.81,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2016-11-01,0.79,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2016-12-01,0.8,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2017-01-01,,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2017-02-01,0.81,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2017-03-01,0.82,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2017-04-01,0.81,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2017-05-01,0.84,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2017-06-01,0.87,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2017-07-01,0.9,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2017-08-01,0.92,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2017-09-01,0.93,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2017-10-01,0.89,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2017-11-01,0.88,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2017-12-01,0.88,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2018-01-01,0.93,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2018-02-01,0.95,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2018-03-01,0.97,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2018-04-01,0.95,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2018-05-01,0.92,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2018-06-01,0.93,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2018-07-01,0.92,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2018-08-01,0.9,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2018-09-01,0.94,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2018-10-01,0.91,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2018-11-01,0.9,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2018-12-01,0.89,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2019-01-01,0.96,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2019-02-01,0.94,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2019-03-01,0.93,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2019-04-01,0.93,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2019-05-01,0.92,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2019-06-01,0.93,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2019-07-01,0.93,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2019-08-01,0.92,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2019-09-01,0.91,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2019-10-01,0.92,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2019-11-01,0.91,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2019-12-01,0.92,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2020-01-01,0.92,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2020-02-01,0.9,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2020-03-01,0.92,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2020-04-01,0.92,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2020-05-01,0.91,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2020-06-01,0.94,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2020-07-01,0.95,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2020-08-01,1.0,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2020-09-01,1.0,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2020-10-01,1.0,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2020-11-01,1.02,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2020-12-01,1.04,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2021-01-01,1.08,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2021-02-01,1.06,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2021-03-01,1.08,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2021-04-01,1.13,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2021-05-01,1.17,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2021-06-01,1.15,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2021-07-01,1.12,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2021-08-01,1.08,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2021-09-01,1.06,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2021-10-01,1.04,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2021-11-01,1.04,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2021-12-01,1.12,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2022-01-01,1.02,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2022-02-01,1.05,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2022-03-01,1.06,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2022-04-01,1.07,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2022-05-01,1.08,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2022-06-01,1.1,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2022-07-01,1.02,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2022-08-01,1.04,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2022-09-01,1.01,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2022-10-01,0.99,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2022-11-01,0.99,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2022-12-01,1.03,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2023-01-01,1.09,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2023-02-01,1.1,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2023-03-01,1.14,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2023-04-01,1.13,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2023-05-01,1.17,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2023-06-01,1.15,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2023-07-01,1.15,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2023-08-01,1.18,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2023-09-01,1.17,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2023-10-01,1.17,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2023-11-01,1.16,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2023-12-01,1.21,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2024-01-01,1.2,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2024-02-01,1.18,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2024-03-01,1.24,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2024-04-01,1.2,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2024-05-01,1.2,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2024-06-01,1.23,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2024-07-01,1.29,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2024-08-01,1.31,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2024-09-01,1.36,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2024-10-01,1.31,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2024-11-01,1.24,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2024-12-01,1.19,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2025-01-01,1.23,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2025-02-01,1.24,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2025-03-01,1.27,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2025-04-01,1.35,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2025-05-01,1.32,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2025-06-01,1.36,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2025-07-01,1.33,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2025-08-01,1.35,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2025-09-01,1.34,Rice (long grain),Cabo Verde,Santiago,RETAIL,Kg
+2005-01-01,0.64,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2005-02-01,0.64,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2005-03-01,0.68,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2005-04-01,0.65,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2005-05-01,0.66,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2005-06-01,0.66,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2005-07-01,0.66,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2005-08-01,0.66,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2005-09-01,0.66,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2005-10-01,0.66,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2005-11-01,0.67,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2005-12-01,0.67,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2006-01-01,0.64,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2006-02-01,0.62,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2006-03-01,0.61,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2006-04-01,0.58,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2006-05-01,0.58,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2006-06-01,0.59,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2006-07-01,0.59,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2006-08-01,0.59,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2006-09-01,0.59,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2006-10-01,0.59,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2006-11-01,0.59,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2006-12-01,0.59,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2007-01-01,0.62,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2007-02-01,0.61,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2007-03-01,0.63,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2007-04-01,0.64,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2007-05-01,0.62,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2007-06-01,0.6,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2007-07-01,0.62,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2007-08-01,0.63,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2007-09-01,0.66,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2007-10-01,0.69,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2007-11-01,0.72,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2007-12-01,0.75,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2008-01-01,0.76,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2008-02-01,0.76,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2008-03-01,0.84,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2008-04-01,0.83,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2008-05-01,0.84,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2008-06-01,0.82,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2008-07-01,0.83,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2008-08-01,0.87,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2008-09-01,0.86,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2008-10-01,0.86,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2008-11-01,0.84,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2008-12-01,0.85,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2009-01-01,0.84,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2009-02-01,0.84,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2009-03-01,0.84,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2009-04-01,0.83,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2009-05-01,0.81,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2009-06-01,0.81,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2009-07-01,0.81,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2009-08-01,0.81,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2009-09-01,0.81,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2009-10-01,0.82,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2009-11-01,0.82,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2009-12-01,0.82,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2010-01-01,0.81,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2010-02-01,0.84,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2010-03-01,0.83,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2010-04-01,0.81,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2010-05-01,0.8,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2010-06-01,0.81,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2010-07-01,0.78,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2010-08-01,0.78,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2010-09-01,0.79,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2010-10-01,0.81,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2010-11-01,0.85,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2010-12-01,0.88,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2011-01-01,0.84,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2011-02-01,0.86,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2011-03-01,0.88,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2011-04-01,0.88,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2011-05-01,,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2011-06-01,,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2011-07-01,,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2011-08-01,0.86,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2011-09-01,0.9,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2011-10-01,0.91,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2011-11-01,0.92,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2011-12-01,0.93,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2012-01-01,0.93,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2012-02-01,0.9,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2012-03-01,0.97,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2012-04-01,0.97,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2012-05-01,0.98,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2012-06-01,0.98,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2012-07-01,1.0,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2012-08-01,1.03,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2012-09-01,,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2012-10-01,,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2012-11-01,,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2012-12-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2013-01-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2013-02-01,1.04,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2013-03-01,1.03,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2013-04-01,1.03,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2013-05-01,1.01,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2013-06-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2013-07-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2013-08-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2013-09-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2013-10-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2013-11-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2013-12-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2014-01-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2014-02-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2014-03-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2014-04-01,1.09,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2014-05-01,1.1,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2014-06-01,1.1,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2014-07-01,1.1,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2014-08-01,1.1,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2014-09-01,1.13,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2014-10-01,1.11,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2014-11-01,1.09,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2014-12-01,1.09,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2015-01-01,1.12,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2015-02-01,1.12,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2015-03-01,1.17,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2015-04-01,1.2,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2015-05-01,1.21,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2015-06-01,1.2,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2015-07-01,1.2,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2015-08-01,1.22,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2015-09-01,1.21,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2015-10-01,1.22,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2015-11-01,1.22,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2015-12-01,1.21,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2016-01-01,1.19,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2016-02-01,1.21,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2016-03-01,1.22,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2016-04-01,1.27,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2016-05-01,1.29,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2016-06-01,1.27,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2016-07-01,1.27,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2016-08-01,1.25,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2016-09-01,1.24,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2016-10-01,1.23,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2016-11-01,1.16,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2016-12-01,1.15,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2017-01-01,1.19,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2017-02-01,1.2,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2017-03-01,1.19,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2017-04-01,1.22,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2017-05-01,1.24,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2017-06-01,1.24,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2017-07-01,1.24,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2017-08-01,1.23,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2017-09-01,1.19,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2017-10-01,1.19,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2017-11-01,1.18,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2017-12-01,1.15,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2018-01-01,1.15,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2018-02-01,1.15,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2018-03-01,1.12,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2018-04-01,1.13,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2018-05-01,1.1,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2018-06-01,1.14,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2018-07-01,1.17,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2018-08-01,1.14,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2018-09-01,1.13,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2018-10-01,1.1,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2018-11-01,1.08,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2018-12-01,1.1,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2019-01-01,1.06,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2019-02-01,1.06,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2019-03-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2019-04-01,1.06,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2019-05-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2019-06-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2019-07-01,1.07,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2019-08-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2019-09-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2019-10-01,1.07,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2019-11-01,1.06,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2019-12-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2020-01-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2020-02-01,1.07,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2020-03-01,1.08,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2020-04-01,1.06,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2020-05-01,1.1,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2020-06-01,1.08,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2020-07-01,1.1,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2020-08-01,1.08,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2020-09-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2020-10-01,1.06,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2020-11-01,1.05,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2020-12-01,0.99,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2021-01-01,0.99,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2021-02-01,0.99,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2021-03-01,0.99,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2021-04-01,0.99,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2021-05-01,0.95,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2021-06-01,0.94,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2021-07-01,0.92,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2021-08-01,0.96,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2021-09-01,0.98,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2021-10-01,0.94,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2021-11-01,0.95,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2021-12-01,0.99,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2022-01-01,0.96,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2022-02-01,0.96,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2022-03-01,0.98,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2022-04-01,0.98,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2022-05-01,0.97,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2022-06-01,0.99,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2022-07-01,0.98,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2022-08-01,1.0,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2022-09-01,1.03,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2022-10-01,1.0,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2022-11-01,0.99,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2022-12-01,0.99,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2023-01-01,0.99,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2023-02-01,0.99,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2023-03-01,0.98,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2023-04-01,0.99,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2023-05-01,0.99,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2023-06-01,1.19,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2023-07-01,1.26,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2023-08-01,1.22,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2023-09-01,1.3,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2023-10-01,1.32,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2023-11-01,1.32,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2023-12-01,1.32,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2024-01-01,1.31,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2024-02-01,1.3,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2024-03-01,1.34,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2024-04-01,1.3,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2024-05-01,1.31,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2024-06-01,1.37,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2024-07-01,1.39,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2024-08-01,1.34,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2024-09-01,1.28,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2024-10-01,1.28,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2024-11-01,1.27,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2024-12-01,1.32,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2025-01-01,1.26,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2025-02-01,1.29,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2025-03-01,1.24,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2025-04-01,1.2,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2025-05-01,1.28,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2025-06-01,1.24,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2025-07-01,1.13,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2025-08-01,1.06,Rice (long grain),Ecuador,Cuenca,WHOLESALE,Kg
+2005-01-01,0.51,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2005-02-01,0.55,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2005-03-01,0.58,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2005-04-01,0.54,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2005-05-01,0.5,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2005-06-01,0.47,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2005-07-01,0.47,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2005-08-01,0.49,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2005-09-01,0.51,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2005-10-01,0.47,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2005-11-01,0.48,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2005-12-01,0.48,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2006-01-01,0.48,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2006-02-01,0.48,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2006-03-01,0.49,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2006-04-01,0.48,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2006-05-01,0.45,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2006-06-01,0.45,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2006-07-01,0.45,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2006-08-01,0.48,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2006-09-01,0.45,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2006-10-01,0.48,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2006-11-01,0.52,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2006-12-01,0.55,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2007-01-01,0.55,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2007-02-01,0.56,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2007-03-01,0.59,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2007-04-01,0.59,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2007-05-01,0.57,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2007-06-01,0.56,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2007-07-01,0.6,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2007-08-01,0.6,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2007-09-01,0.61,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2007-10-01,0.61,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2007-11-01,0.63,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2007-12-01,0.66,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2008-01-01,0.66,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2008-02-01,0.68,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2008-03-01,0.75,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2008-04-01,0.75,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2008-05-01,0.76,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2008-06-01,0.76,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2008-07-01,0.77,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2008-08-01,0.77,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2008-09-01,0.74,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2008-10-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2008-11-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2008-12-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2009-01-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2009-02-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2009-03-01,0.73,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2009-04-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2009-05-01,0.69,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2009-06-01,0.67,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2009-07-01,0.66,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2009-08-01,0.65,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2009-09-01,0.62,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2009-10-01,0.64,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2009-11-01,0.65,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2009-12-01,0.64,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2010-01-01,,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2010-02-01,0.68,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2010-03-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2010-04-01,0.68,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2010-05-01,0.67,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2010-06-01,0.65,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2010-07-01,0.67,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2010-08-01,0.69,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2010-09-01,0.66,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2010-10-01,0.66,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2010-11-01,0.68,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2010-12-01,,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2011-01-01,0.67,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2011-02-01,0.66,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2011-03-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2011-04-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2011-05-01,,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2011-06-01,,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2011-07-01,,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2011-08-01,,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2011-09-01,0.77,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2011-10-01,0.7,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2011-11-01,0.74,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2011-12-01,0.74,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2012-01-01,0.76,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2012-02-01,0.76,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2012-03-01,0.81,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2012-04-01,0.88,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2012-05-01,0.8,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2012-06-01,0.78,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2012-07-01,0.85,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2012-08-01,0.88,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2012-09-01,0.86,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2012-10-01,0.85,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2012-11-01,0.83,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2012-12-01,0.81,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2013-01-01,0.81,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2013-02-01,0.79,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2013-03-01,0.79,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2013-04-01,0.81,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2013-05-01,0.8,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2013-06-01,0.74,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2013-07-01,0.82,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2013-08-01,0.83,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2013-09-01,0.8,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2013-10-01,0.75,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2013-11-01,0.78,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2013-12-01,0.81,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2014-01-01,0.81,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2014-02-01,0.81,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2014-03-01,0.81,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2014-04-01,0.81,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2014-05-01,0.8,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2014-06-01,0.81,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2014-07-01,0.84,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2014-08-01,0.85,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2014-09-01,0.85,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2014-10-01,0.89,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2014-11-01,0.88,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2014-12-01,0.85,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2015-01-01,0.83,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2015-02-01,0.83,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2015-03-01,0.98,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2015-04-01,1.01,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2015-05-01,0.97,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2015-06-01,1.0,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2015-07-01,1.01,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2015-08-01,1.02,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2015-09-01,1.03,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2015-10-01,1.01,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2015-11-01,0.96,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2015-12-01,0.96,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2016-01-01,0.94,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2016-02-01,0.98,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2016-03-01,1.0,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2016-04-01,0.98,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2016-05-01,0.92,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2016-06-01,0.96,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2016-07-01,1.0,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2016-08-01,0.98,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2016-09-01,0.89,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2016-10-01,0.89,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2016-11-01,0.88,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2016-12-01,0.88,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2017-01-01,0.85,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2017-02-01,0.83,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2017-03-01,0.79,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2017-04-01,0.82,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2017-05-01,0.83,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2017-06-01,0.84,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2017-07-01,0.85,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2017-08-01,0.85,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2017-09-01,0.84,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2017-10-01,0.79,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2017-11-01,0.78,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2017-12-01,0.74,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2018-01-01,0.73,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2018-02-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2018-03-01,0.73,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2018-04-01,0.7,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2018-05-01,0.7,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2018-06-01,0.7,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2018-07-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2018-08-01,0.74,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2018-09-01,0.76,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2018-10-01,0.69,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2018-11-01,0.63,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2018-12-01,0.62,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2019-01-01,0.62,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2019-02-01,0.61,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2019-03-01,0.68,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2019-04-01,0.71,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2019-05-01,0.7,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2019-06-01,0.75,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2019-07-01,0.77,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2019-08-01,0.77,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2019-09-01,0.76,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2019-10-01,0.73,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2019-11-01,0.74,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2019-12-01,0.73,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2020-01-01,0.74,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2020-02-01,0.79,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2020-03-01,0.81,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2020-04-01,0.83,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2020-05-01,0.84,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2020-06-01,0.83,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2020-07-01,0.8,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2020-08-01,0.78,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2020-09-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2020-10-01,0.69,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2020-11-01,0.66,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2020-12-01,0.68,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2021-01-01,0.66,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2021-02-01,0.65,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2021-03-01,0.68,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2021-04-01,0.64,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2021-05-01,0.61,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2021-06-01,0.59,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2021-07-01,0.59,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2021-08-01,0.59,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2021-09-01,0.58,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2021-10-01,0.55,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2021-11-01,0.53,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2021-12-01,0.55,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2022-01-01,0.55,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2022-02-01,0.6,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2022-03-01,0.68,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2022-04-01,0.68,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2022-05-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2022-06-01,0.7,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2022-07-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2022-08-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2022-09-01,0.71,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2022-10-01,0.7,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2022-11-01,0.7,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2022-12-01,0.7,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2023-01-01,0.7,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2023-02-01,0.7,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2023-03-01,0.79,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2023-04-01,0.8,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2023-05-01,0.77,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2023-06-01,1.0,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2023-07-01,1.02,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2023-08-01,1.13,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2023-09-01,1.14,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2023-10-01,1.08,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2023-11-01,1.06,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2023-12-01,1.05,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2024-01-01,1.07,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2024-02-01,1.08,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2024-03-01,1.04,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2024-04-01,1.03,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2024-05-01,1.01,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2024-06-01,1.05,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2024-07-01,0.99,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2024-08-01,0.89,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2024-09-01,0.84,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2024-10-01,0.84,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2024-11-01,0.84,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2024-12-01,0.83,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2025-01-01,0.84,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2025-02-01,0.79,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2025-03-01,0.84,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2025-04-01,0.83,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2025-05-01,0.8,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2025-06-01,0.77,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2025-07-01,0.77,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2025-08-01,0.76,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2025-09-01,0.72,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2025-10-01,0.68,Rice (long grain),Ecuador,Guayaquil,WHOLESALE,Kg
+2005-01-01,0.63,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2005-02-01,0.63,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2005-03-01,0.67,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2005-04-01,0.62,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2005-05-01,0.6,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2005-06-01,0.58,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2005-07-01,0.58,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2005-08-01,0.58,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2005-09-01,0.56,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2005-10-01,0.58,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2005-11-01,0.59,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2005-12-01,0.57,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2006-01-01,0.56,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2006-02-01,0.57,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2006-03-01,0.56,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2006-04-01,0.58,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2006-05-01,0.55,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2006-06-01,0.56,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2006-07-01,0.56,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2006-08-01,0.54,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2006-09-01,0.54,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2006-10-01,0.56,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2006-11-01,0.57,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2006-12-01,0.58,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2007-01-01,0.56,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2007-02-01,0.59,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2007-03-01,0.57,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2007-04-01,0.61,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2007-05-01,0.58,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2007-06-01,0.6,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2007-07-01,0.63,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2007-08-01,0.64,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2007-09-01,0.69,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2007-10-01,0.68,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2007-11-01,0.78,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2007-12-01,0.82,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2008-01-01,0.82,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2008-02-01,0.84,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2008-03-01,0.92,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2008-04-01,0.9,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2008-05-01,0.88,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2008-06-01,0.89,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2008-07-01,0.91,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2008-08-01,0.91,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2008-09-01,0.92,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2008-10-01,0.91,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2008-11-01,0.9,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2008-12-01,0.9,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2009-01-01,0.9,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2009-02-01,0.91,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2009-03-01,0.91,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2009-04-01,0.91,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2009-05-01,0.89,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2009-06-01,0.89,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2009-07-01,0.87,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2009-08-01,0.86,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2009-09-01,0.83,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2009-10-01,0.84,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2009-11-01,0.85,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2009-12-01,0.85,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2010-01-01,0.86,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2010-02-01,0.86,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2010-03-01,0.87,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2010-04-01,0.86,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2010-05-01,0.86,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2010-06-01,0.84,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2010-07-01,0.84,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2010-08-01,0.86,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2010-09-01,0.86,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2010-10-01,0.85,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2010-11-01,,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2010-12-01,,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2011-01-01,0.85,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2011-02-01,0.86,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2011-03-01,0.86,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2011-04-01,0.85,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2011-05-01,0.86,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2011-06-01,0.85,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2011-07-01,0.86,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2011-08-01,0.87,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2011-09-01,0.91,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2011-10-01,0.9,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2011-11-01,0.9,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2011-12-01,0.93,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2012-01-01,0.93,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2012-02-01,0.93,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2012-03-01,0.96,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2012-04-01,0.97,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2012-05-01,1.0,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2012-06-01,1.0,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2012-07-01,1.03,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2012-08-01,1.03,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2012-09-01,1.04,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2012-10-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2012-11-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2012-12-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2013-01-01,1.04,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2013-02-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2013-03-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2013-04-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2013-05-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2013-06-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2013-07-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2013-08-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2013-09-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2013-10-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2013-11-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2013-12-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2014-01-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2014-02-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2014-03-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2014-04-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2014-05-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2014-06-01,1.06,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2014-07-01,1.1,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2014-08-01,1.1,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2014-09-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2014-10-01,1.01,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2014-11-01,1.03,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2014-12-01,1.03,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2015-01-01,1.03,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2015-02-01,1.05,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2015-03-01,1.12,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2015-04-01,1.14,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2015-05-01,1.14,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2015-06-01,1.15,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2015-07-01,1.15,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2015-08-01,1.16,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2015-09-01,1.2,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2015-10-01,1.2,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2015-11-01,1.2,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2015-12-01,1.2,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2016-01-01,1.2,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2016-02-01,1.2,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2016-03-01,1.2,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2016-04-01,1.22,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2016-05-01,1.24,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2016-06-01,1.26,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2016-07-01,1.28,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2016-08-01,1.27,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2016-09-01,1.26,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2016-10-01,1.26,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2016-11-01,1.26,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2016-12-01,1.24,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2017-01-01,1.22,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2017-02-01,1.22,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2017-03-01,1.21,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2017-04-01,1.21,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2017-05-01,1.19,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2017-06-01,1.19,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2017-07-01,1.19,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2017-08-01,1.19,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2017-09-01,1.19,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2017-10-01,1.19,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2017-11-01,1.19,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2017-12-01,1.18,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2018-01-01,1.18,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2018-02-01,1.18,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2018-03-01,1.18,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2018-04-01,1.18,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2018-05-01,1.14,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2018-06-01,1.12,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2018-07-01,1.12,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2018-08-01,1.12,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2018-09-01,1.12,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2018-10-01,1.08,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2018-11-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2018-12-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2019-01-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2019-02-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2019-03-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2019-04-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2019-05-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2019-06-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2019-07-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2019-08-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2019-09-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2019-10-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2019-11-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2019-12-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2020-01-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2020-02-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2020-03-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2020-04-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2020-05-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2020-06-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2020-07-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2020-08-01,1.07,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2020-09-01,1.06,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2020-10-01,1.03,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2020-11-01,1.02,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2020-12-01,1.02,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2021-01-01,1.02,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2021-02-01,1.02,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2021-03-01,1.02,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2021-04-01,1.02,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2021-05-01,1.02,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2021-06-01,1.01,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2021-07-01,1.01,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2021-08-01,1.01,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2021-09-01,1.01,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2021-10-01,0.99,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2021-11-01,0.98,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2021-12-01,0.98,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2022-01-01,0.98,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2022-02-01,0.98,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2022-03-01,0.98,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2022-04-01,0.98,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2022-05-01,0.96,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2022-06-01,0.96,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2022-07-01,0.96,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2022-08-01,0.96,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2022-09-01,0.96,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2022-10-01,0.96,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2022-11-01,0.96,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2022-12-01,0.96,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2023-01-01,0.96,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2023-02-01,0.96,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2023-03-01,0.96,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2023-04-01,0.96,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2023-05-01,0.96,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2023-06-01,1.19,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2023-07-01,1.26,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2023-08-01,1.3,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2023-09-01,1.32,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2023-10-01,1.34,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2023-11-01,1.34,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2023-12-01,1.33,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2024-01-01,1.34,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2024-02-01,1.35,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2024-03-01,1.36,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2024-04-01,1.37,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2024-05-01,1.37,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2024-06-01,1.37,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2024-07-01,1.37,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2024-08-01,1.34,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2024-09-01,1.32,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2024-10-01,1.29,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2024-11-01,1.28,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2024-12-01,1.28,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2025-01-01,1.28,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2025-02-01,1.28,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2025-03-01,1.27,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2025-04-01,1.26,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2025-05-01,1.26,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2025-06-01,1.26,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2025-07-01,1.26,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2025-08-01,1.26,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2025-09-01,1.23,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
+2025-10-01,1.23,Rice (long grain),Ecuador,Quito,WHOLESALE,Kg
