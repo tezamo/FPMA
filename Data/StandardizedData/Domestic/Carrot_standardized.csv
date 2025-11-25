@@ -1,0 +1,211 @@
+date,price_usd,commodity_name,country,market,price_type,unit,unit_std,price_per_unit
+2022-01-01,0.61,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.61
+2022-02-01,0.67,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.67
+2022-03-01,0.65,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.65
+2022-04-01,0.67,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.67
+2022-05-01,0.74,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.74
+2022-06-01,0.84,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.84
+2022-07-01,0.77,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.77
+2022-08-01,0.65,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.65
+2022-09-01,0.61,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.61
+2022-10-01,0.59,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.59
+2022-11-01,0.56,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.56
+2022-12-01,0.55,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.55
+2023-01-01,0.57,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.57
+2023-02-01,0.65,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.65
+2023-03-01,0.74,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.74
+2023-04-01,0.85,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.85
+2023-05-01,1.12,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,1.12
+2023-06-01,1.27,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,1.27
+2023-07-01,1.13,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,1.13
+2023-08-01,0.76,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.76
+2023-09-01,0.62,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.62
+2023-10-01,0.58,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.58
+2023-11-01,0.55,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.55
+2023-12-01,0.56,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.56
+2024-01-01,0.57,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.57
+2024-02-01,0.58,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.58
+2024-03-01,0.59,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.59
+2024-04-01,0.58,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.58
+2024-05-01,0.62,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.62
+2024-06-01,0.74,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.74
+2024-07-01,0.73,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.73
+2024-08-01,0.7,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.7
+2024-09-01,0.75,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.75
+2024-10-01,0.71,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.71
+2024-11-01,0.65,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.65
+2024-12-01,0.65,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.65
+2025-01-01,0.71,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.71
+2025-02-01,0.74,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.74
+2025-03-01,0.78,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.78
+2025-04-01,0.85,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.85
+2025-05-01,0.98,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.98
+2025-06-01,1.05,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,1.05
+2025-07-01,0.78,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.78
+2025-08-01,0.59,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.59
+2025-09-01,0.56,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.56
+2025-10-01,0.67,Carrot,Republic of Moldova,National Average,RETAIL,Kg,kg,0.67
+2019-01-01,0.21,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.21
+2019-02-01,0.22,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.22
+2019-03-01,0.23,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.23
+2019-04-01,0.26,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.26
+2019-05-01,0.31,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.31
+2019-06-01,0.29,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.29
+2019-07-01,0.27,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.27
+2019-08-01,0.26,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.26
+2019-09-01,0.28,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.28
+2019-10-01,0.24,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.24
+2019-11-01,0.19,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.19
+2019-12-01,0.17,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.17
+2020-01-01,0.17,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.17
+2020-02-01,0.17,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.17
+2020-03-01,0.16,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.16
+2020-04-01,0.18,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.18
+2020-05-01,0.19,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.19
+2020-06-01,0.2,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.2
+2020-07-01,0.22,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.22
+2020-08-01,0.24,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.24
+2020-09-01,0.24,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.24
+2020-10-01,0.22,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.22
+2020-11-01,0.18,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.18
+2020-12-01,0.18,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.18
+2021-01-01,0.18,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.18
+2021-02-01,0.18,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.18
+2021-03-01,0.2,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.2
+2021-04-01,0.27,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.27
+2021-05-01,0.34,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.34
+2021-06-01,0.63,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.63
+2021-07-01,0.62,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.62
+2021-08-01,0.53,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.53
+2021-09-01,0.45,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.45
+2021-10-01,0.35,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.35
+2021-11-01,0.23,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.23
+2021-12-01,0.2,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.2
+2022-01-01,0.2,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.2
+2022-02-01,0.21,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.21
+2022-03-01,0.22,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.22
+2022-04-01,0.26,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.26
+2022-05-01,0.28,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.28
+2022-06-01,0.28,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.28
+2022-07-01,0.26,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.26
+2022-08-01,0.25,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.25
+2022-09-01,0.24,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.24
+2022-10-01,0.25,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.25
+2022-11-01,0.26,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.26
+2022-12-01,0.26,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.26
+2023-01-01,0.28,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.28
+2023-02-01,0.3,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.3
+2023-03-01,0.28,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.28
+2023-04-01,0.3,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.3
+2023-05-01,0.32,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.32
+2023-06-01,0.32,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.32
+2023-07-01,0.34,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.34
+2023-08-01,0.37,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.37
+2023-09-01,0.39,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.39
+2023-10-01,0.33,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.33
+2023-11-01,0.25,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.25
+2023-12-01,0.22,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.22
+2024-01-01,0.21,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.21
+2024-02-01,0.2,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.2
+2024-03-01,0.19,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.19
+2024-04-01,0.2,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.2
+2024-05-01,0.2,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.2
+2024-06-01,0.21,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.21
+2024-07-01,0.21,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.21
+2024-08-01,0.23,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.23
+2024-09-01,0.26,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.26
+2024-10-01,0.26,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.26
+2024-11-01,0.25,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.25
+2024-12-01,0.24,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.24
+2025-01-01,0.24,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.24
+2025-02-01,0.25,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.25
+2025-03-01,0.37,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.37
+2025-04-01,0.41,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.41
+2025-05-01,0.43,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.43
+2025-06-01,0.51,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.51
+2025-07-01,0.48,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.48
+2025-08-01,0.47,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.47
+2025-09-01,0.49,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.49
+2025-10-01,0.43,Carrot,Uzbekistan,National Average,RETAIL,Kg,kg,0.43
+2019-01-01,0.22,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.22
+2019-02-01,0.22,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.22
+2019-03-01,0.22,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.22
+2019-04-01,0.28,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.28
+2019-05-01,0.32,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.32
+2019-06-01,0.3,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.3
+2019-07-01,0.27,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.27
+2019-08-01,0.28,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.28
+2019-09-01,0.29,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.29
+2019-10-01,0.27,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.27
+2019-11-01,0.22,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.22
+2019-12-01,0.21,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.21
+2020-01-01,0.21,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.21
+2020-02-01,0.21,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.21
+2020-03-01,0.2,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.2
+2020-04-01,0.22,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.22
+2020-05-01,0.21,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.21
+2020-06-01,0.2,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.2
+2020-07-01,0.2,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.2
+2020-08-01,0.23,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.23
+2020-09-01,0.23,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.23
+2020-10-01,0.23,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.23
+2020-11-01,0.2,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.2
+2020-12-01,0.2,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.2
+2021-01-01,0.2,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.2
+2021-02-01,0.2,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.2
+2021-03-01,0.22,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.22
+2021-04-01,0.3,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.3
+2021-05-01,0.4,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.4
+2021-06-01,0.79,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.79
+2021-07-01,0.79,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.79
+2021-08-01,0.72,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.72
+2021-09-01,0.55,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.55
+2021-10-01,0.41,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.41
+2021-11-01,0.29,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.29
+2021-12-01,0.21,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.21
+2022-01-01,0.21,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.21
+2022-02-01,0.24,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.24
+2022-03-01,0.26,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.26
+2022-04-01,0.31,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.31
+2022-05-01,0.33,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.33
+2022-06-01,0.33,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.33
+2022-07-01,0.31,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.31
+2022-08-01,0.3,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.3
+2022-09-01,0.29,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.29
+2022-10-01,0.3,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.3
+2022-11-01,0.31,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.31
+2022-12-01,0.3,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.3
+2023-01-01,0.3,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.3
+2023-02-01,0.32,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.32
+2023-03-01,0.31,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.31
+2023-04-01,0.34,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.34
+2023-05-01,0.36,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.36
+2023-06-01,0.35,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.35
+2023-07-01,0.35,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.35
+2023-08-01,0.38,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.38
+2023-09-01,0.39,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.39
+2023-10-01,0.36,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.36
+2023-11-01,0.29,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.29
+2023-12-01,0.26,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.26
+2024-01-01,0.25,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.25
+2024-02-01,0.22,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.22
+2024-03-01,0.21,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.21
+2024-04-01,0.21,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.21
+2024-05-01,0.21,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.21
+2024-06-01,0.22,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.22
+2024-07-01,0.23,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.23
+2024-08-01,0.23,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.23
+2024-09-01,0.24,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.24
+2024-10-01,0.24,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.24
+2024-11-01,0.25,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.25
+2024-12-01,0.25,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.25
+2025-01-01,0.25,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.25
+2025-02-01,0.25,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.25
+2025-03-01,0.37,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.37
+2025-04-01,0.42,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.42
+2025-05-01,0.44,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.44
+2025-06-01,0.53,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.53
+2025-07-01,0.52,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.52
+2025-08-01,0.49,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.49
+2025-09-01,0.48,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.48
+2025-10-01,0.45,Carrot,Uzbekistan,Tashkent Region,RETAIL,Kg,kg,0.45

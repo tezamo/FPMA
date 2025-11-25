@@ -1,0 +1,456 @@
+date,price_usd,commodity_name,country,market,price_type,unit,unit_std,price_per_unit
+2019-06-01,84.07,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8406999999999999
+2019-07-01,89.74,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8974
+2019-08-01,91.0,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.91
+2019-09-01,92.13,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9213
+2019-10-01,86.74,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8674
+2019-11-01,82.38,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8238
+2019-12-01,82.91,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8291
+2020-01-01,82.34,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8234
+2020-02-01,81.6,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.816
+2020-03-01,92.61,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9261
+2020-04-01,100.93,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.0093
+2020-05-01,,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,
+2020-06-01,98.07,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9806999999999999
+2020-07-01,96.78,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9678
+2020-08-01,98.79,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9879000000000001
+2020-09-01,94.47,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9447
+2020-10-01,93.51,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9351
+2020-11-01,92.13,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9213
+2020-12-01,87.83,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8783
+2021-01-01,87.72,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8772
+2021-02-01,89.93,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8993000000000001
+2021-03-01,92.83,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9283
+2021-04-01,89.09,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8909
+2021-05-01,86.77,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8676999999999999
+2021-06-01,84.68,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8468000000000001
+2021-07-01,93.39,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9339
+2021-08-01,99.08,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9908
+2021-09-01,93.87,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9387000000000001
+2021-10-01,88.36,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8835999999999999
+2021-11-01,78.84,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.7884
+2021-12-01,78.26,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.7826000000000001
+2022-01-01,78.27,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.7827
+2022-02-01,79.71,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.7970999999999999
+2022-03-01,78.8,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.7879999999999999
+2022-04-01,79.75,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.7975
+2022-05-01,83.03,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8303
+2022-06-01,84.47,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8447
+2022-07-01,89.78,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8978
+2022-08-01,91.92,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9192
+2022-09-01,93.29,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9329000000000001
+2022-10-01,87.42,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8742
+2022-11-01,,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,
+2022-12-01,93.79,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9379000000000001
+2023-01-01,92.3,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9229999999999999
+2023-02-01,99.14,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.9914000000000001
+2023-03-01,116.63,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.1663
+2023-04-01,133.89,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.3388999999999998
+2023-05-01,130.54,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.3054
+2023-06-01,,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,
+2023-07-01,137.83,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.3783
+2023-08-01,154.31,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.5431
+2023-09-01,160.53,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.6053
+2023-10-01,155.31,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.5531
+2023-11-01,162.4,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.624
+2023-12-01,177.26,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.7726
+2024-01-01,176.04,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.7604
+2024-02-01,175.79,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.7579
+2024-03-01,180.63,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.8063
+2024-04-01,184.79,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.8478999999999999
+2024-05-01,179.68,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.7968000000000002
+2024-06-01,196.71,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.9671
+2024-07-01,186.27,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.8627
+2024-08-01,111.2,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,1.112
+2024-09-01,,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,
+2024-10-01,96.0,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.96
+2024-11-01,87.67,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.8767
+2024-12-01,77.9,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.779
+2025-01-01,77.94,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.7794
+2025-02-01,76.79,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.7679
+2025-03-01,76.4,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.764
+2025-04-01,76.45,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.7645000000000001
+2025-05-01,72.05,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.7204999999999999
+2025-06-01,79.91,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.7990999999999999
+2025-07-01,76.73,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.7673000000000001
+2025-08-01,73.01,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.7301000000000001
+2025-09-01,,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,
+2025-10-01,67.36,Teff (mixed),Ethiopia,Adama City,WHOLESALE,100 kg,kg,0.6736
+2019-04-01,73.31,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7331
+2019-05-01,78.38,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7837999999999999
+2019-06-01,86.09,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.8609
+2019-07-01,90.6,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9059999999999999
+2019-08-01,96.41,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9641
+2019-09-01,100.11,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.0011
+2019-10-01,96.68,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9668000000000001
+2019-11-01,96.21,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9621
+2019-12-01,98.54,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9854
+2020-01-01,92.2,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.922
+2020-02-01,93.06,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9306
+2020-03-01,99.33,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9933
+2020-04-01,,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,
+2020-05-01,101.89,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.0189
+2020-06-01,102.17,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.0217
+2020-07-01,104.47,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.0447
+2020-08-01,,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,
+2020-09-01,,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,
+2020-10-01,,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,
+2020-11-01,102.49,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.0249
+2020-12-01,93.81,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9381
+2021-01-01,94.08,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9408
+2021-02-01,94.34,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9434
+2021-03-01,93.44,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9344
+2021-04-01,,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,
+2021-05-01,94.02,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9401999999999999
+2021-06-01,93.47,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9347
+2021-07-01,95.32,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9531999999999999
+2021-08-01,96.48,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9648
+2021-09-01,90.81,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9081
+2021-10-01,87.69,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.8769
+2021-11-01,84.62,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.8462000000000001
+2021-12-01,78.46,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7846
+2022-01-01,77.26,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7726000000000001
+2022-02-01,76.28,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7628
+2022-03-01,75.66,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7565999999999999
+2022-04-01,76.78,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7678
+2022-05-01,77.69,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7768999999999999
+2022-06-01,80.9,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.809
+2022-07-01,84.02,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.8402
+2022-08-01,83.35,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.8334999999999999
+2022-09-01,84.84,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.8484
+2022-10-01,84.03,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.8403
+2022-11-01,83.29,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.8329000000000001
+2022-12-01,87.58,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.8758
+2023-01-01,92.61,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9261
+2023-02-01,97.89,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9789
+2023-03-01,110.74,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.1074
+2023-04-01,110.8,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.1079999999999999
+2023-05-01,113.53,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.1353
+2023-06-01,,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,
+2023-07-01,142.15,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.4215
+2023-08-01,153.1,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.531
+2023-09-01,164.3,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.643
+2023-10-01,172.24,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.7224000000000002
+2023-11-01,170.79,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.7079
+2023-12-01,176.15,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.7615
+2024-01-01,183.84,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.8384
+2024-02-01,194.05,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.9405000000000001
+2024-03-01,197.37,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.9737
+2024-04-01,192.26,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.9225999999999999
+2024-05-01,170.08,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.7008
+2024-06-01,165.19,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.6519
+2024-07-01,180.05,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.8005000000000002
+2024-08-01,1.14,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.011399999999999999
+2024-09-01,1.04,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.0104
+2024-10-01,103.06,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,1.0306
+2024-11-01,98.54,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.9854
+2024-12-01,87.98,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.8798
+2025-01-01,80.7,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.807
+2025-02-01,78.66,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7866
+2025-03-01,78.14,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7814
+2025-04-01,72.03,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7203
+2025-05-01,70.93,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7093
+2025-06-01,71.35,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7134999999999999
+2025-07-01,71.83,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7182999999999999
+2025-08-01,74.2,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.742
+2025-09-01,73.11,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.7311
+2025-10-01,67.61,Teff (mixed),Ethiopia,Bahirdar,WHOLESALE,100 kg,kg,0.6761
+2024-11-01,86.77,Teff (mixed),Ethiopia,Gode,RETAIL,100 kg,kg,0.8676999999999999
+2024-12-01,,Teff (mixed),Ethiopia,Gode,RETAIL,100 kg,kg,
+2025-01-01,83.46,Teff (mixed),Ethiopia,Gode,RETAIL,100 kg,kg,0.8345999999999999
+2019-06-01,91.87,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.9187000000000001
+2019-07-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2019-08-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2019-09-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2019-10-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2019-11-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2019-12-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2020-01-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2020-02-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2020-03-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2020-04-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2020-05-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2020-06-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2020-07-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2020-08-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2020-09-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2020-10-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2020-11-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2020-12-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2021-01-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2021-02-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2021-03-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2021-04-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2021-05-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2021-06-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2021-07-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2021-08-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2021-09-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2021-10-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2021-11-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2021-12-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2022-01-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2022-02-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2022-03-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2022-04-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2022-05-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2022-06-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2022-07-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2022-08-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2022-09-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2022-10-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2022-11-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2022-12-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2023-01-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2023-02-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2023-03-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2023-04-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2023-05-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2023-06-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2023-07-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2023-08-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2023-09-01,,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,
+2023-10-01,180.14,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,1.8014
+2023-11-01,166.3,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,1.663
+2023-12-01,171.67,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,1.7167
+2024-01-01,178.49,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,1.7849000000000002
+2024-02-01,183.45,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,1.8344999999999998
+2024-03-01,183.49,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,1.8349000000000002
+2024-04-01,179.38,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,1.7938
+2024-05-01,180.55,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,1.8055
+2024-06-01,176.5,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,1.765
+2024-07-01,175.28,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,1.7528
+2024-08-01,107.63,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,1.0763
+2024-09-01,94.79,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.9479000000000001
+2024-10-01,93.92,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.9392
+2024-11-01,86.04,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.8604
+2024-12-01,80.66,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.8066
+2025-01-01,79.03,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.7903
+2025-02-01,79.64,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.7964
+2025-03-01,78.23,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.7823
+2025-04-01,80.75,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.8075
+2025-05-01,78.67,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.7867000000000001
+2025-06-01,76.32,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.7631999999999999
+2025-07-01,75.39,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.7539
+2025-08-01,74.88,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.7487999999999999
+2025-09-01,76.94,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.7694
+2025-10-01,75.79,Teff (mixed),Ethiopia,Jimma,WHOLESALE,100 kg,kg,0.7579
+2019-04-01,78.6,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.7859999999999999
+2019-05-01,84.48,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.8448
+2019-06-01,88.69,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.8869
+2019-07-01,93.19,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.9319
+2019-08-01,94.52,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.9451999999999999
+2019-09-01,94.47,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.9447
+2019-10-01,93.46,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.9346
+2019-11-01,89.3,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.893
+2019-12-01,85.3,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.853
+2020-01-01,88.19,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.8819
+2020-02-01,87.81,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.8781
+2020-03-01,93.91,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.9390999999999999
+2020-04-01,103.19,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.0319
+2020-05-01,110.75,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.1075
+2020-06-01,106.88,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.0688
+2020-07-01,109.12,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.0912
+2020-08-01,109.45,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.0945
+2020-09-01,106.79,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.0679
+2020-10-01,99.91,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.9991
+2020-11-01,100.5,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.005
+2020-12-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2021-01-01,95.35,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.9534999999999999
+2021-02-01,103.31,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.0331000000000001
+2021-03-01,103.28,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.0328
+2021-04-01,101.16,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.0116
+2021-05-01,98.43,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.9843000000000001
+2021-06-01,96.78,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.9678
+2021-07-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2021-08-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2021-09-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2021-10-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2021-11-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2021-12-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2022-01-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2022-02-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2022-03-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2022-04-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2022-05-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2022-06-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2022-07-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2022-08-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2022-09-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2022-10-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2022-11-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2022-12-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2023-01-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2023-02-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2023-03-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2023-04-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2023-05-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2023-06-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2023-07-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2023-08-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2023-09-01,161.89,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.6188999999999998
+2023-10-01,167.95,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.6795
+2023-11-01,166.52,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.6652
+2023-12-01,183.76,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.8376
+2024-01-01,195.56,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.9556
+2024-02-01,189.93,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.8993
+2024-03-01,188.56,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.8856
+2024-04-01,188.74,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.8874000000000002
+2024-05-01,187.53,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.8753
+2024-06-01,184.76,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.8476
+2024-07-01,186.56,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.8656
+2024-08-01,105.79,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,1.0579
+2024-09-01,93.2,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.932
+2024-10-01,87.27,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.8726999999999999
+2024-11-01,76.46,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.7646
+2024-12-01,76.12,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.7612000000000001
+2025-01-01,75.45,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.7545000000000001
+2025-02-01,76.69,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.7669
+2025-03-01,75.63,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.7563
+2025-04-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2025-05-01,,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,
+2025-06-01,71.44,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.7143999999999999
+2025-07-01,72.1,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.721
+2025-08-01,71.23,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.7123
+2025-09-01,69.63,Teff (mixed),Ethiopia,Mekele,WHOLESALE,100 kg,kg,0.6962999999999999
+2020-01-01,87.66,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.8765999999999999
+2020-02-01,91.7,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.917
+2020-03-01,110.67,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.1067
+2020-04-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2020-05-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2020-06-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2020-07-01,116.71,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.1671
+2020-08-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2020-09-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2020-10-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2020-11-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2020-12-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2021-01-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2021-02-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2021-03-01,110.66,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.1066
+2021-04-01,115.26,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.1526
+2021-05-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2021-06-01,110.61,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.1061
+2021-07-01,111.34,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.1134
+2021-08-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2021-09-01,109.15,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.0915000000000001
+2021-10-01,100.68,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.0068000000000001
+2021-11-01,118.79,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.1879
+2021-12-01,94.73,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.9473
+2022-01-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2022-02-01,99.23,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.9923000000000001
+2022-03-01,92.36,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.9236
+2022-04-01,93.75,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.9375
+2022-05-01,99.05,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.9904999999999999
+2022-06-01,94.61,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.9460999999999999
+2022-07-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2022-08-01,93.35,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.9335
+2022-09-01,95.0,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.95
+2022-10-01,92.79,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.9279000000000001
+2022-11-01,92.23,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.9223
+2022-12-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2023-01-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2023-02-01,98.83,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.9883
+2023-03-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2023-04-01,138.5,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.385
+2023-05-01,137.89,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.3788999999999998
+2023-06-01,124.98,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.2498
+2023-07-01,133.04,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.3304
+2023-08-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2023-09-01,171.84,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.7184
+2023-10-01,162.54,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.6254
+2023-11-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2023-12-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2024-01-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2024-02-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2024-03-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2024-04-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2024-05-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2024-06-01,139.11,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.3911000000000002
+2024-07-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2024-08-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2024-09-01,78.03,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.7803
+2024-10-01,83.11,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.8311
+2024-11-01,77.48,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.7748
+2024-12-01,,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,
+2025-01-01,9.45,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.09449999999999999
+2025-02-01,102.26,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,1.0226
+2025-03-01,88.75,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.8875
+2025-04-01,84.92,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.8492000000000001
+2025-05-01,82.13,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.8212999999999999
+2025-06-01,77.33,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.7733
+2025-07-01,74.73,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.7473000000000001
+2025-08-01,74.79,Teff (mixed),Ethiopia,Shashemene,RETAIL,100 kg,kg,0.7479
+2019-05-01,86.51,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8651000000000001
+2019-06-01,88.69,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8869
+2019-07-01,85.86,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8586
+2019-08-01,84.64,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8464
+2019-09-01,88.56,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8856
+2019-10-01,88.98,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8898
+2019-11-01,86.78,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8678
+2019-12-01,82.65,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8265
+2020-01-01,83.75,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8375
+2020-02-01,87.04,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8704000000000001
+2020-03-01,86.59,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8659
+2020-04-01,97.17,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9717
+2020-05-01,96.72,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9672
+2020-06-01,96.2,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9620000000000001
+2020-07-01,98.21,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9821
+2020-08-01,97.39,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9739
+2020-09-01,100.97,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,1.0097
+2020-10-01,101.42,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,1.0142
+2020-11-01,96.37,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9637
+2020-12-01,94.2,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9420000000000001
+2021-01-01,93.44,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9344
+2021-02-01,94.49,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9449
+2021-03-01,96.21,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9621
+2021-04-01,96.2,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9620000000000001
+2021-05-01,93.64,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9364
+2021-06-01,92.63,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9262999999999999
+2021-07-01,95.15,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9515
+2021-08-01,92.84,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9284
+2021-09-01,89.5,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.895
+2021-10-01,88.54,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8854000000000001
+2021-11-01,82.62,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8262
+2021-12-01,82.89,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8289
+2022-01-01,81.3,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.813
+2022-02-01,80.87,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8087000000000001
+2022-03-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2022-04-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2022-05-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2022-06-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2022-07-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2022-08-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2022-09-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2022-10-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2022-11-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2022-12-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2023-01-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2023-02-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2023-03-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2023-04-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2023-05-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2023-06-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2023-07-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2023-08-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2023-09-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2023-10-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2023-11-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2023-12-01,173.24,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,1.7324000000000002
+2024-01-01,182.06,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,1.8206
+2024-02-01,182.42,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,1.8241999999999998
+2024-03-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2024-04-01,188.74,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,1.8874000000000002
+2024-05-01,,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,
+2024-06-01,164.33,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,1.6433000000000002
+2024-07-01,168.86,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,1.6886
+2024-08-01,104.68,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,1.0468000000000002
+2024-09-01,90.17,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.9017000000000001
+2024-10-01,83.53,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8353
+2024-11-01,84.81,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8481000000000001
+2024-12-01,77.5,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.775
+2025-01-01,78.34,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.7834
+2025-02-01,73.15,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.7315
+2025-03-01,77.56,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.7756000000000001
+2025-04-01,85.11,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8511
+2025-05-01,83.25,Teff (mixed),Ethiopia,Shashemene Town,WHOLESALE,100 kg,kg,0.8325

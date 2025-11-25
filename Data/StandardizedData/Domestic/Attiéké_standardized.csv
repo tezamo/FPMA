@@ -1,0 +1,226 @@
+date,price_usd,commodity_name,country,market,price_type,unit,unit_std,price_per_unit
+2025-01-01,0.81,Attiéké,Côte d'Ivoire,Abidjan,RETAIL,Liter,liter,0.81
+2025-02-01,0.82,Attiéké,Côte d'Ivoire,Abidjan,RETAIL,Liter,liter,0.82
+2025-03-01,0.91,Attiéké,Côte d'Ivoire,Abidjan,RETAIL,Liter,liter,0.91
+2025-04-01,0.89,Attiéké,Côte d'Ivoire,Abidjan,RETAIL,Liter,liter,0.89
+2025-05-01,0.95,Attiéké,Côte d'Ivoire,Abidjan,RETAIL,Liter,liter,0.95
+2025-06-01,1.14,Attiéké,Côte d'Ivoire,Abidjan,RETAIL,Liter,liter,1.14
+2025-07-01,1.15,Attiéké,Côte d'Ivoire,Abidjan,RETAIL,Liter,liter,1.15
+2025-08-01,1.15,Attiéké,Côte d'Ivoire,Abidjan,RETAIL,Liter,liter,1.15
+2025-09-01,1.07,Attiéké,Côte d'Ivoire,Abidjan,RETAIL,Liter,liter,1.07
+2025-01-01,0.81,Attiéké,Côte d'Ivoire,Centre,RETAIL,Liter,liter,0.81
+2025-02-01,0.47,Attiéké,Côte d'Ivoire,Centre,RETAIL,Liter,liter,0.47
+2025-03-01,0.52,Attiéké,Côte d'Ivoire,Centre,RETAIL,Liter,liter,0.52
+2025-04-01,0.8,Attiéké,Côte d'Ivoire,Centre,RETAIL,Liter,liter,0.8
+2025-05-01,0.54,Attiéké,Côte d'Ivoire,Centre,RETAIL,Liter,liter,0.54
+2025-06-01,0.79,Attiéké,Côte d'Ivoire,Centre,RETAIL,Liter,liter,0.79
+2025-07-01,0.77,Attiéké,Côte d'Ivoire,Centre,RETAIL,Liter,liter,0.77
+2025-08-01,0.74,Attiéké,Côte d'Ivoire,Centre,RETAIL,Liter,liter,0.74
+2025-09-01,0.7,Attiéké,Côte d'Ivoire,Centre,RETAIL,Liter,liter,0.7
+2025-01-01,0.81,Attiéké,Côte d'Ivoire,Est,RETAIL,Liter,liter,0.81
+2025-02-01,0.67,Attiéké,Côte d'Ivoire,Est,RETAIL,Liter,liter,0.67
+2025-03-01,0.66,Attiéké,Côte d'Ivoire,Est,RETAIL,Liter,liter,0.66
+2025-04-01,0.79,Attiéké,Côte d'Ivoire,Est,RETAIL,Liter,liter,0.79
+2025-05-01,0.69,Attiéké,Côte d'Ivoire,Est,RETAIL,Liter,liter,0.69
+2025-06-01,0.76,Attiéké,Côte d'Ivoire,Est,RETAIL,Liter,liter,0.76
+2025-07-01,0.76,Attiéké,Côte d'Ivoire,Est,RETAIL,Liter,liter,0.76
+2025-08-01,0.78,Attiéké,Côte d'Ivoire,Est,RETAIL,Liter,liter,0.78
+2025-09-01,0.75,Attiéké,Côte d'Ivoire,Est,RETAIL,Liter,liter,0.75
+2025-01-01,0.81,Attiéké,Côte d'Ivoire,Lagunes,RETAIL,Liter,liter,0.81
+2025-02-01,0.98,Attiéké,Côte d'Ivoire,Lagunes,RETAIL,Liter,liter,0.98
+2025-03-01,0.91,Attiéké,Côte d'Ivoire,Lagunes,RETAIL,Liter,liter,0.91
+2025-04-01,0.84,Attiéké,Côte d'Ivoire,Lagunes,RETAIL,Liter,liter,0.84
+2025-05-01,0.95,Attiéké,Côte d'Ivoire,Lagunes,RETAIL,Liter,liter,0.95
+2025-06-01,1.24,Attiéké,Côte d'Ivoire,Lagunes,RETAIL,Liter,liter,1.24
+2025-07-01,1.22,Attiéké,Côte d'Ivoire,Lagunes,RETAIL,Liter,liter,1.22
+2025-08-01,0.92,Attiéké,Côte d'Ivoire,Lagunes,RETAIL,Liter,liter,0.92
+2025-09-01,1.17,Attiéké,Côte d'Ivoire,Lagunes,RETAIL,Liter,liter,1.17
+2011-07-01,0.74,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.74
+2011-08-01,,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,
+2011-09-01,,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,
+2011-10-01,0.68,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.68
+2011-11-01,0.64,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.64
+2011-12-01,,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,
+2012-01-01,0.64,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.64
+2012-02-01,0.65,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.65
+2012-03-01,0.65,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.65
+2012-04-01,0.71,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.71
+2012-05-01,0.74,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.74
+2012-06-01,0.76,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.76
+2012-07-01,0.74,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.74
+2012-08-01,0.74,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.74
+2012-09-01,0.76,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.76
+2012-10-01,0.77,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.77
+2012-11-01,0.76,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.76
+2012-12-01,0.8,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.8
+2013-01-01,0.91,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.91
+2013-02-01,0.86,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.86
+2013-03-01,0.76,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.76
+2013-04-01,0.83,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.83
+2013-05-01,0.83,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.83
+2013-06-01,0.92,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.92
+2013-07-01,0.8,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.8
+2013-08-01,0.81,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.81
+2013-09-01,0.78,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.78
+2013-10-01,0.79,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.79
+2013-11-01,0.77,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.77
+2013-12-01,0.72,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.72
+2014-01-01,0.68,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.68
+2014-02-01,0.69,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.69
+2014-03-01,0.7,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.7
+2014-04-01,0.72,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.72
+2014-05-01,0.73,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.73
+2014-06-01,0.7,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.7
+2014-07-01,0.78,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.78
+2014-08-01,0.7,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.7
+2014-09-01,0.67,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.67
+2014-10-01,0.61,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.61
+2014-11-01,0.63,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.63
+2014-12-01,0.7,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.7
+2015-01-01,0.75,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.75
+2015-02-01,0.64,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.64
+2015-03-01,0.6,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.6
+2015-04-01,0.65,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.65
+2015-05-01,0.67,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.67
+2015-06-01,0.86,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.86
+2015-07-01,0.66,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.66
+2015-08-01,0.64,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.64
+2015-09-01,0.61,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.61
+2015-10-01,0.64,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.64
+2015-11-01,0.64,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.64
+2015-12-01,0.81,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.81
+2016-01-01,0.79,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.79
+2016-02-01,0.81,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.81
+2016-03-01,1.12,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,1.12
+2016-04-01,1.13,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,1.13
+2016-05-01,1.01,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,1.01
+2016-06-01,1.05,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,1.05
+2016-07-01,1.07,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,1.07
+2016-08-01,0.9,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.9
+2016-09-01,0.95,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.95
+2016-10-01,0.81,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.81
+2016-11-01,0.78,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.78
+2016-12-01,0.68,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.68
+2017-01-01,0.69,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.69
+2017-02-01,0.7,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.7
+2017-03-01,0.69,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.69
+2017-04-01,0.71,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.71
+2017-05-01,0.71,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.71
+2017-06-01,0.78,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.78
+2017-07-01,0.7,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.7
+2017-08-01,0.69,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.69
+2017-09-01,0.71,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.71
+2017-10-01,0.69,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.69
+2017-11-01,0.71,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.71
+2017-12-01,0.76,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.76
+2018-01-01,0.85,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.85
+2018-02-01,0.88,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.88
+2018-03-01,1.09,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,1.09
+2018-04-01,1.09,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,1.09
+2018-05-01,0.7,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.7
+2018-06-01,0.77,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.77
+2018-07-01,0.67,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.67
+2018-08-01,0.64,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.64
+2018-09-01,0.63,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.63
+2018-10-01,0.62,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.62
+2018-11-01,0.58,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.58
+2018-12-01,0.58,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.58
+2019-01-01,0.58,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.58
+2019-02-01,0.68,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.68
+2019-03-01,0.66,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.66
+2019-04-01,0.59,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.59
+2019-05-01,0.63,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.63
+2019-06-01,0.62,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.62
+2019-07-01,0.66,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.66
+2019-08-01,0.65,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.65
+2019-09-01,0.61,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.61
+2019-10-01,0.63,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.63
+2019-11-01,0.65,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.65
+2019-12-01,0.64,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.64
+2020-01-01,0.68,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.68
+2020-02-01,0.63,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.63
+2020-03-01,0.61,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.61
+2020-04-01,0.59,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.59
+2020-05-01,0.61,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.61
+2020-06-01,0.72,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.72
+2020-07-01,0.74,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.74
+2020-08-01,0.77,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.77
+2020-09-01,0.71,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.71
+2020-10-01,0.84,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.84
+2020-11-01,0.8,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.8
+2020-12-01,0.85,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.85
+2021-01-01,0.83,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.83
+2021-02-01,0.83,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.83
+2021-03-01,0.75,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.75
+2021-04-01,0.8,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.8
+2021-05-01,0.88,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.88
+2021-06-01,0.88,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.88
+2021-07-01,0.84,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.84
+2021-08-01,0.82,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.82
+2021-09-01,0.83,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.83
+2021-10-01,0.85,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.85
+2021-11-01,0.82,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.82
+2021-12-01,0.84,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.84
+2022-01-01,0.85,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.85
+2022-02-01,0.76,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.76
+2022-03-01,0.73,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.73
+2022-04-01,0.85,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.85
+2022-05-01,0.8,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.8
+2022-06-01,0.92,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.92
+2022-07-01,0.75,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.75
+2022-08-01,0.85,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.85
+2022-09-01,0.77,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.77
+2022-10-01,0.7,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.7
+2022-11-01,0.75,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.75
+2022-12-01,0.77,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.77
+2023-01-01,0.78,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.78
+2023-02-01,0.77,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.77
+2023-03-01,0.77,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.77
+2023-04-01,0.79,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.79
+2023-05-01,0.7,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.7
+2023-06-01,0.77,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.77
+2023-07-01,0.85,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.85
+2023-08-01,0.79,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.79
+2023-09-01,0.73,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.73
+2023-10-01,0.77,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.77
+2023-11-01,0.77,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.77
+2023-12-01,0.79,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.79
+2024-01-01,0.79,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.79
+2024-02-01,0.8,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.8
+2024-03-01,0.79,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.79
+2024-04-01,0.8,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.8
+2024-05-01,0.8,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.8
+2024-06-01,0.98,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.98
+2024-07-01,0.79,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.79
+2024-08-01,0.8,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.8
+2024-09-01,0.76,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.76
+2024-10-01,0.78,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.78
+2024-11-01,0.76,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.76
+2024-12-01,0.76,Attiéké,Côte d'Ivoire,National Average,RETAIL,Kg,kg,0.76
+2025-01-01,0.81,Attiéké,Côte d'Ivoire,Nord,RETAIL,Liter,liter,0.81
+2025-02-01,0.56,Attiéké,Côte d'Ivoire,Nord,RETAIL,Liter,liter,0.56
+2025-03-01,0.86,Attiéké,Côte d'Ivoire,Nord,RETAIL,Liter,liter,0.86
+2025-04-01,0.7,Attiéké,Côte d'Ivoire,Nord,RETAIL,Liter,liter,0.7
+2025-05-01,0.9,Attiéké,Côte d'Ivoire,Nord,RETAIL,Liter,liter,0.9
+2025-06-01,1.01,Attiéké,Côte d'Ivoire,Nord,RETAIL,Liter,liter,1.01
+2025-07-01,0.97,Attiéké,Côte d'Ivoire,Nord,RETAIL,Liter,liter,0.97
+2025-08-01,0.96,Attiéké,Côte d'Ivoire,Nord,RETAIL,Liter,liter,0.96
+2025-09-01,0.86,Attiéké,Côte d'Ivoire,Nord,RETAIL,Liter,liter,0.86
+2025-01-01,0.81,Attiéké,Côte d'Ivoire,Ouest,RETAIL,Liter,liter,0.81
+2025-02-01,0.55,Attiéké,Côte d'Ivoire,Ouest,RETAIL,Liter,liter,0.55
+2025-03-01,0.68,Attiéké,Côte d'Ivoire,Ouest,RETAIL,Liter,liter,0.68
+2025-04-01,0.8,Attiéké,Côte d'Ivoire,Ouest,RETAIL,Liter,liter,0.8
+2025-05-01,0.71,Attiéké,Côte d'Ivoire,Ouest,RETAIL,Liter,liter,0.71
+2025-06-01,0.81,Attiéké,Côte d'Ivoire,Ouest,RETAIL,Liter,liter,0.81
+2025-07-01,0.75,Attiéké,Côte d'Ivoire,Ouest,RETAIL,Liter,liter,0.75
+2025-08-01,0.78,Attiéké,Côte d'Ivoire,Ouest,RETAIL,Liter,liter,0.78
+2025-09-01,0.8,Attiéké,Côte d'Ivoire,Ouest,RETAIL,Liter,liter,0.8
+2025-01-01,0.81,Attiéké,Côte d'Ivoire,Sud-Ouest,RETAIL,Liter,liter,0.81
+2025-02-01,0.71,Attiéké,Côte d'Ivoire,Sud-Ouest,RETAIL,Liter,liter,0.71
+2025-03-01,0.71,Attiéké,Côte d'Ivoire,Sud-Ouest,RETAIL,Liter,liter,0.71
+2025-04-01,0.93,Attiéké,Côte d'Ivoire,Sud-Ouest,RETAIL,Liter,liter,0.93
+2025-05-01,0.74,Attiéké,Côte d'Ivoire,Sud-Ouest,RETAIL,Liter,liter,0.74
+2025-06-01,0.75,Attiéké,Côte d'Ivoire,Sud-Ouest,RETAIL,Liter,liter,0.75
+2025-07-01,0.77,Attiéké,Côte d'Ivoire,Sud-Ouest,RETAIL,Liter,liter,0.77
+2025-08-01,0.8,Attiéké,Côte d'Ivoire,Sud-Ouest,RETAIL,Liter,liter,0.8
+2025-09-01,0.82,Attiéké,Côte d'Ivoire,Sud-Ouest,RETAIL,Liter,liter,0.82

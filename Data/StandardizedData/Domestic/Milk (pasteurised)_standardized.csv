@@ -1,0 +1,216 @@
+date,price_usd,commodity_name,country,market,price_type,unit,unit_std,price_per_unit
+2021-01-01,0.59,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.59
+2021-02-01,0.61,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.61
+2021-03-01,0.61,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.61
+2021-04-01,0.6,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.6
+2021-05-01,0.6,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.6
+2021-06-01,0.6,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.6
+2021-07-01,0.6,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.6
+2021-08-01,0.64,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.64
+2021-09-01,0.65,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.65
+2021-10-01,0.65,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.65
+2021-11-01,0.64,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.64
+2021-12-01,0.64,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.64
+2022-01-01,0.64,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.64
+2022-02-01,0.66,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.66
+2022-03-01,0.63,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.63
+2022-04-01,0.72,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.72
+2022-05-01,0.76,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.76
+2022-06-01,0.74,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.74
+2022-07-01,0.69,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.69
+2022-08-01,0.69,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.69
+2022-09-01,0.73,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.73
+2022-10-01,0.74,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.74
+2022-11-01,0.76,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.76
+2022-12-01,0.75,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.75
+2023-01-01,0.8,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.8
+2023-02-01,0.82,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.82
+2023-03-01,0.85,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.85
+2023-04-01,0.85,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.85
+2023-05-01,0.89,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.89
+2023-06-01,0.89,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.89
+2023-07-01,0.9,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.9
+2023-08-01,0.89,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.89
+2023-09-01,0.85,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.85
+2023-10-01,0.86,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.86
+2023-11-01,0.9,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.9
+2023-12-01,0.91,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.91
+2024-01-01,0.92,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.92
+2024-02-01,0.96,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.96
+2024-03-01,1.01,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,1.01
+2024-04-01,1.01,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,1.01
+2024-05-01,1.03,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,1.03
+2024-06-01,1.0,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,1.0
+2024-07-01,0.95,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.95
+2024-08-01,0.96,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.96
+2024-09-01,0.95,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.95
+2024-10-01,0.95,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.95
+2024-11-01,0.93,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.93
+2024-12-01,0.89,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.89
+2025-01-01,0.89,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.89
+2025-02-01,0.92,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.92
+2025-03-01,0.93,Milk (pasteurised),Kazakhstan,Almaty,RETAIL,Liter,liter,0.93
+2021-04-01,0.65,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.65
+2021-05-01,0.65,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.65
+2021-06-01,0.66,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.66
+2021-07-01,0.64,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.64
+2021-08-01,0.65,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.65
+2021-09-01,0.65,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.65
+2021-10-01,0.65,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.65
+2021-11-01,0.65,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.65
+2021-12-01,0.65,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.65
+2022-01-01,0.66,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.66
+2022-02-01,0.67,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.67
+2022-03-01,0.59,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.59
+2022-04-01,0.72,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.72
+2022-05-01,0.75,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.75
+2022-06-01,0.73,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.73
+2022-07-01,0.68,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.68
+2022-08-01,0.69,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.69
+2022-09-01,0.69,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.69
+2022-10-01,0.7,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.7
+2022-11-01,0.75,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.75
+2022-12-01,0.76,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.76
+2023-01-01,0.78,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.78
+2023-02-01,0.82,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.82
+2023-03-01,0.83,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.83
+2023-04-01,0.83,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.83
+2023-05-01,0.87,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.87
+2023-06-01,0.87,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.87
+2023-07-01,0.87,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.87
+2023-08-01,0.86,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.86
+2023-09-01,0.84,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.84
+2023-10-01,0.83,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.83
+2023-11-01,0.85,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.85
+2023-12-01,0.87,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.87
+2024-01-01,0.89,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.89
+2024-02-01,0.9,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.9
+2024-03-01,0.9,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.9
+2024-04-01,0.9,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.9
+2024-05-01,0.91,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.91
+2024-06-01,0.89,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.89
+2024-07-01,0.85,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.85
+2024-08-01,0.85,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.85
+2024-09-01,0.85,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.85
+2024-10-01,0.84,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.84
+2024-11-01,0.82,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.82
+2024-12-01,0.79,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.79
+2025-01-01,0.78,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.78
+2025-02-01,0.81,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.81
+2025-03-01,0.84,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.84
+2025-04-01,0.81,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.81
+2025-05-01,0.84,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.84
+2025-06-01,0.84,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.84
+2025-07-01,0.82,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.82
+2025-08-01,0.8,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.8
+2025-09-01,0.8,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.8
+2025-10-01,0.81,Milk (pasteurised),Kazakhstan,Astana,RETAIL,Liter,liter,0.81
+2021-01-01,0.55,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.55
+2021-02-01,0.55,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.55
+2021-03-01,0.55,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.55
+2021-04-01,0.55,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.55
+2021-05-01,0.56,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.56
+2021-06-01,0.56,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.56
+2021-07-01,0.56,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.56
+2021-08-01,0.57,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.57
+2021-09-01,0.57,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.57
+2021-10-01,0.57,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.57
+2021-11-01,0.57,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.57
+2021-12-01,0.56,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.56
+2022-01-01,0.56,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.56
+2022-02-01,0.57,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.57
+2022-03-01,0.54,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.54
+2022-04-01,0.62,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.62
+2022-05-01,0.65,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.65
+2022-06-01,0.63,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.63
+2022-07-01,0.59,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.59
+2022-08-01,0.59,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.59
+2022-09-01,0.62,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.62
+2022-10-01,0.66,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.66
+2022-11-01,0.67,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.67
+2022-12-01,0.66,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.66
+2023-01-01,0.73,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.73
+2023-02-01,0.78,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.78
+2023-03-01,0.78,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.78
+2023-04-01,0.78,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.78
+2023-05-01,0.79,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.79
+2023-06-01,0.78,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.78
+2023-07-01,0.79,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.79
+2023-08-01,0.78,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.78
+2023-09-01,0.81,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.81
+2023-10-01,0.79,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.79
+2023-11-01,0.82,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.82
+2023-12-01,0.83,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.83
+2024-01-01,0.87,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.87
+2024-02-01,0.89,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.89
+2024-03-01,0.89,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.89
+2024-04-01,0.9,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.9
+2024-05-01,0.91,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.91
+2024-06-01,0.88,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.88
+2024-07-01,0.85,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.85
+2024-08-01,0.84,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.84
+2024-09-01,0.84,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.84
+2024-10-01,0.83,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.83
+2024-11-01,0.82,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.82
+2024-12-01,0.78,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.78
+2025-01-01,0.79,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.79
+2025-02-01,0.82,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.82
+2025-03-01,0.83,Milk (pasteurised),Kazakhstan,Kostanay,RETAIL,Liter,liter,0.83
+2021-01-01,0.58,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.58
+2021-02-01,0.59,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.59
+2021-03-01,0.58,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.58
+2021-04-01,0.57,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.57
+2021-05-01,0.58,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.58
+2021-06-01,0.58,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.58
+2021-07-01,0.58,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.58
+2021-08-01,0.6,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.6
+2021-09-01,0.6,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.6
+2021-10-01,0.6,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.6
+2021-11-01,0.65,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.65
+2021-12-01,0.6,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.6
+2022-01-01,0.61,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.61
+2022-02-01,0.61,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.61
+2022-03-01,0.56,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.56
+2022-04-01,0.63,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.63
+2022-05-01,0.68,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.68
+2022-06-01,0.7,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.7
+2022-07-01,0.65,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.65
+2022-08-01,0.66,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.66
+2022-09-01,0.67,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.67
+2022-10-01,0.69,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.69
+2022-11-01,0.71,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.71
+2022-12-01,0.72,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.72
+2023-01-01,0.75,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.75
+2023-02-01,0.78,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.78
+2023-03-01,0.8,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.8
+2023-04-01,0.79,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.79
+2023-05-01,0.84,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.84
+2023-06-01,0.83,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.83
+2023-07-01,0.84,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.84
+2023-08-01,0.83,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.83
+2023-09-01,0.81,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.81
+2023-10-01,0.8,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.8
+2023-11-01,0.83,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.83
+2023-12-01,0.84,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.84
+2024-01-01,0.85,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.85
+2024-02-01,0.86,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.86
+2024-03-01,0.88,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.88
+2024-04-01,0.89,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.89
+2024-05-01,0.9,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.9
+2024-06-01,0.87,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.87
+2024-07-01,0.83,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.83
+2024-08-01,0.83,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.83
+2024-09-01,0.83,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.83
+2024-10-01,0.83,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.83
+2024-11-01,0.81,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.81
+2024-12-01,0.78,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.78
+2025-01-01,0.78,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.78
+2025-02-01,0.82,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.82
+2025-03-01,0.83,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.83
+2025-04-01,0.8,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.8
+2025-05-01,0.82,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.82
+2025-06-01,0.81,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.81
+2025-07-01,0.79,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.79
+2025-08-01,0.78,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.78
+2025-09-01,0.79,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.79
+2025-10-01,0.8,Milk (pasteurised),Kazakhstan,National Average,RETAIL,Liter,liter,0.8

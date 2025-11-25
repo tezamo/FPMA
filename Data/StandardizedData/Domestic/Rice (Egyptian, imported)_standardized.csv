@@ -1,0 +1,319 @@
+date,price_usd,commodity_name,country,market,price_type,unit,unit_std,price_per_unit
+2021-03-01,3.59,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,3.9888888888888885
+2021-04-01,4.58,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,5.088888888888889
+2021-05-01,5.36,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,5.955555555555556
+2021-06-01,5.53,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,6.144444444444445
+2021-07-01,7.01,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,7.788888888888889
+2021-08-01,7.78,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,8.644444444444444
+2021-09-01,7.46,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,8.288888888888888
+2021-10-01,8.23,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,9.144444444444444
+2021-11-01,9.23,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,10.255555555555556
+2021-12-01,10.7,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,11.888888888888888
+2022-01-01,12.89,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,14.322222222222223
+2022-02-01,10.78,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,11.977777777777776
+2022-03-01,12.05,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,13.38888888888889
+2022-04-01,13.29,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,14.766666666666666
+2022-05-01,14.62,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,16.244444444444444
+2022-06-01,16.08,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,17.866666666666664
+2022-07-01,16.52,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,18.355555555555554
+2022-08-01,16.55,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,18.38888888888889
+2022-09-01,19.86,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,22.066666666666666
+2022-10-01,19.71,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,21.900000000000002
+2022-11-01,20.35,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,22.61111111111111
+2022-12-01,21.48,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,23.866666666666667
+2023-01-01,23.33,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,25.92222222222222
+2023-02-01,3.36,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,3.733333333333333
+2023-03-01,5.1,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,5.666666666666666
+2023-04-01,5.37,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,5.966666666666667
+2023-05-01,4.38,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,4.866666666666666
+2023-06-01,5.58,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,6.2
+2023-07-01,5.43,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,6.033333333333333
+2023-08-01,5.33,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,5.9222222222222225
+2023-09-01,5.41,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,6.011111111111111
+2023-10-01,4.92,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,5.466666666666667
+2023-11-01,4.99,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,5.544444444444444
+2023-12-01,5.03,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,5.5888888888888895
+2024-01-01,4.88,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,5.422222222222222
+2024-02-01,7.16,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,7.955555555555556
+2024-03-01,0.83,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,0.9222222222222222
+2024-04-01,0.83,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,0.9222222222222222
+2024-05-01,0.84,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,0.9333333333333332
+2024-06-01,0.83,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,0.9222222222222222
+2024-07-01,0.86,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,0.9555555555555555
+2024-08-01,0.87,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,0.9666666666666667
+2024-09-01,0.86,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,0.9555555555555555
+2024-10-01,0.93,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,1.0333333333333334
+2024-11-01,0.94,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,1.0444444444444443
+2024-12-01,0.91,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,1.011111111111111
+2025-01-01,0.96,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,1.0666666666666667
+2025-02-01,0.96,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,1.0666666666666667
+2025-03-01,0.96,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,1.0666666666666667
+2025-04-01,0.96,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,1.0666666666666667
+2025-05-01,0.98,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,1.0888888888888888
+2025-06-01,1.03,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,1.1444444444444444
+2025-07-01,0.98,"Rice (Egyptian, imported)",Lebanon,Akkar,RETAIL,900 gms,kg,1.0888888888888888
+2021-03-01,4.1,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,4.555555555555555
+2021-04-01,4.81,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,5.344444444444444
+2021-05-01,5.96,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,6.622222222222222
+2021-06-01,5.06,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,5.622222222222222
+2021-07-01,8.43,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,9.366666666666665
+2021-08-01,8.38,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,9.311111111111112
+2021-09-01,7.63,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,8.477777777777778
+2021-10-01,8.77,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,9.744444444444444
+2021-11-01,9.94,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,11.044444444444444
+2021-12-01,12.77,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,14.188888888888888
+2022-01-01,16.1,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,17.88888888888889
+2022-02-01,12.58,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,13.977777777777778
+2022-03-01,12.7,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,14.11111111111111
+2022-04-01,14.64,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,16.266666666666666
+2022-05-01,17.33,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,19.255555555555553
+2022-06-01,20.46,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,22.733333333333334
+2022-07-01,17.96,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,19.955555555555556
+2022-08-01,18.92,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,21.022222222222222
+2022-09-01,22.92,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,25.46666666666667
+2022-10-01,26.37,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,29.3
+2022-11-01,26.72,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,29.688888888888886
+2022-12-01,28.29,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,31.43333333333333
+2023-01-01,32.13,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,35.7
+2023-02-01,5.07,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,5.633333333333334
+2023-03-01,6.57,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,7.3
+2023-04-01,7.11,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,7.9
+2023-05-01,5.76,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,6.3999999999999995
+2023-06-01,6.98,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,7.7555555555555555
+2023-07-01,6.3,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,7.0
+2023-08-01,6.17,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,6.855555555555555
+2023-09-01,6.82,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,7.5777777777777775
+2023-10-01,6.31,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,7.01111111111111
+2023-11-01,5.84,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,6.488888888888889
+2023-12-01,5.8,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,6.444444444444444
+2024-01-01,5.84,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,6.488888888888889
+2024-02-01,8.58,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,9.533333333333333
+2024-03-01,0.97,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.0777777777777777
+2024-04-01,0.94,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.0444444444444443
+2024-05-01,0.99,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.0999999999999999
+2024-06-01,0.97,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.0777777777777777
+2024-07-01,0.95,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.0555555555555556
+2024-08-01,0.97,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.0777777777777777
+2024-09-01,0.99,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.0999999999999999
+2024-10-01,0.99,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.0999999999999999
+2024-11-01,1.01,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.1222222222222222
+2024-12-01,1.01,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.1222222222222222
+2025-01-01,1.01,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.1222222222222222
+2025-02-01,1.01,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.1222222222222222
+2025-03-01,1.04,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.1555555555555557
+2025-04-01,1.04,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.1555555555555557
+2025-05-01,1.03,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.1444444444444444
+2025-06-01,1.05,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.1666666666666667
+2025-07-01,1.03,"Rice (Egyptian, imported)",Lebanon,Beirut,RETAIL,900 gms,kg,1.1444444444444444
+2021-03-01,4.34,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,4.822222222222222
+2021-04-01,5.05,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,5.611111111111111
+2021-05-01,5.49,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,6.1
+2021-06-01,6.26,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,6.955555555555555
+2021-07-01,8.95,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,9.944444444444443
+2021-08-01,10.16,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,11.28888888888889
+2021-09-01,8.81,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,9.78888888888889
+2021-10-01,9.14,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,10.155555555555557
+2021-11-01,10.51,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,11.677777777777777
+2021-12-01,12.77,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,14.188888888888888
+2022-01-01,15.4,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,17.11111111111111
+2022-02-01,13.6,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,15.11111111111111
+2022-03-01,14.87,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,16.522222222222222
+2022-04-01,15.66,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,17.4
+2022-05-01,17.55,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,19.5
+2022-06-01,17.69,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,19.655555555555555
+2022-07-01,18.0,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,20.0
+2022-08-01,19.46,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,21.622222222222224
+2022-09-01,22.71,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,25.233333333333334
+2022-10-01,20.84,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,23.155555555555555
+2022-11-01,21.67,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,24.07777777777778
+2022-12-01,23.63,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,26.255555555555553
+2023-01-01,27.21,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,30.233333333333334
+2023-02-01,3.94,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,4.377777777777777
+2023-03-01,5.77,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,6.4111111111111105
+2023-04-01,5.67,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,6.3
+2023-05-01,5.65,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,6.277777777777778
+2023-06-01,6.58,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,7.311111111111111
+2023-07-01,6.25,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,6.944444444444445
+2023-08-01,6.05,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,6.722222222222221
+2023-09-01,6.14,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,6.822222222222222
+2023-10-01,6.2,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,6.888888888888889
+2023-11-01,5.79,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,6.433333333333334
+2023-12-01,5.98,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,6.644444444444445
+2024-01-01,5.37,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,5.966666666666667
+2024-02-01,7.72,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,8.577777777777778
+2024-03-01,0.88,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,0.9777777777777777
+2024-04-01,0.87,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,0.9666666666666667
+2024-05-01,0.91,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.011111111111111
+2024-06-01,0.91,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.011111111111111
+2024-07-01,0.93,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.0333333333333334
+2024-08-01,0.93,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.0333333333333334
+2024-09-01,0.9,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.0
+2024-10-01,1.26,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.4
+2024-11-01,1.22,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.3555555555555554
+2024-12-01,1.09,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.2111111111111112
+2025-01-01,1.11,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.2333333333333334
+2025-02-01,1.08,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.2
+2025-03-01,1.03,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.1444444444444444
+2025-04-01,1.03,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.1444444444444444
+2025-05-01,1.03,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.1444444444444444
+2025-06-01,1.06,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.1777777777777778
+2025-07-01,1.01,"Rice (Egyptian, imported)",Lebanon,El Nabatieh,RETAIL,900 gms,kg,1.1222222222222222
+2021-03-01,4.0,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,4.444444444444445
+2021-04-01,4.91,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,5.455555555555556
+2021-05-01,5.36,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,5.955555555555556
+2021-06-01,5.95,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,6.611111111111111
+2021-07-01,8.23,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,9.144444444444444
+2021-08-01,8.83,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,9.811111111111112
+2021-09-01,8.16,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,9.066666666666666
+2021-10-01,9.02,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,10.022222222222222
+2021-11-01,10.2,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,11.333333333333332
+2021-12-01,12.15,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,13.5
+2022-01-01,14.41,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,16.01111111111111
+2022-02-01,12.16,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,13.511111111111111
+2022-03-01,13.13,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,14.588888888888889
+2022-04-01,14.35,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,15.944444444444443
+2022-05-01,15.98,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,17.755555555555556
+2022-06-01,16.95,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,18.833333333333332
+2022-07-01,17.18,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,19.08888888888889
+2022-08-01,18.23,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,20.255555555555556
+2022-09-01,20.88,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,23.2
+2022-10-01,22.0,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,24.444444444444443
+2022-11-01,22.33,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,24.81111111111111
+2022-12-01,24.04,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,26.71111111111111
+2023-01-01,27.15,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,30.166666666666664
+2023-02-01,4.03,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,4.477777777777778
+2023-03-01,5.75,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,6.388888888888888
+2023-04-01,5.93,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,6.588888888888889
+2023-05-01,5.18,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,5.7555555555555555
+2023-06-01,6.13,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,6.811111111111111
+2023-07-01,5.91,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,6.566666666666666
+2023-08-01,5.8,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,6.444444444444444
+2023-09-01,5.96,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,6.622222222222222
+2023-10-01,5.83,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,6.477777777777778
+2023-11-01,5.6,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,6.222222222222221
+2023-12-01,5.57,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,6.188888888888889
+2024-01-01,5.43,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,6.033333333333333
+2024-02-01,7.84,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,8.71111111111111
+2024-03-01,0.91,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.011111111111111
+2024-04-01,0.91,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.011111111111111
+2024-05-01,0.92,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.0222222222222221
+2024-06-01,0.92,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.0222222222222221
+2024-07-01,0.92,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.0222222222222221
+2024-08-01,0.93,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.0333333333333334
+2024-09-01,0.94,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.0444444444444443
+2024-10-01,1.0,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.1111111111111112
+2024-11-01,1.04,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.1555555555555557
+2024-12-01,1.02,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.1333333333333333
+2025-01-01,1.04,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.1555555555555557
+2025-02-01,1.03,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.1444444444444444
+2025-03-01,1.03,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.1444444444444444
+2025-04-01,1.03,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.1444444444444444
+2025-05-01,1.04,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.1555555555555557
+2025-06-01,1.06,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.1777777777777778
+2025-07-01,1.02,"Rice (Egyptian, imported)",Lebanon,National Average,RETAIL,900 gms,kg,1.1333333333333333
+2021-03-01,3.63,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,4.033333333333333
+2021-04-01,4.86,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,5.4
+2021-05-01,5.39,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,5.988888888888888
+2021-06-01,6.01,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,6.677777777777777
+2021-07-01,8.27,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,9.188888888888888
+2021-08-01,8.75,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,9.722222222222221
+2021-09-01,7.86,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,8.733333333333334
+2021-10-01,9.19,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,10.21111111111111
+2021-11-01,10.28,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,11.42222222222222
+2021-12-01,12.2,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,13.555555555555554
+2022-01-01,15.84,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,17.599999999999998
+2022-02-01,13.9,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,15.444444444444445
+2022-03-01,14.39,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,15.988888888888889
+2022-04-01,15.86,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,17.62222222222222
+2022-05-01,16.9,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,18.777777777777775
+2022-06-01,18.27,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,20.3
+2022-07-01,19.54,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,21.71111111111111
+2022-08-01,20.79,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,23.099999999999998
+2022-09-01,22.1,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,24.555555555555557
+2022-10-01,21.62,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,24.022222222222222
+2022-11-01,22.43,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,24.92222222222222
+2022-12-01,22.72,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,25.244444444444444
+2023-01-01,25.06,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,27.84444444444444
+2023-02-01,3.75,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,4.166666666666667
+2023-03-01,5.19,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,5.766666666666667
+2023-04-01,5.42,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,6.022222222222222
+2023-05-01,4.42,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,4.9111111111111105
+2023-06-01,5.96,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,6.622222222222222
+2023-07-01,5.85,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,6.499999999999999
+2023-08-01,5.74,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,6.377777777777778
+2023-09-01,5.83,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,6.477777777777778
+2023-10-01,6.24,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,6.933333333333334
+2023-11-01,5.39,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,5.988888888888888
+2023-12-01,5.49,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,6.1
+2024-01-01,5.5,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,6.111111111111111
+2024-02-01,7.89,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,8.766666666666666
+2024-03-01,0.93,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.0333333333333334
+2024-04-01,0.93,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.0333333333333334
+2024-05-01,0.94,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.0444444444444443
+2024-06-01,0.92,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.0222222222222221
+2024-07-01,0.95,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.0555555555555556
+2024-08-01,0.95,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.0555555555555556
+2024-09-01,0.99,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.0999999999999999
+2024-10-01,0.98,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.0888888888888888
+2024-11-01,0.99,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.0999999999999999
+2024-12-01,1.0,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.1111111111111112
+2025-01-01,1.0,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.1111111111111112
+2025-02-01,1.01,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.1222222222222222
+2025-03-01,1.0,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.1111111111111112
+2025-04-01,1.0,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.1111111111111112
+2025-05-01,1.02,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.1333333333333333
+2025-06-01,1.06,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.1777777777777778
+2025-07-01,1.03,"Rice (Egyptian, imported)",Lebanon,North,RETAIL,900 gms,kg,1.1444444444444444
+2021-03-01,4.57,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,5.077777777777778
+2021-04-01,4.66,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,5.177777777777778
+2021-05-01,4.54,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,5.044444444444444
+2021-06-01,6.43,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,7.144444444444444
+2021-07-01,8.44,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,9.377777777777776
+2021-08-01,9.49,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,10.544444444444444
+2021-09-01,8.58,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,9.533333333333333
+2021-10-01,9.15,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,10.166666666666666
+2021-11-01,10.49,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,11.655555555555555
+2021-12-01,12.23,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,13.588888888888889
+2022-01-01,14.4,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,16.0
+2022-02-01,11.27,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,12.522222222222222
+2022-03-01,13.3,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,14.777777777777779
+2022-04-01,14.57,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,16.18888888888889
+2022-05-01,16.38,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,18.2
+2022-06-01,16.06,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,17.84444444444444
+2022-07-01,16.86,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,18.73333333333333
+2022-08-01,18.4,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,20.444444444444443
+2022-09-01,20.96,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,23.288888888888888
+2022-10-01,22.67,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,25.18888888888889
+2022-11-01,22.61,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,25.12222222222222
+2022-12-01,25.59,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,28.433333333333334
+2023-01-01,29.84,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,33.15555555555555
+2023-02-01,4.37,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,4.855555555555555
+2023-03-01,6.23,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,6.9222222222222225
+2023-04-01,6.48,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,7.2
+2023-05-01,5.16,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,5.733333333333333
+2023-06-01,6.35,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,7.055555555555555
+2023-07-01,6.08,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,6.7555555555555555
+2023-08-01,6.02,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,6.688888888888888
+2023-09-01,6.16,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,6.844444444444444
+2023-10-01,5.88,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,6.533333333333333
+2023-11-01,6.1,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,6.777777777777777
+2023-12-01,5.95,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,6.611111111111111
+2024-01-01,5.49,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,6.1
+2024-02-01,7.86,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,8.733333333333334
+2024-03-01,0.92,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.0222222222222221
+2024-04-01,0.93,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.0333333333333334
+2024-05-01,0.9,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.0
+2024-06-01,0.92,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.0222222222222221
+2024-07-01,0.93,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.0333333333333334
+2024-08-01,0.93,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.0333333333333334
+2024-09-01,0.93,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.0333333333333334
+2024-10-01,1.02,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.1333333333333333
+2024-11-01,1.15,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.2777777777777777
+2024-12-01,1.17,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.2999999999999998
+2025-01-01,1.19,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.3222222222222222
+2025-02-01,1.08,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.2
+2025-03-01,1.1,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.2222222222222223
+2025-04-01,1.1,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.2222222222222223
+2025-05-01,1.14,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.2666666666666666
+2025-06-01,1.11,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.2333333333333334
+2025-07-01,1.05,"Rice (Egyptian, imported)",Lebanon,South,RETAIL,900 gms,kg,1.1666666666666667

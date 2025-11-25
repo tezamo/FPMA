@@ -1,0 +1,1127 @@
+date,price_usd,commodity_name,country,market,price_type,unit,unit_std,price_per_unit
+2012-01-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2012-02-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2012-03-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2012-04-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2012-05-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2012-06-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2012-07-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2012-08-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2012-09-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2012-10-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2012-11-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2012-12-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2013-01-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2013-02-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2013-03-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2013-04-01,0.1,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.1
+2013-05-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2013-06-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2013-07-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2013-08-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2013-09-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2013-10-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2013-11-01,0.12,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.12
+2013-12-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2014-01-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2014-02-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2014-03-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2014-04-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2014-05-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2014-06-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2014-07-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2014-08-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2014-09-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2014-10-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2014-11-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2014-12-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2015-01-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2015-02-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2015-03-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2015-04-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2015-05-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2015-06-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2015-07-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2015-08-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2015-09-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2015-10-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2015-11-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2015-12-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2016-01-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2016-02-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2016-03-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2016-04-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2016-05-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2016-06-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2016-07-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2016-08-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2016-09-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2016-10-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2016-11-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2016-12-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2017-01-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2017-02-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2017-03-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2017-04-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2017-05-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2017-06-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2017-07-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2017-08-01,200.0,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,200.0
+2017-09-01,225.0,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,225.0
+2017-10-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2017-11-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2017-12-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2018-01-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2018-02-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2018-03-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2018-04-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2018-05-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2018-06-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2018-07-01,0.21,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.21
+2018-08-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2018-09-01,0.13,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.13
+2018-10-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2018-11-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2018-12-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2019-01-01,0.13,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.13
+2019-02-01,0.13,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.13
+2019-03-01,0.13,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.13
+2019-04-01,0.13,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.13
+2019-05-01,0.13,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.13
+2019-06-01,0.13,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.13
+2019-07-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2019-08-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2019-09-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2019-10-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2019-11-01,,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,
+2019-12-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2020-01-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2020-02-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2020-03-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2020-04-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2020-05-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2020-06-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2020-07-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2020-08-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2020-09-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2020-10-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2020-11-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2020-12-01,0.17,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.17
+2021-01-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2021-02-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2021-03-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2021-04-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2021-05-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2021-06-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2021-07-01,0.13,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.13
+2021-08-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2021-09-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2021-10-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2021-11-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2021-12-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2022-01-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2022-02-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2022-03-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2022-04-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2022-05-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2022-06-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2022-07-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2022-08-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2022-09-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2022-10-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2022-11-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2022-12-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2023-01-01,0.14,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.14
+2023-02-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2023-03-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2023-04-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2023-05-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2023-06-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2023-07-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2023-08-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2023-09-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2023-10-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2023-11-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2023-12-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2024-01-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2024-02-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2024-03-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2024-04-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2024-05-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2024-06-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2024-07-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2024-08-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2024-09-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2024-10-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2024-11-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2024-12-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2025-01-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2025-02-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2025-03-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2025-04-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2025-05-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2025-06-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2025-07-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2025-08-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2025-09-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2025-10-01,0.15,Bread (Khoboz),Iraq,Anbar,RETAIL,1 unit,unit,0.15
+2012-10-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2012-11-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2012-12-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2013-01-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2013-02-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2013-03-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2013-04-01,0.11,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.11
+2013-05-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2013-06-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2013-07-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2013-08-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2013-09-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2013-10-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2013-11-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2013-12-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2014-01-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2014-02-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2014-03-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2014-04-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2014-05-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2014-06-01,0.1,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.1
+2014-07-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2014-08-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2014-09-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2014-10-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2014-11-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2014-12-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2015-01-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2015-02-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2015-03-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2015-04-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2015-05-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2015-06-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2015-07-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2015-08-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2015-09-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2015-10-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2015-11-01,0.16,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.16
+2015-12-01,0.16,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.16
+2016-01-01,0.16,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.16
+2016-02-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2016-03-01,0.16,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.16
+2016-04-01,0.16,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.16
+2016-05-01,0.16,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.16
+2016-06-01,0.16,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.16
+2016-07-01,0.16,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.16
+2016-08-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2016-09-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2016-10-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2016-11-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2016-12-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2017-01-01,170.0,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,170.0
+2017-02-01,170.0,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,170.0
+2017-03-01,170.0,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,170.0
+2017-04-01,170.0,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,170.0
+2017-05-01,175.0,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,175.0
+2017-06-01,143.75,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,143.75
+2017-07-01,200.0,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,200.0
+2017-08-01,125.0,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,125.0
+2017-09-01,125.0,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,125.0
+2017-10-01,125.0,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,125.0
+2017-11-01,125.0,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,125.0
+2017-12-01,125.0,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,125.0
+2018-01-01,0.11,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.11
+2018-02-01,0.11,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.11
+2018-03-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2018-04-01,0.11,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.11
+2018-05-01,0.11,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.11
+2018-06-01,0.11,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.11
+2018-07-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2018-08-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2018-09-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2018-10-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2018-11-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2018-12-01,,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,
+2019-01-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2019-02-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2019-03-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2019-04-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2019-05-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2019-06-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2019-07-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2019-08-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2019-09-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2019-10-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2019-11-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2019-12-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2020-01-01,0.15,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.15
+2020-02-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2020-03-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2020-04-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2020-05-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2020-06-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2020-07-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2020-08-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2020-09-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2020-10-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2020-11-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2020-12-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2021-01-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2021-02-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2021-03-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2021-04-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2021-05-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2021-06-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2021-07-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2021-08-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2021-09-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2021-10-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2021-11-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2021-12-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2022-01-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2022-02-01,0.14,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.14
+2022-03-01,0.16,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.16
+2022-04-01,0.16,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.16
+2022-05-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2022-06-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2022-07-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2022-08-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2022-09-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2022-10-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2022-11-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2022-12-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2023-01-01,0.17,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.17
+2023-02-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2023-03-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2023-04-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2023-05-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2023-06-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2023-07-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2023-08-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2023-09-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2023-10-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2023-11-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2023-12-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2024-01-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2024-02-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2024-03-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2024-04-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2024-05-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2024-06-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2024-07-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2024-08-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2024-09-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2024-10-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2024-11-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2024-12-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2025-01-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2025-02-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2025-03-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2025-04-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2025-05-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2025-06-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2025-07-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2025-08-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2025-09-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2025-10-01,0.19,Bread (Khoboz),Iraq,Baghdad,RETAIL,1 unit,unit,0.19
+2012-10-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2012-11-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2012-12-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2013-01-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2013-02-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2013-03-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2013-04-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2013-05-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2013-06-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2013-07-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2013-08-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2013-09-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2013-10-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2013-11-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2013-12-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2014-01-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2014-02-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2014-03-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2014-04-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2014-05-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2014-06-01,0.11,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.11
+2014-07-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2014-08-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2014-09-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2014-10-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2014-11-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2014-12-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2015-01-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2015-02-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2015-03-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2015-04-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2015-05-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2015-06-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2015-07-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2015-08-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2015-09-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2015-10-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2015-11-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2015-12-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2016-01-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2016-02-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2016-03-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2016-04-01,0.17,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.17
+2016-05-01,0.17,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.17
+2016-06-01,0.17,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.17
+2016-07-01,0.17,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.17
+2016-08-01,0.17,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.17
+2016-09-01,0.17,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.17
+2016-10-01,0.17,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.17
+2016-11-01,0.17,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.17
+2016-12-01,0.17,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.17
+2017-01-01,200.0,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,200.0
+2017-02-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2017-03-01,200.0,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,200.0
+2017-04-01,200.0,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,200.0
+2017-05-01,200.0,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,200.0
+2017-06-01,200.0,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,200.0
+2017-07-01,200.0,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,200.0
+2017-08-01,200.0,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,200.0
+2017-09-01,200.0,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,200.0
+2017-10-01,200.0,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,200.0
+2017-11-01,200.0,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,200.0
+2017-12-01,200.0,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,200.0
+2018-01-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2018-02-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2018-03-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2018-04-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2018-05-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2018-06-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2018-07-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2018-08-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2018-09-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2018-10-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2018-11-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2018-12-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2019-01-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2019-02-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2019-03-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2019-04-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2019-05-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2019-06-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2019-07-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2019-08-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2019-09-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2019-10-01,,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,
+2019-11-01,0.12,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.12
+2019-12-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2020-01-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2020-02-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2020-03-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2020-04-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2020-05-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2020-06-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2020-07-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2020-08-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2020-09-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2020-10-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2020-11-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2020-12-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2021-01-01,0.12,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.12
+2021-02-01,0.12,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.12
+2021-03-01,0.12,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.12
+2021-04-01,0.12,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.12
+2021-05-01,0.12,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.12
+2021-06-01,0.12,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.12
+2021-07-01,0.12,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.12
+2021-08-01,0.12,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.12
+2021-09-01,0.12,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.12
+2021-10-01,0.13,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.13
+2021-11-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2021-12-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2022-01-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2022-02-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2022-03-01,0.17,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.17
+2022-04-01,0.16,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.16
+2022-05-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2022-06-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2022-07-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2022-08-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2022-09-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2022-10-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2022-11-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2022-12-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2023-01-01,0.14,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.14
+2023-02-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2023-03-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2023-04-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2023-05-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2023-06-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2023-07-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2023-08-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2023-09-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2023-10-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2023-11-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2023-12-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2024-01-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2024-02-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2024-03-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2024-04-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2024-05-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2024-06-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2024-07-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2024-08-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2024-09-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2024-10-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2024-11-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2024-12-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2025-01-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2025-02-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2025-03-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2025-04-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2025-05-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2025-06-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2025-07-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2025-08-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2025-09-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2025-10-01,0.15,Bread (Khoboz),Iraq,Basrah,RETAIL,1 unit,unit,0.15
+2012-10-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2012-11-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2012-12-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2013-01-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2013-02-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2013-03-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2013-04-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2013-05-01,,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,
+2013-06-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2013-07-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2013-08-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2013-09-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2013-10-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2013-11-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2013-12-01,,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,
+2014-01-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2014-02-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2014-03-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2014-04-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2014-05-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2014-06-01,0.14,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.14
+2014-07-01,,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,
+2014-08-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2014-09-01,,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,
+2014-10-01,,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,
+2014-11-01,,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,
+2014-12-01,,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,
+2015-01-01,,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,
+2015-02-01,,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,
+2015-03-01,,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,
+2015-04-01,,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,
+2015-05-01,,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,
+2015-06-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2015-07-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2015-08-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2015-09-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2015-10-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2015-11-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2015-12-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2016-01-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2016-02-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2016-03-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2016-04-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2016-05-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2016-06-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2016-07-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2016-08-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2016-09-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2016-10-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2016-11-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2016-12-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2017-01-01,187.5,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,187.5
+2017-02-01,75.0,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,75.0
+2017-03-01,250.0,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,250.0
+2017-04-01,112.5,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,112.5
+2017-05-01,100.0,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,100.0
+2017-06-01,250.0,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,250.0
+2017-07-01,250.0,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,250.0
+2017-08-01,250.0,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,250.0
+2017-09-01,250.0,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,250.0
+2017-10-01,250.0,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,250.0
+2017-11-01,250.0,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,250.0
+2017-12-01,250.0,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,250.0
+2018-01-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2018-02-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2018-03-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2018-04-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2018-05-01,0.11,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.11
+2018-06-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2018-07-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2018-08-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2018-09-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2018-10-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2018-11-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2018-12-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2019-01-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2019-02-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2019-03-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2019-04-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2019-05-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2019-06-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2019-07-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2019-08-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2019-09-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2019-10-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2019-11-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2019-12-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2020-01-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2020-02-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2020-03-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2020-04-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2020-05-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2020-06-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2020-07-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2020-08-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2020-09-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2020-10-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2020-11-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2020-12-01,0.21,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.21
+2021-01-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2021-02-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2021-03-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2021-04-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2021-05-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2021-06-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2021-07-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2021-08-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2021-09-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2021-10-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2021-11-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2021-12-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2022-01-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2022-02-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2022-03-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2022-04-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2022-05-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2022-06-01,0.18,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.18
+2022-07-01,0.18,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.18
+2022-08-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2022-09-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2022-10-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2022-11-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2022-12-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2023-01-01,0.17,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.17
+2023-02-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2023-03-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2023-04-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2023-05-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2023-06-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2023-07-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2023-08-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2023-09-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2023-10-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2023-11-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2023-12-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2024-01-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2024-02-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2024-03-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2024-04-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2024-05-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2024-06-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2024-07-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2024-08-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2024-09-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2024-10-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2024-11-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2024-12-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2025-01-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2025-02-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2025-03-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2025-04-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2025-05-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2025-06-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2025-07-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2025-08-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2025-09-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2025-10-01,0.19,Bread (Khoboz),Iraq,Dohuk,RETAIL,1 unit,unit,0.19
+2012-01-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2012-02-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2012-03-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2012-04-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2012-05-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2012-06-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2012-07-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2012-08-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2012-09-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2012-10-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2012-11-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2012-12-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2013-01-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2013-02-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2013-03-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2013-04-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2013-05-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2013-06-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2013-07-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2013-08-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2013-09-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2013-10-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2013-11-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2013-12-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2014-01-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2014-02-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2014-03-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2014-04-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2014-05-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2014-06-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2014-07-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2014-08-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2014-09-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2014-10-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2014-11-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2014-12-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2015-01-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2015-02-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2015-03-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2015-04-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2015-05-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2015-06-01,0.13,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.13
+2015-07-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2015-08-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2015-09-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2015-10-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2015-11-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2015-12-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2016-01-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2016-02-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2016-03-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2016-04-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2016-05-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2016-06-01,0.13,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.13
+2016-07-01,0.21,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.21
+2016-08-01,0.21,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.21
+2016-09-01,0.21,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.21
+2016-10-01,0.21,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.21
+2016-11-01,0.21,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.21
+2016-12-01,0.21,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.21
+2017-01-01,250.0,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,250.0
+2017-02-01,250.0,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,250.0
+2017-03-01,250.0,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,250.0
+2017-04-01,250.0,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,250.0
+2017-05-01,250.0,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,250.0
+2017-06-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2017-07-01,100.0,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,100.0
+2017-08-01,250.0,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,250.0
+2017-09-01,250.0,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,250.0
+2017-10-01,250.0,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,250.0
+2017-11-01,250.0,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,250.0
+2017-12-01,250.0,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,250.0
+2018-01-01,0.21,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.21
+2018-02-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2018-03-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2018-04-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2018-05-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2018-06-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2018-07-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2018-08-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2018-09-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2018-10-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2018-11-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2018-12-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2019-01-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2019-02-01,0.15,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.15
+2019-03-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2019-04-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2019-05-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2019-06-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2019-07-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2019-08-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2019-09-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2019-10-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2019-11-01,0.11,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.11
+2019-12-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2020-01-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2020-02-01,,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,
+2020-03-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2020-04-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2020-05-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2020-06-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2020-07-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2020-08-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2020-09-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2020-10-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2020-11-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2020-12-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2021-01-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2021-02-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2021-03-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2021-04-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2021-05-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2021-06-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2021-07-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2021-08-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2021-09-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2021-10-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2021-11-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2021-12-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2022-01-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2022-02-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2022-03-01,0.16,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.16
+2022-04-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2022-05-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2022-06-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2022-07-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2022-08-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2022-09-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2022-10-01,0.17,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.17
+2022-11-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2022-12-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2023-01-01,0.14,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.14
+2023-02-01,0.15,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.15
+2023-03-01,0.15,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.15
+2023-04-01,0.15,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.15
+2023-05-01,0.15,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.15
+2023-06-01,0.15,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.15
+2023-07-01,0.15,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.15
+2023-08-01,0.15,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.15
+2023-09-01,0.15,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.15
+2023-10-01,0.15,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.15
+2023-11-01,0.15,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.15
+2023-12-01,0.15,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.15
+2024-01-01,0.15,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.15
+2024-02-01,0.15,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.15
+2024-03-01,0.18,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.18
+2024-04-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2024-05-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2024-06-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2024-07-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2024-08-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2024-09-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2024-10-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2024-11-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2024-12-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2025-01-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2025-02-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2025-03-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2025-04-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2025-05-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2025-06-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2025-07-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2025-08-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2025-09-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2025-10-01,0.19,Bread (Khoboz),Iraq,Erbil,RETAIL,1 unit,unit,0.19
+2012-01-01,0.11,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.11
+2012-02-01,0.11,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.11
+2012-03-01,0.11,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.11
+2012-04-01,0.11,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.11
+2012-05-01,0.11,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.11
+2012-06-01,0.11,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.11
+2012-07-01,0.1,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.1
+2012-08-01,0.11,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.11
+2012-09-01,0.11,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.11
+2012-10-01,0.11,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.11
+2012-11-01,0.11,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.11
+2012-12-01,0.11,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.11
+2013-01-01,0.11,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.11
+2013-02-01,0.11,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.11
+2013-03-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2013-04-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2013-05-01,,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,
+2013-06-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2013-07-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2013-08-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2013-09-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2013-10-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2013-11-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2013-12-01,,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,
+2014-01-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2014-02-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2014-03-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2014-04-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2014-05-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2014-06-01,0.11,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.11
+2014-07-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2014-08-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2014-09-01,,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,
+2014-10-01,,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,
+2014-11-01,,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,
+2014-12-01,,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,
+2015-01-01,,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,
+2015-02-01,,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,
+2015-03-01,,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,
+2015-04-01,,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,
+2015-05-01,,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,
+2015-06-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2015-07-01,0.16,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.16
+2015-08-01,0.16,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.16
+2015-09-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2015-10-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2015-11-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2015-12-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2016-01-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2016-02-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2016-03-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2016-04-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2016-05-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2016-06-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2016-07-01,0.16,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.16
+2016-08-01,0.16,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.16
+2016-09-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2016-10-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2016-11-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2016-12-01,0.16,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.16
+2017-01-01,178.28,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,178.28
+2017-02-01,179.64,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,179.64
+2017-03-01,174.38,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,174.38
+2017-04-01,222.03,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,222.03
+2017-05-01,221.56,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,221.56
+2017-06-01,167.67,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,167.67
+2017-07-01,231.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,231.14
+2017-08-01,283.33,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,283.33
+2017-09-01,239.23,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,239.23
+2017-10-01,246.86,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,246.86
+2017-11-01,174.79,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,174.79
+2017-12-01,247.44,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,247.44
+2018-01-01,0.21,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.21
+2018-02-01,0.19,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.19
+2018-03-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2018-04-01,0.13,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.13
+2018-05-01,0.18,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.18
+2018-06-01,0.2,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.2
+2018-07-01,0.2,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.2
+2018-08-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2018-09-01,0.19,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.19
+2018-10-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2018-11-01,0.19,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.19
+2018-12-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2019-01-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2019-02-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2019-03-01,0.13,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.13
+2019-04-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2019-05-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2019-06-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2019-07-01,0.16,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.16
+2019-08-01,0.26,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.26
+2019-09-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2019-10-01,0.16,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.16
+2019-11-01,0.13,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.13
+2019-12-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2020-01-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2020-02-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2020-03-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2020-04-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2020-05-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2020-06-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2020-07-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2020-08-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2020-09-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2020-10-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2020-11-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2020-12-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2021-01-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2021-02-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2021-03-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2021-04-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2021-05-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2021-06-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2021-07-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2021-08-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2021-09-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2021-10-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2021-11-01,0.13,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.13
+2021-12-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2022-01-01,0.13,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.13
+2022-02-01,0.12,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.12
+2022-03-01,0.13,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.13
+2022-04-01,0.13,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.13
+2022-05-01,0.13,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.13
+2022-06-01,0.13,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.13
+2022-07-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2022-08-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2022-09-01,0.13,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.13
+2022-10-01,0.13,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.13
+2022-11-01,0.13,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.13
+2022-12-01,0.13,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.13
+2023-01-01,0.13,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.13
+2023-02-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2023-03-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2023-04-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2023-05-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2023-06-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2023-07-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2023-08-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2023-09-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2023-10-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2023-11-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2023-12-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2024-01-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2024-02-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2024-03-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2024-04-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2024-05-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2024-06-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2024-07-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2024-08-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2024-09-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2024-10-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2024-11-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2024-12-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2025-01-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2025-02-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2025-03-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2025-04-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2025-05-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2025-06-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2025-07-01,0.14,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.14
+2025-08-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2025-09-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2025-10-01,0.15,Bread (Khoboz),Iraq,National Average,RETAIL,1 unit,unit,0.15
+2012-10-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2012-11-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2012-12-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2013-01-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2013-02-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2013-03-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2013-04-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2013-05-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2013-06-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2013-07-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2013-08-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2013-09-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2013-10-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2013-11-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2013-12-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2014-01-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2014-02-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2014-03-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2014-04-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2014-05-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2014-06-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2014-07-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2014-08-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2014-09-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2014-10-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2014-11-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2014-12-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2015-01-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2015-02-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2015-03-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2015-04-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2015-05-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2015-06-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2015-07-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2015-08-01,,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,
+2015-09-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2015-10-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2015-11-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2015-12-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2016-01-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2016-02-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2016-03-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2016-04-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2016-05-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2016-06-01,0.17,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.17
+2016-07-01,0.17,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.17
+2016-08-01,0.15,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.15
+2016-09-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2016-10-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2016-11-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2016-12-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2017-01-01,125.0,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,125.0
+2017-02-01,125.0,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,125.0
+2017-03-01,125.0,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,125.0
+2017-04-01,125.0,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,125.0
+2017-05-01,125.0,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,125.0
+2017-06-01,125.0,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,125.0
+2017-07-01,125.0,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,125.0
+2017-08-01,125.0,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,125.0
+2017-09-01,125.0,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,125.0
+2017-10-01,125.0,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,125.0
+2017-11-01,125.0,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,125.0
+2017-12-01,125.0,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,125.0
+2018-01-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2018-02-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2018-03-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2018-04-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2018-05-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2018-06-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2018-07-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2018-08-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2018-09-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2018-10-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2018-11-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2018-12-01,0.1,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.1
+2019-01-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2019-02-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2019-03-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2019-04-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2019-05-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2019-06-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2019-07-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2019-08-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2019-09-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2019-10-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2019-11-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2019-12-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2020-01-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2020-02-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2020-03-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2020-04-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2020-05-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2020-06-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2020-07-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2020-08-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2020-09-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2020-10-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2020-11-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2020-12-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2021-01-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2021-02-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2021-03-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2021-04-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2021-05-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2021-06-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2021-07-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2021-08-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2021-09-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2021-10-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2021-11-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2021-12-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2022-01-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2022-02-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2022-03-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2022-04-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2022-05-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2022-06-01,0.1,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.1
+2022-07-01,0.1,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.1
+2022-08-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2022-09-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2022-10-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2022-11-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2022-12-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2023-01-01,0.09,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.09
+2023-02-01,0.1,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.1
+2023-03-01,0.1,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.1
+2023-04-01,0.1,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.1
+2023-05-01,0.1,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.1
+2023-06-01,0.1,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.1
+2023-07-01,0.1,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.1
+2023-08-01,0.1,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.1
+2023-09-01,0.12,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.12
+2023-10-01,0.13,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.13
+2023-11-01,0.13,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.13
+2023-12-01,0.13,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.13
+2024-01-01,0.13,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.13
+2024-02-01,0.13,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.13
+2024-03-01,0.13,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.13
+2024-04-01,0.13,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.13
+2024-05-01,0.1,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.1
+2024-06-01,0.12,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.12
+2024-07-01,0.12,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.12
+2024-08-01,0.12,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.12
+2024-09-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2024-10-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2024-11-01,0.12,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.12
+2024-12-01,0.12,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.12
+2025-01-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2025-02-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2025-03-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2025-04-01,0.12,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.12
+2025-05-01,0.12,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.12
+2025-06-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2025-07-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2025-08-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2025-09-01,0.11,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.11
+2025-10-01,0.12,Bread (Khoboz),Iraq,Sulaimaniyah,RETAIL,1 unit,unit,0.12
