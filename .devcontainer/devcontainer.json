@@ -1,0 +1,15 @@
+{
+  "name": "Commodity Analysis",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-toolsai.jupyter",
+        "ms-python.python"
+      ]
+    }
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
+}
