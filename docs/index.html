@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Data Viewer - FPMA wheat Data</title>
-  
+  <!-- Handsontable CSS + JS (free for open-source) -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/handsontable/dist/handsontable.full.min.css" />
   <script src="https://cdn.jsdelivr.net/npm/handsontable/dist/handsontable.full.min.js"></script>
   <style>
@@ -21,37 +21,43 @@
     <div id="excel-table" style="margin-top: 20px;"></div>
   </div>
 
-  <script>
-    
-    const excelFileUrl = '../excel_files/wheat_bread.xlsx';  
+<script>
+  const excelFileUrl = '../excel_files/wheat_bread.xlsx';  // correct for your folder
 
-    const hotElement = document.querySelector('#excel-table');
+  const hotElement = document.querySelector('#excel-table');
 
-    fetch(excelFileUrl)
-      .then(response => response.arrayBuffer())
-      .then(data => {
-        
-        const workbook = Handsontable.utils.xlsxToWorkbook(data);
-        const sheet = workbook.Sheets[workbook.SheetNames[0]];
-        const jsonData = Handsontable.utils.sheetToJSON(sheet, { header: 1 });
+  fetch(excelFileUrl)
+    .then(response => {
+      if (!response.ok) throw new Error('File not found or blocked by CORS');
+      return response.arrayBuffer();
+    })
+    .then(arrayBuffer => {
+      // Use SheetJS (already bundled with Handsontable full)
+      const workbook = XLSX.read(arrayBuffer, { type: 'array' });
+      const firstSheetName = workbook.SheetNames[0];
+      const worksheet = workbook.Sheets[firstSheetName];
 
-        new Handsontable(hotElement, {
-          data: jsonData,
-          rowHeaders: true,
-          colHeaders: true,
-          filters: true,
-          dropdownMenu: true,
-          licenseKey: 'non-commercial-and-evaluation',
-          stretchH: 'all',
-          height: 'auto',
-          readOnly: true,
-          columnSorting: true,
-          contextMenu: ['copy'],
-        });
-      })
-      .catch(err => {
-        hotElement.innerHTML = `<p style="color:red;">Error loading file: ${err.message}</p>`;
+      // Convert to array of arrays (Handsontable format)
+      const jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1, defval: '' });
+
+      new Handsontable(hotElement, {
+        data: jsonData,
+        rowHeaders: true,
+        colHeaders: true,
+        filters: true,
+        dropdownMenu: true,
+        columnSorting: true,
+        contextMenu: ['copy'],
+        stretchH: 'all',
+        height: 'auto',
+        readOnly: true,
+        licenseKey: 'non-commercial-and-evaluation' // required for open-source
       });
-  </script>
+    })
+    .catch(err => {
+      hotElement.innerHTML = `<p style="color:red;">Error loading the file:<br>${err.message}</p>`;
+    });
+</script>
+
 </body>
 </html>
