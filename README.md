@@ -17,5 +17,4 @@ https://mybinder.org/v2/gh/tezamo/FPMA/main?labpath=notebooks/StandardizedDataAn
 
 # Wheat & Bread Analysis
 
-> the data file is here  : 
-https://tezamo.github.io/FPMA
+ 
