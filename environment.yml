@@ -1,0 +1,10 @@
+name: fpma
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - plotly
+  - ipywidgets
+  - nodejs  # required for interactive widgets
+  - jupyterlab
