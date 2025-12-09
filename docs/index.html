@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Data Viewer - FPMA wheat Data</title>
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/handsontable/dist/handsontable.full.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/handsontable/dist/handsontable.full.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; background: #f9f9f9; }
+    h1 { color: #333; }
+    .container { max-width: 100%; margin: 0 auto; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Your Data Title (edit this)</h1>
+    <p><a href="../excel_files/wheat_bread.xlsx">Download Excel file</a> | 
+       <a href="https://github.com/tezamo/FPMA">Back to repository</a></p>
+    <div id="excel-table" style="margin-top: 20px;"></div>
+  </div>
+
+  <script>
+    
+    const excelFileUrl = '../excel_files/wheat_bread.xlsx';  
+
+    const hotElement = document.querySelector('#excel-table');
+
+    fetch(excelFileUrl)
+      .then(response => response.arrayBuffer())
+      .then(data => {
+        
+        const workbook = Handsontable.utils.xlsxToWorkbook(data);
+        const sheet = workbook.Sheets[workbook.SheetNames[0]];
+        const jsonData = Handsontable.utils.sheetToJSON(sheet, { header: 1 });
+
+        new Handsontable(hotElement, {
+          data: jsonData,
+          rowHeaders: true,
+          colHeaders: true,
+          filters: true,
+          dropdownMenu: true,
+          licenseKey: 'non-commercial-and-evaluation',
+          stretchH: 'all',
+          height: 'auto',
+          readOnly: true,
+          columnSorting: true,
+          contextMenu: ['copy'],
+        });
+      })
+      .catch(err => {
+        hotElement.innerHTML = `<p style="color:red;">Error loading file: ${err.message}</p>`;
+      });
+  </script>
+</body>
+</html>
