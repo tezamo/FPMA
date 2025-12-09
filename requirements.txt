@@ -3,3 +3,4 @@ plotly
 ipywidgets
 ydata-profiling
 requests
+statsmodels.tsa.stattools
