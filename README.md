@@ -1,7 +1,7 @@
 # FPMA
 
 
-# Standardized Data analysis
+# Standardized Data Analysis
 > just click on the following badge : 
 >
 >[![Binder](https://mybinder.org/badge_logo.svg)](
