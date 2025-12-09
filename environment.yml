@@ -6,5 +6,5 @@ dependencies:
   - pandas
   - plotly
   - ipywidgets
-  - nodejs  # required for interactive widgets
+  - nodejs  
   - jupyterlab
