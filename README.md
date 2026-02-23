@@ -152,7 +152,8 @@ All data is retrieved from the **FAO GIEWS Food Price Monitoring and Analysis (F
 
 ## 📄 License
 
-Data is provided by the **Food and Agriculture Organization of the United Nations (FAO)** and is subject to [FAO's terms of use](https://www.fao.org/contact-us/terms/en/).
+Data is provided by the **Food and Agriculture Organization of the United Nations (FAO)** and is subject to [FAO's terms of use](https://www.fao.org/contact-us/terms/en/). For questions or contributions, open an issue or contact the author.
+
 
 Scripts in this repository are released under the **MIT License**.
 
