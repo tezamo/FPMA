@@ -5,3 +5,7 @@ ydata-profiling
 requests
 statsmodels
 statsmodels.tsa.stattools
+matplotlib
+seaborn
+scipy
+sklearn
