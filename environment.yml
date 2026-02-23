@@ -8,3 +8,4 @@ dependencies:
   - ipywidgets
   - nodejs  
   - jupyterlab
+  - pip
