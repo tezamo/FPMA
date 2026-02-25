@@ -64,30 +64,46 @@ for item in series_data['results']:
 
     if not rows:
         continue
-
-    # ---- GAP FILLING ----
-    df = pd.DataFrame(rows)
-    df['date'] = pd.to_datetime(df['date'])
-
-    # Make full monthly range
-    full_range = pd.date_range(
-        start=df['date'].min(),
-        end=df['date'].max(),
-        freq='MS'
-    )
-
-    # Reindex to full monthly range → missing months become NaN
-    df = df.set_index('date').reindex(full_range)
-
-    # Restore identifying fields for all rows
-    df['commodity_name'] = commodity_name
-    df['country'] = country
-    df['market'] = market
-    df['price_type'] = price_type
-    df['unit'] = unit
-    df['currency'] = currency
-    df['price_source'] = 'Domestic'
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+removed for privacy concerns
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+    
     df.index.name = "date"
     df = df.reset_index()
     df = df[['date', 'price_usd', 'price_local', 'currency',
