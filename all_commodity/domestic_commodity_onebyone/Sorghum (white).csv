@@ -1,0 +1,505 @@
+date,price_usd,commodity_name,country,market,price_type,unit
+2024-06-01,0.56,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2024-07-01,0.59,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2024-08-01,0.62,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2024-09-01,,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2024-10-01,0.63,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2024-11-01,0.6,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2024-12-01,0.58,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2025-01-01,0.56,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2025-02-01,0.56,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2025-03-01,0.59,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2025-04-01,0.62,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2025-05-01,0.63,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2025-06-01,0.65,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2025-07-01,0.62,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2025-08-01,0.6,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2025-09-01,0.6,Sorghum (white),Burkina Faso,Centre Region,RETAIL,Kg
+2024-06-01,0.6,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2024-07-01,0.59,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2024-08-01,0.64,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2024-09-01,,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2024-10-01,0.59,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2024-11-01,0.57,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2024-12-01,0.56,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2025-01-01,0.52,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2025-02-01,0.5,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2025-03-01,0.58,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2025-04-01,0.56,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2025-05-01,0.6,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2025-06-01,0.65,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2025-07-01,0.65,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2025-08-01,0.65,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2025-09-01,0.65,Sorghum (white),Burkina Faso,Est Region,RETAIL,Kg
+2024-06-01,0.42,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2024-07-01,0.5,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2024-08-01,0.54,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2024-09-01,,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2024-10-01,0.52,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2024-11-01,0.51,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2024-12-01,0.46,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2025-01-01,0.48,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2025-02-01,0.46,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2025-03-01,0.49,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2025-04-01,0.5,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2025-05-01,0.55,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2025-06-01,0.54,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2025-07-01,0.56,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2025-08-01,0.57,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2025-09-01,0.52,Sorghum (white),Burkina Faso,Hauts-Bassins Region,RETAIL,Kg
+2024-06-01,0.36,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2024-07-01,0.41,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2024-08-01,0.41,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2024-09-01,,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2024-10-01,0.41,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2024-11-01,0.35,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2024-12-01,0.35,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2025-01-01,0.34,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2025-02-01,0.35,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2025-03-01,0.36,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2025-04-01,0.37,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2025-05-01,0.41,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2025-06-01,0.42,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2025-07-01,0.43,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2025-08-01,0.43,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2025-09-01,0.42,Sorghum (white),Burkina Faso,Nord Region,RETAIL,Kg
+2024-06-01,0.6,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2024-07-01,0.7,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2024-08-01,0.67,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2024-09-01,,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2024-10-01,0.71,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2024-11-01,0.56,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2024-12-01,0.57,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2025-01-01,0.67,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2025-02-01,0.71,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2025-03-01,0.82,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2025-04-01,0.8,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2025-05-01,0.75,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2025-06-01,0.76,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2025-07-01,0.77,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2025-08-01,0.74,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2025-09-01,0.73,Sorghum (white),Burkina Faso,Sahel Region,RETAIL,Kg
+2013-04-01,0.52,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2013-05-01,0.56,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2013-06-01,0.56,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2013-07-01,0.56,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2013-08-01,0.56,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2013-09-01,0.56,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2013-10-01,0.56,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2013-11-01,0.56,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2013-12-01,0.56,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2014-01-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2014-02-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2014-03-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2014-04-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2014-05-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2014-06-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2014-07-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2014-08-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2014-09-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2014-10-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2014-11-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2014-12-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2015-01-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2015-02-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2015-03-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2015-04-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2015-05-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2015-06-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2015-07-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2015-08-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2015-09-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2015-10-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2015-11-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2015-12-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2016-01-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2016-02-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2016-03-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2016-04-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2016-05-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2016-06-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2016-07-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2016-08-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2016-09-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2016-10-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2016-11-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2016-12-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2017-01-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2017-02-01,0.68,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2017-03-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2017-04-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2017-05-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2017-06-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2017-07-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2017-08-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2017-09-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2017-10-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2017-11-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2017-12-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2018-01-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2018-02-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2018-03-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2018-04-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2018-05-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2018-06-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2018-07-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2018-08-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2018-09-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2018-10-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2018-11-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2018-12-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2019-01-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2019-02-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2019-03-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2019-04-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2019-05-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2019-06-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2019-07-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2019-08-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2019-09-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2019-10-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2019-11-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2019-12-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2020-01-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2020-02-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2020-03-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2020-04-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2020-05-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2020-06-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2020-07-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2020-08-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2020-09-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2020-10-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2020-11-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2020-12-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2021-01-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2021-02-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2021-03-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2021-04-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2021-05-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2021-06-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2021-07-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2021-08-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2021-09-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2021-10-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2021-11-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2021-12-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2022-01-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2022-02-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2022-03-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2022-04-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2022-05-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2022-06-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2022-07-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2022-08-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2022-09-01,1.13,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2022-10-01,1.13,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2022-11-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2022-12-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2023-01-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2023-02-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2023-03-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2023-04-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2023-05-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2023-06-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2023-07-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2023-08-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2023-09-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2023-10-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2023-11-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2023-12-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2024-01-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2024-02-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2024-03-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2024-04-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2024-05-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2024-06-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2024-07-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2024-08-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2024-09-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2024-10-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2024-11-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2024-12-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2025-01-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2025-02-01,1.13,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2025-03-01,1.13,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2025-04-01,,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2025-05-01,1.41,Sorghum (white),Djibouti,Dikhil,RETAIL,Kg
+2013-04-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2013-05-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2013-06-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2013-07-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2013-08-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2013-09-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2013-10-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2013-11-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2013-12-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2014-01-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2014-02-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2014-03-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2014-04-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2014-05-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2014-06-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2014-07-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2014-08-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2014-09-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2014-10-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2014-11-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2014-12-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2015-01-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2015-02-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2015-03-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2015-04-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2015-05-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2015-06-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2015-07-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2015-08-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2015-09-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2015-10-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2015-11-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2015-12-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2016-01-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2016-02-01,0.65,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2016-03-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2016-04-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2016-05-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2016-06-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2016-07-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2016-08-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2016-09-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2016-10-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2016-11-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2016-12-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2017-01-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2017-02-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2017-03-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2017-04-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2017-05-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2017-06-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2017-07-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2017-08-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2017-09-01,1.13,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2017-10-01,0.51,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2017-11-01,0.51,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2017-12-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2018-01-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2018-02-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2018-03-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2018-04-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2018-05-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2018-06-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2018-07-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2018-08-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2018-09-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2018-10-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2018-11-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2018-12-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2019-01-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2019-02-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2019-03-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2019-04-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2019-05-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2019-06-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2019-07-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2019-08-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2019-09-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2019-10-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2019-11-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2019-12-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2020-01-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2020-02-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2020-03-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2020-04-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2020-05-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2020-06-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2020-07-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2020-08-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2020-09-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2020-10-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2020-11-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2020-12-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2021-01-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2021-02-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2021-03-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2021-04-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2021-05-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2021-06-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2021-07-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2021-08-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2021-09-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2021-10-01,0.56,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2021-11-01,0.9,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2021-12-01,0.9,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2022-01-01,0.9,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2022-02-01,0.9,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2022-03-01,0.9,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2022-04-01,0.9,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2022-05-01,0.9,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2022-06-01,0.9,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2022-07-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2022-08-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2022-09-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2022-10-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2022-11-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2022-12-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2023-01-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2023-02-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2023-03-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2023-04-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2023-05-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2023-06-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2023-07-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2023-08-01,0.84,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2023-09-01,0.84,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2023-10-01,0.84,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2023-11-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2023-12-01,0.68,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2024-01-01,1.29,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2024-02-01,1.29,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2024-03-01,1.29,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2024-04-01,1.29,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2024-05-01,1.13,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2024-06-01,1.13,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2024-07-01,1.13,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2024-08-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2024-09-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2024-10-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2024-11-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2024-12-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2025-01-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2025-02-01,1.35,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2025-03-01,1.35,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2025-04-01,,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2025-05-01,1.35,Sorghum (white),Djibouti,Obock,RETAIL,Kg
+2020-01-01,77.02,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2020-02-01,76.47,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2020-03-01,75.62,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2020-04-01,,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2020-05-01,,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2020-06-01,,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2020-07-01,59.78,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2020-08-01,49.89,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2020-09-01,41.07,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2020-10-01,43.06,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2020-11-01,39.67,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2020-12-01,41.41,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2021-01-01,41.95,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2021-02-01,45.36,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2021-03-01,51.64,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2021-04-01,60.03,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2021-05-01,,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2021-06-01,59.91,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2021-07-01,65.89,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2021-08-01,67.91,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2021-09-01,72.04,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2021-10-01,70.69,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2021-11-01,69.38,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2021-12-01,86.49,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2022-01-01,100.99,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2022-02-01,,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2022-03-01,117.91,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2022-04-01,122.07,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2022-05-01,126.24,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2022-06-01,125.5,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2022-07-01,153.63,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2022-08-01,152.41,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2022-09-01,152.0,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2022-10-01,170.42,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2022-11-01,150.57,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2022-12-01,172.58,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2023-01-01,,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2023-02-01,186.46,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2023-03-01,167.5,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2023-04-01,179.13,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2023-05-01,178.34,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2023-06-01,152.55,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2023-07-01,154.91,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2023-08-01,,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2023-09-01,153.75,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2023-10-01,153.51,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2023-11-01,156.41,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2023-12-01,159.36,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2024-01-01,,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2024-02-01,,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2024-03-01,111.02,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2024-04-01,,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2024-05-01,87.22,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2024-06-01,104.33,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2024-07-01,97.19,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2024-08-01,59.04,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2024-09-01,54.62,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2024-10-01,52.36,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2024-11-01,65.24,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2024-12-01,,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2025-01-01,74.8,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2025-02-01,,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2025-03-01,63.28,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2025-04-01,64.45,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2025-05-01,0.63,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2025-06-01,73.65,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2025-07-01,72.56,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2025-08-01,71.23,Sorghum (white),Ethiopia,Gode,RETAIL,100 kg
+2020-05-01,38.39,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2020-06-01,37.68,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2020-07-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2020-08-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2020-09-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2020-10-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2020-11-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2020-12-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2021-01-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2021-02-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2021-03-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2021-04-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2021-05-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2021-06-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2021-07-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2021-08-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2021-09-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2021-10-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2021-11-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2021-12-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2022-01-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2022-02-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2022-03-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2022-04-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2022-05-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2022-06-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2022-07-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2022-08-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2022-09-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2022-10-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2022-11-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2022-12-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2023-01-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2023-02-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2023-03-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2023-04-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2023-05-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2023-06-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2023-07-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2023-08-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2023-09-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2023-10-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2023-11-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2023-12-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2024-01-01,71.31,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2024-02-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2024-03-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2024-04-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2024-05-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2024-06-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2024-07-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2024-08-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2024-09-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2024-10-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2024-11-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2024-12-01,,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2025-01-01,62.99,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2025-02-01,62.93,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2025-03-01,57.88,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2025-04-01,60.66,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2025-05-01,59.73,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2025-06-01,57.45,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2025-07-01,58.05,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg
+2025-08-01,53.42,Sorghum (white),Ethiopia,Shashemene,RETAIL,100 kg

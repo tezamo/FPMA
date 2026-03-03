@@ -1,0 +1,831 @@
+date,price_usd,commodity_name,country,market,price_type,unit,unit_std,price_per_unit
+2012-12-01,22.24,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4834782608695652
+2013-01-01,21.65,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4706521739130434
+2013-02-01,19.1,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.41521739130434787
+2013-03-01,17.6,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3826086956521739
+2013-04-01,14.14,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3073913043478261
+2013-05-01,13.26,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.2882608695652174
+2013-06-01,14.81,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3219565217391304
+2013-07-01,20.03,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.43543478260869567
+2013-08-01,21.88,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.47565217391304343
+2013-09-01,27.98,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.6082608695652174
+2013-10-01,32.57,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.7080434782608696
+2013-11-01,25.33,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5506521739130434
+2013-12-01,19.5,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.42391304347826086
+2014-01-01,15.91,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3458695652173913
+2014-02-01,14.93,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.32456521739130434
+2014-03-01,10.18,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.22130434782608696
+2014-04-01,11.22,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.24391304347826087
+2014-05-01,16.31,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3545652173913043
+2014-06-01,18.52,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4026086956521739
+2014-07-01,18.79,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4084782608695652
+2014-08-01,18.36,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3991304347826087
+2014-09-01,17.19,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3736956521739131
+2014-10-01,17.13,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3723913043478261
+2014-11-01,17.44,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3791304347826087
+2014-12-01,18.71,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4067391304347826
+2015-01-01,24.39,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5302173913043479
+2015-02-01,24.64,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5356521739130435
+2015-03-01,19.93,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.43326086956521737
+2015-04-01,17.87,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3884782608695652
+2015-05-01,14.93,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.32456521739130434
+2015-06-01,13.73,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.29847826086956525
+2015-07-01,12.93,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.28108695652173915
+2015-08-01,12.91,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.2806521739130435
+2015-09-01,12.2,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.2652173913043478
+2015-10-01,17.48,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.38
+2015-11-01,23.38,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5082608695652173
+2015-12-01,24.43,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5310869565217391
+2016-01-01,23.1,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5021739130434782
+2016-02-01,21.31,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.46326086956521734
+2016-03-01,18.46,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.401304347826087
+2016-04-01,18.31,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.39804347826086955
+2016-05-01,20.74,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.45086956521739124
+2016-06-01,22.1,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4804347826086957
+2016-07-01,23.13,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5028260869565218
+2016-08-01,25.92,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5634782608695652
+2016-09-01,29.31,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.6371739130434783
+2016-10-01,34.52,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.7504347826086957
+2016-11-01,35.53,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.7723913043478261
+2016-12-01,28.75,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.625
+2017-01-01,21.99,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4780434782608695
+2017-02-01,19.09,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.415
+2017-03-01,19.8,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.43043478260869567
+2017-04-01,17.49,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3802173913043478
+2017-05-01,18.25,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3967391304347826
+2017-06-01,19.35,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4206521739130435
+2017-07-01,18.91,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.41108695652173916
+2017-08-01,18.78,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4082608695652174
+2017-09-01,19.2,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.41739130434782606
+2017-10-01,22.53,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4897826086956522
+2017-11-01,21.14,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.45956521739130435
+2017-12-01,21.15,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.45978260869565213
+2018-01-01,19.68,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.42782608695652175
+2018-02-01,19.09,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.415
+2018-03-01,16.23,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.35282608695652173
+2018-04-01,13.64,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.2965217391304348
+2018-05-01,13.2,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.28695652173913044
+2018-06-01,14.38,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3126086956521739
+2018-07-01,15.26,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3317391304347826
+2018-08-01,19.0,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.41304347826086957
+2018-09-01,19.48,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.42347826086956525
+2018-10-01,21.39,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.465
+2018-11-01,22.16,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4817391304347826
+2018-12-01,20.12,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4373913043478261
+2019-01-01,20.38,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.44304347826086954
+2019-02-01,19.88,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.43217391304347824
+2019-03-01,19.86,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.43173913043478257
+2019-04-01,18.76,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4078260869565218
+2019-05-01,20.53,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.44630434782608697
+2019-06-01,23.39,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5084782608695653
+2019-07-01,27.68,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.6017391304347826
+2019-08-01,32.13,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.6984782608695653
+2019-09-01,34.35,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.7467391304347827
+2019-10-01,35.47,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.7710869565217391
+2019-11-01,30.45,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.6619565217391304
+2019-12-01,18.83,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.40934782608695647
+2020-01-01,18.14,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3943478260869565
+2020-02-01,18.24,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.39652173913043476
+2020-03-01,15.01,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.32630434782608697
+2020-04-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-05-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-06-01,16.08,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3495652173913043
+2020-07-01,23.67,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5145652173913043
+2020-08-01,21.0,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.45652173913043476
+2020-09-01,17.14,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3726086956521739
+2020-10-01,17.02,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.37
+2020-11-01,15.22,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3308695652173913
+2020-12-01,17.11,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3719565217391304
+2021-01-01,19.3,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.41956521739130437
+2021-02-01,16.42,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.35695652173913045
+2021-03-01,16.24,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3530434782608695
+2021-04-01,15.74,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3421739130434783
+2021-05-01,15.97,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3471739130434783
+2021-06-01,15.57,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.33847826086956523
+2021-07-01,15.78,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.34304347826086956
+2021-08-01,15.73,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.34195652173913044
+2021-09-01,15.76,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3426086956521739
+2021-10-01,15.9,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3456521739130435
+2021-11-01,16.68,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3626086956521739
+2021-12-01,17.95,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3902173913043478
+2022-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,
+2022-02-01,20.98,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.45608695652173914
+2022-03-01,20.66,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4491304347826087
+2022-04-01,19.84,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.43130434782608695
+2022-05-01,19.63,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.42673913043478257
+2022-06-01,22.41,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4871739130434783
+2022-07-01,23.11,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5023913043478261
+2022-08-01,26.16,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.568695652173913
+2022-09-01,30.39,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.6606521739130435
+2022-10-01,33.71,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.7328260869565217
+2022-11-01,30.64,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.6660869565217391
+2022-12-01,26.82,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5830434782608696
+2023-01-01,36.62,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.7960869565217391
+2023-02-01,36.77,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.7993478260869565
+2023-03-01,26.98,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5865217391304348
+2023-04-01,18.74,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.40739130434782606
+2023-05-01,17.48,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.38
+2023-06-01,17.58,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3821739130434782
+2023-07-01,17.16,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3730434782608696
+2023-08-01,20.84,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.45304347826086955
+2023-09-01,27.97,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.6080434782608696
+2023-10-01,27.88,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.6060869565217392
+2023-11-01,30.32,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.6591304347826087
+2023-12-01,28.58,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.6213043478260869
+2024-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-02-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-03-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-04-01,12.54,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.2726086956521739
+2024-05-01,13.48,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.29304347826086957
+2024-06-01,17.68,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3843478260869565
+2024-07-01,22.57,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.4906521739130435
+2024-08-01,26.57,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5776086956521739
+2024-09-01,28.33,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.6158695652173912
+2024-10-01,31.92,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.6939130434782609
+2024-11-01,25.18,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5473913043478261
+2024-12-01,23.87,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.5189130434782608
+2025-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,
+2025-02-01,17.93,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3897826086956522
+2025-03-01,22.25,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.483695652173913
+2025-04-01,17.58,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.3821739130434782
+2025-05-01,25.24,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.548695652173913
+2025-06-01,32.51,Potatoes (Desirée),Bolivia (Plurinational State of),Cochabamba,WHOLESALE,Spanish quintal (46 kg),kg,0.7067391304347825
+2011-07-01,17.08,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3713043478260869
+2011-08-01,16.15,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3510869565217391
+2011-09-01,18.65,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.40543478260869564
+2011-10-01,22.06,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4795652173913043
+2011-11-01,22.21,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.48282608695652174
+2011-12-01,22.28,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.48434782608695653
+2012-01-01,22.65,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4923913043478261
+2012-02-01,22.63,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4919565217391304
+2012-03-01,20.75,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.45108695652173914
+2012-04-01,19.56,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4252173913043478
+2012-05-01,19.44,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.42260869565217396
+2012-06-01,22.25,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.483695652173913
+2012-07-01,22.51,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.48934782608695654
+2012-08-01,19.1,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.41521739130434787
+2012-09-01,17.58,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3821739130434782
+2012-10-01,16.92,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3678260869565218
+2012-11-01,19.47,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.42326086956521736
+2012-12-01,23.48,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5104347826086957
+2013-01-01,25.57,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5558695652173913
+2013-02-01,23.21,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5045652173913043
+2013-03-01,22.89,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4976086956521739
+2013-04-01,22.19,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4823913043478261
+2013-05-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-06-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-07-01,22.49,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4889130434782608
+2013-08-01,23.6,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5130434782608696
+2013-09-01,24.01,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5219565217391304
+2013-10-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-11-01,19.1,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.41521739130434787
+2013-12-01,18.09,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3932608695652174
+2014-01-01,16.78,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3647826086956522
+2014-02-01,19.66,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4273913043478261
+2014-03-01,20.15,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.43804347826086953
+2014-04-01,19.69,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4280434782608696
+2014-05-01,25.34,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5508695652173913
+2014-06-01,25.73,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5593478260869565
+2014-07-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2014-08-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2014-09-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2014-10-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2014-11-01,21.87,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.47543478260869565
+2014-12-01,21.97,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4776086956521739
+2015-01-01,22.67,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4928260869565218
+2015-02-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-03-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-04-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-05-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-06-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-07-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-08-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-09-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-10-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-11-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-12-01,27.66,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.601304347826087
+2016-01-01,26.79,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.582391304347826
+2016-02-01,26.4,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5739130434782609
+2016-03-01,26.24,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5704347826086956
+2016-04-01,24.34,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5291304347826087
+2016-05-01,22.46,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4882608695652174
+2016-06-01,21.68,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.47130434782608693
+2016-07-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2016-08-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2016-09-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2016-10-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2016-11-01,29.59,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.6432608695652174
+2016-12-01,26.64,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5791304347826087
+2017-01-01,25.18,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5473913043478261
+2017-02-01,19.62,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4265217391304348
+2017-03-01,19.8,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.43043478260869567
+2017-04-01,18.36,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3991304347826087
+2017-05-01,17.7,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3847826086956522
+2017-06-01,18.01,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3915217391304348
+2017-07-01,17.61,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3828260869565217
+2017-08-01,18.61,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.40456521739130435
+2017-09-01,21.39,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.465
+2017-10-01,22.68,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4930434782608696
+2017-11-01,21.24,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4617391304347826
+2017-12-01,20.52,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.44608695652173913
+2018-01-01,20.13,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4376086956521739
+2018-02-01,19.85,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4315217391304348
+2018-03-01,17.74,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.38565217391304346
+2018-04-01,16.52,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3591304347826087
+2018-05-01,15.73,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.34195652173913044
+2018-06-01,15.6,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3391304347826087
+2018-07-01,15.6,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3391304347826087
+2018-08-01,15.6,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3391304347826087
+2018-09-01,15.6,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3391304347826087
+2018-10-01,17.09,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3715217391304348
+2018-11-01,17.37,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3776086956521739
+2018-12-01,18.32,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3982608695652174
+2019-01-01,19.54,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.42478260869565215
+2019-02-01,19.34,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.42043478260869566
+2019-03-01,21.44,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.46608695652173915
+2019-04-01,21.89,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4758695652173913
+2019-05-01,21.74,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4726086956521739
+2019-06-01,23.6,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5130434782608696
+2019-07-01,25.63,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5571739130434782
+2019-08-01,26.37,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5732608695652174
+2019-09-01,26.01,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5654347826086957
+2019-10-01,30.34,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.6595652173913044
+2019-11-01,29.45,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.6402173913043478
+2019-12-01,22.0,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4782608695652174
+2020-01-01,22.33,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4854347826086956
+2020-02-01,20.08,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.43652173913043474
+2020-03-01,19.39,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4215217391304348
+2020-04-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-05-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-06-01,20.34,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.44217391304347825
+2020-07-01,21.18,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.46043478260869564
+2020-08-01,21.05,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.45760869565217394
+2020-09-01,19.72,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.42869565217391303
+2020-10-01,20.01,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.43500000000000005
+2020-11-01,20.56,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4469565217391304
+2020-12-01,21.25,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.46195652173913043
+2021-01-01,21.55,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.46847826086956523
+2021-02-01,18.17,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.395
+2021-03-01,17.75,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3858695652173913
+2021-04-01,17.57,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3819565217391304
+2021-05-01,18.49,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4019565217391304
+2021-06-01,17.75,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3858695652173913
+2021-07-01,18.01,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.3915217391304348
+2021-08-01,18.77,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.40804347826086956
+2021-09-01,19.03,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4136956521739131
+2021-10-01,21.53,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.4680434782608696
+2021-11-01,20.98,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.45608695652173914
+2021-12-01,20.98,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.45608695652173914
+2022-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2022-02-01,21.98,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.47782608695652173
+2022-03-01,23.36,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5078260869565218
+2022-04-01,23.93,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5202173913043479
+2022-05-01,23.97,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5210869565217391
+2022-06-01,24.29,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5280434782608695
+2022-07-01,24.55,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.533695652173913
+2022-08-01,26.66,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5795652173913044
+2022-09-01,27.79,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.6041304347826086
+2022-10-01,32.12,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.6982608695652174
+2022-11-01,34.63,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.7528260869565218
+2022-12-01,31.45,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.683695652173913
+2023-01-01,35.53,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.7723913043478261
+2023-02-01,41.86,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.91
+2023-03-01,34.51,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.7502173913043478
+2023-04-01,29.68,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.6452173913043479
+2023-05-01,27.48,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5973913043478261
+2023-06-01,26.2,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5695652173913043
+2023-07-01,24.75,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5380434782608695
+2023-08-01,23.92,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.52
+2023-09-01,25.04,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5443478260869565
+2023-10-01,26.61,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5784782608695652
+2023-11-01,30.19,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.6563043478260869
+2023-12-01,31.46,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.6839130434782609
+2024-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-02-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-03-01,,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-04-01,19.94,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.43347826086956526
+2024-05-01,19.0,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.41304347826086957
+2024-06-01,23.04,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5008695652173912
+2024-07-01,23.01,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5002173913043478
+2024-08-01,29.72,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.6460869565217391
+2024-09-01,32.25,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.7010869565217391
+2024-10-01,31.03,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.6745652173913044
+2024-11-01,28.73,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.6245652173913043
+2024-12-01,20.32,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.44173913043478263
+2025-01-01,23.3,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5065217391304347
+2025-02-01,21.91,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.47630434782608694
+2025-03-01,23.41,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5089130434782608
+2025-04-01,24.29,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.5280434782608695
+2025-05-01,27.83,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.605
+2025-06-01,33.79,Potatoes (Desirée),Bolivia (Plurinational State of),La Paz,WHOLESALE,Spanish quintal (46 kg),kg,0.7345652173913043
+2010-12-01,21.5,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4673913043478261
+2011-01-01,20.1,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.43695652173913047
+2011-02-01,17.96,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3904347826086957
+2011-03-01,21.43,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4658695652173913
+2011-04-01,18.5,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.40217391304347827
+2011-05-01,17.45,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3793478260869565
+2011-06-01,17.01,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3697826086956522
+2011-07-01,17.08,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3713043478260869
+2011-08-01,18.07,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.39282608695652177
+2011-09-01,18.82,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4091304347826087
+2011-10-01,19.43,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.42239130434782607
+2011-11-01,19.88,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.43217391304347824
+2011-12-01,19.59,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4258695652173913
+2012-01-01,18.05,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3923913043478261
+2012-02-01,18.04,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.39217391304347826
+2012-03-01,17.88,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.388695652173913
+2012-04-01,17.17,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3732608695652174
+2012-05-01,15.34,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3334782608695652
+2012-06-01,15.21,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3306521739130435
+2012-07-01,15.22,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3308695652173913
+2012-08-01,14.79,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.32152173913043475
+2012-09-01,15.26,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3317391304347826
+2012-10-01,14.79,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.32152173913043475
+2012-11-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2012-12-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-02-01,16.58,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3604347826086956
+2013-03-01,17.14,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3726086956521739
+2013-04-01,14.84,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3226086956521739
+2013-05-01,14.58,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3169565217391304
+2013-06-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-07-01,18.01,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3915217391304348
+2013-08-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-09-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-10-01,32.16,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6991304347826086
+2013-11-01,30.6,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6652173913043479
+2013-12-01,24.56,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.5339130434782609
+2014-01-01,18.97,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.41239130434782606
+2014-02-01,19.11,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.41543478260869565
+2014-03-01,19.24,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.41826086956521735
+2014-04-01,17.08,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3713043478260869
+2014-05-01,18.91,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.41108695652173916
+2014-06-01,19.94,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.43347826086956526
+2014-07-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2014-08-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2014-09-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2014-10-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2014-11-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2014-12-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-02-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-03-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-04-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-05-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-06-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2015-07-01,14.12,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3069565217391304
+2015-08-01,13.72,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.2982608695652174
+2015-09-01,13.19,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.2867391304347826
+2015-10-01,18.01,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3915217391304348
+2015-11-01,18.97,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.41239130434782606
+2015-12-01,26.37,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.5732608695652174
+2016-01-01,25.7,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.558695652173913
+2016-02-01,22.92,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4982608695652174
+2016-03-01,20.46,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.44478260869565217
+2016-04-01,18.35,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3989130434782609
+2016-05-01,21.53,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4680434782608696
+2016-06-01,23.36,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.5078260869565218
+2016-07-01,27.51,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.5980434782608696
+2016-08-01,30.39,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6606521739130435
+2016-09-01,30.87,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6710869565217391
+2016-10-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2016-11-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2016-12-01,23.8,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.5173913043478261
+2017-01-01,20.66,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4491304347826087
+2017-02-01,18.45,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4010869565217391
+2017-03-01,19.96,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4339130434782609
+2017-04-01,17.91,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3893478260869565
+2017-05-01,18.28,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3973913043478261
+2017-06-01,18.83,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.40934782608695647
+2017-07-01,19.15,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.41630434782608694
+2017-08-01,21.0,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.45652173913043476
+2017-09-01,21.1,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.45869565217391306
+2017-10-01,19.89,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4323913043478261
+2017-11-01,19.32,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.42
+2017-12-01,19.58,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.42565217391304344
+2018-01-01,18.73,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4071739130434783
+2018-02-01,18.18,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3952173913043478
+2018-03-01,18.0,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.391304347826087
+2018-04-01,16.86,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3665217391304348
+2018-05-01,15.44,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3356521739130435
+2018-06-01,16.26,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.35347826086956524
+2018-07-01,14.9,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3239130434782609
+2018-08-01,14.62,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3178260869565217
+2018-09-01,14.87,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3232608695652174
+2018-10-01,15.99,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3476086956521739
+2018-11-01,15.84,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3443478260869565
+2018-12-01,19.09,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.415
+2019-01-01,17.57,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3819565217391304
+2019-02-01,18.09,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3932608695652174
+2019-03-01,19.07,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.41456521739130436
+2019-04-01,18.92,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.411304347826087
+2019-05-01,19.82,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.43086956521739134
+2019-06-01,22.04,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4791304347826087
+2019-07-01,26.48,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.5756521739130435
+2019-08-01,27.43,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.596304347826087
+2019-09-01,25.8,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.5608695652173913
+2019-10-01,28.0,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6086956521739131
+2019-11-01,24.85,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.5402173913043479
+2019-12-01,21.59,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4693478260869565
+2020-01-01,19.04,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.41391304347826086
+2020-02-01,15.85,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.34456521739130436
+2020-03-01,15.51,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.33717391304347827
+2020-04-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-05-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-06-01,18.95,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.41195652173913044
+2020-07-01,18.77,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.40804347826086956
+2020-08-01,20.86,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4534782608695652
+2020-09-01,15.54,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3378260869565217
+2020-10-01,15.58,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.33869565217391306
+2020-11-01,14.71,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.31978260869565217
+2020-12-01,15.49,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3367391304347826
+2021-01-01,15.44,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3356521739130435
+2021-02-01,17.04,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3704347826086956
+2021-03-01,19.3,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.41956521739130437
+2021-04-01,18.81,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.40891304347826085
+2021-05-01,19.19,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4171739130434783
+2021-06-01,18.02,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3917391304347826
+2021-07-01,17.68,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3843478260869565
+2021-08-01,17.43,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3789130434782609
+2021-09-01,18.6,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4043478260869566
+2021-10-01,18.66,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4056521739130435
+2021-11-01,20.9,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4543478260869565
+2021-12-01,19.57,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.42543478260869566
+2022-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2022-02-01,20.5,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.44565217391304346
+2022-03-01,20.5,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.44565217391304346
+2022-04-01,20.76,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.45130434782608697
+2022-05-01,21.14,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.45956521739130435
+2022-06-01,23.32,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.5069565217391304
+2022-07-01,26.31,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.5719565217391304
+2022-08-01,25.74,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.5595652173913043
+2022-09-01,28.04,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6095652173913043
+2022-10-01,31.83,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6919565217391304
+2022-11-01,30.58,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6647826086956521
+2022-12-01,28.39,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6171739130434782
+2023-01-01,33.15,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.7206521739130435
+2023-02-01,36.97,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.803695652173913
+2023-03-01,29.43,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6397826086956522
+2023-04-01,27.95,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6076086956521739
+2023-05-01,24.73,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.537608695652174
+2023-06-01,18.56,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4034782608695652
+2023-07-01,19.36,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4208695652173913
+2023-08-01,19.78,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.43000000000000005
+2023-09-01,22.33,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4854347826086956
+2023-10-01,23.91,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.5197826086956522
+2023-11-01,29.45,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6402173913043478
+2023-12-01,28.68,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6234782608695653
+2024-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-02-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-03-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-04-01,16.37,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3558695652173913
+2024-05-01,14.31,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.3110869565217391
+2024-06-01,18.75,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4076086956521739
+2024-07-01,20.43,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.44413043478260866
+2024-08-01,28.54,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6204347826086957
+2024-09-01,29.6,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6434782608695653
+2024-10-01,29.43,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.6397826086956522
+2024-11-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-12-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2025-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2025-02-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,
+2025-03-01,21.54,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4682608695652174
+2025-04-01,19.01,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4132608695652174
+2025-05-01,18.52,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.4026086956521739
+2025-06-01,27.33,Potatoes (Desirée),Bolivia (Plurinational State of),Oruro,WHOLESALE,Spanish quintal (46 kg),kg,0.5941304347826086
+2011-01-01,17.48,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.38
+2011-02-01,18.52,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4026086956521739
+2011-03-01,17.15,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3728260869565217
+2011-04-01,14.76,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3208695652173913
+2011-05-01,17.39,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3780434782608696
+2011-06-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,
+2011-07-01,19.16,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4165217391304348
+2011-08-01,17.19,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3736956521739131
+2011-09-01,18.16,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3947826086956522
+2011-10-01,22.37,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.486304347826087
+2011-11-01,20.35,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.44239130434782614
+2011-12-01,16.22,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3526086956521739
+2012-01-01,14.53,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3158695652173913
+2012-02-01,12.56,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.27304347826086955
+2012-03-01,9.38,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2039130434782609
+2012-04-01,9.47,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.20586956521739133
+2012-05-01,11.28,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2452173913043478
+2012-06-01,11.74,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.25521739130434784
+2012-07-01,11.45,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.24891304347826085
+2012-08-01,15.06,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3273913043478261
+2012-09-01,15.69,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3410869565217391
+2012-10-01,15.77,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3428260869565217
+2012-11-01,16.97,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.36891304347826087
+2012-12-01,15.51,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.33717391304347827
+2013-01-01,18.65,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.40543478260869564
+2013-02-01,15.85,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.34456521739130436
+2013-03-01,12.3,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2673913043478261
+2013-04-01,9.51,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2067391304347826
+2013-05-01,12.44,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.27043478260869563
+2013-06-01,13.56,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2947826086956522
+2013-07-01,18.18,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3952173913043478
+2013-08-01,23.36,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5078260869565218
+2013-09-01,31.16,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.6773913043478261
+2013-10-01,33.22,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.7221739130434782
+2013-11-01,20.59,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4476086956521739
+2013-12-01,16.18,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3517391304347826
+2014-01-01,13.78,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2995652173913043
+2014-02-01,12.68,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2756521739130435
+2014-03-01,11.3,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2456521739130435
+2014-04-01,14.6,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3173913043478261
+2014-05-01,19.34,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.42043478260869566
+2014-06-01,21.4,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4652173913043478
+2014-07-01,18.87,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.41021739130434787
+2014-08-01,18.12,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3939130434782609
+2014-09-01,18.66,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4056521739130435
+2014-10-01,16.64,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3617391304347826
+2014-11-01,16.35,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3554347826086957
+2014-12-01,18.7,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.40652173913043477
+2015-01-01,21.4,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4652173913043478
+2015-02-01,23.04,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5008695652173912
+2015-03-01,20.09,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.43673913043478263
+2015-04-01,19.19,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4171739130434783
+2015-05-01,16.49,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3584782608695652
+2015-06-01,16.3,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.35434782608695653
+2015-07-01,15.03,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3267391304347826
+2015-08-01,13.59,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.29543478260869566
+2015-09-01,15.1,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3282608695652174
+2015-10-01,19.03,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4136956521739131
+2015-11-01,24.08,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5234782608695652
+2015-12-01,22.71,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.49369565217391304
+2016-01-01,21.73,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4723913043478261
+2016-02-01,22.36,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4860869565217391
+2016-03-01,20.35,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.44239130434782614
+2016-04-01,18.43,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4006521739130435
+2016-05-01,18.76,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4078260869565218
+2016-06-01,20.79,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4519565217391304
+2016-07-01,23.38,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5082608695652173
+2016-08-01,24.8,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5391304347826087
+2016-09-01,25.35,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5510869565217391
+2016-10-01,31.88,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.6930434782608695
+2016-11-01,26.16,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.568695652173913
+2016-12-01,22.77,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.495
+2017-01-01,19.73,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.42891304347826087
+2017-02-01,19.95,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.43369565217391304
+2017-03-01,19.3,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.41956521739130437
+2017-04-01,17.37,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3776086956521739
+2017-05-01,17.1,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3717391304347826
+2017-06-01,19.17,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.41673913043478267
+2017-07-01,17.36,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3773913043478261
+2017-08-01,17.75,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3858695652173913
+2017-09-01,18.52,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4026086956521739
+2017-10-01,20.38,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.44304347826086954
+2017-11-01,20.7,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.45
+2017-12-01,16.67,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3623913043478261
+2018-01-01,15.63,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3397826086956522
+2018-02-01,14.52,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.31565217391304345
+2018-03-01,11.92,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2591304347826087
+2018-04-01,13.89,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.30195652173913046
+2018-05-01,14.87,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3232608695652174
+2018-06-01,14.73,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.32021739130434784
+2018-07-01,14.69,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3193478260869565
+2018-08-01,14.69,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3193478260869565
+2018-09-01,13.89,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.30195652173913046
+2018-10-01,12.3,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2673913043478261
+2018-11-01,12.98,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2821739130434783
+2018-12-01,15.57,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.33847826086956523
+2019-01-01,16.4,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3565217391304348
+2019-02-01,12.77,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2776086956521739
+2019-03-01,11.7,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2543478260869565
+2019-04-01,11.08,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2408695652173913
+2019-05-01,11.02,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.23956521739130435
+2019-06-01,14.36,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.31217391304347825
+2019-07-01,19.62,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4265217391304348
+2019-08-01,21.75,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.47282608695652173
+2019-09-01,22.78,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.49521739130434783
+2019-10-01,26.62,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.578695652173913
+2019-11-01,23.87,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5189130434782608
+2019-12-01,12.57,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2732608695652174
+2020-01-01,12.82,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.27869565217391307
+2020-02-01,13.54,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2943478260869565
+2020-03-01,12.11,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2632608695652174
+2020-04-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-05-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-06-01,15.52,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3373913043478261
+2020-07-01,15.55,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.33804347826086956
+2020-08-01,13.44,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.29217391304347823
+2020-09-01,13.52,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.29391304347826086
+2020-10-01,13.83,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3006521739130435
+2020-11-01,11.79,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.25630434782608696
+2020-12-01,11.13,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.24195652173913046
+2021-01-01,11.72,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.25478260869565217
+2021-02-01,18.29,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3976086956521739
+2021-03-01,17.65,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.383695652173913
+2021-04-01,15.89,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.34543478260869565
+2021-05-01,13.89,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.30195652173913046
+2021-06-01,13.76,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.2991304347826087
+2021-07-01,14.76,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3208695652173913
+2021-08-01,15.73,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.34195652173913044
+2021-09-01,19.96,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4339130434782609
+2021-10-01,18.75,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4076086956521739
+2021-11-01,20.2,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.43913043478260866
+2021-12-01,17.93,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3897826086956522
+2022-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,
+2022-02-01,21.57,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.46891304347826085
+2022-03-01,19.71,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.42847826086956525
+2022-04-01,20.35,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.44239130434782614
+2022-05-01,20.2,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.43913043478260866
+2022-06-01,24.43,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5310869565217391
+2022-07-01,23.24,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5052173913043478
+2022-08-01,23.15,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5032608695652173
+2022-09-01,27.6,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.6
+2022-10-01,33.66,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.7317391304347826
+2022-11-01,29.59,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.6432608695652174
+2022-12-01,24.74,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5378260869565217
+2023-01-01,36.82,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.8004347826086956
+2023-02-01,38.6,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.8391304347826087
+2023-03-01,28.58,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.6213043478260869
+2023-04-01,23.46,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.51
+2023-05-01,19.4,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.42173913043478256
+2023-06-01,18.36,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3991304347826087
+2023-07-01,18.36,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3991304347826087
+2023-08-01,20.93,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.455
+2023-09-01,24.5,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.532608695652174
+2023-10-01,25.26,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5491304347826087
+2023-11-01,30.92,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.6721739130434783
+2023-12-01,32.42,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.7047826086956522
+2024-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-02-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-03-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-04-01,15.82,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.34391304347826085
+2024-05-01,16.08,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.3495652173913043
+2024-06-01,20.15,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.43804347826086953
+2024-07-01,25.71,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5589130434782609
+2024-08-01,28.4,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.6173913043478261
+2024-09-01,29.12,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.6330434782608696
+2024-10-01,27.54,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5986956521739131
+2024-11-01,23.1,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5021739130434782
+2024-12-01,21.09,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4584782608695652
+2025-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,
+2025-02-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,
+2025-03-01,26.01,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5654347826086957
+2025-04-01,22.6,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.491304347826087
+2025-05-01,23.52,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.5113043478260869
+2025-06-01,22.91,Potatoes (Desirée),Bolivia (Plurinational State of),Santa Cruz,WHOLESALE,Spanish quintal (46 kg),kg,0.4980434782608696
+2011-07-01,25.99,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.565
+2011-08-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2011-09-01,23.12,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5026086956521739
+2011-10-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2011-11-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2011-12-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2012-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2012-02-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2012-03-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2012-04-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2012-05-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2012-06-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2012-07-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2012-08-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2012-09-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2012-10-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2012-11-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2012-12-01,23.15,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5032608695652173
+2013-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-02-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-03-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-04-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-05-01,23.15,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5032608695652173
+2013-06-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-07-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-08-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-09-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-10-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-11-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2013-12-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2014-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2014-02-01,23.15,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5032608695652173
+2014-03-01,21.09,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.4584782608695652
+2014-04-01,21.73,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.4723913043478261
+2014-05-01,24.62,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5352173913043479
+2014-06-01,28.98,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.63
+2014-07-01,27.51,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5980434782608696
+2014-08-01,25.15,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5467391304347826
+2014-09-01,25.62,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5569565217391305
+2014-10-01,26.0,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5652173913043478
+2014-11-01,25.41,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5523913043478261
+2014-12-01,27.22,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5917391304347825
+2015-01-01,33.17,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.7210869565217392
+2015-02-01,34.2,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.7434782608695653
+2015-03-01,28.79,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6258695652173912
+2015-04-01,24.56,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5339130434782609
+2015-05-01,23.63,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.513695652173913
+2015-06-01,23.32,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5069565217391304
+2015-07-01,22.02,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.478695652173913
+2015-08-01,24.19,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5258695652173914
+2015-09-01,26.08,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5669565217391304
+2015-10-01,29.71,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6458695652173914
+2015-11-01,32.71,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.7110869565217391
+2015-12-01,31.03,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6745652173913044
+2016-01-01,30.57,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6645652173913044
+2016-02-01,31.52,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6852173913043478
+2016-03-01,26.0,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5652173913043478
+2016-04-01,24.55,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.533695652173913
+2016-05-01,24.6,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5347826086956522
+2016-06-01,28.65,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6228260869565218
+2016-07-01,30.84,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6704347826086956
+2016-08-01,34.79,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.7563043478260869
+2016-09-01,35.4,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.7695652173913043
+2016-10-01,37.63,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.8180434782608696
+2016-11-01,38.55,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.8380434782608696
+2016-12-01,36.9,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.8021739130434782
+2017-01-01,34.01,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.7393478260869565
+2017-02-01,33.29,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.7236956521739131
+2017-03-01,30.39,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6606521739130435
+2017-04-01,28.38,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6169565217391304
+2017-05-01,27.33,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5941304347826086
+2017-06-01,28.94,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6291304347826088
+2017-07-01,28.27,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6145652173913043
+2017-08-01,25.83,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5615217391304348
+2017-09-01,25.21,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5480434782608696
+2017-10-01,28.5,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6195652173913043
+2017-11-01,28.13,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6115217391304347
+2017-12-01,26.05,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.566304347826087
+2018-01-01,25.81,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5610869565217391
+2018-02-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2018-03-01,23.15,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5032608695652173
+2018-04-01,23.15,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5032608695652173
+2018-05-01,23.11,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5023913043478261
+2018-06-01,22.0,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.4782608695652174
+2018-07-01,22.26,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.4839130434782609
+2018-08-01,23.93,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5202173913043479
+2018-09-01,23.62,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5134782608695653
+2018-10-01,24.85,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5402173913043479
+2018-11-01,25.33,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5506521739130434
+2018-12-01,23.5,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5108695652173914
+2019-01-01,23.15,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5032608695652173
+2019-02-01,22.19,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.4823913043478261
+2019-03-01,23.1,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5021739130434782
+2019-04-01,23.54,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5117391304347826
+2019-05-01,25.49,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5541304347826087
+2019-06-01,26.86,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5839130434782609
+2019-07-01,31.48,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6843478260869565
+2019-08-01,35.93,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.7810869565217391
+2019-09-01,36.42,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.7917391304347826
+2019-10-01,35.64,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.7747826086956522
+2019-11-01,45.34,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.9856521739130436
+2019-12-01,27.21,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5915217391304348
+2020-01-01,26.92,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5852173913043479
+2020-02-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-03-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-04-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-05-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-06-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-07-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-08-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-09-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-10-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-11-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2020-12-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2021-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2021-02-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2021-03-01,24.31,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5284782608695652
+2021-04-01,23.4,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.508695652173913
+2021-05-01,23.15,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5032608695652173
+2021-06-01,23.15,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5032608695652173
+2021-07-01,22.18,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.48217391304347823
+2021-08-01,22.0,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.4782608695652174
+2021-09-01,22.0,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.4782608695652174
+2021-10-01,25.43,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5528260869565217
+2021-11-01,26.74,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.581304347826087
+2021-12-01,26.05,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.566304347826087
+2022-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2022-02-01,27.64,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6008695652173913
+2022-03-01,26.92,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5852173913043479
+2022-04-01,27.5,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5978260869565217
+2022-05-01,27.5,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5978260869565217
+2022-06-01,29.49,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6410869565217391
+2022-07-01,29.74,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6465217391304348
+2022-08-01,29.31,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6371739130434783
+2022-09-01,31.22,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.678695652173913
+2022-10-01,36.18,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.7865217391304348
+2022-11-01,41.85,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.9097826086956522
+2022-12-01,34.79,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.7563043478260869
+2023-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2023-02-01,43.99,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.956304347826087
+2023-03-01,39.12,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.8504347826086956
+2023-04-01,30.39,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6606521739130435
+2023-05-01,27.5,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5978260869565217
+2023-06-01,27.5,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.5978260869565217
+2023-07-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2023-08-01,29.68,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6452173913043479
+2023-09-01,30.42,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.661304347826087
+2023-10-01,30.56,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6643478260869565
+2023-11-01,36.99,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.8041304347826087
+2023-12-01,37.63,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.8180434782608696
+2024-01-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-02-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-03-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-04-01,21.71,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.47195652173913044
+2024-05-01,21.97,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.4776086956521739
+2024-06-01,28.84,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.6269565217391304
+2024-07-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-08-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-09-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-10-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-11-01,,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,
+2024-12-01,39.07,Potatoes (Desirée),Bolivia (Plurinational State of),Trinidad,WHOLESALE,Spanish quintal (46 kg),kg,0.8493478260869566

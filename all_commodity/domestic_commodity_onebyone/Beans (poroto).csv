@@ -1,0 +1,477 @@
+date,price_usd,commodity_name,country,market,price_type,unit
+2006-01-01,0.8,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2006-02-01,0.8,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2006-03-01,0.8,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2006-04-01,0.79,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2006-05-01,0.75,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2006-06-01,0.73,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2006-07-01,0.73,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2006-08-01,0.73,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2006-09-01,0.73,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2006-10-01,0.73,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2006-11-01,0.74,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2006-12-01,0.71,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2007-01-01,0.8,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2007-02-01,0.75,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2007-03-01,0.67,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2007-04-01,0.7,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2007-05-01,0.72,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2007-06-01,0.75,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2007-07-01,0.77,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2007-08-01,0.77,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2007-09-01,0.72,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2007-10-01,0.73,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2007-11-01,0.68,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2007-12-01,0.73,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2008-01-01,0.77,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2008-02-01,0.79,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2008-03-01,0.78,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2008-04-01,0.77,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2008-05-01,0.61,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2008-06-01,0.77,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2008-07-01,0.77,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2008-08-01,0.77,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2008-09-01,0.83,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2008-10-01,0.91,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2008-11-01,0.95,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2008-12-01,0.76,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2009-01-01,0.94,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2009-02-01,0.84,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2009-03-01,0.86,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2009-04-01,0.87,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2009-05-01,0.87,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2009-06-01,0.87,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2009-07-01,0.87,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2009-08-01,0.87,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2009-09-01,0.92,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2009-10-01,0.93,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2009-11-01,0.93,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2009-12-01,0.95,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2010-01-01,0.93,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2010-02-01,0.93,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2010-03-01,0.92,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2010-04-01,0.93,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2010-05-01,0.92,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2010-06-01,0.92,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2010-07-01,0.93,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2010-08-01,0.93,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2010-09-01,0.93,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2010-10-01,0.93,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2010-11-01,0.93,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2010-12-01,0.94,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2011-01-01,0.95,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2011-02-01,0.95,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2011-03-01,0.95,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2011-04-01,0.95,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2011-05-01,0.97,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2011-06-01,0.99,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2011-07-01,1.03,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2011-08-01,1.03,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2011-09-01,1.03,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2011-10-01,1.05,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2011-11-01,1.07,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2011-12-01,1.07,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2012-01-01,1.05,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2012-02-01,1.03,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2012-03-01,1.02,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2012-04-01,1.01,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2012-05-01,1.03,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2012-06-01,1.01,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2012-07-01,1.03,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2012-08-01,1.04,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2012-09-01,1.07,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2012-10-01,1.07,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2012-11-01,1.07,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2012-12-01,1.09,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2013-01-01,1.1,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2013-02-01,1.1,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2013-03-01,1.08,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2013-04-01,1.06,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2013-05-01,1.03,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2013-06-01,1.03,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2013-07-01,1.03,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2013-08-01,1.05,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2013-09-01,1.07,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2013-10-01,1.08,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2013-11-01,1.08,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2013-12-01,1.09,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2014-01-01,1.09,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2014-02-01,1.1,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2014-03-01,1.09,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2014-04-01,1.1,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2014-05-01,1.1,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2014-06-01,1.1,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2014-07-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2014-08-01,0.97,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2014-09-01,0.97,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2014-10-01,0.98,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2014-11-01,0.98,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2014-12-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2015-01-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2015-02-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2015-03-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2015-04-01,0.98,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2015-05-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2015-06-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2015-07-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2015-08-01,0.99,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2015-09-01,0.99,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2015-10-01,0.99,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2015-11-01,0.99,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2015-12-01,0.99,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2016-01-01,0.99,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2016-02-01,0.99,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2016-03-01,0.99,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2016-04-01,0.99,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2016-05-01,0.99,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2016-06-01,0.99,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2016-07-01,1.04,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2016-08-01,1.07,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2016-09-01,1.07,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2016-10-01,1.06,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2016-11-01,1.02,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2016-12-01,1.04,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2017-01-01,1.02,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2017-02-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2017-03-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2017-04-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2017-05-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2017-06-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2017-07-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2017-08-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2017-09-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2017-10-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2017-11-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2017-12-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2018-01-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2018-02-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2018-03-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2018-04-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2018-05-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2018-06-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2018-07-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2018-08-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2018-09-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2018-10-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2018-11-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2018-12-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2019-01-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2019-02-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2019-03-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2019-04-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2019-05-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2019-06-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2019-07-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2019-08-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2019-09-01,1.0,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2019-10-01,1.07,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2019-11-01,1.08,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2019-12-01,1.08,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2020-01-01,1.08,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2020-02-01,1.08,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2020-03-01,1.08,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2020-04-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2020-05-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2020-06-01,1.21,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2020-07-01,1.17,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2020-08-01,1.26,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2020-09-01,1.27,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2020-10-01,1.27,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2020-11-01,1.27,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2020-12-01,1.27,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2021-01-01,1.27,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2021-02-01,1.27,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2021-03-01,1.27,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2021-04-01,1.27,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2021-05-01,1.26,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2021-06-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2021-07-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2021-08-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2021-09-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2021-10-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2021-11-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2021-12-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2022-01-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2022-02-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2022-03-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2022-04-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2022-05-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2022-06-01,1.27,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2022-07-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2022-08-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2022-09-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2022-10-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2022-11-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2022-12-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2023-01-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2023-02-01,1.25,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2023-03-01,1.28,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2023-04-01,1.31,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2023-05-01,1.32,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2023-06-01,1.32,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2023-07-01,1.32,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2023-08-01,1.32,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2023-09-01,1.32,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2023-10-01,1.32,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2023-11-01,1.32,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2023-12-01,1.33,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2024-01-01,1.37,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2024-02-01,1.39,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2024-03-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2024-04-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2024-05-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2024-06-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2024-07-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2024-08-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2024-09-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2024-10-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2024-11-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2024-12-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2025-01-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2025-02-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2025-03-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2025-04-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2025-05-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2025-06-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2025-07-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2025-08-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2025-09-01,1.45,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2025-10-01,1.51,Beans (poroto),Panama,Panama City,RETAIL,Libra
+2006-01-01,48.4,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2006-02-01,45.2,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2006-03-01,44.8,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2006-04-01,45.8,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2006-05-01,48.8,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2006-06-01,51.2,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2006-07-01,52.6,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2006-08-01,52.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2006-09-01,54.4,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2006-10-01,55.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2006-11-01,60.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2006-12-01,65.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2007-01-01,51.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2007-02-01,47.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2007-03-01,48.6,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2007-04-01,52.4,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2007-05-01,54.8,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2007-06-01,57.6,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2007-07-01,58.8,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2007-08-01,56.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2007-09-01,55.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2007-10-01,57.25,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2007-11-01,57.6,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2007-12-01,59.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2008-01-01,59.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2008-02-01,59.2,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2008-03-01,61.6,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2008-04-01,63.6,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2008-05-01,63.8,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2008-06-01,64.4,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2008-07-01,65.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2008-08-01,65.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2008-09-01,76.2,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2008-10-01,82.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2008-11-01,83.4,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2008-12-01,82.4,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2009-01-01,80.5,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2009-02-01,68.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2009-03-01,72.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2009-04-01,74.4,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2009-05-01,75.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2009-06-01,74.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2009-07-01,74.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2009-08-01,74.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2009-09-01,75.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2009-10-01,74.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2009-11-01,73.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2009-12-01,74.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2010-01-01,68.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2010-02-01,60.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2010-03-01,52.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2010-04-01,51.96,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2010-05-01,49.8,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2010-06-01,47.2,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2010-07-01,50.4,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2010-08-01,53.4,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2010-09-01,56.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2010-10-01,59.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2010-11-01,59.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2010-12-01,63.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2011-01-01,65.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2011-02-01,68.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2011-03-01,66.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2011-04-01,66.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2011-05-01,69.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2011-06-01,76.54,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2011-07-01,77.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2011-08-01,83.6,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2011-09-01,90.8,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2011-10-01,92.24,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2011-11-01,95.48,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2011-12-01,92.92,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2012-01-01,94.72,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2012-02-01,90.4,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2012-03-01,89.6,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2012-04-01,88.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2012-05-01,91.2,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2012-06-01,93.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2012-07-01,95.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2012-08-01,96.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2012-09-01,98.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2012-10-01,98.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2012-11-01,99.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2012-12-01,99.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2013-01-01,98.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2013-02-01,94.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2013-03-01,92.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2013-04-01,89.93,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2013-05-01,88.13,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2013-06-01,89.32,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2013-07-01,89.87,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2013-08-01,93.07,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2013-09-01,97.54,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2013-10-01,97.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2013-11-01,97.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2013-12-01,97.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2014-01-01,97.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2014-02-01,97.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2014-03-01,91.82,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2014-04-01,89.55,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2014-05-01,90.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2014-06-01,94.43,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2014-07-01,88.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2014-08-01,87.18,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2014-09-01,86.57,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2014-10-01,87.34,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2014-11-01,90.14,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2014-12-01,89.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2015-01-01,87.48,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2015-02-01,86.03,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2015-03-01,87.57,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2015-04-01,81.53,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2015-05-01,89.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2015-06-01,90.25,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2015-07-01,92.57,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2015-08-01,92.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2015-09-01,91.45,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2015-10-01,91.09,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2015-11-01,91.46,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2015-12-01,93.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2016-01-01,93.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2016-02-01,93.12,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2016-03-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2016-04-01,90.3,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2016-05-01,90.16,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2016-06-01,92.35,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2016-07-01,94.91,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2016-08-01,94.26,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2016-09-01,93.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2016-10-01,93.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2016-11-01,92.65,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2016-12-01,92.42,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2017-01-01,91.15,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2017-02-01,90.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2017-03-01,90.38,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2017-04-01,95.36,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2017-05-01,99.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2017-06-01,99.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2017-07-01,95.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2017-08-01,95.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2017-09-01,95.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2017-10-01,95.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2017-11-01,98.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2017-12-01,94.8,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2018-01-01,92.93,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2018-02-01,92.59,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2018-03-01,92.11,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2018-04-01,92.62,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2018-05-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2018-06-01,91.32,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2018-07-01,91.32,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2018-08-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2018-09-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2018-10-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2018-11-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2018-12-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2019-01-01,90.56,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2019-02-01,86.94,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2019-03-01,87.28,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2019-04-01,86.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2019-05-01,88.73,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2019-06-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2019-07-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2019-08-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2019-09-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2019-10-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2019-11-01,87.23,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2019-12-01,81.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2020-01-01,82.3,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2020-02-01,78.63,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2020-03-01,84.91,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2020-04-01,89.91,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2020-05-01,97.75,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2020-06-01,99.7,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2020-07-01,98.26,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2020-08-01,99.52,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2020-09-01,98.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2020-10-01,95.15,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2020-11-01,93.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2020-12-01,93.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2021-01-01,93.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2021-02-01,93.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2021-03-01,93.48,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2021-04-01,92.38,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2021-05-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2021-06-01,88.63,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2021-07-01,94.68,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2021-08-01,99.7,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2021-09-01,103.49,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2021-10-01,104.5,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2021-11-01,103.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2021-12-01,101.51,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2022-01-01,98.58,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2022-02-01,93.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2022-03-01,96.14,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2022-04-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2022-05-01,91.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2022-06-01,98.56,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2022-07-01,103.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2022-08-01,100.45,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2022-09-01,102.12,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2022-10-01,104.59,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2022-11-01,102.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2022-12-01,107.12,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2023-01-01,110.7,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2023-02-01,106.35,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2023-03-01,100.73,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2023-04-01,100.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2023-05-01,101.82,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2023-06-01,106.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2023-07-01,106.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2023-08-01,109.71,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2023-09-01,105.24,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2023-10-01,106.37,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2023-11-01,108.99,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2023-12-01,121.35,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2024-01-01,122.36,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2024-02-01,112.46,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2024-03-01,105.08,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2024-04-01,100.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2024-05-01,100.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2024-06-01,100.0,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2024-07-01,107.53,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2024-08-01,107.88,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2024-09-01,103.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2024-10-01,103.76,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2024-11-01,114.13,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2024-12-01,118.56,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2025-01-01,117.12,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2025-02-01,117.08,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2025-03-01,118.01,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2025-04-01,116.51,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2025-05-01,114.56,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2025-06-01,118.33,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2025-07-01,121.08,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2025-08-01,121.22,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2025-09-01,122.93,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)
+2025-10-01,121.67,Beans (poroto),Panama,Panama City,WHOLESALE,Spanish quintal (46 kg)

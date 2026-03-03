@@ -1,0 +1,2063 @@
+date,price_usd,commodity_name,country,market,price_type,unit
+2021-01-01,0.79,Cassava,Angola,Bengo,RETAIL,Kg
+2021-02-01,0.8,Cassava,Angola,Bengo,RETAIL,Kg
+2021-03-01,0.88,Cassava,Angola,Bengo,RETAIL,Kg
+2021-04-01,0.85,Cassava,Angola,Bengo,RETAIL,Kg
+2021-05-01,0.87,Cassava,Angola,Bengo,RETAIL,Kg
+2021-06-01,0.87,Cassava,Angola,Bengo,RETAIL,Kg
+2021-07-01,0.88,Cassava,Angola,Bengo,RETAIL,Kg
+2021-08-01,0.88,Cassava,Angola,Bengo,RETAIL,Kg
+2021-09-01,0.96,Cassava,Angola,Bengo,RETAIL,Kg
+2021-10-01,0.99,Cassava,Angola,Bengo,RETAIL,Kg
+2021-11-01,1.01,Cassava,Angola,Bengo,RETAIL,Kg
+2021-12-01,1.13,Cassava,Angola,Bengo,RETAIL,Kg
+2022-01-01,1.2,Cassava,Angola,Bengo,RETAIL,Kg
+2022-02-01,1.26,Cassava,Angola,Bengo,RETAIL,Kg
+2022-03-01,1.43,Cassava,Angola,Bengo,RETAIL,Kg
+2022-04-01,1.57,Cassava,Angola,Bengo,RETAIL,Kg
+2022-05-01,1.68,Cassava,Angola,Bengo,RETAIL,Kg
+2022-06-01,1.6,Cassava,Angola,Bengo,RETAIL,Kg
+2022-07-01,1.6,Cassava,Angola,Bengo,RETAIL,Kg
+2022-08-01,1.61,Cassava,Angola,Bengo,RETAIL,Kg
+2022-09-01,1.6,Cassava,Angola,Bengo,RETAIL,Kg
+2022-10-01,1.51,Cassava,Angola,Bengo,RETAIL,Kg
+2022-11-01,1.36,Cassava,Angola,Bengo,RETAIL,Kg
+2022-12-01,1.37,Cassava,Angola,Bengo,RETAIL,Kg
+2023-01-01,1.36,Cassava,Angola,Bengo,RETAIL,Kg
+2023-02-01,1.35,Cassava,Angola,Bengo,RETAIL,Kg
+2023-03-01,1.35,Cassava,Angola,Bengo,RETAIL,Kg
+2023-04-01,1.35,Cassava,Angola,Bengo,RETAIL,Kg
+2023-05-01,1.28,Cassava,Angola,Bengo,RETAIL,Kg
+2023-06-01,0.96,Cassava,Angola,Bengo,RETAIL,Kg
+2023-07-01,0.84,Cassava,Angola,Bengo,RETAIL,Kg
+2023-08-01,0.84,Cassava,Angola,Bengo,RETAIL,Kg
+2023-09-01,0.84,Cassava,Angola,Bengo,RETAIL,Kg
+2023-10-01,0.84,Cassava,Angola,Bengo,RETAIL,Kg
+2023-11-01,0.83,Cassava,Angola,Bengo,RETAIL,Kg
+2023-12-01,0.83,Cassava,Angola,Bengo,RETAIL,Kg
+2024-01-01,0.83,Cassava,Angola,Bengo,RETAIL,Kg
+2024-02-01,0.83,Cassava,Angola,Bengo,RETAIL,Kg
+2024-03-01,0.83,Cassava,Angola,Bengo,RETAIL,Kg
+2024-04-01,0.83,Cassava,Angola,Bengo,RETAIL,Kg
+2024-05-01,0.82,Cassava,Angola,Bengo,RETAIL,Kg
+2024-06-01,0.81,Cassava,Angola,Bengo,RETAIL,Kg
+2024-07-01,0.8,Cassava,Angola,Bengo,RETAIL,Kg
+2024-08-01,0.8,Cassava,Angola,Bengo,RETAIL,Kg
+2024-09-01,0.77,Cassava,Angola,Bengo,RETAIL,Kg
+2024-10-01,0.78,Cassava,Angola,Bengo,RETAIL,Kg
+2024-11-01,0.78,Cassava,Angola,Bengo,RETAIL,Kg
+2024-12-01,0.81,Cassava,Angola,Bengo,RETAIL,Kg
+2025-01-01,0.81,Cassava,Angola,Bengo,RETAIL,Kg
+2025-02-01,0.81,Cassava,Angola,Bengo,RETAIL,Kg
+2025-03-01,0.81,Cassava,Angola,Bengo,RETAIL,Kg
+2025-04-01,0.81,Cassava,Angola,Bengo,RETAIL,Kg
+2025-05-01,0.81,Cassava,Angola,Bengo,RETAIL,Kg
+2025-06-01,0.81,Cassava,Angola,Bengo,RETAIL,Kg
+2025-07-01,0.81,Cassava,Angola,Bengo,RETAIL,Kg
+2025-08-01,0.81,Cassava,Angola,Bengo,RETAIL,Kg
+2021-01-01,0.65,Cassava,Angola,Benguela,RETAIL,Kg
+2021-02-01,0.65,Cassava,Angola,Benguela,RETAIL,Kg
+2021-03-01,0.68,Cassava,Angola,Benguela,RETAIL,Kg
+2021-04-01,0.66,Cassava,Angola,Benguela,RETAIL,Kg
+2021-05-01,0.66,Cassava,Angola,Benguela,RETAIL,Kg
+2021-06-01,0.67,Cassava,Angola,Benguela,RETAIL,Kg
+2021-07-01,0.67,Cassava,Angola,Benguela,RETAIL,Kg
+2021-08-01,0.69,Cassava,Angola,Benguela,RETAIL,Kg
+2021-09-01,0.72,Cassava,Angola,Benguela,RETAIL,Kg
+2021-10-01,0.75,Cassava,Angola,Benguela,RETAIL,Kg
+2021-11-01,0.76,Cassava,Angola,Benguela,RETAIL,Kg
+2021-12-01,0.82,Cassava,Angola,Benguela,RETAIL,Kg
+2022-01-01,0.9,Cassava,Angola,Benguela,RETAIL,Kg
+2022-02-01,0.94,Cassava,Angola,Benguela,RETAIL,Kg
+2022-03-01,1.05,Cassava,Angola,Benguela,RETAIL,Kg
+2022-04-01,1.16,Cassava,Angola,Benguela,RETAIL,Kg
+2022-05-01,1.23,Cassava,Angola,Benguela,RETAIL,Kg
+2022-06-01,1.18,Cassava,Angola,Benguela,RETAIL,Kg
+2022-07-01,1.18,Cassava,Angola,Benguela,RETAIL,Kg
+2022-08-01,1.18,Cassava,Angola,Benguela,RETAIL,Kg
+2022-09-01,1.18,Cassava,Angola,Benguela,RETAIL,Kg
+2022-10-01,1.12,Cassava,Angola,Benguela,RETAIL,Kg
+2022-11-01,1.01,Cassava,Angola,Benguela,RETAIL,Kg
+2022-12-01,1.01,Cassava,Angola,Benguela,RETAIL,Kg
+2023-01-01,1.01,Cassava,Angola,Benguela,RETAIL,Kg
+2023-02-01,1.01,Cassava,Angola,Benguela,RETAIL,Kg
+2023-03-01,1.01,Cassava,Angola,Benguela,RETAIL,Kg
+2023-04-01,1.0,Cassava,Angola,Benguela,RETAIL,Kg
+2023-05-01,0.95,Cassava,Angola,Benguela,RETAIL,Kg
+2023-06-01,0.71,Cassava,Angola,Benguela,RETAIL,Kg
+2023-07-01,0.62,Cassava,Angola,Benguela,RETAIL,Kg
+2023-08-01,0.62,Cassava,Angola,Benguela,RETAIL,Kg
+2023-09-01,0.62,Cassava,Angola,Benguela,RETAIL,Kg
+2023-10-01,0.62,Cassava,Angola,Benguela,RETAIL,Kg
+2023-11-01,0.62,Cassava,Angola,Benguela,RETAIL,Kg
+2023-12-01,0.62,Cassava,Angola,Benguela,RETAIL,Kg
+2024-01-01,0.62,Cassava,Angola,Benguela,RETAIL,Kg
+2024-02-01,0.64,Cassava,Angola,Benguela,RETAIL,Kg
+2024-03-01,0.63,Cassava,Angola,Benguela,RETAIL,Kg
+2024-04-01,0.64,Cassava,Angola,Benguela,RETAIL,Kg
+2024-05-01,0.63,Cassava,Angola,Benguela,RETAIL,Kg
+2024-06-01,0.62,Cassava,Angola,Benguela,RETAIL,Kg
+2024-07-01,0.61,Cassava,Angola,Benguela,RETAIL,Kg
+2024-08-01,0.62,Cassava,Angola,Benguela,RETAIL,Kg
+2024-09-01,0.59,Cassava,Angola,Benguela,RETAIL,Kg
+2024-10-01,0.6,Cassava,Angola,Benguela,RETAIL,Kg
+2024-11-01,0.63,Cassava,Angola,Benguela,RETAIL,Kg
+2024-12-01,0.63,Cassava,Angola,Benguela,RETAIL,Kg
+2025-01-01,0.63,Cassava,Angola,Benguela,RETAIL,Kg
+2025-02-01,0.63,Cassava,Angola,Benguela,RETAIL,Kg
+2025-03-01,0.63,Cassava,Angola,Benguela,RETAIL,Kg
+2025-04-01,0.63,Cassava,Angola,Benguela,RETAIL,Kg
+2025-05-01,0.68,Cassava,Angola,Benguela,RETAIL,Kg
+2025-06-01,0.7,Cassava,Angola,Benguela,RETAIL,Kg
+2025-07-01,0.71,Cassava,Angola,Benguela,RETAIL,Kg
+2025-08-01,0.75,Cassava,Angola,Benguela,RETAIL,Kg
+2021-01-01,0.44,Cassava,Angola,Bié,RETAIL,Kg
+2021-02-01,0.44,Cassava,Angola,Bié,RETAIL,Kg
+2021-03-01,0.46,Cassava,Angola,Bié,RETAIL,Kg
+2021-04-01,0.45,Cassava,Angola,Bié,RETAIL,Kg
+2021-05-01,0.44,Cassava,Angola,Bié,RETAIL,Kg
+2021-06-01,0.45,Cassava,Angola,Bié,RETAIL,Kg
+2021-07-01,0.45,Cassava,Angola,Bié,RETAIL,Kg
+2021-08-01,0.45,Cassava,Angola,Bié,RETAIL,Kg
+2021-09-01,0.46,Cassava,Angola,Bié,RETAIL,Kg
+2021-10-01,0.49,Cassava,Angola,Bié,RETAIL,Kg
+2021-11-01,0.49,Cassava,Angola,Bié,RETAIL,Kg
+2021-12-01,0.53,Cassava,Angola,Bié,RETAIL,Kg
+2022-01-01,0.56,Cassava,Angola,Bié,RETAIL,Kg
+2022-02-01,0.58,Cassava,Angola,Bié,RETAIL,Kg
+2022-03-01,0.65,Cassava,Angola,Bié,RETAIL,Kg
+2022-04-01,0.71,Cassava,Angola,Bié,RETAIL,Kg
+2022-05-01,0.71,Cassava,Angola,Bié,RETAIL,Kg
+2022-06-01,0.7,Cassava,Angola,Bié,RETAIL,Kg
+2022-07-01,0.7,Cassava,Angola,Bié,RETAIL,Kg
+2022-08-01,0.7,Cassava,Angola,Bié,RETAIL,Kg
+2022-09-01,0.7,Cassava,Angola,Bié,RETAIL,Kg
+2022-10-01,0.67,Cassava,Angola,Bié,RETAIL,Kg
+2022-11-01,0.6,Cassava,Angola,Bié,RETAIL,Kg
+2022-12-01,0.6,Cassava,Angola,Bié,RETAIL,Kg
+2023-01-01,0.6,Cassava,Angola,Bié,RETAIL,Kg
+2023-02-01,0.6,Cassava,Angola,Bié,RETAIL,Kg
+2023-03-01,0.61,Cassava,Angola,Bié,RETAIL,Kg
+2023-04-01,0.61,Cassava,Angola,Bié,RETAIL,Kg
+2023-05-01,0.58,Cassava,Angola,Bié,RETAIL,Kg
+2023-06-01,0.43,Cassava,Angola,Bié,RETAIL,Kg
+2023-07-01,0.38,Cassava,Angola,Bié,RETAIL,Kg
+2023-08-01,0.38,Cassava,Angola,Bié,RETAIL,Kg
+2023-09-01,0.38,Cassava,Angola,Bié,RETAIL,Kg
+2023-10-01,0.38,Cassava,Angola,Bié,RETAIL,Kg
+2023-11-01,0.37,Cassava,Angola,Bié,RETAIL,Kg
+2023-12-01,0.37,Cassava,Angola,Bié,RETAIL,Kg
+2024-01-01,0.37,Cassava,Angola,Bié,RETAIL,Kg
+2024-02-01,0.37,Cassava,Angola,Bié,RETAIL,Kg
+2024-03-01,0.38,Cassava,Angola,Bié,RETAIL,Kg
+2024-04-01,0.38,Cassava,Angola,Bié,RETAIL,Kg
+2024-05-01,0.38,Cassava,Angola,Bié,RETAIL,Kg
+2024-06-01,0.37,Cassava,Angola,Bié,RETAIL,Kg
+2024-07-01,0.37,Cassava,Angola,Bié,RETAIL,Kg
+2024-08-01,0.36,Cassava,Angola,Bié,RETAIL,Kg
+2024-09-01,0.35,Cassava,Angola,Bié,RETAIL,Kg
+2024-10-01,0.35,Cassava,Angola,Bié,RETAIL,Kg
+2024-11-01,0.36,Cassava,Angola,Bié,RETAIL,Kg
+2024-12-01,0.36,Cassava,Angola,Bié,RETAIL,Kg
+2025-01-01,0.36,Cassava,Angola,Bié,RETAIL,Kg
+2025-02-01,0.39,Cassava,Angola,Bié,RETAIL,Kg
+2025-03-01,0.39,Cassava,Angola,Bié,RETAIL,Kg
+2025-04-01,0.42,Cassava,Angola,Bié,RETAIL,Kg
+2025-05-01,0.42,Cassava,Angola,Bié,RETAIL,Kg
+2025-06-01,0.48,Cassava,Angola,Bié,RETAIL,Kg
+2025-07-01,0.48,Cassava,Angola,Bié,RETAIL,Kg
+2025-08-01,0.48,Cassava,Angola,Bié,RETAIL,Kg
+2021-01-01,0.46,Cassava,Angola,Cabinda,RETAIL,Kg
+2021-02-01,0.49,Cassava,Angola,Cabinda,RETAIL,Kg
+2021-03-01,0.51,Cassava,Angola,Cabinda,RETAIL,Kg
+2021-04-01,0.49,Cassava,Angola,Cabinda,RETAIL,Kg
+2021-05-01,0.51,Cassava,Angola,Cabinda,RETAIL,Kg
+2021-06-01,0.52,Cassava,Angola,Cabinda,RETAIL,Kg
+2021-07-01,0.56,Cassava,Angola,Cabinda,RETAIL,Kg
+2021-08-01,0.57,Cassava,Angola,Cabinda,RETAIL,Kg
+2021-09-01,0.62,Cassava,Angola,Cabinda,RETAIL,Kg
+2021-10-01,0.65,Cassava,Angola,Cabinda,RETAIL,Kg
+2021-11-01,0.66,Cassava,Angola,Cabinda,RETAIL,Kg
+2021-12-01,0.74,Cassava,Angola,Cabinda,RETAIL,Kg
+2022-01-01,0.78,Cassava,Angola,Cabinda,RETAIL,Kg
+2022-02-01,0.82,Cassava,Angola,Cabinda,RETAIL,Kg
+2022-03-01,0.97,Cassava,Angola,Cabinda,RETAIL,Kg
+2022-04-01,1.05,Cassava,Angola,Cabinda,RETAIL,Kg
+2022-05-01,1.17,Cassava,Angola,Cabinda,RETAIL,Kg
+2022-06-01,1.21,Cassava,Angola,Cabinda,RETAIL,Kg
+2022-07-01,1.32,Cassava,Angola,Cabinda,RETAIL,Kg
+2022-08-01,1.32,Cassava,Angola,Cabinda,RETAIL,Kg
+2022-09-01,1.35,Cassava,Angola,Cabinda,RETAIL,Kg
+2022-10-01,1.33,Cassava,Angola,Cabinda,RETAIL,Kg
+2022-11-01,1.3,Cassava,Angola,Cabinda,RETAIL,Kg
+2022-12-01,1.29,Cassava,Angola,Cabinda,RETAIL,Kg
+2023-01-01,1.3,Cassava,Angola,Cabinda,RETAIL,Kg
+2023-02-01,1.32,Cassava,Angola,Cabinda,RETAIL,Kg
+2023-03-01,1.39,Cassava,Angola,Cabinda,RETAIL,Kg
+2023-04-01,1.38,Cassava,Angola,Cabinda,RETAIL,Kg
+2023-05-01,1.38,Cassava,Angola,Cabinda,RETAIL,Kg
+2023-06-01,1.03,Cassava,Angola,Cabinda,RETAIL,Kg
+2023-07-01,0.89,Cassava,Angola,Cabinda,RETAIL,Kg
+2023-08-01,0.9,Cassava,Angola,Cabinda,RETAIL,Kg
+2023-09-01,0.96,Cassava,Angola,Cabinda,RETAIL,Kg
+2023-10-01,0.96,Cassava,Angola,Cabinda,RETAIL,Kg
+2023-11-01,0.95,Cassava,Angola,Cabinda,RETAIL,Kg
+2023-12-01,0.95,Cassava,Angola,Cabinda,RETAIL,Kg
+2024-01-01,0.96,Cassava,Angola,Cabinda,RETAIL,Kg
+2024-02-01,1.04,Cassava,Angola,Cabinda,RETAIL,Kg
+2024-03-01,1.14,Cassava,Angola,Cabinda,RETAIL,Kg
+2024-04-01,1.16,Cassava,Angola,Cabinda,RETAIL,Kg
+2024-05-01,1.15,Cassava,Angola,Cabinda,RETAIL,Kg
+2024-06-01,1.13,Cassava,Angola,Cabinda,RETAIL,Kg
+2024-07-01,1.13,Cassava,Angola,Cabinda,RETAIL,Kg
+2024-08-01,1.13,Cassava,Angola,Cabinda,RETAIL,Kg
+2024-09-01,1.08,Cassava,Angola,Cabinda,RETAIL,Kg
+2024-10-01,1.1,Cassava,Angola,Cabinda,RETAIL,Kg
+2024-11-01,1.1,Cassava,Angola,Cabinda,RETAIL,Kg
+2024-12-01,1.16,Cassava,Angola,Cabinda,RETAIL,Kg
+2025-01-01,1.24,Cassava,Angola,Cabinda,RETAIL,Kg
+2025-02-01,1.24,Cassava,Angola,Cabinda,RETAIL,Kg
+2025-03-01,1.26,Cassava,Angola,Cabinda,RETAIL,Kg
+2025-04-01,1.25,Cassava,Angola,Cabinda,RETAIL,Kg
+2025-05-01,1.26,Cassava,Angola,Cabinda,RETAIL,Kg
+2025-06-01,1.25,Cassava,Angola,Cabinda,RETAIL,Kg
+2025-07-01,1.25,Cassava,Angola,Cabinda,RETAIL,Kg
+2025-08-01,1.25,Cassava,Angola,Cabinda,RETAIL,Kg
+2021-01-01,0.17,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2021-02-01,0.18,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2021-03-01,0.19,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2021-04-01,0.19,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2021-05-01,0.19,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2021-06-01,0.19,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2021-07-01,0.21,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2021-08-01,0.21,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2021-09-01,0.22,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2021-10-01,0.24,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2021-11-01,0.24,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2021-12-01,0.27,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2022-01-01,0.29,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2022-02-01,0.31,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2022-03-01,0.34,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2022-04-01,0.37,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2022-05-01,0.38,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2022-06-01,0.36,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2022-07-01,0.36,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2022-08-01,0.36,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2022-09-01,0.36,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2022-10-01,0.34,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2022-11-01,0.31,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2022-12-01,0.33,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2023-01-01,0.34,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2023-02-01,0.34,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2023-03-01,0.36,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2023-04-01,0.35,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2023-05-01,0.34,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2023-06-01,0.27,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2023-07-01,0.23,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2023-08-01,0.23,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2023-09-01,0.24,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2023-10-01,0.24,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2023-11-01,0.24,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2023-12-01,0.24,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2024-01-01,0.24,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2024-02-01,0.24,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2024-03-01,0.24,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2024-04-01,0.26,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2024-05-01,0.25,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2024-06-01,0.28,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2024-07-01,0.27,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2024-08-01,0.27,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2024-09-01,0.26,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2024-10-01,0.27,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2024-11-01,0.29,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2024-12-01,0.29,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2025-01-01,0.29,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2025-02-01,0.29,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2025-03-01,0.29,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2025-04-01,0.28,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2025-05-01,0.32,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2025-06-01,0.29,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2025-07-01,0.33,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2025-08-01,0.38,Cassava,Angola,Cuando Cubango,RETAIL,Kg
+2021-01-01,0.63,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2021-02-01,0.64,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2021-03-01,0.7,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2021-04-01,0.71,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2021-05-01,0.7,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2021-06-01,0.72,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2021-07-01,0.72,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2021-08-01,0.73,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2021-09-01,0.75,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2021-10-01,0.78,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2021-11-01,0.82,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2021-12-01,0.86,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2022-01-01,0.94,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2022-02-01,1.01,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2022-03-01,1.17,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2022-04-01,1.3,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2022-05-01,1.33,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2022-06-01,1.28,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2022-07-01,1.29,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2022-08-01,1.29,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2022-09-01,1.29,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2022-10-01,1.23,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2022-11-01,1.1,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2022-12-01,1.11,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2023-01-01,1.12,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2023-02-01,1.12,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2023-03-01,1.15,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2023-04-01,1.14,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2023-05-01,1.11,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2023-06-01,0.82,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2023-07-01,0.72,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2023-08-01,0.74,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2023-09-01,0.77,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2023-10-01,0.77,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2023-11-01,0.77,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2023-12-01,0.77,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2024-01-01,0.81,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2024-02-01,0.81,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2024-03-01,0.85,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2024-04-01,0.85,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2024-05-01,0.84,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2024-06-01,0.86,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2024-07-01,0.85,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2024-08-01,0.83,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2024-09-01,0.87,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2024-10-01,0.91,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2024-11-01,0.96,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2024-12-01,1.01,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2025-01-01,1.04,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2025-02-01,1.04,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2025-03-01,1.13,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2025-04-01,1.14,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2025-05-01,1.14,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2025-06-01,1.15,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2025-07-01,1.15,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2025-08-01,1.15,Cassava,Angola,Cuanza Norte,RETAIL,Kg
+2021-01-01,1.03,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2021-02-01,1.06,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2021-03-01,1.11,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2021-04-01,1.08,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2021-05-01,1.07,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2021-06-01,1.1,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2021-07-01,1.12,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2021-08-01,1.13,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2021-09-01,1.18,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2021-10-01,1.22,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2021-11-01,1.24,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2021-12-01,1.3,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2022-01-01,1.38,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2022-02-01,1.45,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2022-03-01,1.66,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2022-04-01,1.78,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2022-05-01,1.82,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2022-06-01,1.72,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2022-07-01,1.71,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2022-08-01,1.71,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2022-09-01,1.71,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2022-10-01,1.63,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2022-11-01,1.47,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2022-12-01,1.46,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2023-01-01,1.46,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2023-02-01,1.46,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2023-03-01,1.46,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2023-04-01,1.45,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2023-05-01,1.38,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2023-06-01,1.03,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2023-07-01,0.89,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2023-08-01,0.89,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2023-09-01,0.89,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2023-10-01,0.89,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2023-11-01,0.89,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2023-12-01,0.89,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2024-01-01,0.89,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2024-02-01,0.89,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2024-03-01,0.88,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2024-04-01,0.88,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2024-05-01,0.87,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2024-06-01,0.86,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2024-07-01,0.84,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2024-08-01,0.83,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2024-09-01,0.79,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2024-10-01,0.81,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2024-11-01,0.82,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2024-12-01,0.82,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2025-01-01,0.82,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2025-02-01,0.82,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2025-03-01,0.84,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2025-04-01,0.88,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2025-05-01,0.82,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2025-06-01,0.82,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2025-07-01,0.82,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2025-08-01,0.82,Cassava,Angola,Cuanza Sul,RETAIL,Kg
+2021-01-01,0.26,Cassava,Angola,Huambo,RETAIL,Kg
+2021-02-01,0.27,Cassava,Angola,Huambo,RETAIL,Kg
+2021-03-01,0.28,Cassava,Angola,Huambo,RETAIL,Kg
+2021-04-01,0.28,Cassava,Angola,Huambo,RETAIL,Kg
+2021-05-01,0.27,Cassava,Angola,Huambo,RETAIL,Kg
+2021-06-01,0.27,Cassava,Angola,Huambo,RETAIL,Kg
+2021-07-01,0.29,Cassava,Angola,Huambo,RETAIL,Kg
+2021-08-01,0.29,Cassava,Angola,Huambo,RETAIL,Kg
+2021-09-01,0.3,Cassava,Angola,Huambo,RETAIL,Kg
+2021-10-01,0.31,Cassava,Angola,Huambo,RETAIL,Kg
+2021-11-01,0.33,Cassava,Angola,Huambo,RETAIL,Kg
+2021-12-01,0.35,Cassava,Angola,Huambo,RETAIL,Kg
+2022-01-01,0.37,Cassava,Angola,Huambo,RETAIL,Kg
+2022-02-01,0.39,Cassava,Angola,Huambo,RETAIL,Kg
+2022-03-01,0.43,Cassava,Angola,Huambo,RETAIL,Kg
+2022-04-01,0.5,Cassava,Angola,Huambo,RETAIL,Kg
+2022-05-01,0.51,Cassava,Angola,Huambo,RETAIL,Kg
+2022-06-01,0.51,Cassava,Angola,Huambo,RETAIL,Kg
+2022-07-01,0.54,Cassava,Angola,Huambo,RETAIL,Kg
+2022-08-01,0.54,Cassava,Angola,Huambo,RETAIL,Kg
+2022-09-01,0.54,Cassava,Angola,Huambo,RETAIL,Kg
+2022-10-01,0.56,Cassava,Angola,Huambo,RETAIL,Kg
+2022-11-01,0.51,Cassava,Angola,Huambo,RETAIL,Kg
+2022-12-01,0.5,Cassava,Angola,Huambo,RETAIL,Kg
+2023-01-01,0.51,Cassava,Angola,Huambo,RETAIL,Kg
+2023-02-01,0.54,Cassava,Angola,Huambo,RETAIL,Kg
+2023-03-01,0.54,Cassava,Angola,Huambo,RETAIL,Kg
+2023-04-01,0.57,Cassava,Angola,Huambo,RETAIL,Kg
+2023-05-01,0.54,Cassava,Angola,Huambo,RETAIL,Kg
+2023-06-01,0.41,Cassava,Angola,Huambo,RETAIL,Kg
+2023-07-01,0.35,Cassava,Angola,Huambo,RETAIL,Kg
+2023-08-01,0.35,Cassava,Angola,Huambo,RETAIL,Kg
+2023-09-01,0.36,Cassava,Angola,Huambo,RETAIL,Kg
+2023-10-01,0.36,Cassava,Angola,Huambo,RETAIL,Kg
+2023-11-01,0.36,Cassava,Angola,Huambo,RETAIL,Kg
+2023-12-01,0.36,Cassava,Angola,Huambo,RETAIL,Kg
+2024-01-01,0.36,Cassava,Angola,Huambo,RETAIL,Kg
+2024-02-01,0.36,Cassava,Angola,Huambo,RETAIL,Kg
+2024-03-01,0.4,Cassava,Angola,Huambo,RETAIL,Kg
+2024-04-01,0.4,Cassava,Angola,Huambo,RETAIL,Kg
+2024-05-01,0.39,Cassava,Angola,Huambo,RETAIL,Kg
+2024-06-01,0.39,Cassava,Angola,Huambo,RETAIL,Kg
+2024-07-01,0.42,Cassava,Angola,Huambo,RETAIL,Kg
+2024-08-01,0.41,Cassava,Angola,Huambo,RETAIL,Kg
+2024-09-01,0.39,Cassava,Angola,Huambo,RETAIL,Kg
+2024-10-01,0.4,Cassava,Angola,Huambo,RETAIL,Kg
+2024-11-01,0.43,Cassava,Angola,Huambo,RETAIL,Kg
+2024-12-01,0.42,Cassava,Angola,Huambo,RETAIL,Kg
+2025-01-01,0.43,Cassava,Angola,Huambo,RETAIL,Kg
+2025-02-01,0.46,Cassava,Angola,Huambo,RETAIL,Kg
+2025-03-01,0.5,Cassava,Angola,Huambo,RETAIL,Kg
+2025-04-01,0.5,Cassava,Angola,Huambo,RETAIL,Kg
+2025-05-01,0.53,Cassava,Angola,Huambo,RETAIL,Kg
+2025-06-01,0.52,Cassava,Angola,Huambo,RETAIL,Kg
+2025-07-01,0.52,Cassava,Angola,Huambo,RETAIL,Kg
+2025-08-01,0.52,Cassava,Angola,Huambo,RETAIL,Kg
+2021-01-01,0.72,Cassava,Angola,Huíla,RETAIL,Kg
+2021-02-01,0.76,Cassava,Angola,Huíla,RETAIL,Kg
+2021-03-01,0.8,Cassava,Angola,Huíla,RETAIL,Kg
+2021-04-01,0.79,Cassava,Angola,Huíla,RETAIL,Kg
+2021-05-01,0.8,Cassava,Angola,Huíla,RETAIL,Kg
+2021-06-01,0.83,Cassava,Angola,Huíla,RETAIL,Kg
+2021-07-01,0.83,Cassava,Angola,Huíla,RETAIL,Kg
+2021-08-01,0.87,Cassava,Angola,Huíla,RETAIL,Kg
+2021-09-01,0.89,Cassava,Angola,Huíla,RETAIL,Kg
+2021-10-01,0.94,Cassava,Angola,Huíla,RETAIL,Kg
+2021-11-01,0.95,Cassava,Angola,Huíla,RETAIL,Kg
+2021-12-01,1.01,Cassava,Angola,Huíla,RETAIL,Kg
+2022-01-01,1.07,Cassava,Angola,Huíla,RETAIL,Kg
+2022-02-01,1.14,Cassava,Angola,Huíla,RETAIL,Kg
+2022-03-01,1.27,Cassava,Angola,Huíla,RETAIL,Kg
+2022-04-01,1.39,Cassava,Angola,Huíla,RETAIL,Kg
+2022-05-01,1.42,Cassava,Angola,Huíla,RETAIL,Kg
+2022-06-01,1.36,Cassava,Angola,Huíla,RETAIL,Kg
+2022-07-01,1.36,Cassava,Angola,Huíla,RETAIL,Kg
+2022-08-01,1.36,Cassava,Angola,Huíla,RETAIL,Kg
+2022-09-01,1.38,Cassava,Angola,Huíla,RETAIL,Kg
+2022-10-01,1.37,Cassava,Angola,Huíla,RETAIL,Kg
+2022-11-01,1.27,Cassava,Angola,Huíla,RETAIL,Kg
+2022-12-01,1.26,Cassava,Angola,Huíla,RETAIL,Kg
+2023-01-01,1.27,Cassava,Angola,Huíla,RETAIL,Kg
+2023-02-01,1.29,Cassava,Angola,Huíla,RETAIL,Kg
+2023-03-01,1.32,Cassava,Angola,Huíla,RETAIL,Kg
+2023-04-01,1.35,Cassava,Angola,Huíla,RETAIL,Kg
+2023-05-01,1.34,Cassava,Angola,Huíla,RETAIL,Kg
+2023-06-01,1.0,Cassava,Angola,Huíla,RETAIL,Kg
+2023-07-01,0.86,Cassava,Angola,Huíla,RETAIL,Kg
+2023-08-01,0.88,Cassava,Angola,Huíla,RETAIL,Kg
+2023-09-01,0.88,Cassava,Angola,Huíla,RETAIL,Kg
+2023-10-01,0.88,Cassava,Angola,Huíla,RETAIL,Kg
+2023-11-01,0.89,Cassava,Angola,Huíla,RETAIL,Kg
+2023-12-01,0.92,Cassava,Angola,Huíla,RETAIL,Kg
+2024-01-01,0.93,Cassava,Angola,Huíla,RETAIL,Kg
+2024-02-01,0.93,Cassava,Angola,Huíla,RETAIL,Kg
+2024-03-01,0.93,Cassava,Angola,Huíla,RETAIL,Kg
+2024-04-01,0.92,Cassava,Angola,Huíla,RETAIL,Kg
+2024-05-01,0.91,Cassava,Angola,Huíla,RETAIL,Kg
+2024-06-01,0.9,Cassava,Angola,Huíla,RETAIL,Kg
+2024-07-01,0.92,Cassava,Angola,Huíla,RETAIL,Kg
+2024-08-01,0.92,Cassava,Angola,Huíla,RETAIL,Kg
+2024-09-01,0.88,Cassava,Angola,Huíla,RETAIL,Kg
+2024-10-01,0.9,Cassava,Angola,Huíla,RETAIL,Kg
+2024-11-01,0.9,Cassava,Angola,Huíla,RETAIL,Kg
+2024-12-01,0.9,Cassava,Angola,Huíla,RETAIL,Kg
+2025-01-01,0.9,Cassava,Angola,Huíla,RETAIL,Kg
+2025-02-01,0.9,Cassava,Angola,Huíla,RETAIL,Kg
+2025-03-01,0.92,Cassava,Angola,Huíla,RETAIL,Kg
+2025-04-01,0.92,Cassava,Angola,Huíla,RETAIL,Kg
+2025-05-01,0.91,Cassava,Angola,Huíla,RETAIL,Kg
+2025-06-01,0.91,Cassava,Angola,Huíla,RETAIL,Kg
+2025-07-01,0.91,Cassava,Angola,Huíla,RETAIL,Kg
+2025-08-01,0.91,Cassava,Angola,Huíla,RETAIL,Kg
+2021-01-01,0.45,Cassava,Angola,Luanda,RETAIL,Kg
+2021-02-01,0.48,Cassava,Angola,Luanda,RETAIL,Kg
+2021-03-01,0.52,Cassava,Angola,Luanda,RETAIL,Kg
+2021-04-01,0.52,Cassava,Angola,Luanda,RETAIL,Kg
+2021-05-01,0.54,Cassava,Angola,Luanda,RETAIL,Kg
+2021-06-01,0.58,Cassava,Angola,Luanda,RETAIL,Kg
+2021-07-01,0.61,Cassava,Angola,Luanda,RETAIL,Kg
+2021-08-01,0.64,Cassava,Angola,Luanda,RETAIL,Kg
+2021-09-01,0.68,Cassava,Angola,Luanda,RETAIL,Kg
+2021-10-01,0.72,Cassava,Angola,Luanda,RETAIL,Kg
+2021-11-01,0.74,Cassava,Angola,Luanda,RETAIL,Kg
+2021-12-01,0.79,Cassava,Angola,Luanda,RETAIL,Kg
+2022-01-01,0.84,Cassava,Angola,Luanda,RETAIL,Kg
+2022-02-01,0.9,Cassava,Angola,Luanda,RETAIL,Kg
+2022-03-01,1.06,Cassava,Angola,Luanda,RETAIL,Kg
+2022-04-01,1.3,Cassava,Angola,Luanda,RETAIL,Kg
+2022-05-01,1.33,Cassava,Angola,Luanda,RETAIL,Kg
+2022-06-01,1.3,Cassava,Angola,Luanda,RETAIL,Kg
+2022-07-01,1.32,Cassava,Angola,Luanda,RETAIL,Kg
+2022-08-01,1.32,Cassava,Angola,Luanda,RETAIL,Kg
+2022-09-01,1.32,Cassava,Angola,Luanda,RETAIL,Kg
+2022-10-01,1.27,Cassava,Angola,Luanda,RETAIL,Kg
+2022-11-01,1.16,Cassava,Angola,Luanda,RETAIL,Kg
+2022-12-01,1.16,Cassava,Angola,Luanda,RETAIL,Kg
+2023-01-01,1.18,Cassava,Angola,Luanda,RETAIL,Kg
+2023-02-01,1.2,Cassava,Angola,Luanda,RETAIL,Kg
+2023-03-01,1.2,Cassava,Angola,Luanda,RETAIL,Kg
+2023-04-01,1.2,Cassava,Angola,Luanda,RETAIL,Kg
+2023-05-01,1.14,Cassava,Angola,Luanda,RETAIL,Kg
+2023-06-01,0.85,Cassava,Angola,Luanda,RETAIL,Kg
+2023-07-01,0.76,Cassava,Angola,Luanda,RETAIL,Kg
+2023-08-01,0.76,Cassava,Angola,Luanda,RETAIL,Kg
+2023-09-01,0.78,Cassava,Angola,Luanda,RETAIL,Kg
+2023-10-01,0.79,Cassava,Angola,Luanda,RETAIL,Kg
+2023-11-01,0.8,Cassava,Angola,Luanda,RETAIL,Kg
+2023-12-01,0.81,Cassava,Angola,Luanda,RETAIL,Kg
+2024-01-01,0.82,Cassava,Angola,Luanda,RETAIL,Kg
+2024-02-01,0.85,Cassava,Angola,Luanda,RETAIL,Kg
+2024-03-01,0.89,Cassava,Angola,Luanda,RETAIL,Kg
+2024-04-01,0.91,Cassava,Angola,Luanda,RETAIL,Kg
+2024-05-01,0.9,Cassava,Angola,Luanda,RETAIL,Kg
+2024-06-01,0.92,Cassava,Angola,Luanda,RETAIL,Kg
+2024-07-01,0.9,Cassava,Angola,Luanda,RETAIL,Kg
+2024-08-01,0.89,Cassava,Angola,Luanda,RETAIL,Kg
+2024-09-01,0.87,Cassava,Angola,Luanda,RETAIL,Kg
+2024-10-01,0.88,Cassava,Angola,Luanda,RETAIL,Kg
+2024-11-01,0.9,Cassava,Angola,Luanda,RETAIL,Kg
+2024-12-01,0.91,Cassava,Angola,Luanda,RETAIL,Kg
+2025-01-01,0.93,Cassava,Angola,Luanda,RETAIL,Kg
+2025-02-01,0.94,Cassava,Angola,Luanda,RETAIL,Kg
+2025-03-01,0.95,Cassava,Angola,Luanda,RETAIL,Kg
+2025-04-01,0.96,Cassava,Angola,Luanda,RETAIL,Kg
+2025-05-01,0.97,Cassava,Angola,Luanda,RETAIL,Kg
+2025-06-01,0.95,Cassava,Angola,Luanda,RETAIL,Kg
+2025-07-01,0.95,Cassava,Angola,Luanda,RETAIL,Kg
+2025-08-01,0.95,Cassava,Angola,Luanda,RETAIL,Kg
+2021-01-01,0.79,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2021-02-01,0.81,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2021-03-01,0.84,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2021-04-01,0.83,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2021-05-01,0.84,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2021-06-01,0.87,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2021-07-01,0.9,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2021-08-01,0.93,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2021-09-01,0.97,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2021-10-01,1.01,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2021-11-01,1.04,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2021-12-01,1.12,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2022-01-01,1.28,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2022-02-01,1.44,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2022-03-01,1.68,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2022-04-01,1.85,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2022-05-01,1.98,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2022-06-01,1.93,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2022-07-01,1.87,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2022-08-01,1.98,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2022-09-01,2.0,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2022-10-01,1.9,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2022-11-01,1.72,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2022-12-01,1.71,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2023-01-01,1.71,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2023-02-01,1.74,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2023-03-01,1.75,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2023-04-01,1.75,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2023-05-01,1.67,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2023-06-01,1.24,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2023-07-01,1.08,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2023-08-01,1.08,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2023-09-01,1.08,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2023-10-01,1.08,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2023-11-01,1.06,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2023-12-01,1.06,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2024-01-01,1.06,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2024-02-01,1.06,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2024-03-01,1.06,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2024-04-01,1.08,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2024-05-01,1.07,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2024-06-01,1.05,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2024-07-01,1.03,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2024-08-01,1.03,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2024-09-01,0.99,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2024-10-01,1.0,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2024-11-01,1.01,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2024-12-01,1.0,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2025-01-01,1.03,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2025-02-01,1.04,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2025-03-01,1.12,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2025-04-01,0.99,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2025-05-01,1.04,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2025-06-01,1.03,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2025-07-01,0.99,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2025-08-01,0.99,Cassava,Angola,Lunda Norte,RETAIL,Kg
+2021-01-01,0.3,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2021-02-01,0.32,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2021-03-01,0.37,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2021-04-01,0.36,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2021-05-01,0.38,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2021-06-01,0.41,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2021-07-01,0.44,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2021-08-01,0.47,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2021-09-01,0.53,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2021-10-01,0.59,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2021-11-01,0.62,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2021-12-01,0.71,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2022-01-01,0.81,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2022-02-01,0.91,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2022-03-01,0.43,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2022-04-01,1.19,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2022-05-01,1.21,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2022-06-01,1.16,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2022-07-01,1.16,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2022-08-01,1.16,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2022-09-01,1.16,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2022-10-01,1.11,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2022-11-01,1.0,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2022-12-01,1.04,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2023-01-01,1.19,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2023-02-01,1.19,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2023-03-01,1.19,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2023-04-01,1.19,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2023-05-01,1.13,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2023-06-01,0.84,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2023-07-01,0.73,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2023-08-01,0.73,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2023-09-01,0.73,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2023-10-01,0.73,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2023-11-01,0.73,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2023-12-01,0.72,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2024-01-01,0.72,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2024-02-01,0.72,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2024-03-01,0.72,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2024-04-01,0.72,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2024-05-01,0.71,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2024-06-01,0.76,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2024-07-01,0.8,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2024-08-01,0.79,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2024-09-01,0.87,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2024-10-01,0.95,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2024-11-01,0.98,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2024-12-01,1.0,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2025-01-01,1.0,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2025-02-01,1.01,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2025-03-01,1.01,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2025-04-01,1.01,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2025-05-01,1.01,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2025-06-01,1.01,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2025-07-01,1.01,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2025-08-01,1.09,Cassava,Angola,Lunda Sul,RETAIL,Kg
+2021-01-01,0.32,Cassava,Angola,Malanje,RETAIL,Kg
+2021-02-01,0.32,Cassava,Angola,Malanje,RETAIL,Kg
+2021-03-01,0.34,Cassava,Angola,Malanje,RETAIL,Kg
+2021-04-01,0.33,Cassava,Angola,Malanje,RETAIL,Kg
+2021-05-01,0.33,Cassava,Angola,Malanje,RETAIL,Kg
+2021-06-01,0.33,Cassava,Angola,Malanje,RETAIL,Kg
+2021-07-01,0.34,Cassava,Angola,Malanje,RETAIL,Kg
+2021-08-01,0.34,Cassava,Angola,Malanje,RETAIL,Kg
+2021-09-01,0.35,Cassava,Angola,Malanje,RETAIL,Kg
+2021-10-01,0.37,Cassava,Angola,Malanje,RETAIL,Kg
+2021-11-01,0.37,Cassava,Angola,Malanje,RETAIL,Kg
+2021-12-01,0.39,Cassava,Angola,Malanje,RETAIL,Kg
+2022-01-01,0.44,Cassava,Angola,Malanje,RETAIL,Kg
+2022-02-01,0.5,Cassava,Angola,Malanje,RETAIL,Kg
+2022-03-01,0.45,Cassava,Angola,Malanje,RETAIL,Kg
+2022-04-01,0.66,Cassava,Angola,Malanje,RETAIL,Kg
+2022-05-01,0.67,Cassava,Angola,Malanje,RETAIL,Kg
+2022-06-01,0.66,Cassava,Angola,Malanje,RETAIL,Kg
+2022-07-01,0.66,Cassava,Angola,Malanje,RETAIL,Kg
+2022-08-01,0.66,Cassava,Angola,Malanje,RETAIL,Kg
+2022-09-01,0.71,Cassava,Angola,Malanje,RETAIL,Kg
+2022-10-01,0.72,Cassava,Angola,Malanje,RETAIL,Kg
+2022-11-01,0.67,Cassava,Angola,Malanje,RETAIL,Kg
+2022-12-01,0.66,Cassava,Angola,Malanje,RETAIL,Kg
+2023-01-01,0.68,Cassava,Angola,Malanje,RETAIL,Kg
+2023-02-01,0.68,Cassava,Angola,Malanje,RETAIL,Kg
+2023-03-01,0.7,Cassava,Angola,Malanje,RETAIL,Kg
+2023-04-01,0.7,Cassava,Angola,Malanje,RETAIL,Kg
+2023-05-01,0.67,Cassava,Angola,Malanje,RETAIL,Kg
+2023-06-01,0.52,Cassava,Angola,Malanje,RETAIL,Kg
+2023-07-01,0.45,Cassava,Angola,Malanje,RETAIL,Kg
+2023-08-01,0.47,Cassava,Angola,Malanje,RETAIL,Kg
+2023-09-01,0.46,Cassava,Angola,Malanje,RETAIL,Kg
+2023-10-01,0.46,Cassava,Angola,Malanje,RETAIL,Kg
+2023-11-01,0.46,Cassava,Angola,Malanje,RETAIL,Kg
+2023-12-01,0.48,Cassava,Angola,Malanje,RETAIL,Kg
+2024-01-01,0.48,Cassava,Angola,Malanje,RETAIL,Kg
+2024-02-01,0.48,Cassava,Angola,Malanje,RETAIL,Kg
+2024-03-01,0.48,Cassava,Angola,Malanje,RETAIL,Kg
+2024-04-01,0.48,Cassava,Angola,Malanje,RETAIL,Kg
+2024-05-01,0.48,Cassava,Angola,Malanje,RETAIL,Kg
+2024-06-01,0.47,Cassava,Angola,Malanje,RETAIL,Kg
+2024-07-01,0.46,Cassava,Angola,Malanje,RETAIL,Kg
+2024-08-01,0.45,Cassava,Angola,Malanje,RETAIL,Kg
+2024-09-01,0.43,Cassava,Angola,Malanje,RETAIL,Kg
+2024-10-01,0.44,Cassava,Angola,Malanje,RETAIL,Kg
+2024-11-01,0.45,Cassava,Angola,Malanje,RETAIL,Kg
+2024-12-01,0.45,Cassava,Angola,Malanje,RETAIL,Kg
+2025-01-01,0.45,Cassava,Angola,Malanje,RETAIL,Kg
+2025-02-01,0.48,Cassava,Angola,Malanje,RETAIL,Kg
+2025-03-01,0.49,Cassava,Angola,Malanje,RETAIL,Kg
+2025-04-01,0.47,Cassava,Angola,Malanje,RETAIL,Kg
+2025-05-01,0.47,Cassava,Angola,Malanje,RETAIL,Kg
+2025-06-01,0.47,Cassava,Angola,Malanje,RETAIL,Kg
+2025-07-01,0.47,Cassava,Angola,Malanje,RETAIL,Kg
+2025-08-01,0.47,Cassava,Angola,Malanje,RETAIL,Kg
+2021-01-01,0.2,Cassava,Angola,Moxico,RETAIL,Kg
+2021-02-01,0.2,Cassava,Angola,Moxico,RETAIL,Kg
+2021-03-01,0.22,Cassava,Angola,Moxico,RETAIL,Kg
+2021-04-01,0.23,Cassava,Angola,Moxico,RETAIL,Kg
+2021-05-01,0.23,Cassava,Angola,Moxico,RETAIL,Kg
+2021-06-01,0.25,Cassava,Angola,Moxico,RETAIL,Kg
+2021-07-01,0.26,Cassava,Angola,Moxico,RETAIL,Kg
+2021-08-01,0.27,Cassava,Angola,Moxico,RETAIL,Kg
+2021-09-01,0.3,Cassava,Angola,Moxico,RETAIL,Kg
+2021-10-01,0.32,Cassava,Angola,Moxico,RETAIL,Kg
+2021-11-01,0.33,Cassava,Angola,Moxico,RETAIL,Kg
+2021-12-01,0.38,Cassava,Angola,Moxico,RETAIL,Kg
+2022-01-01,0.4,Cassava,Angola,Moxico,RETAIL,Kg
+2022-02-01,0.44,Cassava,Angola,Moxico,RETAIL,Kg
+2022-03-01,0.27,Cassava,Angola,Moxico,RETAIL,Kg
+2022-04-01,0.58,Cassava,Angola,Moxico,RETAIL,Kg
+2022-05-01,0.63,Cassava,Angola,Moxico,RETAIL,Kg
+2022-06-01,0.6,Cassava,Angola,Moxico,RETAIL,Kg
+2022-07-01,0.62,Cassava,Angola,Moxico,RETAIL,Kg
+2022-08-01,0.63,Cassava,Angola,Moxico,RETAIL,Kg
+2022-09-01,0.66,Cassava,Angola,Moxico,RETAIL,Kg
+2022-10-01,0.67,Cassava,Angola,Moxico,RETAIL,Kg
+2022-11-01,0.61,Cassava,Angola,Moxico,RETAIL,Kg
+2022-12-01,0.6,Cassava,Angola,Moxico,RETAIL,Kg
+2023-01-01,0.6,Cassava,Angola,Moxico,RETAIL,Kg
+2023-02-01,0.61,Cassava,Angola,Moxico,RETAIL,Kg
+2023-03-01,0.61,Cassava,Angola,Moxico,RETAIL,Kg
+2023-04-01,0.66,Cassava,Angola,Moxico,RETAIL,Kg
+2023-05-01,0.65,Cassava,Angola,Moxico,RETAIL,Kg
+2023-06-01,0.49,Cassava,Angola,Moxico,RETAIL,Kg
+2023-07-01,0.43,Cassava,Angola,Moxico,RETAIL,Kg
+2023-08-01,0.43,Cassava,Angola,Moxico,RETAIL,Kg
+2023-09-01,0.43,Cassava,Angola,Moxico,RETAIL,Kg
+2023-10-01,0.43,Cassava,Angola,Moxico,RETAIL,Kg
+2023-11-01,0.43,Cassava,Angola,Moxico,RETAIL,Kg
+2023-12-01,0.43,Cassava,Angola,Moxico,RETAIL,Kg
+2024-01-01,0.43,Cassava,Angola,Moxico,RETAIL,Kg
+2024-02-01,0.44,Cassava,Angola,Moxico,RETAIL,Kg
+2024-03-01,0.44,Cassava,Angola,Moxico,RETAIL,Kg
+2024-04-01,0.46,Cassava,Angola,Moxico,RETAIL,Kg
+2024-05-01,0.45,Cassava,Angola,Moxico,RETAIL,Kg
+2024-06-01,0.44,Cassava,Angola,Moxico,RETAIL,Kg
+2024-07-01,0.44,Cassava,Angola,Moxico,RETAIL,Kg
+2024-08-01,0.41,Cassava,Angola,Moxico,RETAIL,Kg
+2024-09-01,0.39,Cassava,Angola,Moxico,RETAIL,Kg
+2024-10-01,0.4,Cassava,Angola,Moxico,RETAIL,Kg
+2024-11-01,0.4,Cassava,Angola,Moxico,RETAIL,Kg
+2024-12-01,0.4,Cassava,Angola,Moxico,RETAIL,Kg
+2025-01-01,0.41,Cassava,Angola,Moxico,RETAIL,Kg
+2025-02-01,0.41,Cassava,Angola,Moxico,RETAIL,Kg
+2025-03-01,0.41,Cassava,Angola,Moxico,RETAIL,Kg
+2025-04-01,0.41,Cassava,Angola,Moxico,RETAIL,Kg
+2025-05-01,0.41,Cassava,Angola,Moxico,RETAIL,Kg
+2025-06-01,0.41,Cassava,Angola,Moxico,RETAIL,Kg
+2025-07-01,0.41,Cassava,Angola,Moxico,RETAIL,Kg
+2025-08-01,0.41,Cassava,Angola,Moxico,RETAIL,Kg
+2021-01-01,0.66,Cassava,Angola,Namibe,RETAIL,Kg
+2021-02-01,0.69,Cassava,Angola,Namibe,RETAIL,Kg
+2021-03-01,0.74,Cassava,Angola,Namibe,RETAIL,Kg
+2021-04-01,0.72,Cassava,Angola,Namibe,RETAIL,Kg
+2021-05-01,0.71,Cassava,Angola,Namibe,RETAIL,Kg
+2021-06-01,0.71,Cassava,Angola,Namibe,RETAIL,Kg
+2021-07-01,0.74,Cassava,Angola,Namibe,RETAIL,Kg
+2021-08-01,0.77,Cassava,Angola,Namibe,RETAIL,Kg
+2021-09-01,0.79,Cassava,Angola,Namibe,RETAIL,Kg
+2021-10-01,0.85,Cassava,Angola,Namibe,RETAIL,Kg
+2021-11-01,0.89,Cassava,Angola,Namibe,RETAIL,Kg
+2021-12-01,0.99,Cassava,Angola,Namibe,RETAIL,Kg
+2022-01-01,1.11,Cassava,Angola,Namibe,RETAIL,Kg
+2022-02-01,1.16,Cassava,Angola,Namibe,RETAIL,Kg
+2022-03-01,1.32,Cassava,Angola,Namibe,RETAIL,Kg
+2022-04-01,1.45,Cassava,Angola,Namibe,RETAIL,Kg
+2022-05-01,1.55,Cassava,Angola,Namibe,RETAIL,Kg
+2022-06-01,1.48,Cassava,Angola,Namibe,RETAIL,Kg
+2022-07-01,1.5,Cassava,Angola,Namibe,RETAIL,Kg
+2022-08-01,1.58,Cassava,Angola,Namibe,RETAIL,Kg
+2022-09-01,1.63,Cassava,Angola,Namibe,RETAIL,Kg
+2022-10-01,1.58,Cassava,Angola,Namibe,RETAIL,Kg
+2022-11-01,1.48,Cassava,Angola,Namibe,RETAIL,Kg
+2022-12-01,1.47,Cassava,Angola,Namibe,RETAIL,Kg
+2023-01-01,1.47,Cassava,Angola,Namibe,RETAIL,Kg
+2023-02-01,1.47,Cassava,Angola,Namibe,RETAIL,Kg
+2023-03-01,1.47,Cassava,Angola,Namibe,RETAIL,Kg
+2023-04-01,1.46,Cassava,Angola,Namibe,RETAIL,Kg
+2023-05-01,1.39,Cassava,Angola,Namibe,RETAIL,Kg
+2023-06-01,1.04,Cassava,Angola,Namibe,RETAIL,Kg
+2023-07-01,0.9,Cassava,Angola,Namibe,RETAIL,Kg
+2023-08-01,0.9,Cassava,Angola,Namibe,RETAIL,Kg
+2023-09-01,0.88,Cassava,Angola,Namibe,RETAIL,Kg
+2023-10-01,0.91,Cassava,Angola,Namibe,RETAIL,Kg
+2023-11-01,0.9,Cassava,Angola,Namibe,RETAIL,Kg
+2023-12-01,0.9,Cassava,Angola,Namibe,RETAIL,Kg
+2024-01-01,0.9,Cassava,Angola,Namibe,RETAIL,Kg
+2024-02-01,0.9,Cassava,Angola,Namibe,RETAIL,Kg
+2024-03-01,0.92,Cassava,Angola,Namibe,RETAIL,Kg
+2024-04-01,0.92,Cassava,Angola,Namibe,RETAIL,Kg
+2024-05-01,0.91,Cassava,Angola,Namibe,RETAIL,Kg
+2024-06-01,0.89,Cassava,Angola,Namibe,RETAIL,Kg
+2024-07-01,0.89,Cassava,Angola,Namibe,RETAIL,Kg
+2024-08-01,0.88,Cassava,Angola,Namibe,RETAIL,Kg
+2024-09-01,0.86,Cassava,Angola,Namibe,RETAIL,Kg
+2024-10-01,0.85,Cassava,Angola,Namibe,RETAIL,Kg
+2024-11-01,0.87,Cassava,Angola,Namibe,RETAIL,Kg
+2024-12-01,0.9,Cassava,Angola,Namibe,RETAIL,Kg
+2025-01-01,0.9,Cassava,Angola,Namibe,RETAIL,Kg
+2025-02-01,0.9,Cassava,Angola,Namibe,RETAIL,Kg
+2025-03-01,0.9,Cassava,Angola,Namibe,RETAIL,Kg
+2025-04-01,0.94,Cassava,Angola,Namibe,RETAIL,Kg
+2025-05-01,0.94,Cassava,Angola,Namibe,RETAIL,Kg
+2025-06-01,0.98,Cassava,Angola,Namibe,RETAIL,Kg
+2025-07-01,0.98,Cassava,Angola,Namibe,RETAIL,Kg
+2025-08-01,0.98,Cassava,Angola,Namibe,RETAIL,Kg
+2021-01-01,0.29,Cassava,Angola,Uíge,RETAIL,Kg
+2021-02-01,0.29,Cassava,Angola,Uíge,RETAIL,Kg
+2021-03-01,0.3,Cassava,Angola,Uíge,RETAIL,Kg
+2021-04-01,0.31,Cassava,Angola,Uíge,RETAIL,Kg
+2021-05-01,0.3,Cassava,Angola,Uíge,RETAIL,Kg
+2021-06-01,0.32,Cassava,Angola,Uíge,RETAIL,Kg
+2021-07-01,0.33,Cassava,Angola,Uíge,RETAIL,Kg
+2021-08-01,0.34,Cassava,Angola,Uíge,RETAIL,Kg
+2021-09-01,0.35,Cassava,Angola,Uíge,RETAIL,Kg
+2021-10-01,0.36,Cassava,Angola,Uíge,RETAIL,Kg
+2021-11-01,0.36,Cassava,Angola,Uíge,RETAIL,Kg
+2021-12-01,0.38,Cassava,Angola,Uíge,RETAIL,Kg
+2022-01-01,0.42,Cassava,Angola,Uíge,RETAIL,Kg
+2022-02-01,0.45,Cassava,Angola,Uíge,RETAIL,Kg
+2022-03-01,0.41,Cassava,Angola,Uíge,RETAIL,Kg
+2022-04-01,0.56,Cassava,Angola,Uíge,RETAIL,Kg
+2022-05-01,0.57,Cassava,Angola,Uíge,RETAIL,Kg
+2022-06-01,0.54,Cassava,Angola,Uíge,RETAIL,Kg
+2022-07-01,0.54,Cassava,Angola,Uíge,RETAIL,Kg
+2022-08-01,0.55,Cassava,Angola,Uíge,RETAIL,Kg
+2022-09-01,0.54,Cassava,Angola,Uíge,RETAIL,Kg
+2022-10-01,0.52,Cassava,Angola,Uíge,RETAIL,Kg
+2022-11-01,0.47,Cassava,Angola,Uíge,RETAIL,Kg
+2022-12-01,0.47,Cassava,Angola,Uíge,RETAIL,Kg
+2023-01-01,0.47,Cassava,Angola,Uíge,RETAIL,Kg
+2023-02-01,0.47,Cassava,Angola,Uíge,RETAIL,Kg
+2023-03-01,0.47,Cassava,Angola,Uíge,RETAIL,Kg
+2023-04-01,0.46,Cassava,Angola,Uíge,RETAIL,Kg
+2023-05-01,0.44,Cassava,Angola,Uíge,RETAIL,Kg
+2023-06-01,0.33,Cassava,Angola,Uíge,RETAIL,Kg
+2023-07-01,0.28,Cassava,Angola,Uíge,RETAIL,Kg
+2023-08-01,0.28,Cassava,Angola,Uíge,RETAIL,Kg
+2023-09-01,0.28,Cassava,Angola,Uíge,RETAIL,Kg
+2023-10-01,0.29,Cassava,Angola,Uíge,RETAIL,Kg
+2023-11-01,0.29,Cassava,Angola,Uíge,RETAIL,Kg
+2023-12-01,0.29,Cassava,Angola,Uíge,RETAIL,Kg
+2024-01-01,0.29,Cassava,Angola,Uíge,RETAIL,Kg
+2024-02-01,0.29,Cassava,Angola,Uíge,RETAIL,Kg
+2024-03-01,0.29,Cassava,Angola,Uíge,RETAIL,Kg
+2024-04-01,0.3,Cassava,Angola,Uíge,RETAIL,Kg
+2024-05-01,0.3,Cassava,Angola,Uíge,RETAIL,Kg
+2024-06-01,0.29,Cassava,Angola,Uíge,RETAIL,Kg
+2024-07-01,0.29,Cassava,Angola,Uíge,RETAIL,Kg
+2024-08-01,0.28,Cassava,Angola,Uíge,RETAIL,Kg
+2024-09-01,0.27,Cassava,Angola,Uíge,RETAIL,Kg
+2024-10-01,0.27,Cassava,Angola,Uíge,RETAIL,Kg
+2024-11-01,0.27,Cassava,Angola,Uíge,RETAIL,Kg
+2024-12-01,0.27,Cassava,Angola,Uíge,RETAIL,Kg
+2025-01-01,0.3,Cassava,Angola,Uíge,RETAIL,Kg
+2025-02-01,0.3,Cassava,Angola,Uíge,RETAIL,Kg
+2025-03-01,0.33,Cassava,Angola,Uíge,RETAIL,Kg
+2025-04-01,0.34,Cassava,Angola,Uíge,RETAIL,Kg
+2025-05-01,0.34,Cassava,Angola,Uíge,RETAIL,Kg
+2025-06-01,0.34,Cassava,Angola,Uíge,RETAIL,Kg
+2025-07-01,0.34,Cassava,Angola,Uíge,RETAIL,Kg
+2025-08-01,0.55,Cassava,Angola,Uíge,RETAIL,Kg
+2021-01-01,0.38,Cassava,Angola,Zaire,RETAIL,Kg
+2021-02-01,0.39,Cassava,Angola,Zaire,RETAIL,Kg
+2021-03-01,0.4,Cassava,Angola,Zaire,RETAIL,Kg
+2021-04-01,0.42,Cassava,Angola,Zaire,RETAIL,Kg
+2021-05-01,0.41,Cassava,Angola,Zaire,RETAIL,Kg
+2021-06-01,0.42,Cassava,Angola,Zaire,RETAIL,Kg
+2021-07-01,0.42,Cassava,Angola,Zaire,RETAIL,Kg
+2021-08-01,0.44,Cassava,Angola,Zaire,RETAIL,Kg
+2021-09-01,0.46,Cassava,Angola,Zaire,RETAIL,Kg
+2021-10-01,0.48,Cassava,Angola,Zaire,RETAIL,Kg
+2021-11-01,0.49,Cassava,Angola,Zaire,RETAIL,Kg
+2021-12-01,0.53,Cassava,Angola,Zaire,RETAIL,Kg
+2022-01-01,0.57,Cassava,Angola,Zaire,RETAIL,Kg
+2022-02-01,0.59,Cassava,Angola,Zaire,RETAIL,Kg
+2022-03-01,0.54,Cassava,Angola,Zaire,RETAIL,Kg
+2022-04-01,0.75,Cassava,Angola,Zaire,RETAIL,Kg
+2022-05-01,0.77,Cassava,Angola,Zaire,RETAIL,Kg
+2022-06-01,0.76,Cassava,Angola,Zaire,RETAIL,Kg
+2022-07-01,0.76,Cassava,Angola,Zaire,RETAIL,Kg
+2022-08-01,0.76,Cassava,Angola,Zaire,RETAIL,Kg
+2022-09-01,0.77,Cassava,Angola,Zaire,RETAIL,Kg
+2022-10-01,0.75,Cassava,Angola,Zaire,RETAIL,Kg
+2022-11-01,0.68,Cassava,Angola,Zaire,RETAIL,Kg
+2022-12-01,0.67,Cassava,Angola,Zaire,RETAIL,Kg
+2023-01-01,0.67,Cassava,Angola,Zaire,RETAIL,Kg
+2023-02-01,0.67,Cassava,Angola,Zaire,RETAIL,Kg
+2023-03-01,0.67,Cassava,Angola,Zaire,RETAIL,Kg
+2023-04-01,0.68,Cassava,Angola,Zaire,RETAIL,Kg
+2023-05-01,0.65,Cassava,Angola,Zaire,RETAIL,Kg
+2023-06-01,0.5,Cassava,Angola,Zaire,RETAIL,Kg
+2023-07-01,0.43,Cassava,Angola,Zaire,RETAIL,Kg
+2023-08-01,0.43,Cassava,Angola,Zaire,RETAIL,Kg
+2023-09-01,0.43,Cassava,Angola,Zaire,RETAIL,Kg
+2023-10-01,0.43,Cassava,Angola,Zaire,RETAIL,Kg
+2023-11-01,0.43,Cassava,Angola,Zaire,RETAIL,Kg
+2023-12-01,0.43,Cassava,Angola,Zaire,RETAIL,Kg
+2024-01-01,0.43,Cassava,Angola,Zaire,RETAIL,Kg
+2024-02-01,0.43,Cassava,Angola,Zaire,RETAIL,Kg
+2024-03-01,0.44,Cassava,Angola,Zaire,RETAIL,Kg
+2024-04-01,0.44,Cassava,Angola,Zaire,RETAIL,Kg
+2024-05-01,0.44,Cassava,Angola,Zaire,RETAIL,Kg
+2024-06-01,0.47,Cassava,Angola,Zaire,RETAIL,Kg
+2024-07-01,0.47,Cassava,Angola,Zaire,RETAIL,Kg
+2024-08-01,0.51,Cassava,Angola,Zaire,RETAIL,Kg
+2024-09-01,0.5,Cassava,Angola,Zaire,RETAIL,Kg
+2024-10-01,0.51,Cassava,Angola,Zaire,RETAIL,Kg
+2024-11-01,0.52,Cassava,Angola,Zaire,RETAIL,Kg
+2024-12-01,0.52,Cassava,Angola,Zaire,RETAIL,Kg
+2025-01-01,0.52,Cassava,Angola,Zaire,RETAIL,Kg
+2025-02-01,0.52,Cassava,Angola,Zaire,RETAIL,Kg
+2025-03-01,0.53,Cassava,Angola,Zaire,RETAIL,Kg
+2025-04-01,0.54,Cassava,Angola,Zaire,RETAIL,Kg
+2025-05-01,0.54,Cassava,Angola,Zaire,RETAIL,Kg
+2025-06-01,0.54,Cassava,Angola,Zaire,RETAIL,Kg
+2025-07-01,0.54,Cassava,Angola,Zaire,RETAIL,Kg
+2025-08-01,0.54,Cassava,Angola,Zaire,RETAIL,Kg
+2011-07-01,0.22,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2011-08-01,,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2011-09-01,0.18,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2011-10-01,0.2,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2011-11-01,0.19,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2011-12-01,0.16,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2012-01-01,0.15,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2012-02-01,,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2012-03-01,,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2012-04-01,0.2,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2012-05-01,0.19,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2012-06-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2012-07-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2012-08-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2012-09-01,,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2012-10-01,,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2012-11-01,,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2012-12-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2013-01-01,0.29,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2013-02-01,0.34,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2013-03-01,0.34,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2013-04-01,0.32,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2013-05-01,0.28,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2013-06-01,0.29,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2013-07-01,0.29,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2013-08-01,0.28,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2013-09-01,0.27,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2013-10-01,0.25,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2013-11-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2013-12-01,0.22,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2014-01-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2014-02-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2014-03-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2014-04-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2014-05-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2014-06-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2014-07-01,0.22,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2014-08-01,0.22,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2014-09-01,0.2,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2014-10-01,0.2,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2014-11-01,0.21,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2014-12-01,0.22,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2015-01-01,0.27,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2015-02-01,0.28,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2015-03-01,0.32,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2015-04-01,0.37,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2015-05-01,0.38,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2015-06-01,0.38,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2015-07-01,0.35,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2015-08-01,0.31,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2015-09-01,0.28,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2015-10-01,0.27,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2015-11-01,0.29,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2015-12-01,0.27,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2016-01-01,0.26,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2016-02-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2016-03-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2016-04-01,0.21,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2016-05-01,0.2,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2016-06-01,0.22,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2016-07-01,0.2,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2016-08-01,0.19,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2016-09-01,0.18,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2016-10-01,0.18,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2016-11-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2016-12-01,0.26,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2017-01-01,0.25,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2017-02-01,0.29,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2017-03-01,0.31,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2017-04-01,0.28,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2017-05-01,0.32,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2017-06-01,0.38,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2017-07-01,0.37,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2017-08-01,0.38,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2017-09-01,0.38,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2017-10-01,0.36,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2017-11-01,0.31,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2017-12-01,0.31,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2018-01-01,0.31,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2018-02-01,0.38,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2018-03-01,0.43,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2018-04-01,0.39,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2018-05-01,0.36,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2018-06-01,0.35,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2018-07-01,0.29,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2018-08-01,0.29,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2018-09-01,0.27,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2018-10-01,0.25,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2018-11-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2018-12-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2019-01-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2019-02-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2019-03-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2019-04-01,0.2,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2019-05-01,0.2,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2019-06-01,0.22,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2019-07-01,0.25,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2019-08-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2019-09-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2019-10-01,0.29,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2019-11-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2019-12-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2020-01-01,0.27,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2020-02-01,0.3,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2020-03-01,0.39,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2020-04-01,0.39,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2020-05-01,0.32,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2020-06-01,0.27,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2020-07-01,0.26,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2020-08-01,0.25,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2020-09-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2020-10-01,0.21,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2020-11-01,0.21,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2020-12-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2021-01-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2021-02-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2021-03-01,0.25,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2021-04-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2021-05-01,0.24,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2021-06-01,0.28,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2021-07-01,0.31,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2021-08-01,0.32,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2021-09-01,0.39,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2021-10-01,0.41,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2021-11-01,0.4,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2021-12-01,0.44,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2022-01-01,0.52,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2022-02-01,0.59,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2022-03-01,0.56,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2022-04-01,0.56,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2022-05-01,0.51,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2022-06-01,0.54,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2022-07-01,0.44,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2022-08-01,0.44,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2022-09-01,0.42,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2022-10-01,0.39,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2022-11-01,0.41,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2022-12-01,0.4,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2023-01-01,0.38,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2023-02-01,0.34,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2023-03-01,0.3,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2023-04-01,0.29,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2023-05-01,0.27,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2023-06-01,0.28,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2023-07-01,0.22,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2023-08-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2023-09-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2023-10-01,0.22,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2023-11-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2023-12-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2024-01-01,0.23,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2024-02-01,0.22,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2024-03-01,0.3,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2024-04-01,0.34,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2024-05-01,0.51,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2024-06-01,0.46,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2024-07-01,0.5,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2024-08-01,0.57,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2024-09-01,0.71,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2024-10-01,0.78,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2024-11-01,0.74,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2024-12-01,0.75,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2025-01-01,0.68,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2025-02-01,0.52,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2025-03-01,0.42,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2025-04-01,0.4,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2025-05-01,0.37,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2025-06-01,0.34,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2025-07-01,0.42,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2025-08-01,0.43,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2025-09-01,0.44,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2025-10-01,0.44,Cassava,Ecuador,Guayaquil,WHOLESALE,Kg
+2011-06-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2011-07-01,0.24,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2011-08-01,0.21,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2011-09-01,0.19,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2011-10-01,0.2,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2011-11-01,0.23,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2011-12-01,0.23,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2012-01-01,0.24,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2012-02-01,0.23,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2012-03-01,0.2,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2012-04-01,0.23,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2012-05-01,0.25,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2012-06-01,0.23,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2012-07-01,0.23,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2012-08-01,0.27,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2012-09-01,0.3,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2012-10-01,0.31,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2012-11-01,0.31,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2012-12-01,0.42,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2013-01-01,0.44,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2013-02-01,0.4,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2013-03-01,0.4,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2013-04-01,0.4,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2013-05-01,0.37,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2013-06-01,0.34,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2013-07-01,0.28,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2013-08-01,0.29,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2013-09-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2013-10-01,0.22,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2013-11-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2013-12-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2014-01-01,0.31,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2014-02-01,0.29,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2014-03-01,0.27,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2014-04-01,0.27,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2014-05-01,0.28,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2014-06-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2014-07-01,0.25,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2014-08-01,0.25,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2014-09-01,0.25,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2014-10-01,0.29,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2014-11-01,0.28,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2014-12-01,0.28,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2015-01-01,0.39,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2015-02-01,0.37,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2015-03-01,0.4,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2015-04-01,,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2015-05-01,0.41,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2015-06-01,0.41,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2015-07-01,0.37,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2015-08-01,0.35,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2015-09-01,0.33,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2015-10-01,0.31,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2015-11-01,0.33,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2015-12-01,0.31,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2016-01-01,0.27,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2016-02-01,0.24,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2016-03-01,0.23,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2016-04-01,0.21,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2016-05-01,0.22,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2016-06-01,0.21,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2016-07-01,0.21,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2016-08-01,0.21,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2016-09-01,0.23,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2016-10-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2016-11-01,0.25,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2016-12-01,0.38,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2017-01-01,0.36,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2017-02-01,0.35,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2017-03-01,0.35,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2017-04-01,0.37,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2017-05-01,0.44,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2017-06-01,0.46,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2017-07-01,0.39,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2017-08-01,0.38,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2017-09-01,0.38,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2017-10-01,0.37,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2017-11-01,0.36,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2017-12-01,0.4,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2018-01-01,0.46,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2018-02-01,0.44,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2018-03-01,0.39,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2018-04-01,0.33,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2018-05-01,0.28,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2018-06-01,0.27,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2018-07-01,0.28,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2018-08-01,0.24,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2018-09-01,0.27,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2018-10-01,0.25,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2018-11-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2018-12-01,0.27,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2019-01-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2019-02-01,0.24,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2019-03-01,0.23,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2019-04-01,0.23,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2019-05-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2019-06-01,0.23,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2019-07-01,0.22,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2019-08-01,0.27,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2019-09-01,0.29,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2019-10-01,0.35,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2019-11-01,0.27,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2019-12-01,0.29,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2020-01-01,0.36,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2020-02-01,0.37,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2020-03-01,0.41,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2020-04-01,0.42,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2020-05-01,0.32,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2020-06-01,0.23,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2020-07-01,0.22,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2020-08-01,0.2,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2020-09-01,0.2,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2020-10-01,0.22,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2020-11-01,0.24,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2020-12-01,0.25,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2021-01-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2021-02-01,0.25,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2021-03-01,0.25,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2021-04-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2021-05-01,0.24,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2021-06-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2021-07-01,0.3,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2021-08-01,0.34,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2021-09-01,0.37,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2021-10-01,0.42,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2021-11-01,0.42,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2021-12-01,0.49,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2022-01-01,0.6,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2022-02-01,0.53,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2022-03-01,0.59,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2022-04-01,0.58,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2022-05-01,0.52,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2022-06-01,0.62,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2022-07-01,0.46,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2022-08-01,0.46,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2022-09-01,0.46,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2022-10-01,0.47,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2022-11-01,0.5,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2022-12-01,0.49,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2023-01-01,0.47,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2023-02-01,0.45,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2023-03-01,0.38,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2023-04-01,0.32,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2023-05-01,0.28,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2023-06-01,0.25,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2023-07-01,0.27,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2023-08-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2023-09-01,0.24,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2023-10-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2023-11-01,0.25,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2023-12-01,0.26,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2024-01-01,0.31,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2024-02-01,0.37,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2024-03-01,0.44,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2024-04-01,0.52,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2024-05-01,0.59,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2024-06-01,0.62,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2024-07-01,0.67,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2024-08-01,0.78,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2024-09-01,0.7,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2024-10-01,0.67,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2024-11-01,0.65,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2024-12-01,0.78,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2025-01-01,0.61,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2025-02-01,0.45,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2025-03-01,0.44,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2025-04-01,0.43,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2025-05-01,0.44,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2025-06-01,0.46,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2025-07-01,0.48,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2025-08-01,0.51,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2025-09-01,0.61,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2025-10-01,0.59,Cassava,Ecuador,Quito,WHOLESALE,Kg
+2013-01-01,77.44,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2013-02-01,81.52,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2013-03-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2013-04-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2013-05-01,82.53,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2013-06-01,107.41,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2013-07-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2013-08-01,53.19,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2013-09-01,73.7,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2013-10-01,121.21,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2013-11-01,109.43,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2013-12-01,89.7,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2014-01-01,100.48,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2014-02-01,447.69,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2014-03-01,74.84,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2014-04-01,65.61,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2014-05-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2014-06-01,71.5,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2014-07-01,107.14,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2014-08-01,135.7,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2014-09-01,318.89,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2014-10-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2014-11-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2014-12-01,393.6,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2015-01-01,214.36,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2015-02-01,185.91,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2015-03-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2015-04-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2015-05-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2015-06-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2015-07-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2015-08-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2015-09-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2015-10-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2015-11-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2015-12-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2016-01-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2016-02-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2016-03-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2016-04-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2016-05-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2016-06-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2016-07-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2016-08-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2016-09-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2016-10-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2016-11-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2016-12-01,69.07,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2017-01-01,68.85,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2017-02-01,145.32,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2017-03-01,177.08,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2017-04-01,205.32,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2017-05-01,243.99,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2017-06-01,117.08,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2017-07-01,204.84,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2017-08-01,264.41,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2017-09-01,279.91,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2017-10-01,212.38,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2017-11-01,250.72,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2017-12-01,265.33,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2018-01-01,204.24,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2018-02-01,237.71,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2018-03-01,256.18,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2018-04-01,268.29,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2018-05-01,312.87,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2018-06-01,454.81,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2018-07-01,476.46,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2018-08-01,456.59,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2018-09-01,454.57,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2018-10-01,343.7,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2018-11-01,285.95,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2018-12-01,284.7,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2019-01-01,284.45,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2019-02-01,316.73,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2019-03-01,313.08,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2019-04-01,367.9,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2019-05-01,422.12,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2019-06-01,407.85,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2019-07-01,449.1,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2019-08-01,438.61,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2019-09-01,448.84,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2019-10-01,440.91,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2019-11-01,436.34,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2019-12-01,432.48,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2020-01-01,431.84,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2020-02-01,430.73,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2020-03-01,512.14,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2020-04-01,514.74,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2020-05-01,465.11,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2020-06-01,466.52,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2020-07-01,465.28,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2020-08-01,463.61,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2020-09-01,461.91,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2020-10-01,319.91,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2020-11-01,317.01,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2020-12-01,315.21,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2021-01-01,312.42,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2021-02-01,311.8,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2021-03-01,311.63,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2021-04-01,311.21,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2021-05-01,310.79,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2021-06-01,310.4,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2021-07-01,449.63,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2021-08-01,447.75,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2021-09-01,440.51,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2021-10-01,324.07,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2021-11-01,314.82,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2021-12-01,308.43,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2022-01-01,293.59,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2022-02-01,288.8,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2022-03-01,354.82,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2022-04-01,340.44,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2022-05-01,370.83,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2022-06-01,362.95,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2022-07-01,346.81,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2022-08-01,340.62,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2022-09-01,322.93,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2022-10-01,249.94,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2022-11-01,232.03,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2022-12-01,223.47,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2023-01-01,217.39,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2023-02-01,252.46,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2023-03-01,202.35,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2023-04-01,191.59,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2023-05-01,183.61,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2023-06-01,397.09,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2023-07-01,376.82,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2023-08-01,354.44,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2023-09-01,249.81,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2023-10-01,246.82,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2023-11-01,250.16,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2023-12-01,200.04,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2024-01-01,293.77,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2024-02-01,368.41,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2024-03-01,,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2024-04-01,368.04,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2024-05-01,184.21,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2024-06-01,370.61,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2024-07-01,510.45,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2024-08-01,617.54,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2024-09-01,492.42,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2024-10-01,491.94,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2024-11-01,598.51,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2024-12-01,551.51,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2025-01-01,245.71,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2025-02-01,245.05,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2025-03-01,280.64,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2025-04-01,245.3,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2025-05-01,450.45,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2025-06-01,450.26,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2025-07-01,450.91,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2025-08-01,446.7,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2025-09-01,445.89,Cassava,Sierra Leone,Bo,RETAIL,Kg
+2013-01-01,77.44,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2013-02-01,81.52,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2013-03-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2013-04-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2013-05-01,82.53,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2013-06-01,107.41,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2013-07-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2013-08-01,53.19,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2013-09-01,73.7,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2013-10-01,121.21,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2013-11-01,109.43,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2013-12-01,89.7,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2014-01-01,100.48,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2014-02-01,447.69,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2014-03-01,74.84,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2014-04-01,65.61,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2014-05-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2014-06-01,71.5,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2014-07-01,107.14,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2014-08-01,135.7,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2014-09-01,318.89,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2014-10-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2014-11-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2014-12-01,393.6,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2015-01-01,214.36,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2015-02-01,185.91,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2015-03-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2015-04-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2015-05-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2015-06-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2015-07-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2015-08-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2015-09-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2015-10-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2015-11-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2015-12-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2016-01-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2016-02-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2016-03-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2016-04-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2016-05-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2016-06-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2016-07-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2016-08-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2016-09-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2016-10-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2016-11-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2016-12-01,69.07,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2017-01-01,68.85,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2017-02-01,145.32,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2017-03-01,177.08,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2017-04-01,205.32,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2017-05-01,243.99,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2017-06-01,117.08,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2017-07-01,204.84,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2017-08-01,264.41,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2017-09-01,279.91,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2017-10-01,212.38,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2017-11-01,250.72,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2017-12-01,265.33,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2018-01-01,204.24,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2018-02-01,237.71,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2018-03-01,256.18,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2018-04-01,268.29,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2018-05-01,312.87,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2018-06-01,454.81,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2018-07-01,476.46,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2018-08-01,456.59,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2018-09-01,454.57,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2018-10-01,343.7,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2018-11-01,285.95,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2018-12-01,284.7,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2019-01-01,284.45,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2019-02-01,316.73,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2019-03-01,313.08,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2019-04-01,367.9,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2019-05-01,422.12,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2019-06-01,407.85,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2019-07-01,449.1,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2019-08-01,438.61,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2019-09-01,448.84,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2019-10-01,440.91,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2019-11-01,436.34,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2019-12-01,432.48,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2020-01-01,431.84,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2020-02-01,430.73,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2020-03-01,512.14,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2020-04-01,514.74,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2020-05-01,465.11,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2020-06-01,466.52,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2020-07-01,465.28,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2020-08-01,463.61,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2020-09-01,461.91,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2020-10-01,319.91,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2020-11-01,317.01,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2020-12-01,315.21,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2021-01-01,312.42,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2021-02-01,311.8,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2021-03-01,311.63,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2021-04-01,311.21,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2021-05-01,310.79,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2021-06-01,310.4,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2021-07-01,449.63,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2021-08-01,447.75,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2021-09-01,440.51,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2021-10-01,324.07,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2021-11-01,314.82,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2021-12-01,308.43,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2022-01-01,338.78,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2022-02-01,333.25,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2022-03-01,327.49,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2022-04-01,389.05,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2022-05-01,370.83,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2022-06-01,362.95,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2022-07-01,346.81,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2022-08-01,340.62,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2022-09-01,322.93,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2022-10-01,272.61,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2022-11-01,253.08,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2022-12-01,285.28,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2023-01-01,260.85,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2023-02-01,252.46,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2023-03-01,323.76,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2023-04-01,306.54,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2023-05-01,293.76,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2023-06-01,366.55,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2023-07-01,379.68,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2023-08-01,357.13,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2023-09-01,345.85,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2023-10-01,341.73,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2023-11-01,346.36,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2023-12-01,333.45,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2024-01-01,489.59,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2024-02-01,491.21,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2024-03-01,,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2024-04-01,519.58,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2024-05-01,526.33,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2024-06-01,523.22,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2024-07-01,608.38,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2024-08-01,585.04,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2024-09-01,443.18,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2024-10-01,402.5,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2024-11-01,553.62,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2024-12-01,441.21,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2025-01-01,491.38,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2025-02-01,484.72,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2025-03-01,441.17,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2025-04-01,441.51,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2025-05-01,479.85,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2025-06-01,441.25,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2025-07-01,480.34,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2025-08-01,442.23,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2025-09-01,441.43,Cassava,Sierra Leone,Freetown,RETAIL,Kg
+2013-01-01,77.44,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2013-02-01,81.52,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2013-03-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2013-04-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2013-05-01,82.53,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2013-06-01,107.41,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2013-07-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2013-08-01,53.19,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2013-09-01,73.7,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2013-10-01,121.21,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2013-11-01,109.43,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2013-12-01,89.7,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2014-01-01,100.48,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2014-02-01,447.69,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2014-03-01,74.84,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2014-04-01,65.61,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2014-05-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2014-06-01,71.5,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2014-07-01,107.14,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2014-08-01,135.7,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2014-09-01,318.89,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2014-10-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2014-11-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2014-12-01,393.6,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2015-01-01,214.36,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2015-02-01,185.91,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2015-03-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2015-04-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2015-05-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2015-06-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2015-07-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2015-08-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2015-09-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2015-10-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2015-11-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2015-12-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2016-01-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2016-02-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2016-03-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2016-04-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2016-05-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2016-06-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2016-07-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2016-08-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2016-09-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2016-10-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2016-11-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2016-12-01,69.07,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2017-01-01,68.85,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2017-02-01,145.32,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2017-03-01,177.08,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2017-04-01,205.32,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2017-05-01,243.99,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2017-06-01,117.08,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2017-07-01,204.84,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2017-08-01,264.41,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2017-09-01,279.91,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2017-10-01,212.38,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2017-11-01,250.72,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2017-12-01,265.33,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2018-01-01,204.24,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2018-02-01,237.71,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2018-03-01,256.18,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2018-04-01,268.29,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2018-05-01,312.87,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2018-06-01,454.81,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2018-07-01,476.46,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2018-08-01,456.59,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2018-09-01,454.57,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2018-10-01,343.7,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2018-11-01,285.95,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2018-12-01,284.7,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2019-01-01,284.45,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2019-02-01,316.73,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2019-03-01,313.08,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2019-04-01,367.9,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2019-05-01,422.12,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2019-06-01,407.85,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2019-07-01,449.1,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2019-08-01,438.61,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2019-09-01,448.84,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2019-10-01,440.91,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2019-11-01,436.34,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2019-12-01,432.48,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2020-01-01,431.84,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2020-02-01,430.73,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2020-03-01,512.14,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2020-04-01,514.74,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2020-05-01,465.11,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2020-06-01,466.52,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2020-07-01,465.28,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2020-08-01,463.61,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2020-09-01,461.91,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2020-10-01,319.91,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2020-11-01,317.01,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2020-12-01,315.21,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2021-01-01,312.42,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2021-02-01,311.8,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2021-03-01,311.63,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2021-04-01,311.21,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2021-05-01,310.79,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2021-06-01,310.4,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2021-07-01,449.63,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2021-08-01,447.75,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2021-09-01,440.51,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2021-10-01,324.07,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2021-11-01,314.82,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2021-12-01,308.43,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2022-01-01,320.28,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2022-02-01,315.06,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2022-03-01,387.01,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2022-04-01,340.41,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2022-05-01,324.49,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2022-06-01,317.6,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2022-07-01,303.46,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2022-08-01,298.05,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2022-09-01,395.59,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2022-10-01,249.94,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2022-11-01,232.03,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2022-12-01,223.47,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2023-01-01,217.39,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2023-02-01,210.4,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2023-03-01,202.35,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2023-04-01,191.59,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2023-05-01,183.61,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2023-06-01,397.09,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2023-07-01,379.68,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2023-08-01,201.87,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2023-09-01,224.81,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2023-10-01,233.82,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2023-11-01,398.49,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2023-12-01,386.09,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2024-01-01,423.67,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2024-02-01,368.41,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2024-03-01,,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2024-04-01,401.5,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2024-05-01,496.76,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2024-06-01,439.89,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2024-07-01,453.16,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2024-08-01,440.22,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2024-09-01,452.22,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2024-10-01,438.36,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2024-11-01,438.51,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2024-12-01,474.42,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2025-01-01,475.55,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2025-02-01,469.25,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2025-03-01,445.63,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2025-04-01,414.93,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2025-05-01,424.45,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2025-06-01,232.23,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2025-07-01,424.88,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2025-08-01,289.04,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2025-09-01,288.52,Cassava,Sierra Leone,Kailahun,RETAIL,Kg
+2013-01-01,77.44,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2013-02-01,81.52,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2013-03-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2013-04-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2013-05-01,82.53,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2013-06-01,107.41,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2013-07-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2013-08-01,53.19,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2013-09-01,73.7,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2013-10-01,121.21,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2013-11-01,109.43,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2013-12-01,89.7,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2014-01-01,100.48,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2014-02-01,447.69,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2014-03-01,74.84,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2014-04-01,65.61,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2014-05-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2014-06-01,71.5,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2014-07-01,107.14,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2014-08-01,135.7,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2014-09-01,318.89,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2014-10-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2014-11-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2014-12-01,393.6,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2015-01-01,214.36,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2015-02-01,185.91,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2015-03-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2015-04-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2015-05-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2015-06-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2015-07-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2015-08-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2015-09-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2015-10-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2015-11-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2015-12-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2016-01-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2016-02-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2016-03-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2016-04-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2016-05-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2016-06-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2016-07-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2016-08-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2016-09-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2016-10-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2016-11-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2016-12-01,69.07,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2017-01-01,68.85,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2017-02-01,145.32,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2017-03-01,177.08,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2017-04-01,205.32,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2017-05-01,243.99,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2017-06-01,117.08,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2017-07-01,204.84,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2017-08-01,264.41,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2017-09-01,279.91,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2017-10-01,212.38,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2017-11-01,250.72,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2017-12-01,265.33,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2018-01-01,204.24,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2018-02-01,237.71,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2018-03-01,256.18,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2018-04-01,268.29,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2018-05-01,312.87,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2018-06-01,454.81,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2018-07-01,476.46,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2018-08-01,456.59,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2018-09-01,454.57,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2018-10-01,343.7,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2018-11-01,285.95,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2018-12-01,284.7,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2019-01-01,284.45,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2019-02-01,316.73,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2019-03-01,313.08,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2019-04-01,367.9,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2019-05-01,422.12,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2019-06-01,407.85,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2019-07-01,449.1,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2019-08-01,438.61,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2019-09-01,448.84,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2019-10-01,440.91,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2019-11-01,436.34,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2019-12-01,432.48,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2020-01-01,431.84,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2020-02-01,430.73,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2020-03-01,512.14,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2020-04-01,514.74,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2020-05-01,465.11,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2020-06-01,466.52,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2020-07-01,465.28,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2020-08-01,463.61,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2020-09-01,461.91,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2020-10-01,319.91,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2020-11-01,317.01,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2020-12-01,315.21,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2021-01-01,312.42,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2021-02-01,311.8,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2021-03-01,311.63,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2021-04-01,311.21,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2021-05-01,310.79,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2021-06-01,310.4,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2021-07-01,449.63,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2021-08-01,447.75,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2021-09-01,440.51,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2021-10-01,324.07,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2021-11-01,314.82,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2021-12-01,308.43,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2022-01-01,304.96,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2022-02-01,299.98,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2022-03-01,327.49,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2022-04-01,314.22,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2022-05-01,299.49,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2022-06-01,293.13,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2022-07-01,280.11,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2022-08-01,275.12,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2022-09-01,312.99,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2022-10-01,249.94,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2022-11-01,232.03,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2022-12-01,223.47,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2023-01-01,217.39,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2023-02-01,210.4,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2023-03-01,202.35,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2023-04-01,191.59,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2023-05-01,143.07,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2023-06-01,317.7,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2023-07-01,329.09,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2023-08-01,185.71,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2023-09-01,204.36,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2023-10-01,211.56,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2023-11-01,214.42,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2023-12-01,183.41,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2024-01-01,250.37,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2024-02-01,179.13,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2024-03-01,,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2024-04-01,368.04,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2024-05-01,179.72,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2024-06-01,202.15,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2024-07-01,179.06,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2024-08-01,331.82,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2024-09-01,330.73,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2024-10-01,153.73,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2024-11-01,153.78,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2024-12-01,165.87,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2025-01-01,240.36,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2025-02-01,239.72,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2025-03-01,168.39,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2025-04-01,155.37,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2025-05-01,310.86,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2025-06-01,155.37,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2025-07-01,311.18,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2025-08-01,144.52,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2025-09-01,144.26,Cassava,Sierra Leone,Kenema,RETAIL,Kg
+2013-01-01,77.44,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2013-02-01,81.52,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2013-03-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2013-04-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2013-05-01,82.53,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2013-06-01,107.41,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2013-07-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2013-08-01,53.19,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2013-09-01,73.7,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2013-10-01,121.21,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2013-11-01,109.43,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2013-12-01,89.7,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2014-01-01,100.48,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2014-02-01,447.69,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2014-03-01,74.84,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2014-04-01,65.61,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2014-05-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2014-06-01,71.5,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2014-07-01,107.14,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2014-08-01,135.7,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2014-09-01,318.89,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2014-10-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2014-11-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2014-12-01,393.6,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2015-01-01,214.36,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2015-02-01,185.91,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2015-03-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2015-04-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2015-05-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2015-06-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2015-07-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2015-08-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2015-09-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2015-10-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2015-11-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2015-12-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2016-01-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2016-02-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2016-03-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2016-04-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2016-05-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2016-06-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2016-07-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2016-08-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2016-09-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2016-10-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2016-11-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2016-12-01,69.07,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2017-01-01,68.85,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2017-02-01,145.32,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2017-03-01,177.08,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2017-04-01,205.32,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2017-05-01,243.99,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2017-06-01,117.08,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2017-07-01,204.84,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2017-08-01,264.41,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2017-09-01,279.91,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2017-10-01,212.38,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2017-11-01,250.72,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2017-12-01,265.33,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2018-01-01,204.24,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2018-02-01,237.71,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2018-03-01,256.18,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2018-04-01,268.29,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2018-05-01,312.87,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2018-06-01,454.81,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2018-07-01,476.46,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2018-08-01,456.59,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2018-09-01,454.57,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2018-10-01,343.7,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2018-11-01,285.95,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2018-12-01,284.7,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2019-01-01,284.45,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2019-02-01,316.73,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2019-03-01,313.08,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2019-04-01,367.9,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2019-05-01,422.12,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2019-06-01,407.85,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2019-07-01,449.1,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2019-08-01,438.61,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2019-09-01,448.84,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2019-10-01,440.91,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2019-11-01,436.34,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2019-12-01,432.48,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2020-01-01,431.84,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2020-02-01,430.73,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2020-03-01,512.14,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2020-04-01,514.74,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2020-05-01,465.11,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2020-06-01,466.52,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2020-07-01,465.28,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2020-08-01,463.61,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2020-09-01,461.91,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2020-10-01,319.91,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2020-11-01,317.01,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2020-12-01,315.21,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2021-01-01,312.42,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2021-02-01,311.8,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2021-03-01,311.63,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2021-04-01,311.21,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2021-05-01,310.79,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2021-06-01,310.4,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2021-07-01,449.63,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2021-08-01,447.75,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2021-09-01,440.51,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2021-10-01,324.07,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2021-11-01,314.82,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2021-12-01,308.43,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2022-01-01,400.35,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2022-02-01,393.82,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2022-03-01,387.01,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2022-04-01,371.33,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2022-05-01,353.93,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2022-06-01,346.41,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2022-07-01,331.04,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2022-08-01,325.14,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2022-09-01,431.55,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2022-10-01,272.61,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2022-11-01,253.08,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2022-12-01,243.78,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2023-01-01,2173.79,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2023-02-01,2103.87,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2023-03-01,202.35,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2023-04-01,191.59,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2023-05-01,342.63,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2023-06-01,366.55,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2023-07-01,379.68,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2023-08-01,357.13,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2023-09-01,249.81,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2023-10-01,170.87,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2023-11-01,174.53,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2023-12-01,180.37,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2024-01-01,305.98,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2024-02-01,307.0,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2024-03-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2024-04-01,315.46,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2024-05-01,319.91,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2024-06-01,453.81,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2024-07-01,284.67,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2024-08-01,292.52,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2024-09-01,,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2024-10-01,320.83,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2024-11-01,340.69,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2024-12-01,315.15,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2025-01-01,356.67,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2025-02-01,565.5,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2025-03-01,324.39,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2025-04-01,369.15,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2025-05-01,344.9,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2025-06-01,309.01,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2025-07-01,345.25,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2025-08-01,298.81,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg
+2025-09-01,298.27,Cassava,Sierra Leone,Koinadugu,RETAIL,Kg

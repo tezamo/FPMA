@@ -1,0 +1,504 @@
+date,price_usd,commodity_name,country,market,price_type,unit,unit_std,price_per_unit
+2015-12-01,3.35,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.67
+2016-01-01,3.35,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.67
+2016-02-01,3.47,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.6940000000000001
+2016-03-01,3.74,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.748
+2016-04-01,3.95,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.79
+2016-05-01,3.94,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.788
+2016-06-01,4.14,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.828
+2016-07-01,4.28,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8560000000000001
+2016-08-01,4.39,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8779999999999999
+2016-09-01,4.33,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.866
+2016-10-01,4.42,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.884
+2016-11-01,4.23,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8460000000000001
+2016-12-01,4.23,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8460000000000001
+2017-01-01,4.42,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.884
+2017-02-01,4.55,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.9099999999999999
+2017-03-01,4.53,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.906
+2017-04-01,4.51,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.9019999999999999
+2017-05-01,4.41,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.882
+2017-06-01,4.3,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.86
+2017-07-01,4.0,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8
+2017-08-01,4.45,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.89
+2017-09-01,4.13,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.826
+2017-10-01,3.87,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.774
+2017-11-01,3.55,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.71
+2017-12-01,3.19,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.638
+2018-01-01,3.16,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.632
+2018-02-01,3.08,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.616
+2018-03-01,3.32,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.6639999999999999
+2018-04-01,3.22,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.644
+2018-05-01,3.21,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.642
+2018-06-01,3.68,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.736
+2018-07-01,3.57,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.714
+2018-08-01,3.22,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.644
+2018-09-01,3.22,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.644
+2018-10-01,3.44,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.688
+2018-11-01,3.51,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.702
+2018-12-01,3.18,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.636
+2019-01-01,3.37,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.674
+2019-02-01,3.34,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.6679999999999999
+2019-03-01,3.39,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.678
+2019-04-01,3.54,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.708
+2019-05-01,2.97,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.5940000000000001
+2019-06-01,3.12,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.624
+2019-07-01,3.24,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.648
+2019-08-01,3.26,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.6519999999999999
+2019-09-01,2.65,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.53
+2019-10-01,3.08,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.616
+2019-11-01,3.08,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.616
+2019-12-01,3.11,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.622
+2020-01-01,3.21,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.642
+2020-02-01,2.91,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.5820000000000001
+2020-03-01,2.55,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.51
+2020-04-01,2.79,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.558
+2020-05-01,2.76,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.5519999999999999
+2020-06-01,3.11,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.622
+2020-07-01,3.05,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.61
+2020-08-01,2.97,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.5940000000000001
+2020-09-01,3.77,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.754
+2020-10-01,4.01,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8019999999999999
+2020-11-01,4.31,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8619999999999999
+2020-12-01,4.57,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.914
+2021-01-01,4.08,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8160000000000001
+2021-02-01,3.64,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.728
+2021-03-01,3.89,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.778
+2021-04-01,3.61,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.722
+2021-05-01,3.83,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.766
+2021-06-01,3.6,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.72
+2021-07-01,3.52,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.704
+2021-08-01,3.89,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.778
+2021-09-01,4.09,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.818
+2021-10-01,3.7,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.74
+2021-11-01,3.25,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.65
+2021-12-01,3.26,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.6519999999999999
+2022-01-01,3.21,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.642
+2022-02-01,3.34,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.6679999999999999
+2022-03-01,3.47,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.6940000000000001
+2022-04-01,4.02,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8039999999999999
+2022-05-01,3.86,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.772
+2022-06-01,3.34,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.6679999999999999
+2022-07-01,3.17,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.634
+2022-08-01,3.38,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.6759999999999999
+2022-09-01,3.2,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.64
+2022-10-01,3.42,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.6839999999999999
+2022-11-01,3.32,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.6639999999999999
+2022-12-01,3.41,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.682
+2023-01-01,3.65,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.73
+2023-02-01,3.72,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.744
+2023-03-01,4.0,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8
+2023-04-01,3.6,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.72
+2023-05-01,4.05,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8099999999999999
+2023-06-01,4.15,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8300000000000001
+2023-07-01,3.8,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.76
+2023-08-01,3.97,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.794
+2023-09-01,4.33,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.866
+2023-10-01,4.52,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.9039999999999999
+2023-11-01,4.59,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.9179999999999999
+2023-12-01,5.24,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,1.048
+2024-01-01,5.43,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,1.0859999999999999
+2024-02-01,5.72,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,1.144
+2024-03-01,5.43,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,1.0859999999999999
+2024-04-01,4.97,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.994
+2024-05-01,5.44,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,1.088
+2024-06-01,5.22,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,1.044
+2024-07-01,4.83,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.966
+2024-08-01,4.89,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.978
+2024-09-01,4.86,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.9720000000000001
+2024-10-01,4.96,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.992
+2024-11-01,5.11,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,1.022
+2024-12-01,4.74,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.9480000000000001
+2025-01-01,4.64,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.9279999999999999
+2025-02-01,4.21,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.842
+2025-03-01,4.12,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8240000000000001
+2025-04-01,4.74,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.9480000000000001
+2025-05-01,4.69,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.9380000000000001
+2025-06-01,3.93,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.786
+2025-07-01,3.63,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.726
+2025-08-01,4.01,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8019999999999999
+2025-09-01,3.86,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.772
+2025-10-01,4.07,"Rice (milled, fine long-grain, type 1)",Brazil,Federal District,WHOLESALE,5 kg,kg,0.8140000000000001
+2015-10-01,15.96,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.532
+2015-11-01,18.33,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.611
+2015-12-01,17.51,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5836666666666667
+2016-01-01,16.25,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5416666666666666
+2016-02-01,16.96,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5653333333333334
+2016-03-01,17.94,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5980000000000001
+2016-04-01,19.16,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6386666666666667
+2016-05-01,17.65,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5883333333333333
+2016-06-01,18.67,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6223333333333334
+2016-07-01,23.35,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.7783333333333334
+2016-08-01,25.44,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8480000000000001
+2016-09-01,26.73,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.891
+2016-10-01,25.53,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8510000000000001
+2016-11-01,23.8,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.7933333333333333
+2016-12-01,23.14,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.7713333333333333
+2017-01-01,24.23,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8076666666666666
+2017-02-01,24.08,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8026666666666666
+2017-03-01,22.74,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.7579999999999999
+2017-04-01,21.3,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.7100000000000001
+2017-05-01,21.23,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.7076666666666667
+2017-06-01,20.33,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6776666666666666
+2017-07-01,22.08,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.736
+2017-08-01,20.76,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6920000000000001
+2017-09-01,21.05,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.7016666666666667
+2017-10-01,21.32,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.7106666666666667
+2017-11-01,20.55,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.685
+2017-12-01,19.6,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6533333333333334
+2018-01-01,19.98,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.666
+2018-02-01,23.04,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.768
+2018-03-01,20.65,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6883333333333332
+2018-04-01,19.02,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.634
+2018-05-01,17.65,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5883333333333333
+2018-06-01,16.58,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5526666666666666
+2018-07-01,16.96,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5653333333333334
+2018-08-01,17.86,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5953333333333333
+2018-09-01,17.02,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5673333333333334
+2018-10-01,19.49,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6496666666666666
+2018-11-01,19.55,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6516666666666667
+2018-12-01,19.07,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6356666666666667
+2019-01-01,18.86,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6286666666666666
+2019-02-01,19.61,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6536666666666666
+2019-03-01,18.95,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6316666666666666
+2019-04-01,17.83,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5943333333333333
+2019-05-01,17.84,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5946666666666667
+2019-06-01,18.86,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6286666666666666
+2019-07-01,19.79,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6596666666666666
+2019-08-01,18.64,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6213333333333334
+2019-09-01,17.8,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5933333333333334
+2019-10-01,18.26,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6086666666666667
+2019-11-01,18.2,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6066666666666667
+2019-12-01,18.57,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.619
+2020-01-01,17.18,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5726666666666667
+2020-02-01,17.22,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.574
+2020-03-01,14.56,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.48533333333333334
+2020-04-01,15.01,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5003333333333333
+2020-05-01,15.14,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5046666666666667
+2020-06-01,17.09,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.5696666666666667
+2020-07-01,17.31,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.577
+2020-08-01,19.29,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.643
+2020-09-01,27.42,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.914
+2020-10-01,26.68,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8893333333333333
+2020-11-01,26.68,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8893333333333333
+2020-12-01,27.29,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.9096666666666666
+2021-01-01,27.85,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.9283333333333333
+2021-02-01,27.51,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.917
+2021-03-01,29.38,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.9793333333333333
+2021-04-01,27.49,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.9163333333333333
+2021-05-01,26.57,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8856666666666667
+2021-06-01,27.93,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.9309999999999999
+2021-07-01,25.8,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.86
+2021-08-01,25.96,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8653333333333334
+2021-09-01,26.25,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.875
+2021-10-01,25.45,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8483333333333333
+2021-11-01,23.52,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.784
+2021-12-01,21.14,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.7046666666666667
+2022-01-01,20.96,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.6986666666666667
+2022-02-01,24.86,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8286666666666667
+2022-03-01,25.74,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.858
+2022-04-01,28.18,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.9393333333333334
+2022-05-01,25.22,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8406666666666667
+2022-06-01,24.56,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8186666666666667
+2022-07-01,22.7,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.7566666666666666
+2022-08-01,24.16,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8053333333333333
+2022-09-01,23.84,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.7946666666666666
+2022-10-01,24.09,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.803
+2022-11-01,22.56,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.752
+2022-12-01,26.69,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8896666666666667
+2023-01-01,29.17,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.9723333333333334
+2023-02-01,26.83,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8943333333333333
+2023-03-01,27.19,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.9063333333333333
+2023-04-01,29.61,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.987
+2023-05-01,33.74,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.1246666666666667
+2023-06-01,32.33,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.0776666666666666
+2023-07-01,27.33,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.9109999999999999
+2023-08-01,26.8,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8933333333333333
+2023-09-01,25.66,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8553333333333334
+2023-10-01,23.83,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.7943333333333332
+2023-11-01,26.44,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.8813333333333334
+2023-12-01,30.42,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.014
+2024-01-01,31.95,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.065
+2024-02-01,32.79,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.093
+2024-03-01,31.13,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.0376666666666667
+2024-04-01,29.33,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.9776666666666666
+2024-05-01,32.3,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.0766666666666667
+2024-06-01,32.95,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.0983333333333334
+2024-07-01,35.47,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.1823333333333332
+2024-08-01,35.67,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.189
+2024-09-01,35.71,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.1903333333333335
+2024-10-01,36.51,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.2169999999999999
+2024-11-01,35.71,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.1903333333333335
+2024-12-01,33.68,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.1226666666666667
+2025-01-01,32.74,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.0913333333333335
+2025-02-01,28.59,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.953
+2025-03-01,31.45,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.0483333333333333
+2025-04-01,30.7,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.0233333333333332
+2025-05-01,30.87,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.0290000000000001
+2025-06-01,30.67,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.0223333333333333
+2025-07-01,29.84,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,0.9946666666666667
+2025-08-01,31.16,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.0386666666666666
+2025-09-01,31.7,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.0566666666666666
+2025-10-01,31.2,"Rice (milled, fine long-grain, type 1)",Brazil,Paraná,WHOLESALE,30 kg,kg,1.04
+2015-10-01,13.87,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.4623333333333333
+2015-11-01,14.73,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.491
+2015-12-01,16.11,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.537
+2016-01-01,17.44,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.5813333333333334
+2016-02-01,17.32,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.5773333333333334
+2016-03-01,19.32,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.644
+2016-04-01,19.64,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6546666666666667
+2016-05-01,19.72,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6573333333333333
+2016-06-01,20.29,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6763333333333333
+2016-07-01,21.84,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.728
+2016-08-01,25.05,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8350000000000001
+2016-09-01,25.05,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8350000000000001
+2016-10-01,24.42,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8140000000000001
+2016-11-01,24.36,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8119999999999999
+2016-12-01,23.91,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.797
+2017-01-01,25.65,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.855
+2017-02-01,26.44,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8813333333333334
+2017-03-01,26.04,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.868
+2017-04-01,26.76,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.892
+2017-05-01,24.84,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.828
+2017-06-01,22.52,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.7506666666666667
+2017-07-01,24.25,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8083333333333333
+2017-08-01,22.06,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.7353333333333333
+2017-09-01,22.09,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.7363333333333333
+2017-10-01,21.46,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.7153333333333334
+2017-11-01,20.45,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6816666666666666
+2017-12-01,20.33,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6776666666666666
+2018-01-01,20.37,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.679
+2018-02-01,19.64,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6546666666666667
+2018-03-01,19.87,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6623333333333333
+2018-04-01,19.36,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6453333333333333
+2018-05-01,17.38,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.5793333333333333
+2018-06-01,16.21,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.5403333333333333
+2018-07-01,18.25,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6083333333333333
+2018-08-01,18.45,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.615
+2018-09-01,17.47,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.5823333333333333
+2018-10-01,19.32,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.644
+2018-11-01,19.98,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.666
+2018-12-01,19.07,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6356666666666667
+2019-01-01,20.28,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.676
+2019-02-01,20.62,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6873333333333334
+2019-03-01,19.06,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6353333333333333
+2019-04-01,17.94,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.5980000000000001
+2019-05-01,18.27,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.609
+2019-06-01,20.37,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.679
+2019-07-01,20.15,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6716666666666666
+2019-08-01,17.31,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.577
+2019-09-01,18.46,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6153333333333334
+2019-10-01,19.07,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6356666666666667
+2019-11-01,18.28,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6093333333333334
+2019-12-01,18.18,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.606
+2020-01-01,18.36,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.612
+2020-02-01,17.28,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.5760000000000001
+2020-03-01,16.57,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.5523333333333333
+2020-04-01,16.35,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.545
+2020-05-01,16.02,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.534
+2020-06-01,18.17,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6056666666666667
+2020-07-01,18.64,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6213333333333334
+2020-08-01,18.08,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6026666666666666
+2020-09-01,23.01,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.767
+2020-10-01,25.2,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.84
+2020-11-01,26.18,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8726666666666667
+2020-12-01,29.68,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.9893333333333333
+2021-01-01,28.1,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.9366666666666668
+2021-02-01,28.38,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.946
+2021-03-01,27.59,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.9196666666666666
+2021-04-01,27.02,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.9006666666666666
+2021-05-01,27.56,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.9186666666666666
+2021-06-01,26.79,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.893
+2021-07-01,24.98,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8326666666666667
+2021-08-01,24.41,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8136666666666666
+2021-09-01,24.53,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8176666666666667
+2021-10-01,23.37,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.779
+2021-11-01,21.37,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.7123333333333334
+2021-12-01,20.82,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6940000000000001
+2022-01-01,21.03,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.7010000000000001
+2022-02-01,20.9,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.6966666666666667
+2022-03-01,23.73,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.791
+2022-04-01,25.53,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8510000000000001
+2022-05-01,24.4,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8133333333333332
+2022-06-01,23.84,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.7946666666666666
+2022-07-01,22.11,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.737
+2022-08-01,23.23,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.7743333333333333
+2022-09-01,23.16,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.772
+2022-10-01,21.25,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.7083333333333334
+2022-11-01,21.09,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.703
+2022-12-01,23.35,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.7783333333333334
+2023-01-01,23.77,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.7923333333333333
+2023-02-01,23.4,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.7799999999999999
+2023-03-01,25.17,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8390000000000001
+2023-04-01,25.04,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8346666666666667
+2023-05-01,25.89,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.863
+2023-06-01,26.11,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8703333333333333
+2023-07-01,27.04,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.9013333333333333
+2023-08-01,31.36,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.0453333333333332
+2023-09-01,32.95,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.0983333333333334
+2023-10-01,30.68,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.0226666666666666
+2023-11-01,31.3,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.0433333333333334
+2023-12-01,34.77,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.159
+2024-01-01,35.93,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.1976666666666667
+2024-02-01,36.99,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.233
+2024-03-01,37.23,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.2409999999999999
+2024-04-01,36.44,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.2146666666666666
+2024-05-01,36.46,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.2153333333333334
+2024-06-01,36.4,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.2133333333333334
+2024-07-01,34.68,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.156
+2024-08-01,34.56,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.1520000000000001
+2024-09-01,35.35,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.1783333333333335
+2024-10-01,34.73,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.1576666666666666
+2024-11-01,32.59,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.0863333333333334
+2024-12-01,30.96,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.032
+2025-01-01,31.15,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.0383333333333333
+2025-02-01,30.49,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,1.0163333333333333
+2025-03-01,28.59,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.953
+2025-04-01,28.85,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.9616666666666667
+2025-05-01,28.75,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.9583333333333334
+2025-06-01,27.99,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.9329999999999999
+2025-07-01,26.48,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8826666666666667
+2025-08-01,26.23,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8743333333333333
+2025-09-01,26.49,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.8829999999999999
+2025-10-01,27.13,"Rice (milled, fine long-grain, type 1)",Brazil,Rio Grande do Sul,WHOLESALE,30 kg,kg,0.9043333333333333
+2014-01-01,22.42,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7473333333333334
+2014-02-01,,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,
+2014-03-01,,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,
+2014-04-01,26.32,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8773333333333333
+2014-05-01,26.56,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8853333333333333
+2014-06-01,,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,
+2014-07-01,,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,
+2014-08-01,25.96,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8653333333333334
+2014-09-01,24.91,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8303333333333334
+2014-10-01,24.73,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8243333333333334
+2014-11-01,,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,
+2014-12-01,23.56,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7853333333333333
+2015-01-01,24.02,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8006666666666666
+2015-02-01,21.85,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7283333333333334
+2015-03-01,20.12,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6706666666666667
+2015-04-01,20.04,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6679999999999999
+2015-05-01,20.1,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.67
+2015-06-01,19.79,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6596666666666666
+2015-07-01,18.44,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6146666666666667
+2015-08-01,16.93,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.5643333333333334
+2015-09-01,15.76,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.5253333333333333
+2015-10-01,16.36,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.5453333333333333
+2015-11-01,16.44,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.548
+2015-12-01,17.08,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.5693333333333332
+2016-01-01,16.49,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.5496666666666666
+2016-02-01,17.27,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.5756666666666667
+2016-03-01,18.79,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6263333333333333
+2016-04-01,19.57,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6523333333333333
+2016-05-01,20.24,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6746666666666666
+2016-06-01,21.3,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7100000000000001
+2016-07-01,21.16,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7053333333333334
+2016-08-01,23.25,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.775
+2016-09-01,23.68,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7893333333333333
+2016-10-01,24.32,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8106666666666666
+2016-11-01,,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,
+2016-12-01,,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,
+2017-01-01,,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,
+2017-02-01,,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,
+2017-03-01,,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,
+2017-04-01,,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,
+2017-05-01,18.6,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.62
+2017-06-01,18.35,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6116666666666667
+2017-07-01,19.15,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6383333333333333
+2017-08-01,21.1,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7033333333333334
+2017-09-01,20.59,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6863333333333334
+2017-10-01,25.79,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8596666666666667
+2017-11-01,25.42,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8473333333333334
+2017-12-01,24.19,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8063333333333333
+2018-01-01,25.9,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8633333333333333
+2018-02-01,22.27,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7423333333333333
+2018-03-01,23.03,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7676666666666667
+2018-04-01,23.56,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7853333333333333
+2018-05-01,21.3,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7100000000000001
+2018-06-01,20.06,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6686666666666666
+2018-07-01,20.68,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6893333333333334
+2018-08-01,22.38,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.746
+2018-09-01,21.62,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7206666666666667
+2018-10-01,23.74,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7913333333333333
+2018-11-01,22.68,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.756
+2018-12-01,21.3,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7100000000000001
+2019-01-01,22.12,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7373333333333334
+2019-02-01,22.22,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7406666666666666
+2019-03-01,21.29,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7096666666666667
+2019-04-01,21.08,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7026666666666667
+2019-05-01,22.16,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7386666666666667
+2019-06-01,23.96,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7986666666666667
+2019-07-01,25.36,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8453333333333333
+2019-08-01,20.88,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.696
+2019-09-01,21.77,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7256666666666667
+2019-10-01,20.06,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6686666666666666
+2019-11-01,19.57,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6523333333333333
+2019-12-01,20.82,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6940000000000001
+2020-01-01,21.46,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7153333333333334
+2020-02-01,20.79,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.693
+2020-03-01,19.34,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6446666666666666
+2020-04-01,18.29,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6096666666666667
+2020-05-01,19.78,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6593333333333333
+2020-06-01,20.87,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6956666666666667
+2020-07-01,20.51,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6836666666666668
+2020-08-01,21.74,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7246666666666666
+2020-09-01,24.76,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8253333333333334
+2020-10-01,30.27,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,1.009
+2020-11-01,30.25,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,1.0083333333333333
+2020-12-01,27.38,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.9126666666666666
+2021-01-01,24.93,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.831
+2021-02-01,24.33,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8109999999999999
+2021-03-01,22.63,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7543333333333333
+2021-04-01,22.91,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7636666666666667
+2021-05-01,24.43,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8143333333333334
+2021-06-01,25.72,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8573333333333333
+2021-07-01,23.69,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7896666666666667
+2021-08-01,22.58,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7526666666666666
+2021-09-01,22.16,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7386666666666667
+2021-10-01,21.31,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7103333333333333
+2021-11-01,19.76,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6586666666666667
+2021-12-01,19.42,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6473333333333334
+2022-01-01,19.09,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6363333333333333
+2022-02-01,19.87,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6623333333333333
+2022-03-01,22.41,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.747
+2022-04-01,23.3,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7766666666666667
+2022-05-01,22.92,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.764
+2022-06-01,22.18,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7393333333333333
+2022-07-01,21.25,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7083333333333334
+2022-08-01,22.15,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7383333333333333
+2022-09-01,21.26,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7086666666666667
+2022-10-01,21.86,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7286666666666667
+2022-11-01,22.14,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.738
+2022-12-01,24.23,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8076666666666666
+2023-01-01,25.02,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.834
+2023-02-01,25.05,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8350000000000001
+2023-03-01,24.67,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8223333333333334
+2023-04-01,25.93,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8643333333333333
+2023-05-01,25.09,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8363333333333334
+2023-06-01,26.42,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8806666666666667
+2023-07-01,26.54,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8846666666666666
+2023-08-01,27.82,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.9273333333333333
+2023-09-01,28.52,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.9506666666666667
+2023-10-01,28.5,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.95
+2023-11-01,30.2,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,1.0066666666666666
+2023-12-01,33.73,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,1.1243333333333332
+2024-01-01,36.16,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,1.2053333333333331
+2024-02-01,35.78,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,1.1926666666666668
+2024-03-01,34.43,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,1.1476666666666666
+2024-04-01,31.8,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,1.06
+2024-05-01,33.62,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,1.1206666666666665
+2024-06-01,32.86,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,1.0953333333333333
+2024-07-01,31.4,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,1.0466666666666666
+2024-08-01,30.9,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,1.03
+2024-09-01,30.31,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,1.0103333333333333
+2024-10-01,30.42,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,1.014
+2024-11-01,28.68,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.956
+2024-12-01,27.86,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.9286666666666666
+2025-01-01,27.38,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.9126666666666666
+2025-02-01,26.74,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8913333333333333
+2025-03-01,25.64,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8546666666666667
+2025-04-01,24.31,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8103333333333332
+2025-05-01,24.08,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8026666666666666
+2025-06-01,24.74,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.8246666666666667
+2025-07-01,22.75,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7583333333333333
+2025-08-01,22.28,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.7426666666666667
+2025-09-01,22.23,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.741
+2025-10-01,20.89,"Rice (milled, fine long-grain, type 1)",Brazil,São Paulo,WHOLESALE,30 kg,kg,0.6963333333333334

@@ -1,0 +1,544 @@
+date,price_usd,commodity_name,country,market,price_type,unit
+2020-05-01,0.83,Niebe,Senegal,Dakar,RETAIL,Kg
+2020-06-01,0.9,Niebe,Senegal,Dakar,RETAIL,Kg
+2020-07-01,0.79,Niebe,Senegal,Dakar,RETAIL,Kg
+2020-08-01,0.9,Niebe,Senegal,Dakar,RETAIL,Kg
+2020-09-01,0.88,Niebe,Senegal,Dakar,RETAIL,Kg
+2020-10-01,0.81,Niebe,Senegal,Dakar,RETAIL,Kg
+2020-11-01,0.87,Niebe,Senegal,Dakar,RETAIL,Kg
+2020-12-01,0.88,Niebe,Senegal,Dakar,RETAIL,Kg
+2021-01-01,0.79,Niebe,Senegal,Dakar,RETAIL,Kg
+2021-02-01,0.78,Niebe,Senegal,Dakar,RETAIL,Kg
+2021-03-01,0.88,Niebe,Senegal,Dakar,RETAIL,Kg
+2021-04-01,0.87,Niebe,Senegal,Dakar,RETAIL,Kg
+2021-05-01,0.93,Niebe,Senegal,Dakar,RETAIL,Kg
+2021-06-01,0.92,Niebe,Senegal,Dakar,RETAIL,Kg
+2021-07-01,0.81,Niebe,Senegal,Dakar,RETAIL,Kg
+2021-08-01,,Niebe,Senegal,Dakar,RETAIL,Kg
+2021-09-01,0.9,Niebe,Senegal,Dakar,RETAIL,Kg
+2021-10-01,1.06,Niebe,Senegal,Dakar,RETAIL,Kg
+2021-11-01,,Niebe,Senegal,Dakar,RETAIL,Kg
+2021-12-01,,Niebe,Senegal,Dakar,RETAIL,Kg
+2022-01-01,,Niebe,Senegal,Dakar,RETAIL,Kg
+2022-02-01,,Niebe,Senegal,Dakar,RETAIL,Kg
+2022-03-01,,Niebe,Senegal,Dakar,RETAIL,Kg
+2022-04-01,,Niebe,Senegal,Dakar,RETAIL,Kg
+2022-05-01,,Niebe,Senegal,Dakar,RETAIL,Kg
+2022-06-01,,Niebe,Senegal,Dakar,RETAIL,Kg
+2022-07-01,2.33,Niebe,Senegal,Dakar,RETAIL,Kg
+2022-08-01,,Niebe,Senegal,Dakar,RETAIL,Kg
+2022-09-01,,Niebe,Senegal,Dakar,RETAIL,Kg
+2022-10-01,2.1,Niebe,Senegal,Dakar,RETAIL,Kg
+2022-11-01,2.33,Niebe,Senegal,Dakar,RETAIL,Kg
+2022-12-01,2.26,Niebe,Senegal,Dakar,RETAIL,Kg
+2023-01-01,2.13,Niebe,Senegal,Dakar,RETAIL,Kg
+2023-02-01,2.21,Niebe,Senegal,Dakar,RETAIL,Kg
+2023-03-01,2.2,Niebe,Senegal,Dakar,RETAIL,Kg
+2023-04-01,2.51,Niebe,Senegal,Dakar,RETAIL,Kg
+2023-05-01,2.49,Niebe,Senegal,Dakar,RETAIL,Kg
+2023-06-01,2.48,Niebe,Senegal,Dakar,RETAIL,Kg
+2023-07-01,2.53,Niebe,Senegal,Dakar,RETAIL,Kg
+2023-08-01,2.49,Niebe,Senegal,Dakar,RETAIL,Kg
+2023-09-01,2.28,Niebe,Senegal,Dakar,RETAIL,Kg
+2023-10-01,2.15,Niebe,Senegal,Dakar,RETAIL,Kg
+2023-11-01,1.87,Niebe,Senegal,Dakar,RETAIL,Kg
+2023-12-01,2.24,Niebe,Senegal,Dakar,RETAIL,Kg
+2024-01-01,2.08,Niebe,Senegal,Dakar,RETAIL,Kg
+2024-02-01,1.97,Niebe,Senegal,Dakar,RETAIL,Kg
+2024-03-01,2.07,Niebe,Senegal,Dakar,RETAIL,Kg
+2024-04-01,2.29,Niebe,Senegal,Dakar,RETAIL,Kg
+2024-05-01,2.23,Niebe,Senegal,Dakar,RETAIL,Kg
+2024-06-01,1.64,Niebe,Senegal,Dakar,RETAIL,Kg
+2024-07-01,1.54,Niebe,Senegal,Dakar,RETAIL,Kg
+2024-08-01,1.62,Niebe,Senegal,Dakar,RETAIL,Kg
+2024-09-01,1.81,Niebe,Senegal,Dakar,RETAIL,Kg
+2024-10-01,1.7,Niebe,Senegal,Dakar,RETAIL,Kg
+2024-11-01,1.38,Niebe,Senegal,Dakar,RETAIL,Kg
+2024-12-01,1.32,Niebe,Senegal,Dakar,RETAIL,Kg
+2025-01-01,1.42,Niebe,Senegal,Dakar,RETAIL,Kg
+2025-02-01,1.67,Niebe,Senegal,Dakar,RETAIL,Kg
+2025-03-01,1.65,Niebe,Senegal,Dakar,RETAIL,Kg
+2025-04-01,,Niebe,Senegal,Dakar,RETAIL,Kg
+2025-05-01,1.89,Niebe,Senegal,Dakar,RETAIL,Kg
+2025-06-01,1.76,Niebe,Senegal,Dakar,RETAIL,Kg
+2025-07-01,1.65,Niebe,Senegal,Dakar,RETAIL,Kg
+2025-08-01,1.78,Niebe,Senegal,Dakar,RETAIL,Kg
+2025-09-01,1.79,Niebe,Senegal,Dakar,RETAIL,Kg
+2020-04-01,0.99,Niebe,Senegal,Kolda,RETAIL,Kg
+2020-05-01,1.0,Niebe,Senegal,Kolda,RETAIL,Kg
+2020-06-01,1.03,Niebe,Senegal,Kolda,RETAIL,Kg
+2020-07-01,1.14,Niebe,Senegal,Kolda,RETAIL,Kg
+2020-08-01,1.44,Niebe,Senegal,Kolda,RETAIL,Kg
+2020-09-01,1.44,Niebe,Senegal,Kolda,RETAIL,Kg
+2020-10-01,1.38,Niebe,Senegal,Kolda,RETAIL,Kg
+2020-11-01,1.26,Niebe,Senegal,Kolda,RETAIL,Kg
+2020-12-01,1.11,Niebe,Senegal,Kolda,RETAIL,Kg
+2021-01-01,1.11,Niebe,Senegal,Kolda,RETAIL,Kg
+2021-02-01,1.11,Niebe,Senegal,Kolda,RETAIL,Kg
+2021-03-01,1.09,Niebe,Senegal,Kolda,RETAIL,Kg
+2021-04-01,1.1,Niebe,Senegal,Kolda,RETAIL,Kg
+2021-05-01,1.11,Niebe,Senegal,Kolda,RETAIL,Kg
+2021-06-01,1.1,Niebe,Senegal,Kolda,RETAIL,Kg
+2021-07-01,1.08,Niebe,Senegal,Kolda,RETAIL,Kg
+2021-08-01,1.08,Niebe,Senegal,Kolda,RETAIL,Kg
+2021-09-01,1.08,Niebe,Senegal,Kolda,RETAIL,Kg
+2021-10-01,,Niebe,Senegal,Kolda,RETAIL,Kg
+2021-11-01,1.04,Niebe,Senegal,Kolda,RETAIL,Kg
+2021-12-01,1.55,Niebe,Senegal,Kolda,RETAIL,Kg
+2022-01-01,1.78,Niebe,Senegal,Kolda,RETAIL,Kg
+2022-02-01,1.9,Niebe,Senegal,Kolda,RETAIL,Kg
+2022-03-01,1.75,Niebe,Senegal,Kolda,RETAIL,Kg
+2022-04-01,1.76,Niebe,Senegal,Kolda,RETAIL,Kg
+2022-05-01,1.94,Niebe,Senegal,Kolda,RETAIL,Kg
+2022-06-01,2.14,Niebe,Senegal,Kolda,RETAIL,Kg
+2022-07-01,2.02,Niebe,Senegal,Kolda,RETAIL,Kg
+2022-08-01,2.01,Niebe,Senegal,Kolda,RETAIL,Kg
+2022-09-01,1.91,Niebe,Senegal,Kolda,RETAIL,Kg
+2022-10-01,1.8,Niebe,Senegal,Kolda,RETAIL,Kg
+2022-11-01,1.76,Niebe,Senegal,Kolda,RETAIL,Kg
+2022-12-01,1.78,Niebe,Senegal,Kolda,RETAIL,Kg
+2023-01-01,1.81,Niebe,Senegal,Kolda,RETAIL,Kg
+2023-02-01,1.69,Niebe,Senegal,Kolda,RETAIL,Kg
+2023-03-01,1.85,Niebe,Senegal,Kolda,RETAIL,Kg
+2023-04-01,2.01,Niebe,Senegal,Kolda,RETAIL,Kg
+2023-05-01,1.99,Niebe,Senegal,Kolda,RETAIL,Kg
+2023-06-01,1.98,Niebe,Senegal,Kolda,RETAIL,Kg
+2023-07-01,2.02,Niebe,Senegal,Kolda,RETAIL,Kg
+2023-08-01,2.05,Niebe,Senegal,Kolda,RETAIL,Kg
+2023-09-01,1.63,Niebe,Senegal,Kolda,RETAIL,Kg
+2023-10-01,1.85,Niebe,Senegal,Kolda,RETAIL,Kg
+2023-11-01,1.52,Niebe,Senegal,Kolda,RETAIL,Kg
+2023-12-01,1.44,Niebe,Senegal,Kolda,RETAIL,Kg
+2024-01-01,1.66,Niebe,Senegal,Kolda,RETAIL,Kg
+2024-02-01,1.65,Niebe,Senegal,Kolda,RETAIL,Kg
+2024-03-01,1.66,Niebe,Senegal,Kolda,RETAIL,Kg
+2024-04-01,1.64,Niebe,Senegal,Kolda,RETAIL,Kg
+2024-05-01,1.65,Niebe,Senegal,Kolda,RETAIL,Kg
+2024-06-01,,Niebe,Senegal,Kolda,RETAIL,Kg
+2024-07-01,,Niebe,Senegal,Kolda,RETAIL,Kg
+2024-08-01,1.85,Niebe,Senegal,Kolda,RETAIL,Kg
+2024-09-01,1.69,Niebe,Senegal,Kolda,RETAIL,Kg
+2024-10-01,1.44,Niebe,Senegal,Kolda,RETAIL,Kg
+2024-11-01,1.42,Niebe,Senegal,Kolda,RETAIL,Kg
+2024-12-01,1.54,Niebe,Senegal,Kolda,RETAIL,Kg
+2025-01-01,1.58,Niebe,Senegal,Kolda,RETAIL,Kg
+2025-02-01,1.59,Niebe,Senegal,Kolda,RETAIL,Kg
+2025-03-01,1.65,Niebe,Senegal,Kolda,RETAIL,Kg
+2025-04-01,1.71,Niebe,Senegal,Kolda,RETAIL,Kg
+2025-05-01,1.72,Niebe,Senegal,Kolda,RETAIL,Kg
+2025-06-01,1.76,Niebe,Senegal,Kolda,RETAIL,Kg
+2025-07-01,1.87,Niebe,Senegal,Kolda,RETAIL,Kg
+2025-08-01,1.78,Niebe,Senegal,Kolda,RETAIL,Kg
+2025-09-01,1.79,Niebe,Senegal,Kolda,RETAIL,Kg
+2020-04-01,0.68,Niebe,Senegal,Louga,RETAIL,Kg
+2020-05-01,0.69,Niebe,Senegal,Louga,RETAIL,Kg
+2020-06-01,0.74,Niebe,Senegal,Louga,RETAIL,Kg
+2020-07-01,0.79,Niebe,Senegal,Louga,RETAIL,Kg
+2020-08-01,0.74,Niebe,Senegal,Louga,RETAIL,Kg
+2020-09-01,0.74,Niebe,Senegal,Louga,RETAIL,Kg
+2020-10-01,0.71,Niebe,Senegal,Louga,RETAIL,Kg
+2020-11-01,0.69,Niebe,Senegal,Louga,RETAIL,Kg
+2020-12-01,0.71,Niebe,Senegal,Louga,RETAIL,Kg
+2021-01-01,0.65,Niebe,Senegal,Louga,RETAIL,Kg
+2021-02-01,0.65,Niebe,Senegal,Louga,RETAIL,Kg
+2021-03-01,0.73,Niebe,Senegal,Louga,RETAIL,Kg
+2021-04-01,0.73,Niebe,Senegal,Louga,RETAIL,Kg
+2021-05-01,0.74,Niebe,Senegal,Louga,RETAIL,Kg
+2021-06-01,0.73,Niebe,Senegal,Louga,RETAIL,Kg
+2021-07-01,0.74,Niebe,Senegal,Louga,RETAIL,Kg
+2021-08-01,0.72,Niebe,Senegal,Louga,RETAIL,Kg
+2021-09-01,,Niebe,Senegal,Louga,RETAIL,Kg
+2021-10-01,0.62,Niebe,Senegal,Louga,RETAIL,Kg
+2021-11-01,0.61,Niebe,Senegal,Louga,RETAIL,Kg
+2021-12-01,0.6,Niebe,Senegal,Louga,RETAIL,Kg
+2022-01-01,1.38,Niebe,Senegal,Louga,RETAIL,Kg
+2022-02-01,1.44,Niebe,Senegal,Louga,RETAIL,Kg
+2022-03-01,1.4,Niebe,Senegal,Louga,RETAIL,Kg
+2022-04-01,1.34,Niebe,Senegal,Louga,RETAIL,Kg
+2022-05-01,1.59,Niebe,Senegal,Louga,RETAIL,Kg
+2022-06-01,1.79,Niebe,Senegal,Louga,RETAIL,Kg
+2022-07-01,1.55,Niebe,Senegal,Louga,RETAIL,Kg
+2022-08-01,1.74,Niebe,Senegal,Louga,RETAIL,Kg
+2022-09-01,1.66,Niebe,Senegal,Louga,RETAIL,Kg
+2022-10-01,1.5,Niebe,Senegal,Louga,RETAIL,Kg
+2022-11-01,1.71,Niebe,Senegal,Louga,RETAIL,Kg
+2022-12-01,1.78,Niebe,Senegal,Louga,RETAIL,Kg
+2023-01-01,1.77,Niebe,Senegal,Louga,RETAIL,Kg
+2023-02-01,1.72,Niebe,Senegal,Louga,RETAIL,Kg
+2023-03-01,1.75,Niebe,Senegal,Louga,RETAIL,Kg
+2023-04-01,1.84,Niebe,Senegal,Louga,RETAIL,Kg
+2023-05-01,1.82,Niebe,Senegal,Louga,RETAIL,Kg
+2023-06-01,1.9,Niebe,Senegal,Louga,RETAIL,Kg
+2023-07-01,1.85,Niebe,Senegal,Louga,RETAIL,Kg
+2023-08-01,1.61,Niebe,Senegal,Louga,RETAIL,Kg
+2023-09-01,1.21,Niebe,Senegal,Louga,RETAIL,Kg
+2023-10-01,0.76,Niebe,Senegal,Louga,RETAIL,Kg
+2023-11-01,0.92,Niebe,Senegal,Louga,RETAIL,Kg
+2023-12-01,1.03,Niebe,Senegal,Louga,RETAIL,Kg
+2024-01-01,1.07,Niebe,Senegal,Louga,RETAIL,Kg
+2024-02-01,1.18,Niebe,Senegal,Louga,RETAIL,Kg
+2024-03-01,1.12,Niebe,Senegal,Louga,RETAIL,Kg
+2024-04-01,1.09,Niebe,Senegal,Louga,RETAIL,Kg
+2024-05-01,1.22,Niebe,Senegal,Louga,RETAIL,Kg
+2024-06-01,1.15,Niebe,Senegal,Louga,RETAIL,Kg
+2024-07-01,,Niebe,Senegal,Louga,RETAIL,Kg
+2024-08-01,1.18,Niebe,Senegal,Louga,RETAIL,Kg
+2024-09-01,1.19,Niebe,Senegal,Louga,RETAIL,Kg
+2024-10-01,0.88,Niebe,Senegal,Louga,RETAIL,Kg
+2024-11-01,0.96,Niebe,Senegal,Louga,RETAIL,Kg
+2024-12-01,1.04,Niebe,Senegal,Louga,RETAIL,Kg
+2025-01-01,1.12,Niebe,Senegal,Louga,RETAIL,Kg
+2025-02-01,0.99,Niebe,Senegal,Louga,RETAIL,Kg
+2025-03-01,1.16,Niebe,Senegal,Louga,RETAIL,Kg
+2025-04-01,1.23,Niebe,Senegal,Louga,RETAIL,Kg
+2025-05-01,1.35,Niebe,Senegal,Louga,RETAIL,Kg
+2025-06-01,1.05,Niebe,Senegal,Louga,RETAIL,Kg
+2025-07-01,1.67,Niebe,Senegal,Louga,RETAIL,Kg
+2025-08-01,1.61,Niebe,Senegal,Louga,RETAIL,Kg
+2025-09-01,1.37,Niebe,Senegal,Louga,RETAIL,Kg
+2020-08-01,1.09,Niebe,Senegal,National Average,RETAIL,Kg
+2020-09-01,1.09,Niebe,Senegal,National Average,RETAIL,Kg
+2020-10-01,0.95,Niebe,Senegal,National Average,RETAIL,Kg
+2020-11-01,0.93,Niebe,Senegal,National Average,RETAIL,Kg
+2020-12-01,0.93,Niebe,Senegal,National Average,RETAIL,Kg
+2021-01-01,0.99,Niebe,Senegal,National Average,RETAIL,Kg
+2021-02-01,0.98,Niebe,Senegal,National Average,RETAIL,Kg
+2021-03-01,0.98,Niebe,Senegal,National Average,RETAIL,Kg
+2021-04-01,1.01,Niebe,Senegal,National Average,RETAIL,Kg
+2021-05-01,0.99,Niebe,Senegal,National Average,RETAIL,Kg
+2021-06-01,1.0,Niebe,Senegal,National Average,RETAIL,Kg
+2021-07-01,1.01,Niebe,Senegal,National Average,RETAIL,Kg
+2021-08-01,0.99,Niebe,Senegal,National Average,RETAIL,Kg
+2021-09-01,0.96,Niebe,Senegal,National Average,RETAIL,Kg
+2021-10-01,0.93,Niebe,Senegal,National Average,RETAIL,Kg
+2021-11-01,1.03,Niebe,Senegal,National Average,RETAIL,Kg
+2021-12-01,1.22,Niebe,Senegal,National Average,RETAIL,Kg
+2022-01-01,1.48,Niebe,Senegal,National Average,RETAIL,Kg
+2022-02-01,1.55,Niebe,Senegal,National Average,RETAIL,Kg
+2022-03-01,1.57,Niebe,Senegal,National Average,RETAIL,Kg
+2022-04-01,1.54,Niebe,Senegal,National Average,RETAIL,Kg
+2022-05-01,1.77,Niebe,Senegal,National Average,RETAIL,Kg
+2022-06-01,1.93,Niebe,Senegal,National Average,RETAIL,Kg
+2022-07-01,1.86,Niebe,Senegal,National Average,RETAIL,Kg
+2022-08-01,1.9,Niebe,Senegal,National Average,RETAIL,Kg
+2022-09-01,1.74,Niebe,Senegal,National Average,RETAIL,Kg
+2022-10-01,1.66,Niebe,Senegal,National Average,RETAIL,Kg
+2022-11-01,1.53,Niebe,Senegal,National Average,RETAIL,Kg
+2022-12-01,1.63,Niebe,Senegal,National Average,RETAIL,Kg
+2023-01-01,1.59,Niebe,Senegal,National Average,RETAIL,Kg
+2023-02-01,1.66,Niebe,Senegal,National Average,RETAIL,Kg
+2023-03-01,1.66,Niebe,Senegal,National Average,RETAIL,Kg
+2023-04-01,1.71,Niebe,Senegal,National Average,RETAIL,Kg
+2023-05-01,1.75,Niebe,Senegal,National Average,RETAIL,Kg
+2023-06-01,1.78,Niebe,Senegal,National Average,RETAIL,Kg
+2023-07-01,1.82,Niebe,Senegal,National Average,RETAIL,Kg
+2023-08-01,1.84,Niebe,Senegal,National Average,RETAIL,Kg
+2023-09-01,1.7,Niebe,Senegal,National Average,RETAIL,Kg
+2023-10-01,1.47,Niebe,Senegal,National Average,RETAIL,Kg
+2023-11-01,1.36,Niebe,Senegal,National Average,RETAIL,Kg
+2023-12-01,1.33,Niebe,Senegal,National Average,RETAIL,Kg
+2024-01-01,1.4,Niebe,Senegal,National Average,RETAIL,Kg
+2024-02-01,1.44,Niebe,Senegal,National Average,RETAIL,Kg
+2024-03-01,1.44,Niebe,Senegal,National Average,RETAIL,Kg
+2024-04-01,1.47,Niebe,Senegal,National Average,RETAIL,Kg
+2024-05-01,1.52,Niebe,Senegal,National Average,RETAIL,Kg
+2024-06-01,1.54,Niebe,Senegal,National Average,RETAIL,Kg
+2024-07-01,1.62,Niebe,Senegal,National Average,RETAIL,Kg
+2024-08-01,1.65,Niebe,Senegal,National Average,RETAIL,Kg
+2024-09-01,1.59,Niebe,Senegal,National Average,RETAIL,Kg
+2024-10-01,1.36,Niebe,Senegal,National Average,RETAIL,Kg
+2024-11-01,1.2,Niebe,Senegal,National Average,RETAIL,Kg
+2024-12-01,1.25,Niebe,Senegal,National Average,RETAIL,Kg
+2025-01-01,1.31,Niebe,Senegal,National Average,RETAIL,Kg
+2025-02-01,1.24,Niebe,Senegal,National Average,RETAIL,Kg
+2025-03-01,1.33,Niebe,Senegal,National Average,RETAIL,Kg
+2025-04-01,1.45,Niebe,Senegal,National Average,RETAIL,Kg
+2025-05-01,,Niebe,Senegal,National Average,RETAIL,Kg
+2025-06-01,1.6,Niebe,Senegal,National Average,RETAIL,Kg
+2025-07-01,937.0,Niebe,Senegal,National Average,RETAIL,Kg
+2025-08-01,1.58,Niebe,Senegal,National Average,RETAIL,Kg
+2025-09-01,1.67,Niebe,Senegal,National Average,RETAIL,Kg
+2020-04-01,0.99,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2020-05-01,1.0,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2020-06-01,0.97,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2020-07-01,1.05,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2020-08-01,1.08,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2020-09-01,1.14,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2020-10-01,0.9,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2020-11-01,0.9,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2020-12-01,0.93,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2021-01-01,1.11,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2021-02-01,1.11,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2021-03-01,0.91,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2021-04-01,0.91,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2021-05-01,1.05,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2021-06-01,1.01,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2021-07-01,0.99,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2021-08-01,0.96,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2021-09-01,1.08,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2021-10-01,1.06,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2021-11-01,0.96,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2021-12-01,0.72,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2022-01-01,0.82,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2022-02-01,0.92,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2022-03-01,1.02,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2022-04-01,1.6,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2022-05-01,1.77,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2022-06-01,2.04,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2022-07-01,2.17,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2022-08-01,2.01,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2022-09-01,1.96,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2022-10-01,1.8,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2022-11-01,1.48,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2022-12-01,1.61,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2023-01-01,1.56,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2023-02-01,1.31,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2023-03-01,1.55,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2023-04-01,1.67,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2023-05-01,1.28,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2023-06-01,1.43,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2023-07-01,1.56,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2023-08-01,1.25,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2023-09-01,0.98,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2023-10-01,1.61,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2023-11-01,1.57,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2023-12-01,1.33,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2024-01-01,1.33,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2024-02-01,1.32,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2024-03-01,1.33,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2024-04-01,1.64,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2024-05-01,1.65,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2024-06-01,1.64,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2024-07-01,,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2024-08-01,1.68,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2024-09-01,1.69,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2024-10-01,1.08,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2024-11-01,1.62,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2024-12-01,1.6,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2025-01-01,1.58,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2025-02-01,1.59,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2025-03-01,1.5,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2025-04-01,1.45,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2025-05-01,1.5,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2025-06-01,1.54,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2025-07-01,1.67,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2025-08-01,1.95,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2025-09-01,1.97,Niebe,Senegal,Tambacounda,RETAIL,Kg
+2020-01-01,0.79,Niebe,Togo,Centrale Region,RETAIL,Kg
+2020-02-01,0.77,Niebe,Togo,Centrale Region,RETAIL,Kg
+2020-03-01,0.87,Niebe,Togo,Centrale Region,RETAIL,Kg
+2020-04-01,0.92,Niebe,Togo,Centrale Region,RETAIL,Kg
+2020-05-01,0.99,Niebe,Togo,Centrale Region,RETAIL,Kg
+2020-06-01,0.85,Niebe,Togo,Centrale Region,RETAIL,Kg
+2020-07-01,0.91,Niebe,Togo,Centrale Region,RETAIL,Kg
+2020-08-01,1.05,Niebe,Togo,Centrale Region,RETAIL,Kg
+2020-09-01,1.07,Niebe,Togo,Centrale Region,RETAIL,Kg
+2020-10-01,0.96,Niebe,Togo,Centrale Region,RETAIL,Kg
+2020-11-01,0.91,Niebe,Togo,Centrale Region,RETAIL,Kg
+2020-12-01,1.07,Niebe,Togo,Centrale Region,RETAIL,Kg
+2021-01-01,1.14,Niebe,Togo,Centrale Region,RETAIL,Kg
+2021-02-01,1.11,Niebe,Togo,Centrale Region,RETAIL,Kg
+2021-03-01,1.17,Niebe,Togo,Centrale Region,RETAIL,Kg
+2021-04-01,1.33,Niebe,Togo,Centrale Region,RETAIL,Kg
+2021-05-01,1.13,Niebe,Togo,Centrale Region,RETAIL,Kg
+2021-06-01,1.36,Niebe,Togo,Centrale Region,RETAIL,Kg
+2021-07-01,1.36,Niebe,Togo,Centrale Region,RETAIL,Kg
+2021-08-01,1.39,Niebe,Togo,Centrale Region,RETAIL,Kg
+2021-09-01,1.59,Niebe,Togo,Centrale Region,RETAIL,Kg
+2021-10-01,1.57,Niebe,Togo,Centrale Region,RETAIL,Kg
+2021-11-01,1.09,Niebe,Togo,Centrale Region,RETAIL,Kg
+2021-12-01,1.14,Niebe,Togo,Centrale Region,RETAIL,Kg
+2022-01-01,1.3,Niebe,Togo,Centrale Region,RETAIL,Kg
+2022-02-01,1.41,Niebe,Togo,Centrale Region,RETAIL,Kg
+2022-03-01,1.4,Niebe,Togo,Centrale Region,RETAIL,Kg
+2022-04-01,1.39,Niebe,Togo,Centrale Region,RETAIL,Kg
+2022-05-01,1.26,Niebe,Togo,Centrale Region,RETAIL,Kg
+2022-06-01,1.24,Niebe,Togo,Centrale Region,RETAIL,Kg
+2022-07-01,1.26,Niebe,Togo,Centrale Region,RETAIL,Kg
+2022-08-01,1.37,Niebe,Togo,Centrale Region,RETAIL,Kg
+2022-09-01,1.29,Niebe,Togo,Centrale Region,RETAIL,Kg
+2022-10-01,1.26,Niebe,Togo,Centrale Region,RETAIL,Kg
+2022-11-01,1.1,Niebe,Togo,Centrale Region,RETAIL,Kg
+2022-12-01,1.26,Niebe,Togo,Centrale Region,RETAIL,Kg
+2023-01-01,1.25,Niebe,Togo,Centrale Region,RETAIL,Kg
+2023-02-01,1.3,Niebe,Togo,Centrale Region,RETAIL,Kg
+2023-03-01,1.18,Niebe,Togo,Centrale Region,RETAIL,Kg
+2023-04-01,1.22,Niebe,Togo,Centrale Region,RETAIL,Kg
+2023-05-01,1.14,Niebe,Togo,Centrale Region,RETAIL,Kg
+2023-06-01,1.22,Niebe,Togo,Centrale Region,RETAIL,Kg
+2023-07-01,1.2,Niebe,Togo,Centrale Region,RETAIL,Kg
+2023-08-01,1.34,Niebe,Togo,Centrale Region,RETAIL,Kg
+2023-09-01,1.29,Niebe,Togo,Centrale Region,RETAIL,Kg
+2023-10-01,1.21,Niebe,Togo,Centrale Region,RETAIL,Kg
+2023-11-01,0.96,Niebe,Togo,Centrale Region,RETAIL,Kg
+2023-12-01,1.02,Niebe,Togo,Centrale Region,RETAIL,Kg
+2024-01-01,1.02,Niebe,Togo,Centrale Region,RETAIL,Kg
+2024-02-01,1.19,Niebe,Togo,Centrale Region,RETAIL,Kg
+2024-03-01,1.23,Niebe,Togo,Centrale Region,RETAIL,Kg
+2024-04-01,1.43,Niebe,Togo,Centrale Region,RETAIL,Kg
+2024-05-01,1.5,Niebe,Togo,Centrale Region,RETAIL,Kg
+2024-06-01,1.47,Niebe,Togo,Centrale Region,RETAIL,Kg
+2024-07-01,1.43,Niebe,Togo,Centrale Region,RETAIL,Kg
+2024-08-01,1.57,Niebe,Togo,Centrale Region,RETAIL,Kg
+2024-09-01,1.84,Niebe,Togo,Centrale Region,RETAIL,Kg
+2024-10-01,2.08,Niebe,Togo,Centrale Region,RETAIL,Kg
+2024-11-01,1.34,Niebe,Togo,Centrale Region,RETAIL,Kg
+2024-12-01,1.2,Niebe,Togo,Centrale Region,RETAIL,Kg
+2025-01-01,1.16,Niebe,Togo,Centrale Region,RETAIL,Kg
+2025-02-01,1.25,Niebe,Togo,Centrale Region,RETAIL,Kg
+2025-03-01,1.41,Niebe,Togo,Centrale Region,RETAIL,Kg
+2025-04-01,1.47,Niebe,Togo,Centrale Region,RETAIL,Kg
+2025-05-01,1.43,Niebe,Togo,Centrale Region,RETAIL,Kg
+2025-06-01,1.5,Niebe,Togo,Centrale Region,RETAIL,Kg
+2025-07-01,1.43,Niebe,Togo,Centrale Region,RETAIL,Kg
+2025-08-01,1.34,Niebe,Togo,Centrale Region,RETAIL,Kg
+2025-09-01,1.35,Niebe,Togo,Centrale Region,RETAIL,Kg
+2024-12-01,1.28,Niebe,Togo,DAGL (Lomé) Region,RETAIL,Kg
+2025-01-01,1.3,Niebe,Togo,DAGL (Lomé) Region,RETAIL,Kg
+2025-02-01,1.33,Niebe,Togo,DAGL (Lomé) Region,RETAIL,Kg
+2025-03-01,1.34,Niebe,Togo,DAGL (Lomé) Region,RETAIL,Kg
+2025-04-01,1.33,Niebe,Togo,DAGL (Lomé) Region,RETAIL,Kg
+2025-05-01,1.42,Niebe,Togo,DAGL (Lomé) Region,RETAIL,Kg
+2025-06-01,1.41,Niebe,Togo,DAGL (Lomé) Region,RETAIL,Kg
+2025-07-01,1.41,Niebe,Togo,DAGL (Lomé) Region,RETAIL,Kg
+2025-08-01,1.42,Niebe,Togo,DAGL (Lomé) Region,RETAIL,Kg
+2025-09-01,1.44,Niebe,Togo,DAGL (Lomé) Region,RETAIL,Kg
+2020-01-01,0.74,Niebe,Togo,Maritime Region,RETAIL,Kg
+2020-02-01,0.74,Niebe,Togo,Maritime Region,RETAIL,Kg
+2020-03-01,0.88,Niebe,Togo,Maritime Region,RETAIL,Kg
+2020-04-01,0.86,Niebe,Togo,Maritime Region,RETAIL,Kg
+2020-05-01,0.81,Niebe,Togo,Maritime Region,RETAIL,Kg
+2020-06-01,0.98,Niebe,Togo,Maritime Region,RETAIL,Kg
+2020-07-01,0.92,Niebe,Togo,Maritime Region,RETAIL,Kg
+2020-08-01,1.01,Niebe,Togo,Maritime Region,RETAIL,Kg
+2020-09-01,1.1,Niebe,Togo,Maritime Region,RETAIL,Kg
+2020-10-01,1.02,Niebe,Togo,Maritime Region,RETAIL,Kg
+2020-11-01,0.99,Niebe,Togo,Maritime Region,RETAIL,Kg
+2020-12-01,0.98,Niebe,Togo,Maritime Region,RETAIL,Kg
+2021-01-01,0.96,Niebe,Togo,Maritime Region,RETAIL,Kg
+2021-02-01,1.05,Niebe,Togo,Maritime Region,RETAIL,Kg
+2021-03-01,1.07,Niebe,Togo,Maritime Region,RETAIL,Kg
+2021-04-01,1.17,Niebe,Togo,Maritime Region,RETAIL,Kg
+2021-05-01,1.22,Niebe,Togo,Maritime Region,RETAIL,Kg
+2021-06-01,1.32,Niebe,Togo,Maritime Region,RETAIL,Kg
+2021-07-01,1.35,Niebe,Togo,Maritime Region,RETAIL,Kg
+2021-08-01,1.4,Niebe,Togo,Maritime Region,RETAIL,Kg
+2021-09-01,1.36,Niebe,Togo,Maritime Region,RETAIL,Kg
+2021-10-01,1.4,Niebe,Togo,Maritime Region,RETAIL,Kg
+2021-11-01,1.25,Niebe,Togo,Maritime Region,RETAIL,Kg
+2021-12-01,1.2,Niebe,Togo,Maritime Region,RETAIL,Kg
+2022-01-01,1.21,Niebe,Togo,Maritime Region,RETAIL,Kg
+2022-02-01,1.26,Niebe,Togo,Maritime Region,RETAIL,Kg
+2022-03-01,1.28,Niebe,Togo,Maritime Region,RETAIL,Kg
+2022-04-01,1.25,Niebe,Togo,Maritime Region,RETAIL,Kg
+2022-05-01,1.29,Niebe,Togo,Maritime Region,RETAIL,Kg
+2022-06-01,1.27,Niebe,Togo,Maritime Region,RETAIL,Kg
+2022-07-01,1.17,Niebe,Togo,Maritime Region,RETAIL,Kg
+2022-08-01,1.14,Niebe,Togo,Maritime Region,RETAIL,Kg
+2022-09-01,1.13,Niebe,Togo,Maritime Region,RETAIL,Kg
+2022-10-01,1.12,Niebe,Togo,Maritime Region,RETAIL,Kg
+2022-11-01,1.16,Niebe,Togo,Maritime Region,RETAIL,Kg
+2022-12-01,1.09,Niebe,Togo,Maritime Region,RETAIL,Kg
+2023-01-01,1.13,Niebe,Togo,Maritime Region,RETAIL,Kg
+2023-02-01,1.15,Niebe,Togo,Maritime Region,RETAIL,Kg
+2023-03-01,1.12,Niebe,Togo,Maritime Region,RETAIL,Kg
+2023-04-01,1.15,Niebe,Togo,Maritime Region,RETAIL,Kg
+2023-05-01,1.05,Niebe,Togo,Maritime Region,RETAIL,Kg
+2023-06-01,1.11,Niebe,Togo,Maritime Region,RETAIL,Kg
+2023-07-01,1.18,Niebe,Togo,Maritime Region,RETAIL,Kg
+2023-08-01,1.16,Niebe,Togo,Maritime Region,RETAIL,Kg
+2023-09-01,1.14,Niebe,Togo,Maritime Region,RETAIL,Kg
+2023-10-01,1.19,Niebe,Togo,Maritime Region,RETAIL,Kg
+2023-11-01,1.08,Niebe,Togo,Maritime Region,RETAIL,Kg
+2023-12-01,1.12,Niebe,Togo,Maritime Region,RETAIL,Kg
+2024-01-01,1.16,Niebe,Togo,Maritime Region,RETAIL,Kg
+2024-02-01,1.17,Niebe,Togo,Maritime Region,RETAIL,Kg
+2024-03-01,1.18,Niebe,Togo,Maritime Region,RETAIL,Kg
+2024-04-01,1.25,Niebe,Togo,Maritime Region,RETAIL,Kg
+2024-05-01,1.37,Niebe,Togo,Maritime Region,RETAIL,Kg
+2024-06-01,1.37,Niebe,Togo,Maritime Region,RETAIL,Kg
+2024-07-01,1.41,Niebe,Togo,Maritime Region,RETAIL,Kg
+2024-08-01,1.52,Niebe,Togo,Maritime Region,RETAIL,Kg
+2024-09-01,1.77,Niebe,Togo,Maritime Region,RETAIL,Kg
+2024-10-01,2.12,Niebe,Togo,Maritime Region,RETAIL,Kg
+2024-11-01,1.92,Niebe,Togo,Maritime Region,RETAIL,Kg
+2024-12-01,1.13,Niebe,Togo,Maritime Region,RETAIL,Kg
+2025-01-01,1.04,Niebe,Togo,Maritime Region,RETAIL,Kg
+2025-02-01,1.24,Niebe,Togo,Maritime Region,RETAIL,Kg
+2025-03-01,1.17,Niebe,Togo,Maritime Region,RETAIL,Kg
+2025-04-01,1.21,Niebe,Togo,Maritime Region,RETAIL,Kg
+2025-05-01,1.19,Niebe,Togo,Maritime Region,RETAIL,Kg
+2025-06-01,1.31,Niebe,Togo,Maritime Region,RETAIL,Kg
+2025-07-01,1.34,Niebe,Togo,Maritime Region,RETAIL,Kg
+2025-08-01,1.25,Niebe,Togo,Maritime Region,RETAIL,Kg
+2025-09-01,1.23,Niebe,Togo,Maritime Region,RETAIL,Kg
+2019-12-01,0.87,Niebe,Togo,Savanes Region,RETAIL,Kg
+2020-01-01,1.02,Niebe,Togo,Savanes Region,RETAIL,Kg
+2020-02-01,1.02,Niebe,Togo,Savanes Region,RETAIL,Kg
+2020-03-01,0.82,Niebe,Togo,Savanes Region,RETAIL,Kg
+2020-04-01,0.84,Niebe,Togo,Savanes Region,RETAIL,Kg
+2020-05-01,0.94,Niebe,Togo,Savanes Region,RETAIL,Kg
+2020-06-01,1.05,Niebe,Togo,Savanes Region,RETAIL,Kg
+2020-07-01,0.86,Niebe,Togo,Savanes Region,RETAIL,Kg
+2020-08-01,1.55,Niebe,Togo,Savanes Region,RETAIL,Kg
+2020-09-01,1.08,Niebe,Togo,Savanes Region,RETAIL,Kg
+2020-10-01,1.03,Niebe,Togo,Savanes Region,RETAIL,Kg
+2020-11-01,1.08,Niebe,Togo,Savanes Region,RETAIL,Kg
+2020-12-01,0.95,Niebe,Togo,Savanes Region,RETAIL,Kg
+2021-01-01,0.99,Niebe,Togo,Savanes Region,RETAIL,Kg
+2021-02-01,1.05,Niebe,Togo,Savanes Region,RETAIL,Kg
+2021-03-01,1.17,Niebe,Togo,Savanes Region,RETAIL,Kg
+2021-04-01,1.29,Niebe,Togo,Savanes Region,RETAIL,Kg
+2021-05-01,1.28,Niebe,Togo,Savanes Region,RETAIL,Kg
+2021-06-01,1.4,Niebe,Togo,Savanes Region,RETAIL,Kg
+2021-07-01,1.08,Niebe,Togo,Savanes Region,RETAIL,Kg
+2021-08-01,1.45,Niebe,Togo,Savanes Region,RETAIL,Kg
+2021-09-01,1.19,Niebe,Togo,Savanes Region,RETAIL,Kg
+2021-10-01,1.38,Niebe,Togo,Savanes Region,RETAIL,Kg
+2021-11-01,1.17,Niebe,Togo,Savanes Region,RETAIL,Kg
+2021-12-01,1.04,Niebe,Togo,Savanes Region,RETAIL,Kg
+2022-01-01,1.16,Niebe,Togo,Savanes Region,RETAIL,Kg
+2022-02-01,1.2,Niebe,Togo,Savanes Region,RETAIL,Kg
+2022-03-01,1.16,Niebe,Togo,Savanes Region,RETAIL,Kg
+2022-04-01,1.12,Niebe,Togo,Savanes Region,RETAIL,Kg
+2022-05-01,1.18,Niebe,Togo,Savanes Region,RETAIL,Kg
+2022-06-01,1.33,Niebe,Togo,Savanes Region,RETAIL,Kg
+2022-07-01,1.23,Niebe,Togo,Savanes Region,RETAIL,Kg
+2022-08-01,1.42,Niebe,Togo,Savanes Region,RETAIL,Kg
+2022-09-01,1.4,Niebe,Togo,Savanes Region,RETAIL,Kg
+2022-10-01,1.11,Niebe,Togo,Savanes Region,RETAIL,Kg
+2022-11-01,0.89,Niebe,Togo,Savanes Region,RETAIL,Kg
+2022-12-01,0.92,Niebe,Togo,Savanes Region,RETAIL,Kg
+2023-01-01,1.17,Niebe,Togo,Savanes Region,RETAIL,Kg
+2023-02-01,1.05,Niebe,Togo,Savanes Region,RETAIL,Kg
+2023-03-01,1.3,Niebe,Togo,Savanes Region,RETAIL,Kg
+2023-04-01,0.96,Niebe,Togo,Savanes Region,RETAIL,Kg
+2023-05-01,0.95,Niebe,Togo,Savanes Region,RETAIL,Kg
+2023-06-01,0.99,Niebe,Togo,Savanes Region,RETAIL,Kg
+2023-07-01,1.09,Niebe,Togo,Savanes Region,RETAIL,Kg
+2023-08-01,0.92,Niebe,Togo,Savanes Region,RETAIL,Kg
+2023-09-01,0.88,Niebe,Togo,Savanes Region,RETAIL,Kg
+2023-10-01,1.02,Niebe,Togo,Savanes Region,RETAIL,Kg
+2023-11-01,1.06,Niebe,Togo,Savanes Region,RETAIL,Kg
+2023-12-01,1.11,Niebe,Togo,Savanes Region,RETAIL,Kg
+2024-01-01,1.17,Niebe,Togo,Savanes Region,RETAIL,Kg
+2024-02-01,1.19,Niebe,Togo,Savanes Region,RETAIL,Kg
+2024-03-01,1.29,Niebe,Togo,Savanes Region,RETAIL,Kg
+2024-04-01,1.06,Niebe,Togo,Savanes Region,RETAIL,Kg
+2024-05-01,1.19,Niebe,Togo,Savanes Region,RETAIL,Kg
+2024-06-01,1.65,Niebe,Togo,Savanes Region,RETAIL,Kg
+2024-07-01,1.64,Niebe,Togo,Savanes Region,RETAIL,Kg
+2024-08-01,1.71,Niebe,Togo,Savanes Region,RETAIL,Kg
+2024-09-01,1.51,Niebe,Togo,Savanes Region,RETAIL,Kg
+2024-10-01,1.45,Niebe,Togo,Savanes Region,RETAIL,Kg
+2024-11-01,1.47,Niebe,Togo,Savanes Region,RETAIL,Kg
+2024-12-01,1.29,Niebe,Togo,Savanes Region,RETAIL,Kg
+2025-01-01,1.14,Niebe,Togo,Savanes Region,RETAIL,Kg
+2025-02-01,1.21,Niebe,Togo,Savanes Region,RETAIL,Kg
+2025-03-01,1.32,Niebe,Togo,Savanes Region,RETAIL,Kg
+2025-04-01,1.32,Niebe,Togo,Savanes Region,RETAIL,Kg
+2025-05-01,1.43,Niebe,Togo,Savanes Region,RETAIL,Kg
+2025-06-01,1.38,Niebe,Togo,Savanes Region,RETAIL,Kg
+2025-07-01,1.46,Niebe,Togo,Savanes Region,RETAIL,Kg
+2025-08-01,1.43,Niebe,Togo,Savanes Region,RETAIL,Kg
+2025-09-01,1.39,Niebe,Togo,Savanes Region,RETAIL,Kg

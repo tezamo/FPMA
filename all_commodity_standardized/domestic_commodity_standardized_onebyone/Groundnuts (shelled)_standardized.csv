@@ -1,0 +1,811 @@
+date,price_usd,commodity_name,country,market,price_type,unit,unit_std,price_per_unit
+2022-08-01,2.41,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.41
+2022-09-01,2.13,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.13
+2022-10-01,1.84,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,1.84
+2022-11-01,1.59,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,1.59
+2022-12-01,1.54,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,1.54
+2023-01-01,1.61,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,1.61
+2023-02-01,1.61,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,1.61
+2023-03-01,1.81,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,1.81
+2023-04-01,1.86,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,1.86
+2023-05-01,2.03,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.03
+2023-06-01,2.2,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.2
+2023-07-01,2.14,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.14
+2023-08-01,2.4,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.4
+2023-09-01,2.4,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.4
+2023-10-01,2.4,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.4
+2023-11-01,2.43,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.43
+2023-12-01,2.02,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.02
+2024-01-01,2.02,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.02
+2024-02-01,2.02,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.02
+2024-03-01,2.02,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.02
+2024-04-01,2.02,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.02
+2024-05-01,2.02,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.02
+2024-06-01,2.02,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.02
+2024-07-01,2.04,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.04
+2024-08-01,2.02,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.02
+2024-09-01,2.01,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.01
+2024-10-01,2.01,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.01
+2024-11-01,2.01,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.01
+2024-12-01,2.01,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.01
+2025-01-01,2.01,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.01
+2025-02-01,2.01,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.01
+2025-03-01,2.01,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,2.01
+2025-04-01,1.66,Groundnuts (shelled),Guinea,Conakry,RETAIL,Kg,kg,1.66
+2022-08-01,1.2,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,1.2
+2022-09-01,0.84,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.84
+2022-10-01,0.96,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.96
+2022-11-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2022-12-01,0.96,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.96
+2023-01-01,0.96,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.96
+2023-02-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2023-03-01,1.03,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,1.03
+2023-04-01,1.03,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,1.03
+2023-05-01,1.03,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,1.03
+2023-06-01,1.04,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,1.04
+2023-07-01,1.03,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,1.03
+2023-08-01,1.03,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,1.03
+2023-09-01,1.03,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,1.03
+2023-10-01,1.03,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,1.03
+2023-11-01,1.04,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,1.04
+2023-12-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2024-01-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2024-02-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2024-03-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2024-04-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2024-05-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2024-06-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2024-07-01,0.98,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.98
+2024-08-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2024-09-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2024-10-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2024-11-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2024-12-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2025-01-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2025-02-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2025-03-01,0.97,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,0.97
+2025-04-01,1.26,Groundnuts (shelled),Guinea,Faranah,RETAIL,Kg,kg,1.26
+2022-08-01,0.93,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,0.93
+2022-09-01,0.93,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,0.93
+2022-10-01,1.13,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,1.13
+2022-11-01,1.3,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,1.3
+2022-12-01,1.31,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,1.31
+2023-01-01,1.35,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,1.35
+2023-02-01,1.37,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,1.37
+2023-03-01,1.4,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,1.4
+2023-04-01,1.48,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,1.48
+2023-05-01,1.61,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,1.61
+2023-06-01,1.73,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,1.73
+2023-07-01,1.94,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,1.94
+2023-08-01,1.87,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,1.87
+2023-09-01,1.87,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,1.87
+2023-10-01,1.87,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,1.87
+2023-11-01,1.89,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,1.89
+2023-12-01,2.28,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.28
+2024-01-01,2.28,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.28
+2024-02-01,2.27,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.27
+2024-03-01,2.28,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.28
+2024-04-01,2.28,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.28
+2024-05-01,2.28,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.28
+2024-06-01,2.27,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.27
+2024-07-01,2.3,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.3
+2024-08-01,2.27,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.27
+2024-09-01,2.26,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.26
+2024-10-01,2.27,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.27
+2024-11-01,2.27,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.27
+2024-12-01,2.27,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.27
+2025-01-01,2.26,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.26
+2025-02-01,2.26,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.26
+2025-03-01,2.26,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.26
+2025-04-01,2.28,Groundnuts (shelled),Guinea,N'Zérékoré,RETAIL,Kg,kg,2.28
+2017-06-01,1.18,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.18
+2017-07-01,1.33,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.33
+2017-08-01,0.79,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.79
+2017-09-01,0.73,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.73
+2017-10-01,0.76,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.76
+2017-11-01,0.77,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.77
+2017-12-01,0.78,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.78
+2018-01-01,0.81,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.81
+2018-02-01,0.82,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.82
+2018-03-01,0.94,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.94
+2018-04-01,0.81,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.81
+2018-05-01,0.96,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.96
+2018-06-01,0.97,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.97
+2018-07-01,0.94,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.94
+2018-08-01,0.91,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.91
+2018-09-01,0.92,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.92
+2018-10-01,0.78,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.78
+2018-11-01,0.77,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.77
+2018-12-01,0.78,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.78
+2019-01-01,0.79,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.79
+2019-02-01,0.78,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.78
+2019-03-01,0.8,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.8
+2019-04-01,0.86,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.86
+2019-05-01,0.87,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.87
+2019-06-01,0.9,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.9
+2019-07-01,0.89,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.89
+2019-08-01,0.95,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.95
+2019-09-01,0.96,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.96
+2019-10-01,0.86,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.86
+2019-11-01,0.79,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.79
+2019-12-01,0.81,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.81
+2020-01-01,0.81,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.81
+2020-02-01,0.82,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.82
+2020-03-01,0.92,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.92
+2020-04-01,0.96,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.96
+2020-05-01,0.95,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.95
+2020-06-01,1.04,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.04
+2020-07-01,1.05,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.05
+2020-08-01,1.04,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.04
+2020-09-01,1.05,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.05
+2020-10-01,0.98,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.98
+2020-11-01,1.02,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.02
+2020-12-01,1.01,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.01
+2021-01-01,1.05,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.05
+2021-02-01,0.98,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,0.98
+2021-03-01,1.06,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.06
+2021-04-01,1.1,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.1
+2021-05-01,1.17,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.17
+2021-06-01,1.17,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.17
+2021-07-01,1.18,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.18
+2021-08-01,1.27,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.27
+2021-09-01,1.29,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.29
+2021-10-01,1.18,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.18
+2021-11-01,1.13,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.13
+2021-12-01,1.08,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.08
+2022-01-01,1.16,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.16
+2022-02-01,1.22,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.22
+2022-03-01,1.21,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.21
+2022-04-01,1.25,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.25
+2022-05-01,1.27,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.27
+2022-06-01,1.35,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.35
+2022-07-01,1.31,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.31
+2022-08-01,1.33,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.33
+2022-09-01,1.27,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.27
+2022-10-01,1.18,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.18
+2022-11-01,1.09,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.09
+2022-12-01,1.12,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.12
+2023-01-01,1.11,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.11
+2023-02-01,1.25,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.25
+2023-03-01,1.27,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.27
+2023-04-01,1.3,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.3
+2023-05-01,1.41,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.41
+2023-06-01,1.35,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.35
+2023-07-01,1.35,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.35
+2023-08-01,1.39,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.39
+2023-09-01,1.37,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.37
+2023-10-01,1.34,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.34
+2023-11-01,1.27,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.27
+2023-12-01,1.25,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.25
+2024-01-01,1.31,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.31
+2024-02-01,1.34,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.34
+2024-03-01,1.31,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.31
+2024-04-01,1.28,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.28
+2024-05-01,1.19,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.19
+2024-06-01,,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,
+2024-07-01,1.34,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.34
+2024-08-01,1.33,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.33
+2024-09-01,1.38,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.38
+2024-10-01,1.42,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.42
+2024-11-01,1.49,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.49
+2024-12-01,1.52,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.52
+2025-01-01,1.5,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.5
+2025-02-01,1.46,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.46
+2025-03-01,1.43,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.43
+2025-04-01,1.47,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.47
+2025-05-01,1.41,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.41
+2025-06-01,1.36,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.36
+2025-07-01,1.43,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.43
+2025-08-01,1.42,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.42
+2025-09-01,1.39,Groundnuts (shelled),Guinea,National Average,RETAIL,Kg,kg,1.39
+2020-03-01,1.52,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.52
+2020-04-01,0.91,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,0.91
+2020-05-01,1.0,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.0
+2020-06-01,1.14,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.14
+2020-07-01,,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,
+2020-08-01,1.04,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.04
+2020-09-01,1.17,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.17
+2020-10-01,1.14,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.14
+2020-11-01,1.32,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.32
+2020-12-01,1.36,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.36
+2021-01-01,1.3,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.3
+2021-02-01,0.98,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,0.98
+2021-03-01,1.03,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.03
+2021-04-01,0.97,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,0.97
+2021-05-01,1.3,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.3
+2021-06-01,1.22,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.22
+2021-07-01,1.44,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.44
+2021-08-01,1.44,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.44
+2021-09-01,1.44,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.44
+2021-10-01,1.33,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.33
+2021-11-01,1.22,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.22
+2021-12-01,1.26,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.26
+2022-01-01,1.41,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.41
+2022-02-01,,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,
+2022-03-01,1.06,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.06
+2022-04-01,1.32,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.32
+2022-05-01,1.29,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.29
+2022-06-01,2.09,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,2.09
+2022-07-01,1.55,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.55
+2022-08-01,1.85,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.85
+2022-09-01,1.84,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.84
+2022-10-01,1.83,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.83
+2022-11-01,1.88,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.88
+2022-12-01,1.97,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.97
+2023-01-01,2.03,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,2.03
+2023-02-01,2.03,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,2.03
+2023-03-01,2.01,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,2.01
+2023-04-01,2.25,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,2.25
+2023-05-01,1.99,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.99
+2023-06-01,1.82,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.82
+2023-07-01,2.02,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,2.02
+2023-08-01,2.33,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,2.33
+2023-09-01,3.12,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,3.12
+2023-10-01,3.22,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,3.22
+2023-11-01,3.3,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,3.3
+2023-12-01,2.49,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,2.49
+2024-01-01,1.66,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.66
+2024-02-01,1.65,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.65
+2024-03-01,1.82,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.82
+2024-04-01,1.09,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.09
+2024-05-01,1.48,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.48
+2024-06-01,1.48,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.48
+2024-07-01,1.49,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.49
+2024-08-01,1.68,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.68
+2024-09-01,1.52,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.52
+2024-10-01,1.5,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.5
+2024-11-01,1.3,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.3
+2024-12-01,1.28,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.28
+2025-01-01,,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,
+2025-02-01,,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,
+2025-03-01,1.65,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,1.65
+2025-04-01,,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,
+2025-05-01,,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,
+2025-06-01,2.11,Groundnuts (shelled),Guinea-Bissau,Bissau-Bandim,RETAIL,Kg,kg,2.11
+2020-05-01,0.83,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.83
+2020-06-01,0.86,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.86
+2020-07-01,0.87,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.87
+2020-08-01,0.9,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.9
+2020-09-01,0.97,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.97
+2020-10-01,0.78,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.78
+2020-11-01,0.66,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.66
+2020-12-01,0.68,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.68
+2021-01-01,0.63,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.63
+2021-02-01,0.73,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.73
+2021-03-01,0.78,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.78
+2021-04-01,0.94,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.94
+2021-05-01,1.04,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.04
+2021-06-01,1.08,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.08
+2021-07-01,1.2,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.2
+2021-08-01,0.95,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.95
+2021-09-01,0.95,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.95
+2021-10-01,0.97,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.97
+2021-11-01,0.88,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.88
+2021-12-01,0.89,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.89
+2022-01-01,,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,
+2022-02-01,1.06,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.06
+2022-03-01,0.92,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.92
+2022-04-01,1.03,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.03
+2022-05-01,1.06,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.06
+2022-06-01,1.01,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.01
+2022-07-01,1.32,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.32
+2022-08-01,1.38,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.38
+2022-09-01,1.35,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.35
+2022-10-01,1.3,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.3
+2022-11-01,1.29,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.29
+2022-12-01,0.97,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.97
+2023-01-01,1.01,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.01
+2023-02-01,1.03,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.03
+2023-03-01,1.04,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.04
+2023-04-01,1.07,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.07
+2023-05-01,1.41,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.41
+2023-06-01,1.97,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.97
+2023-07-01,2.26,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,2.26
+2023-08-01,1.77,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.77
+2023-09-01,1.66,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.66
+2023-10-01,1.62,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.62
+2023-11-01,1.32,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.32
+2023-12-01,0.84,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.84
+2024-01-01,1.41,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.41
+2024-02-01,0.96,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.96
+2024-03-01,1.06,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.06
+2024-04-01,0.92,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.92
+2024-05-01,1.32,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.32
+2024-06-01,1.32,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.32
+2024-07-01,1.38,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.38
+2024-08-01,1.21,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.21
+2024-09-01,1.23,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.23
+2024-10-01,1.05,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.05
+2024-11-01,0.97,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.97
+2024-12-01,0.96,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,0.96
+2025-01-01,,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,
+2025-02-01,,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,
+2025-03-01,1.07,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.07
+2025-04-01,,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,
+2025-05-01,,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,
+2025-06-01,1.76,Groundnuts (shelled),Guinea-Bissau,Bissora,RETAIL,Kg,kg,1.76
+2020-05-01,0.83,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,0.83
+2020-06-01,0.86,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,0.86
+2020-07-01,0.7,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,0.7
+2020-08-01,1.26,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.26
+2020-09-01,,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,
+2020-10-01,0.8,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,0.8
+2020-11-01,1.56,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.56
+2020-12-01,1.6,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.6
+2021-01-01,0.96,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,0.96
+2021-02-01,1.0,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.0
+2021-03-01,0.79,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,0.79
+2021-04-01,,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,
+2021-05-01,1.08,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.08
+2021-06-01,1.07,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.07
+2021-07-01,,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,
+2021-08-01,1.02,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.02
+2021-09-01,1.11,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.11
+2021-10-01,1.12,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.12
+2021-11-01,1.2,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.2
+2021-12-01,0.86,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,0.86
+2022-01-01,0.97,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,0.97
+2022-02-01,1.09,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.09
+2022-03-01,1.16,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.16
+2022-04-01,1.25,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.25
+2022-05-01,1.49,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.49
+2022-06-01,1.57,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.57
+2022-07-01,1.19,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.19
+2022-08-01,1.32,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.32
+2022-09-01,1.3,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.3
+2022-10-01,1.31,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.31
+2022-11-01,1.38,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.38
+2022-12-01,1.45,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.45
+2023-01-01,1.48,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.48
+2023-02-01,1.45,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.45
+2023-03-01,1.44,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.44
+2023-04-01,1.49,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.49
+2023-05-01,1.66,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.66
+2023-06-01,2.07,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,2.07
+2023-07-01,2.53,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,2.53
+2023-08-01,2.26,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,2.26
+2023-09-01,,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,
+2023-10-01,2.76,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,2.76
+2023-11-01,2.85,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,2.85
+2023-12-01,2.25,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,2.25
+2024-01-01,2.11,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,2.11
+2024-02-01,0.68,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,0.68
+2024-03-01,0.92,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,0.92
+2024-04-01,1.71,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.71
+2024-05-01,1.82,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.82
+2024-06-01,1.64,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.64
+2024-07-01,1.65,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.65
+2024-08-01,1.68,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.68
+2024-09-01,1.69,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.69
+2024-10-01,1.25,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.25
+2024-11-01,1.22,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,1.22
+2024-12-01,0.8,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,0.8
+2025-01-01,,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,
+2025-02-01,,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,
+2025-03-01,0.99,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,0.99
+2025-04-01,,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,
+2025-05-01,,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,
+2025-06-01,0.88,Groundnuts (shelled),Guinea-Bissau,Cacheu,RETAIL,Kg,kg,0.88
+2020-05-01,0.53,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.53
+2020-06-01,0.86,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.86
+2020-07-01,,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,
+2020-08-01,0.63,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.63
+2020-09-01,0.73,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.73
+2020-10-01,0.85,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.85
+2020-11-01,0.74,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.74
+2020-12-01,0.76,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.76
+2021-01-01,0.77,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.77
+2021-02-01,0.77,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.77
+2021-03-01,0.77,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.77
+2021-04-01,0.79,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.79
+2021-05-01,0.77,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.77
+2021-06-01,1.35,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.35
+2021-07-01,1.17,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.17
+2021-08-01,1.05,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.05
+2021-09-01,0.9,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.9
+2021-10-01,0.91,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.91
+2021-11-01,0.7,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.7
+2021-12-01,0.86,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.86
+2022-01-01,0.86,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.86
+2022-02-01,0.86,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.86
+2022-03-01,0.87,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.87
+2022-04-01,0.82,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.82
+2022-05-01,0.81,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.81
+2022-06-01,1.07,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.07
+2022-07-01,1.09,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.09
+2022-08-01,0.88,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.88
+2022-09-01,0.87,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.87
+2022-10-01,0.85,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.85
+2022-11-01,0.86,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.86
+2022-12-01,0.65,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.65
+2023-01-01,0.71,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.71
+2023-02-01,0.72,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.72
+2023-03-01,0.73,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.73
+2023-04-01,0.76,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.76
+2023-05-01,1.16,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.16
+2023-06-01,1.57,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.57
+2023-07-01,1.69,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.69
+2023-08-01,1.5,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.5
+2023-09-01,1.3,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.3
+2023-10-01,1.1,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.1
+2023-11-01,1.65,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.65
+2023-12-01,1.03,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.03
+2024-01-01,1.33,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.33
+2024-02-01,0.88,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.88
+2024-03-01,0.97,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.97
+2024-04-01,0.93,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.93
+2024-05-01,1.37,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.37
+2024-06-01,1.38,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.38
+2024-07-01,0.91,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.91
+2024-08-01,0.84,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.84
+2024-09-01,1.19,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.19
+2024-10-01,0.83,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.83
+2024-11-01,0.97,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.97
+2024-12-01,1.04,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.04
+2025-01-01,,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,
+2025-02-01,,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,
+2025-03-01,0.82,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,0.82
+2025-04-01,,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,
+2025-05-01,,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,
+2025-06-01,1.33,Groundnuts (shelled),Guinea-Bissau,Catio,RETAIL,Kg,kg,1.33
+2020-05-01,0.72,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,0.72
+2020-06-01,1.12,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.12
+2020-07-01,1.09,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.09
+2020-08-01,0.9,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,0.9
+2020-09-01,1.0,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.0
+2020-10-01,0.96,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,0.96
+2020-11-01,0.72,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,0.72
+2020-12-01,0.74,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,0.74
+2021-01-01,0.77,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,0.77
+2021-02-01,1.07,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.07
+2021-03-01,0.99,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,0.99
+2021-04-01,1.25,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.25
+2021-05-01,1.63,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.63
+2021-06-01,1.44,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.44
+2021-07-01,1.33,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.33
+2021-08-01,1.42,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.42
+2021-09-01,1.37,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.37
+2021-10-01,1.12,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.12
+2021-11-01,1.11,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.11
+2021-12-01,1.21,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.21
+2022-01-01,1.15,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.15
+2022-02-01,1.11,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.11
+2022-03-01,1.05,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.05
+2022-04-01,1.03,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.03
+2022-05-01,1.01,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.01
+2022-06-01,1.54,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.54
+2022-07-01,1.55,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.55
+2022-08-01,1.35,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.35
+2022-09-01,1.33,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.33
+2022-10-01,1.3,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.3
+2022-11-01,1.35,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.35
+2022-12-01,1.37,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.37
+2023-01-01,1.34,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.34
+2023-02-01,1.33,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.33
+2023-03-01,1.34,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.34
+2023-04-01,1.39,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.39
+2023-05-01,1.82,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.82
+2023-06-01,2.1,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,2.1
+2023-07-01,2.7,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,2.7
+2023-08-01,3.22,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,3.22
+2023-09-01,2.96,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,2.96
+2023-10-01,1.93,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.93
+2023-11-01,1.34,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.34
+2023-12-01,0.83,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,0.83
+2024-01-01,1.63,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.63
+2024-02-01,0.88,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,0.88
+2024-03-01,1.27,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.27
+2024-04-01,1.22,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.22
+2024-05-01,2.05,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,2.05
+2024-06-01,1.22,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.22
+2024-07-01,0.99,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,0.99
+2024-08-01,1.01,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.01
+2024-09-01,1.02,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.02
+2024-10-01,0.83,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,0.83
+2024-11-01,0.81,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,0.81
+2024-12-01,0.8,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,0.8
+2025-01-01,,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,
+2025-02-01,,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,
+2025-03-01,0.99,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,0.99
+2025-04-01,,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,
+2025-05-01,,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,
+2025-06-01,1.23,Groundnuts (shelled),Guinea-Bissau,Gabu,RETAIL,Kg,kg,1.23
+2020-05-01,0.79,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,0.79
+2020-06-01,0.95,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,0.95
+2020-07-01,0.94,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,0.94
+2020-08-01,0.98,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,0.98
+2020-09-01,0.89,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,0.89
+2020-10-01,0.88,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,0.88
+2020-11-01,1.06,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.06
+2020-12-01,1.08,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.08
+2021-01-01,0.95,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,0.95
+2021-02-01,0.92,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,0.92
+2021-03-01,0.88,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,0.88
+2021-04-01,1.01,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.01
+2021-05-01,1.05,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.05
+2021-06-01,1.23,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.23
+2021-07-01,1.17,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.17
+2021-08-01,1.15,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.15
+2021-09-01,1.19,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.19
+2021-10-01,1.06,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.06
+2021-11-01,1.04,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.04
+2021-12-01,1.02,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.02
+2022-01-01,1.0,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.0
+2022-02-01,1.0,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.0
+2022-03-01,0.96,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,0.96
+2022-04-01,1.02,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.02
+2022-05-01,1.2,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.2
+2022-06-01,1.29,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.29
+2022-07-01,1.23,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.23
+2022-08-01,1.14,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.14
+2022-09-01,1.15,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.15
+2022-10-01,1.16,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.16
+2022-11-01,1.19,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.19
+2022-12-01,1.27,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.27
+2023-01-01,1.3,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.3
+2023-02-01,1.3,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.3
+2023-03-01,1.31,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.31
+2023-04-01,1.4,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.4
+2023-05-01,1.65,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.65
+2023-06-01,1.91,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.91
+2023-07-01,2.14,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,2.14
+2023-08-01,2.08,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,2.08
+2023-09-01,2.09,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,2.09
+2023-10-01,2.13,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,2.13
+2023-11-01,2.05,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,2.05
+2023-12-01,1.57,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.57
+2024-01-01,1.56,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.56
+2024-02-01,1.2,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.2
+2024-03-01,1.28,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.28
+2024-04-01,1.2,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.2
+2024-05-01,1.61,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.61
+2024-06-01,1.61,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.61
+2024-07-01,1.63,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.63
+2024-08-01,1.61,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.61
+2024-09-01,1.66,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.66
+2024-10-01,1.68,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.68
+2024-11-01,1.37,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.37
+2024-12-01,1.44,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.44
+2025-01-01,,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,
+2025-02-01,,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,
+2025-03-01,1.44,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.44
+2025-04-01,,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,
+2025-05-01,,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,
+2025-06-01,1.67,Groundnuts (shelled),Guinea-Bissau,National Average,RETAIL,Kg,kg,1.67
+2022-07-01,1.32,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.32
+2022-08-01,1.85,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.85
+2022-09-01,1.81,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.81
+2022-10-01,,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,
+2022-11-01,,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,
+2022-12-01,1.69,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.69
+2023-01-01,1.56,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.56
+2023-02-01,1.8,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.8
+2023-03-01,1.71,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.71
+2023-04-01,1.84,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.84
+2023-05-01,1.91,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.91
+2023-06-01,1.98,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.98
+2023-07-01,1.85,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.85
+2023-08-01,2.08,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,2.08
+2023-09-01,1.95,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.95
+2023-10-01,1.93,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.93
+2023-11-01,1.87,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.87
+2023-12-01,1.41,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.41
+2024-01-01,1.33,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.33
+2024-02-01,1.32,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.32
+2024-03-01,1.33,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.33
+2024-04-01,1.31,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.31
+2024-05-01,1.32,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.32
+2024-06-01,1.48,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.48
+2024-07-01,1.38,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.38
+2024-08-01,1.37,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.37
+2024-09-01,1.47,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.47
+2024-10-01,1.55,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.55
+2024-11-01,1.3,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.3
+2024-12-01,1.28,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.28
+2025-01-01,1.39,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.39
+2025-02-01,1.47,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.47
+2025-03-01,1.32,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.32
+2025-04-01,,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,
+2025-05-01,1.2,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.2
+2025-06-01,1.51,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.51
+2025-07-01,1.51,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.51
+2025-08-01,1.73,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,1.73
+2025-09-01,2.19,Groundnuts (shelled),Senegal,Dakar,RETAIL,Kg,kg,2.19
+2020-04-01,0.99,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,0.99
+2020-05-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2020-06-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2020-07-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2020-08-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2020-09-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2020-10-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2020-11-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2020-12-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2021-01-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2021-02-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2021-03-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2021-04-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2021-05-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2021-06-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2021-07-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2021-08-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2021-09-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2021-10-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2021-11-01,1.31,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.31
+2021-12-01,1.08,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.08
+2022-01-01,1.15,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.15
+2022-02-01,1.07,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.07
+2022-03-01,1.09,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.09
+2022-04-01,1.04,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.04
+2022-05-01,1.15,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.15
+2022-06-01,1.8,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.8
+2022-07-01,1.71,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.71
+2022-08-01,1.54,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.54
+2022-09-01,1.66,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.66
+2022-10-01,1.87,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.87
+2022-11-01,1.35,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.35
+2022-12-01,1.29,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.29
+2023-01-01,1.48,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.48
+2023-02-01,1.52,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.52
+2023-03-01,1.58,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.58
+2023-04-01,1.67,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.67
+2023-05-01,1.66,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.66
+2023-06-01,1.65,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.65
+2023-07-01,1.69,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.69
+2023-08-01,1.66,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.66
+2023-09-01,1.14,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.14
+2023-10-01,1.61,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.61
+2023-11-01,1.61,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.61
+2023-12-01,1.3,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.3
+2024-01-01,1.22,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.22
+2024-02-01,1.28,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.28
+2024-03-01,1.21,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.21
+2024-04-01,1.14,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.14
+2024-05-01,1.15,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.15
+2024-06-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2024-07-01,,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,
+2024-08-01,1.24,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.24
+2024-09-01,1.27,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.27
+2024-10-01,1.48,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.48
+2024-11-01,1.38,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.38
+2024-12-01,1.25,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.25
+2025-01-01,1.22,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.22
+2025-02-01,1.15,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.15
+2025-03-01,1.24,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.24
+2025-04-01,1.28,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.28
+2025-05-01,1.46,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.46
+2025-06-01,1.76,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.76
+2025-07-01,1.96,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.96
+2025-08-01,1.86,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,1.86
+2025-09-01,2.06,Groundnuts (shelled),Senegal,Kolda,RETAIL,Kg,kg,2.06
+2020-04-01,0.73,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,0.73
+2020-05-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2020-06-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2020-07-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2020-08-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2020-09-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2020-10-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2020-11-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2020-12-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2021-01-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2021-02-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2021-03-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2021-04-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2021-05-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2021-06-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2021-07-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2021-08-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2021-09-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2021-10-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2021-11-01,1.22,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.22
+2021-12-01,1.21,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.21
+2022-01-01,1.25,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.25
+2022-02-01,1.3,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.3
+2022-03-01,1.18,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.18
+2022-04-01,1.2,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.2
+2022-05-01,1.33,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.33
+2022-06-01,1.64,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.64
+2022-07-01,1.86,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.86
+2022-08-01,1.83,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.83
+2022-09-01,1.66,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.66
+2022-10-01,1.65,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.65
+2022-11-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2022-12-01,1.78,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.78
+2023-01-01,1.67,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.67
+2023-02-01,1.67,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.67
+2023-03-01,1.71,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.71
+2023-04-01,1.84,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.84
+2023-05-01,1.88,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.88
+2023-06-01,1.98,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.98
+2023-07-01,1.91,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.91
+2023-08-01,1.83,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.83
+2023-09-01,1.6,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.6
+2023-10-01,1.49,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.49
+2023-11-01,1.81,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.81
+2023-12-01,1.72,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.72
+2024-01-01,1.5,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.5
+2024-02-01,1.48,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.48
+2024-03-01,1.43,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.43
+2024-04-01,1.23,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.23
+2024-05-01,1.34,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.34
+2024-06-01,1.31,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.31
+2024-07-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2024-08-01,1.26,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.26
+2024-09-01,1.35,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.35
+2024-10-01,1.37,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.37
+2024-11-01,1.46,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.46
+2024-12-01,1.54,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.54
+2025-01-01,1.26,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.26
+2025-02-01,1.27,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.27
+2025-03-01,,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,
+2025-04-01,1.32,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.32
+2025-05-01,1.4,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.4
+2025-06-01,1.4,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.4
+2025-07-01,2.02,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,2.02
+2025-08-01,1.92,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.92
+2025-09-01,1.85,Groundnuts (shelled),Senegal,Louga,RETAIL,Kg,kg,1.85
+2020-04-01,0.99,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,0.99
+2020-05-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2020-06-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2020-07-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2020-08-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2020-09-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2020-10-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2020-11-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2020-12-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2021-01-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2021-02-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2021-03-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2021-04-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2021-05-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2021-06-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2021-07-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2021-08-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2021-09-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2021-10-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2021-11-01,1.04,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.04
+2021-12-01,0.88,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,0.88
+2022-01-01,0.86,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,0.86
+2022-02-01,0.92,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,0.92
+2022-03-01,0.97,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,0.97
+2022-04-01,1.08,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.08
+2022-05-01,1.3,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.3
+2022-06-01,1.18,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.18
+2022-07-01,1.71,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.71
+2022-08-01,1.7,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.7
+2022-09-01,1.51,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.51
+2022-10-01,1.8,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.8
+2022-11-01,1.36,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.36
+2022-12-01,1.34,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.34
+2023-01-01,1.64,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.64
+2023-02-01,1.41,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.41
+2023-03-01,1.63,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.63
+2023-04-01,1.5,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.5
+2023-05-01,1.57,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.57
+2023-06-01,1.78,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.78
+2023-07-01,1.94,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.94
+2023-08-01,1.58,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.58
+2023-09-01,1.55,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.55
+2023-10-01,1.85,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.85
+2023-11-01,1.69,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.69
+2023-12-01,1.33,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.33
+2024-01-01,1.33,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.33
+2024-02-01,1.28,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.28
+2024-03-01,1.28,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.28
+2024-04-01,1.23,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.23
+2024-05-01,1.27,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.27
+2024-06-01,1.31,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.31
+2024-07-01,,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,
+2024-08-01,1.34,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.34
+2024-09-01,1.38,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.38
+2024-10-01,1.14,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.14
+2024-11-01,1.3,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.3
+2024-12-01,1.28,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.28
+2025-01-01,1.07,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.07
+2025-02-01,1.23,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.23
+2025-03-01,1.26,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.26
+2025-04-01,1.37,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.37
+2025-05-01,1.38,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.38
+2025-06-01,1.4,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.4
+2025-07-01,1.78,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,1.78
+2025-08-01,2.66,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,2.66
+2025-09-01,2.68,Groundnuts (shelled),Senegal,Tambacounda,RETAIL,Kg,kg,2.68

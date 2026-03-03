@@ -1,0 +1,573 @@
+date,price_usd,commodity_name,country,market,price_type,unit,unit_std,price_per_unit
+2014-01-01,611.63,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61163
+2014-02-01,611.78,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61178
+2014-03-01,613.34,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61334
+2014-04-01,623.87,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62387
+2014-05-01,623.09,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62309
+2014-06-01,623.74,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62374
+2014-07-01,622.62,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62262
+2014-08-01,623.31,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6233099999999999
+2014-09-01,624.18,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62418
+2014-10-01,625.0,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.625
+2014-11-01,621.06,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62106
+2014-12-01,627.02,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62702
+2015-01-01,638.12,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.63812
+2015-02-01,642.28,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.64228
+2015-03-01,647.75,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.64775
+2015-04-01,655.81,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6558099999999999
+2015-05-01,657.49,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.65749
+2015-06-01,657.28,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.65728
+2015-07-01,660.49,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.66049
+2015-08-01,640.7,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6407
+2015-09-01,628.13,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62813
+2015-10-01,621.26,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62126
+2015-11-01,608.41,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60841
+2015-12-01,605.75,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60575
+2016-01-01,608.83,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6088300000000001
+2016-02-01,611.62,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61162
+2016-03-01,616.74,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61674
+2016-04-01,620.37,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62037
+2016-05-01,618.07,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61807
+2016-06-01,621.21,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62121
+2016-07-01,613.77,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6137699999999999
+2016-08-01,614.14,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61414
+2016-09-01,605.7,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6057
+2016-10-01,597.04,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.59704
+2016-11-01,588.58,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.58858
+2016-12-01,580.92,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.58092
+2017-01-01,585.51,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.58551
+2017-02-01,588.06,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.5880599999999999
+2017-03-01,587.92,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.58792
+2017-04-01,596.38,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.59638
+2017-05-01,596.81,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.59681
+2017-06-01,609.4,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6093999999999999
+2017-07-01,617.43,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6174299999999999
+2017-08-01,626.69,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6266900000000001
+2017-09-01,631.66,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.63166
+2017-10-01,632.93,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.63293
+2017-11-01,641.78,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.64178
+2017-12-01,650.99,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.65099
+2018-01-01,664.49,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.66449
+2018-02-01,681.46,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6814600000000001
+2018-03-01,681.96,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.68196
+2018-04-01,669.05,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6690499999999999
+2018-05-01,641.95,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.64195
+2018-06-01,618.65,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6186499999999999
+2018-07-01,597.71,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.5977100000000001
+2018-08-01,608.6,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6086
+2018-09-01,612.55,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6125499999999999
+2018-10-01,602.61,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60261
+2018-11-01,603.68,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60368
+2018-12-01,613.02,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61302
+2019-01-01,631.54,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.63154
+2019-02-01,644.34,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.64434
+2019-03-01,646.64,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.64664
+2019-04-01,641.69,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6416900000000001
+2019-05-01,621.81,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62181
+2019-06-01,618.72,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61872
+2019-07-01,619.41,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61941
+2019-08-01,582.83,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.5828300000000001
+2019-09-01,558.38,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.55838
+2019-10-01,564.72,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.56472
+2019-11-01,569.94,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.56994
+2019-12-01,569.76,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.56976
+2020-01-01,578.03,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.5780299999999999
+2020-02-01,571.43,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.57143
+2020-03-01,574.79,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.5747899999999999
+2020-04-01,587.34,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.5873400000000001
+2020-05-01,587.9,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.5879
+2020-06-01,589.56,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.58956
+2020-07-01,596.29,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.59629
+2020-08-01,603.17,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60317
+2020-09-01,613.8,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6137999999999999
+2020-10-01,623.88,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62388
+2020-11-01,632.38,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6323799999999999
+2020-12-01,639.14,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.63914
+2021-01-01,646.2,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6462
+2021-02-01,647.1,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6471
+2021-03-01,644.3,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6443
+2021-04-01,648.86,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.64886
+2021-05-01,659.32,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.65932
+2021-06-01,659.66,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6596599999999999
+2021-07-01,654.86,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.65486
+2021-08-01,654.71,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.65471
+2021-09-01,656.73,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.65673
+2021-10-01,694.08,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.69408
+2021-11-01,676.67,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.67667
+2021-12-01,684.76,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.68476
+2022-01-01,686.76,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.68676
+2022-02-01,684.92,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.68492
+2022-03-01,681.24,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.68124
+2022-04-01,663.04,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.66304
+2022-05-01,643.1,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6431
+2022-06-01,645.15,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.64515
+2022-07-01,641.39,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.64139
+2022-08-01,639.8,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6397999999999999
+2022-09-01,620.18,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62018
+2022-10-01,603.45,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60345
+2022-11-01,607.17,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60717
+2022-12-01,624.38,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62438
+2023-01-01,641.62,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.64162
+2023-02-01,639.31,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6393099999999999
+2023-03-01,635.07,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.63507
+2023-04-01,635.84,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6358400000000001
+2023-05-01,626.21,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.62621
+2023-06-01,611.52,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61152
+2023-07-01,609.58,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60958
+2023-08-01,603.9,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6039
+2023-09-01,600.06,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6000599999999999
+2023-10-01,599.06,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.5990599999999999
+2023-11-01,608.04,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6080399999999999
+2023-12-01,614.02,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61402
+2024-01-01,612.15,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61215
+2024-02-01,604.05,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60405
+2024-03-01,609.52,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60952
+2024-04-01,606.4,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6063999999999999
+2024-05-01,606.95,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6069500000000001
+2024-06-01,605.04,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6050399999999999
+2024-07-01,604.46,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60446
+2024-08-01,613.76,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61376
+2024-09-01,620.47,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6204700000000001
+2024-10-01,618.06,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6180599999999999
+2024-11-01,609.33,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60933
+2024-12-01,603.3,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6033
+2025-01-01,600.62,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60062
+2025-02-01,603.11,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60311
+2025-03-01,605.4,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.6053999999999999
+2025-04-01,601.22,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60122
+2025-05-01,608.95,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.60895
+2025-06-01,611.34,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61134
+2025-07-01,612.03,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61203
+2025-08-01,611.68,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61168
+2025-09-01,616.17,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61617
+2025-10-01,616.58,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,0.61658
+2025-11-01,4390.0,Rice (Indica),China (mainland),Hangzhou,WHOLESALE,tonne,kg,4.39
+2014-01-01,642.21,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6422100000000001
+2014-02-01,644.5,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6445
+2014-03-01,654.4,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6544
+2014-04-01,649.87,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6498700000000001
+2014-05-01,639.31,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6393099999999999
+2014-06-01,635.44,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.63544
+2014-07-01,633.97,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.63397
+2014-08-01,623.31,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6233099999999999
+2014-09-01,626.62,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.62662
+2014-10-01,627.44,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6274400000000001
+2014-11-01,624.32,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6243200000000001
+2014-12-01,624.57,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6245700000000001
+2015-01-01,626.69,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6266900000000001
+2015-02-01,625.98,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.62598
+2015-03-01,624.33,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.62433
+2015-04-01,626.45,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6264500000000001
+2015-05-01,628.05,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.62805
+2015-06-01,627.85,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.62785
+2015-07-01,627.79,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.62779
+2015-08-01,636.26,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6362599999999999
+2015-09-01,653.26,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.65326
+2015-10-01,651.97,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.65197
+2015-11-01,644.23,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.64423
+2015-12-01,631.91,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.63191
+2016-01-01,609.59,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6095900000000001
+2016-02-01,616.72,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.61672
+2016-03-01,623.66,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.62366
+2016-04-01,624.23,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6242300000000001
+2016-05-01,621.13,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.62113
+2016-06-01,622.73,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.62273
+2016-07-01,616.02,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.61602
+2016-08-01,618.35,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6183500000000001
+2016-09-01,623.69,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6236900000000001
+2016-10-01,622.96,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6229600000000001
+2016-11-01,620.06,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.62006
+2016-12-01,612.72,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.61272
+2017-01-01,614.49,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.61449
+2017-02-01,621.54,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.62154
+2017-03-01,620.54,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.62054
+2017-04-01,616.69,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6166900000000001
+2017-05-01,608.42,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.60842
+2017-06-01,616.01,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.61601
+2017-07-01,620.38,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.62038
+2017-08-01,627.89,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.62789
+2017-09-01,637.75,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.63775
+2017-10-01,633.69,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6336900000000001
+2017-11-01,636.5,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6365
+2017-12-01,642.64,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.64264
+2018-01-01,657.64,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.65764
+2018-02-01,666.67,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.66667
+2018-03-01,666.14,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.66614
+2018-04-01,665.08,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.66508
+2018-05-01,641.33,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6413300000000001
+2018-06-01,624.84,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6248400000000001
+2018-07-01,601.28,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6012799999999999
+2018-08-01,589.63,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.58963
+2018-09-01,587.76,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.58776
+2018-10-01,585.1,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5851000000000001
+2018-11-01,583.87,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.58387
+2018-12-01,586.37,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5863700000000001
+2019-01-01,598.15,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.59815
+2019-02-01,602.77,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.60277
+2019-03-01,604.92,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.60492
+2019-04-01,605.96,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.60596
+2019-05-01,584.55,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5845499999999999
+2019-06-01,571.63,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.57163
+2019-07-01,572.88,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.57288
+2019-08-01,557.91,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.55791
+2019-09-01,549.01,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.54901
+2019-10-01,542.13,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.54213
+2019-11-01,547.14,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.54714
+2019-12-01,546.97,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5469700000000001
+2020-01-01,554.91,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.55491
+2020-02-01,548.57,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.54857
+2020-03-01,547.01,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.54701
+2020-04-01,543.14,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.54314
+2020-05-01,506.33,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.50633
+2020-06-01,507.76,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.50776
+2020-07-01,513.55,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.51355
+2020-08-01,562.77,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.56277
+2020-09-01,572.69,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.57269
+2020-10-01,603.98,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6039800000000001
+2020-11-01,642.97,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.64297
+2020-12-01,654.82,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6548200000000001
+2021-01-01,665.53,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.66553
+2021-02-01,670.32,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.67032
+2021-03-01,668.57,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.66857
+2021-04-01,666.5,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6665
+2021-05-01,670.2,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6702
+2021-06-01,664.64,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.66464
+2021-07-01,655.63,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.65563
+2021-08-01,648.84,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6488400000000001
+2021-09-01,646.92,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6469199999999999
+2021-10-01,646.82,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6468200000000001
+2021-11-01,644.88,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.64488
+2021-12-01,647.07,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.64707
+2022-01-01,651.52,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.65152
+2022-02-01,644.5,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6445
+2022-03-01,643.39,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.64339
+2022-04-01,631.42,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.63142
+2022-05-01,603.8,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6038
+2022-06-01,604.83,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6048300000000001
+2022-07-01,600.31,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.6003099999999999
+2022-08-01,595.4,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5953999999999999
+2022-09-01,576.08,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.57608
+2022-10-01,561.93,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5619299999999999
+2022-11-01,565.4,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5654
+2022-12-01,580.7,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5807
+2023-01-01,596.0,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.596
+2023-02-01,593.77,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.59377
+2023-03-01,587.95,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5879500000000001
+2023-04-01,588.66,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.58866
+2023-05-01,578.74,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.57874
+2023-06-01,565.45,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.56545
+2023-07-01,566.44,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.56644
+2023-08-01,562.53,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.56253
+2023-09-01,561.25,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.56125
+2023-10-01,564.04,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.56404
+2023-11-01,570.39,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.57039
+2023-12-01,575.91,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5759099999999999
+2024-01-01,572.55,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.57255
+2024-02-01,572.07,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5720700000000001
+2024-03-01,572.03,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5720299999999999
+2024-04-01,570.02,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.57002
+2024-05-01,569.62,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.56962
+2024-06-01,566.45,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.56645
+2024-07-01,565.91,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5659099999999999
+2024-08-01,574.61,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5746100000000001
+2024-09-01,579.48,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.57948
+2024-10-01,571.46,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5714600000000001
+2024-11-01,562.14,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.56214
+2024-12-01,556.57,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.55657
+2025-01-01,555.47,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.55547
+2025-02-01,557.78,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5577799999999999
+2025-03-01,559.89,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.55989
+2025-04-01,556.03,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.55603
+2025-05-01,563.18,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.5631799999999999
+2025-06-01,566.78,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.56678
+2025-07-01,568.31,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.56831
+2025-08-01,566.43,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.56643
+2025-09-01,567.23,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.56723
+2025-10-01,566.44,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,0.56644
+2025-11-01,4027.0,Rice (Indica),China (mainland),Hubei,WHOLESALE,tonne,kg,4.027
+2014-01-01,638.93,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.63893
+2014-02-01,637.96,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.6379600000000001
+2014-03-01,635.5,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.6355
+2014-04-01,634.43,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.6344299999999999
+2014-05-01,636.07,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.63607
+2014-06-01,636.74,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.63674
+2014-07-01,635.59,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.63559
+2014-08-01,639.55,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.63955
+2014-09-01,640.43,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.6404299999999999
+2014-10-01,641.27,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.64127
+2014-11-01,643.2,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.6432
+2014-12-01,646.61,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.64661
+2015-01-01,646.28,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.64628
+2015-02-01,645.55,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.64555
+2015-03-01,643.85,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.64385
+2015-04-01,646.03,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.64603
+2015-05-01,647.68,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.6476799999999999
+2015-06-01,647.47,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.64747
+2015-07-01,647.41,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.6474099999999999
+2015-08-01,628.02,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.62802
+2015-09-01,621.85,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.62185
+2015-10-01,623.62,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.62362
+2015-11-01,622.24,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.62224
+2015-12-01,613.7,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.6137
+2016-01-01,602.74,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.60274
+2016-02-01,603.47,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.6034700000000001
+2016-03-01,602.15,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.60215
+2016-04-01,604.94,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.60494
+2016-05-01,599.08,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5990800000000001
+2016-06-01,590.91,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5909099999999999
+2016-07-01,580.84,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.58084
+2016-08-01,580.45,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.58045
+2016-09-01,578.71,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5787100000000001
+2016-10-01,571.85,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.57185
+2016-11-01,565.15,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5651499999999999
+2016-12-01,557.8,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5578
+2017-01-01,559.42,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5594199999999999
+2017-02-01,561.86,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.56186
+2017-03-01,559.64,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.55964
+2017-04-01,560.1,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5601
+2017-05-01,560.23,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.56023
+2017-06-01,566.81,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5668099999999999
+2017-07-01,570.16,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.57016
+2017-08-01,578.71,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5787100000000001
+2017-09-01,598.93,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.59893
+2017-10-01,598.19,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.59819
+2017-11-01,597.29,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.59729
+2017-12-01,600.91,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.6009099999999999
+2018-01-01,615.96,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.6159600000000001
+2018-02-01,627.58,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.62758
+2018-03-01,626.58,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.62658
+2018-04-01,612.7,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.6127
+2018-05-01,609.95,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.60995
+2018-06-01,556.78,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5567799999999999
+2018-07-01,535.8,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5357999999999999
+2018-08-01,525.41,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5254099999999999
+2018-09-01,525.05,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5250499999999999
+2018-10-01,531.97,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.53197
+2018-11-01,570.54,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5705399999999999
+2018-12-01,575.12,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.57512
+2019-01-01,583.41,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.58341
+2019-02-01,587.92,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.58792
+2019-03-01,590.02,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.59002
+2019-04-01,589.58,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.58958
+2019-05-01,576.4,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5764
+2019-06-01,573.8,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5738
+2019-07-01,575.79,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5757899999999999
+2019-08-01,560.74,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.56074
+2019-09-01,536.83,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.53683
+2019-10-01,529.43,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.52943
+2019-11-01,534.32,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.53432
+2019-12-01,534.15,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.53415
+2020-01-01,541.91,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.54191
+2020-02-01,535.71,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.53571
+2020-03-01,534.19,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.53419
+2020-04-01,530.41,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5304099999999999
+2020-05-01,527.43,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.52743
+2020-06-01,528.91,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.52891
+2020-07-01,534.95,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.53495
+2020-08-01,541.13,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.54113
+2020-09-01,550.66,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5506599999999999
+2020-10-01,559.7,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5597000000000001
+2020-11-01,567.32,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.56732
+2020-12-01,577.98,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.57798
+2021-01-01,587.46,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.58746
+2021-02-01,592.92,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.59292
+2021-03-01,602.51,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.60251
+2021-04-01,613.58,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.61358
+2021-05-01,622.0,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.622
+2021-06-01,622.62,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.62262
+2021-07-01,617.79,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.61779
+2021-08-01,617.65,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.61765
+2021-09-01,619.56,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.61956
+2021-10-01,623.89,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.62389
+2021-11-01,628.48,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.62848
+2021-12-01,634.51,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.63451
+2022-01-01,635.62,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.63562
+2022-02-01,637.09,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.63709
+2022-03-01,637.09,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.63709
+2022-04-01,628.3,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.6283
+2022-05-01,601.42,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.60142
+2022-06-01,603.34,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.60334
+2022-07-01,599.82,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.59982
+2022-08-01,593.93,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.59393
+2022-09-01,574.66,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.57466
+2022-10-01,559.16,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.55916
+2022-11-01,562.61,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.56261
+2022-12-01,578.55,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.57855
+2023-01-01,594.53,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.59453
+2023-02-01,591.03,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5910299999999999
+2023-03-01,585.78,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.58578
+2023-04-01,586.48,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.58648
+2023-05-01,577.6,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5776
+2023-06-01,564.05,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5640499999999999
+2023-07-01,562.26,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.56226
+2023-08-01,557.02,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.55702
+2023-09-01,553.48,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.55348
+2023-10-01,552.55,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.55255
+2023-11-01,558.29,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.55829
+2023-12-01,565.07,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5650700000000001
+2024-01-01,563.35,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.56335
+2024-02-01,561.64,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.56164
+2024-03-01,560.92,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.56092
+2024-04-01,558.05,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5580499999999999
+2024-05-01,558.56,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.55856
+2024-06-01,556.8,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5568
+2024-07-01,556.27,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5562699999999999
+2024-08-01,564.83,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.56483
+2024-09-01,571.0,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.571
+2024-10-01,568.79,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.56879
+2024-11-01,560.75,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.56075
+2024-12-01,555.2,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5552
+2025-01-01,552.74,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.55274
+2025-02-01,555.03,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.55503
+2025-03-01,557.13,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.55713
+2025-04-01,553.29,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.55329
+2025-05-01,560.4,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5604
+2025-06-01,562.6,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5626
+2025-07-01,563.24,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.56324
+2025-08-01,562.92,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.56292
+2025-09-01,567.05,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5670499999999999
+2025-10-01,567.42,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,0.5674199999999999
+2025-11-01,4040.0,Rice (Indica),China (mainland),Jiujiang,WHOLESALE,tonne,kg,4.04
+2014-01-01,626.6,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.6266
+2014-02-01,627.19,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.62719
+2014-03-01,629.63,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.62963
+2014-04-01,632.54,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63254
+2014-05-01,634.51,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63451
+2014-06-01,636.1,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.6361
+2014-07-01,635.18,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63518
+2014-08-01,634.66,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63466
+2014-09-01,640.16,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.64016
+2014-10-01,640.85,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.64085
+2014-11-01,637.61,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63761
+2014-12-01,639.1,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.6391
+2015-01-01,640.62,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.64062
+2015-02-01,639.23,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63923
+2015-03-01,638.85,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63885
+2015-04-01,643.55,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.64355
+2015-05-01,649.69,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.6496900000000001
+2015-06-01,649.44,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.64944
+2015-07-01,651.97,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.65197
+2015-08-01,639.59,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63959
+2015-09-01,637.55,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63755
+2015-10-01,634.25,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63425
+2015-11-01,628.12,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.62812
+2015-12-01,620.35,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.6203500000000001
+2016-01-01,609.78,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.60978
+2016-02-01,612.09,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.61209
+2016-03-01,612.26,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.61226
+2016-04-01,612.91,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.61291
+2016-05-01,608.83,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.6088300000000001
+2016-06-01,605.15,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.60515
+2016-07-01,597.43,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5974299999999999
+2016-08-01,598.02,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.59802
+2016-09-01,595.95,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5959500000000001
+2016-10-01,590.77,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.59077
+2016-11-01,588.28,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.58828
+2016-12-01,581.92,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.58192
+2017-01-01,584.33,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.58433
+2017-02-01,586.5,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5865
+2017-03-01,584.47,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.58447
+2017-04-01,585.42,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5854199999999999
+2017-05-01,585.35,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.58535
+2017-06-01,593.26,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.59326
+2017-07-01,597.67,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5976699999999999
+2017-08-01,606.37,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.60637
+2017-09-01,615.85,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.61585
+2017-10-01,611.91,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.61191
+2017-11-01,613.25,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.61325
+2017-12-01,617.67,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.6176699999999999
+2018-01-01,631.36,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63136
+2018-02-01,643.2,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.6432
+2018-03-01,640.69,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.6406900000000001
+2018-04-01,638.62,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63862
+2018-05-01,624.15,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.62415
+2018-06-01,599.58,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.59958
+2018-07-01,575.86,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.57586
+2018-08-01,567.86,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.56786
+2018-09-01,567.71,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.56771
+2018-10-01,560.06,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5600599999999999
+2018-11-01,564.36,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.56436
+2018-12-01,569.64,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.56964
+2019-01-01,580.71,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5807100000000001
+2019-02-01,587.18,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5871799999999999
+2019-03-01,589.28,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.58928
+2019-04-01,588.35,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.58835
+2019-05-01,570.46,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5704600000000001
+2019-06-01,563.18,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5631799999999999
+2019-07-01,561.83,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.56183
+2019-08-01,542.95,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.54295
+2019-09-01,529.71,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.52971
+2019-10-01,530.75,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.53075
+2019-11-01,538.45,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5384500000000001
+2019-12-01,538.85,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.53885
+2020-01-01,546.24,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5462400000000001
+2020-02-01,540.54,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5405399999999999
+2020-03-01,537.18,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.53718
+2020-04-01,532.89,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.53289
+2020-05-01,526.16,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.52616
+2020-06-01,528.91,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.52891
+2020-07-01,537.86,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.53786
+2020-08-01,552.09,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5520900000000001
+2020-09-01,561.82,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5618200000000001
+2020-10-01,574.63,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.57463
+2020-11-01,594.48,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.59448
+2020-12-01,607.07,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.60707
+2021-01-01,616.91,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.61691
+2021-02-01,620.94,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.62094
+2021-03-01,621.9,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.6219
+2021-04-01,623.51,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.62351
+2021-05-01,630.78,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63078
+2021-06-01,628.19,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.62819
+2021-07-01,622.46,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.62246
+2021-08-01,620.12,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.62012
+2021-09-01,621.42,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.62142
+2021-10-01,630.76,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63076
+2021-11-01,624.69,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.6246900000000001
+2021-12-01,633.13,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63313
+2022-01-01,634.68,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.6346799999999999
+2022-02-01,634.35,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63435
+2022-03-01,634.01,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.63401
+2022-04-01,624.05,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.62405
+2022-05-01,597.49,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.59749
+2022-06-01,598.26,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.59826
+2022-07-01,594.72,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.59472
+2022-08-01,592.02,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.59202
+2022-09-01,574.76,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5747599999999999
+2022-10-01,559.82,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5598200000000001
+2022-11-01,561.55,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.56155
+2022-12-01,575.76,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5757599999999999
+2023-01-01,593.84,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.59384
+2023-02-01,592.35,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.59235
+2023-03-01,584.62,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.58462
+2023-04-01,584.69,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.58469
+2023-05-01,572.88,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.57288
+2023-06-01,558.37,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.55837
+2023-07-01,557.08,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.55708
+2023-08-01,553.32,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.55332
+2023-09-01,557.55,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.55755
+2023-10-01,562.18,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5621799999999999
+2023-11-01,572.94,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.57294
+2023-12-01,578.95,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5789500000000001
+2024-01-01,577.18,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5771799999999999
+2024-02-01,575.89,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.57589
+2024-03-01,574.81,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5748099999999999
+2024-04-01,573.66,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.57366
+2024-05-01,569.45,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.56945
+2024-06-01,568.52,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.56852
+2024-07-01,567.7,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5677000000000001
+2024-08-01,574.75,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.57475
+2024-09-01,580.33,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.58033
+2024-10-01,576.59,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.57659
+2024-11-01,568.28,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.56828
+2024-12-01,558.77,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.55877
+2025-01-01,553.76,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.55376
+2025-02-01,553.66,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5536599999999999
+2025-03-01,556.07,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5560700000000001
+2025-04-01,550.41,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.55041
+2025-05-01,556.41,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.55641
+2025-06-01,553.44,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.55344
+2025-07-01,551.02,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.55102
+2025-08-01,548.15,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.54815
+2025-09-01,547.82,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.5478200000000001
+2025-10-01,544.71,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,0.54471
+2025-11-01,3893.0,Rice (Indica),China (mainland),National Average,WHOLESALE,tonne,kg,3.893

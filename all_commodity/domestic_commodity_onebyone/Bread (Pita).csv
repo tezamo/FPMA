@@ -1,0 +1,866 @@
+date,price_usd,commodity_name,country,market,price_type,unit
+2016-06-01,0.24,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2016-07-01,,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2016-08-01,,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2016-09-01,,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2016-10-01,,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2016-11-01,,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2016-12-01,,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2017-01-01,0.24,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2017-02-01,0.24,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2017-03-01,0.24,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2017-04-01,0.24,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2017-05-01,0.24,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2017-06-01,0.24,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2017-07-01,0.24,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2017-08-01,0.24,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2017-09-01,0.24,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2017-10-01,0.24,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2017-11-01,0.24,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2017-12-01,0.24,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2018-01-01,0.25,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2018-02-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2018-03-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2018-04-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2018-05-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2018-06-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2018-07-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2018-08-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2018-09-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2018-10-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2018-11-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2018-12-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2019-01-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2019-02-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2019-03-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2019-04-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2019-05-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2019-06-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2019-07-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2019-08-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2019-09-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2019-10-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2019-11-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2019-12-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2020-01-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2020-02-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2020-03-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2020-04-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2020-05-01,0.46,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2020-06-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2020-07-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2020-08-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2020-09-01,0.46,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2020-10-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2020-11-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2020-12-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2021-01-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2021-02-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2021-03-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2021-04-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2021-05-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2021-06-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2021-07-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2021-08-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2021-09-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2021-10-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2021-11-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2021-12-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2022-01-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2022-02-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2022-03-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2022-04-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2022-05-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2022-06-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2022-07-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2022-08-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2022-09-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2022-10-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2022-11-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2022-12-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2023-01-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2023-02-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2023-03-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2023-04-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2023-05-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2023-06-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2023-07-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2023-08-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2023-09-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2023-10-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2023-11-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2023-12-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2024-01-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2024-02-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2024-03-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2024-04-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2024-05-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2024-06-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2024-07-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2024-08-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2024-09-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2024-10-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2024-11-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2024-12-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2025-01-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2025-02-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2025-03-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2025-04-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2025-05-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2025-06-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2025-07-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2025-08-01,0.45,Bread (Pita),Jordan,Al Mafraq,RETAIL,Kg
+2016-06-01,0.23,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2016-07-01,,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2016-08-01,,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2016-09-01,,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2016-10-01,,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2016-11-01,,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2016-12-01,,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2017-01-01,0.24,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2017-02-01,0.23,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2017-03-01,0.23,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2017-04-01,0.23,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2017-05-01,0.23,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2017-06-01,0.23,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2017-07-01,0.23,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2017-08-01,0.23,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2017-09-01,0.23,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2017-10-01,0.23,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2017-11-01,0.23,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2017-12-01,0.23,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2018-01-01,0.25,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2018-02-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2018-03-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2018-04-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2018-05-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2018-06-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2018-07-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2018-08-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2018-09-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2018-10-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2018-11-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2018-12-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2019-01-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2019-02-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2019-03-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2019-04-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2019-05-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2019-06-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2019-07-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2019-08-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2019-09-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2019-10-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2019-11-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2019-12-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2020-01-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2020-02-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2020-03-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2020-04-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2020-05-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2020-06-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2020-07-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2020-08-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2020-09-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2020-10-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2020-11-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2020-12-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2021-01-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2021-02-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2021-03-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2021-04-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2021-05-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2021-06-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2021-07-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2021-08-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2021-09-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2021-10-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2021-11-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2021-12-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2022-01-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2022-02-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2022-03-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2022-04-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2022-05-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2022-06-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2022-07-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2022-08-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2022-09-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2022-10-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2022-11-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2022-12-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2023-01-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2023-02-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2023-03-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2023-04-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2023-05-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2023-06-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2023-07-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2023-08-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2023-09-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2023-10-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2023-11-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2023-12-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2024-01-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2024-02-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2024-03-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2024-04-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2024-05-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2024-06-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2024-07-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2024-08-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2024-09-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2024-10-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2024-11-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2024-12-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2025-01-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2025-02-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2025-03-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2025-04-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2025-05-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2025-06-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2025-07-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2025-08-01,0.45,Bread (Pita),Jordan,Amman,RETAIL,Kg
+2016-06-01,0.24,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2016-07-01,,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2016-08-01,,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2016-09-01,,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2016-10-01,,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2016-11-01,,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2016-12-01,,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2017-01-01,0.24,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2017-02-01,0.24,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2017-03-01,0.24,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2017-04-01,0.24,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2017-05-01,0.24,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2017-06-01,0.24,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2017-07-01,0.24,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2017-08-01,0.24,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2017-09-01,0.24,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2017-10-01,0.24,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2017-11-01,0.24,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2017-12-01,0.24,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2018-01-01,0.25,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2018-02-01,0.47,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2018-03-01,0.47,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2018-04-01,0.47,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2018-05-01,0.47,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2018-06-01,0.47,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2018-07-01,0.47,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2018-08-01,0.47,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2018-09-01,0.47,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2018-10-01,0.47,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2018-11-01,0.47,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2018-12-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2019-01-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2019-02-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2019-03-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2019-04-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2019-05-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2019-06-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2019-07-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2019-08-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2019-09-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2019-10-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2019-11-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2019-12-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2020-01-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2020-02-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2020-03-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2020-04-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2020-05-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2020-06-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2020-07-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2020-08-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2020-09-01,0.49,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2020-10-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2020-11-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2020-12-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2021-01-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2021-02-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2021-03-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2021-04-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2021-05-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2021-06-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2021-07-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2021-08-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2021-09-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2021-10-01,0.45,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2021-11-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2021-12-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2022-01-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2022-02-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2022-03-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2022-04-01,0.48,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2022-05-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2022-06-01,0.48,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2022-07-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2022-08-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2022-09-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2022-10-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2022-11-01,0.48,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2022-12-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2023-01-01,0.48,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2023-02-01,0.48,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2023-03-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2023-04-01,0.48,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2023-05-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2023-06-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2023-07-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2023-08-01,0.48,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2023-09-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2023-10-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2023-11-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2023-12-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2024-01-01,0.46,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2024-02-01,0.48,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2024-03-01,0.48,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2024-04-01,0.48,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2024-05-01,0.48,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2024-06-01,0.48,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2024-07-01,0.48,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2024-08-01,0.48,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2024-09-01,0.51,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2024-10-01,0.49,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2024-11-01,0.49,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2024-12-01,0.49,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2025-01-01,0.49,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2025-02-01,0.49,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2025-03-01,0.49,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2025-04-01,0.49,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2025-05-01,0.49,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2025-06-01,0.49,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2025-07-01,0.49,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2025-08-01,0.49,Bread (Pita),Jordan,Irbid,RETAIL,Kg
+2017-01-01,0.24,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2017-02-01,0.24,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2017-03-01,0.24,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2017-04-01,0.24,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2017-05-01,0.24,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2017-06-01,0.24,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2017-07-01,0.24,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2017-08-01,0.24,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2017-09-01,0.24,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2017-10-01,0.24,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2017-11-01,0.24,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2017-12-01,0.24,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2018-01-01,0.25,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2018-02-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2018-03-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2018-04-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2018-05-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2018-06-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2018-07-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2018-08-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2018-09-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2018-10-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2018-11-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2018-12-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2019-01-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2019-02-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2019-03-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2019-04-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2019-05-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2019-06-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2019-07-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2019-08-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2019-09-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2019-10-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2019-11-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2019-12-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2020-01-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2020-02-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2020-03-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2020-04-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2020-05-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2020-06-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2020-07-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2020-08-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2020-09-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2020-10-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2020-11-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2020-12-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2021-01-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2021-02-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2021-03-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2021-04-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2021-05-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2021-06-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2021-07-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2021-08-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2021-09-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2021-10-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2021-11-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2021-12-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2022-01-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2022-02-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2022-03-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2022-04-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2022-05-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2022-06-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2022-07-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2022-08-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2022-09-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2022-10-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2022-11-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2022-12-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2023-01-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2023-02-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2023-03-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2023-04-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2023-05-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2023-06-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2023-07-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2023-08-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2023-09-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2023-10-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2023-11-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2023-12-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2024-01-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2024-02-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2024-03-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2024-04-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2024-05-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2024-06-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2024-07-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2024-08-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2024-09-01,0.46,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2024-10-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2024-11-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2024-12-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2025-01-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2025-02-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2025-03-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2025-04-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2025-05-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2025-06-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2025-07-01,0.45,Bread (Pita),Jordan,National Average,RETAIL,Kg
+2016-06-01,0.24,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2016-07-01,,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2016-08-01,,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2016-09-01,,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2016-10-01,,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2016-11-01,,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2016-12-01,,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2017-01-01,0.24,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2017-02-01,0.24,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2017-03-01,0.24,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2017-04-01,0.24,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2017-05-01,0.24,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2017-06-01,0.24,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2017-07-01,0.24,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2017-08-01,0.24,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2017-09-01,0.24,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2017-10-01,0.24,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2017-11-01,0.24,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2017-12-01,0.24,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2018-01-01,0.25,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2018-02-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2018-03-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2018-04-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2018-05-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2018-06-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2018-07-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2018-08-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2018-09-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2018-10-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2018-11-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2018-12-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2019-01-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2019-02-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2019-03-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2019-04-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2019-05-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2019-06-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2019-07-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2019-08-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2019-09-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2019-10-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2019-11-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2019-12-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2020-01-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2020-02-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2020-03-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2020-04-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2020-05-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2020-06-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2020-07-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2020-08-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2020-09-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2020-10-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2020-11-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2020-12-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2021-01-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2021-02-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2021-03-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2021-04-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2021-05-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2021-06-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2021-07-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2021-08-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2021-09-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2021-10-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2021-11-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2021-12-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2022-01-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2022-02-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2022-03-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2022-04-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2022-05-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2022-06-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2022-07-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2022-08-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2022-09-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2022-10-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2022-11-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2022-12-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2023-01-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2023-02-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2023-03-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2023-04-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2023-05-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2023-06-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2023-07-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2023-08-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2023-09-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2023-10-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2023-11-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2023-12-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2024-01-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2024-02-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2024-03-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2024-04-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2024-05-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2024-06-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2024-07-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2024-08-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2024-09-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2024-10-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2024-11-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2024-12-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2025-01-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2025-02-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2025-03-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2025-04-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2025-05-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2025-06-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2025-07-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2025-08-01,0.45,Bread (Pita),Jordan,Zarqa,RETAIL,Kg
+2021-03-01,1.44,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2021-04-01,1.4,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2021-05-01,1.46,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2021-06-01,1.59,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2021-07-01,2.35,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2021-08-01,2.59,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2021-09-01,3.25,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2021-10-01,3.66,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2021-11-01,4.38,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2021-12-01,4.75,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2022-01-01,5.42,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2022-02-01,5.03,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2022-03-01,5.99,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2022-04-01,7.03,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2022-05-01,7.44,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2022-06-01,8.22,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2022-07-01,10.19,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2022-08-01,9.47,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2022-09-01,10.26,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2022-10-01,10.58,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2022-11-01,10.86,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2022-12-01,11.15,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2023-01-01,11.9,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2023-02-01,1.65,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2023-03-01,2.26,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2023-04-01,2.39,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2023-05-01,1.97,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2023-06-01,2.65,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2023-07-01,2.56,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2023-08-01,2.5,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2023-09-01,2.59,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2023-10-01,3.3,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2023-11-01,3.45,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2023-12-01,3.46,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2024-01-01,3.34,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2024-02-01,4.94,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2024-03-01,0.58,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2024-04-01,0.58,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2024-05-01,0.61,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2024-06-01,0.6,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2024-07-01,0.66,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2024-08-01,0.68,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2024-09-01,0.7,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2024-10-01,0.77,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2024-11-01,0.78,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2024-12-01,0.72,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2025-01-01,0.72,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2025-02-01,0.73,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2025-03-01,0.75,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2025-04-01,0.75,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2025-05-01,0.76,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2025-06-01,0.79,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2025-07-01,0.78,Bread (Pita),Lebanon,Akkar,RETAIL,800 gms
+2021-03-01,1.4,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2021-04-01,1.35,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2021-05-01,1.46,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2021-06-01,1.59,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2021-07-01,2.22,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2021-08-01,2.42,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2021-09-01,2.69,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2021-10-01,3.31,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2021-11-01,4.19,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2021-12-01,4.59,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2022-01-01,4.94,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2022-02-01,4.62,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2022-03-01,5.53,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2022-04-01,6.49,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2022-05-01,6.95,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2022-06-01,7.64,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2022-07-01,8.67,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2022-08-01,8.33,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2022-09-01,9.16,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2022-10-01,10.32,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2022-11-01,11.48,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2022-12-01,11.47,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2023-01-01,11.8,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2023-02-01,1.63,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2023-03-01,2.3,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2023-04-01,2.72,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2023-05-01,2.19,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2023-06-01,2.85,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2023-07-01,2.76,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2023-08-01,2.72,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2023-09-01,2.88,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2023-10-01,3.59,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2023-11-01,3.54,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2023-12-01,3.5,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2024-01-01,3.49,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2024-02-01,5.04,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2024-03-01,0.58,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2024-04-01,0.58,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2024-05-01,0.59,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2024-06-01,0.6,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2024-07-01,0.63,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2024-08-01,0.67,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2024-09-01,0.67,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2024-10-01,0.82,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2024-11-01,0.87,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2024-12-01,0.87,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2025-01-01,0.87,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2025-02-01,0.87,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2025-03-01,0.87,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2025-04-01,0.87,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2025-05-01,0.87,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2025-06-01,0.89,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2025-07-01,0.87,Bread (Pita),Lebanon,Beirut,RETAIL,800 gms
+2021-03-01,1.38,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2021-04-01,1.3,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2021-05-01,1.46,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2021-06-01,1.58,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2021-07-01,2.22,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2021-08-01,2.36,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2021-09-01,2.65,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2021-10-01,3.27,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2021-11-01,4.13,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2021-12-01,4.51,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2022-01-01,4.95,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2022-02-01,4.66,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2022-03-01,5.47,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2022-04-01,6.71,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2022-05-01,7.14,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2022-06-01,7.79,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2022-07-01,8.33,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2022-08-01,8.7,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2022-09-01,9.44,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2022-10-01,11.22,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2022-11-01,11.99,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2022-12-01,12.25,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2023-01-01,13.11,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2023-02-01,1.79,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2023-03-01,2.55,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2023-04-01,2.67,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2023-05-01,2.64,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2023-06-01,2.89,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2023-07-01,2.9,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2023-08-01,2.9,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2023-09-01,2.97,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2023-10-01,3.69,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2023-11-01,3.75,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2023-12-01,3.51,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2024-01-01,3.77,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2024-02-01,5.24,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2024-03-01,0.61,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2024-04-01,0.62,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2024-05-01,0.62,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2024-06-01,0.66,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2024-07-01,0.72,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2024-08-01,0.71,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2024-09-01,0.7,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2024-10-01,0.82,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2024-11-01,0.84,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2024-12-01,0.83,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2025-01-01,0.83,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2025-02-01,0.78,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2025-03-01,0.82,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2025-04-01,0.82,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2025-05-01,0.84,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2025-06-01,0.86,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2025-07-01,0.82,Bread (Pita),Lebanon,El Nabatieh,RETAIL,800 gms
+2021-03-01,1.4,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2021-04-01,1.35,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2021-05-01,1.46,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2021-06-01,1.58,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2021-07-01,2.26,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2021-08-01,2.49,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2021-09-01,2.8,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2021-10-01,3.29,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2021-11-01,4.24,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2021-12-01,4.63,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2022-01-01,5.07,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2022-02-01,4.76,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2022-03-01,5.69,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2022-04-01,6.73,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2022-05-01,7.09,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2022-06-01,7.89,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2022-07-01,9.07,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2022-08-01,8.6,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2022-09-01,9.63,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2022-10-01,11.06,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2022-11-01,11.7,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2022-12-01,11.89,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2023-01-01,12.56,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2023-02-01,1.73,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2023-03-01,2.39,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2023-04-01,2.56,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2023-05-01,2.26,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2023-06-01,2.88,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2023-07-01,2.84,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2023-08-01,2.84,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2023-09-01,2.93,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2023-10-01,3.52,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2023-11-01,3.57,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2023-12-01,3.52,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2024-01-01,3.54,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2024-02-01,5.09,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2024-03-01,0.59,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2024-04-01,0.59,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2024-05-01,0.6,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2024-06-01,0.61,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2024-07-01,0.65,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2024-08-01,0.67,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2024-09-01,0.68,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2024-10-01,0.79,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2024-11-01,0.79,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2024-12-01,0.78,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2025-01-01,0.78,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2025-02-01,0.79,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2025-03-01,0.8,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2025-04-01,0.8,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2025-05-01,0.8,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2025-06-01,0.83,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2025-07-01,0.8,Bread (Pita),Lebanon,National Average,RETAIL,800 gms
+2021-03-01,1.42,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2021-04-01,1.38,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2021-05-01,1.46,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2021-06-01,1.61,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2021-07-01,2.29,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2021-08-01,2.51,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2021-09-01,2.67,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2021-10-01,3.33,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2021-11-01,4.19,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2021-12-01,4.73,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2022-01-01,5.01,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2022-02-01,4.78,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2022-03-01,5.57,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2022-04-01,6.7,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2022-05-01,7.12,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2022-06-01,7.73,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2022-07-01,8.56,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2022-08-01,8.15,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2022-09-01,9.07,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2022-10-01,10.86,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2022-11-01,11.41,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2022-12-01,11.57,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2023-01-01,12.4,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2023-02-01,1.67,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2023-03-01,2.22,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2023-04-01,2.44,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2023-05-01,1.91,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2023-06-01,2.62,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2023-07-01,2.53,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2023-08-01,2.5,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2023-09-01,2.67,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2023-10-01,3.2,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2023-11-01,3.2,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2023-12-01,3.16,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2024-01-01,3.18,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2024-02-01,4.8,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2024-03-01,0.54,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2024-04-01,0.53,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2024-05-01,0.54,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2024-06-01,0.54,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2024-07-01,0.6,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2024-08-01,0.61,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2024-09-01,0.63,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2024-10-01,0.73,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2024-11-01,0.72,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2024-12-01,0.7,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2025-01-01,0.71,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2025-02-01,0.73,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2025-03-01,0.74,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2025-04-01,0.74,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2025-05-01,0.74,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2025-06-01,0.75,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2025-07-01,0.74,Bread (Pita),Lebanon,North,RETAIL,800 gms
+2021-03-01,1.45,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2021-04-01,1.36,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2021-05-01,1.46,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2021-06-01,1.59,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2021-07-01,2.24,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2021-08-01,2.49,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2021-09-01,2.74,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2021-10-01,3.3,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2021-11-01,4.25,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2021-12-01,4.68,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2022-01-01,5.24,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2022-02-01,4.74,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2022-03-01,6.27,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2022-04-01,7.28,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2022-05-01,7.43,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2022-06-01,9.08,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2022-07-01,10.65,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2022-08-01,8.41,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2022-09-01,9.65,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2022-10-01,10.93,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2022-11-01,11.76,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2022-12-01,11.94,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2023-01-01,12.84,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2023-02-01,1.81,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2023-03-01,2.51,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2023-04-01,2.64,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2023-05-01,2.11,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2023-06-01,2.96,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2023-07-01,2.89,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2023-08-01,2.92,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2023-09-01,2.94,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2023-10-01,3.46,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2023-11-01,3.76,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2023-12-01,3.72,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2024-01-01,3.75,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2024-02-01,5.08,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2024-03-01,0.6,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2024-04-01,0.59,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2024-05-01,0.6,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2024-06-01,0.61,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2024-07-01,0.64,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2024-08-01,0.68,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2024-09-01,0.68,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2024-10-01,0.77,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2024-11-01,0.76,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2024-12-01,0.77,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2025-01-01,0.78,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2025-02-01,0.8,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2025-03-01,0.82,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2025-04-01,0.82,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2025-05-01,0.83,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2025-06-01,0.86,Bread (Pita),Lebanon,South,RETAIL,800 gms
+2025-07-01,0.78,Bread (Pita),Lebanon,South,RETAIL,800 gms
