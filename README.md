@@ -2,6 +2,10 @@
 
 A structured dataset of global food commodity prices, covering both domestic retail markets and international benchmark prices, with raw and standardized versions ready for analysis.
 
+```
+For privacy reasons, the full code and results are not included in this public version. Please contact me to request access to the complete project.
+````
+
 ---
 
 ## Table of Contents
